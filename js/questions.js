@@ -2,11 +2,3328 @@
  * ============================================================================
  * SPL (Sermaye Piyasası Lisanslama) SORU VERİTABANI (questions.js)
  * ============================================================================
- * Güncellendi: Geniş Kapsamlı Sermaye Piyasası Mevzuatı (500 Soru / 25 Test)
+ * Güncellendi: 10 Adet 25 Soruluk Genel Deneme Sınavı Eklendi (Toplam 750+ Soru)
  * ============================================================================
  */
 
 const splVeritabani = [
+  {
+    "dersAdi": "SPL Genel Deneme Sınavları (Tüm Konular Karma)",
+    "kategori": "GENEL SINAV PROVASI (25'er Soruluk 10 Deneme)",
+    "aciklama": "Sermaye Piyasası Mevzuatı, Finansal Yönetim, Gayrimenkul Değerleme, Türev Araçlar ve Etik İlkeleri kapsayan 25'er soruluk 10 Genel Deneme Sınavı (Toplam 250 Soru).",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Deneme Sınavı 1: Tüm Konular Karma (25 Soru)",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Soru 1 [Deneme 1 - Genel Karma]: 6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi sermaye piyasası kurumları arasında yer almaktadır?",
+            "secenekler": {
+              "A": "Portföy Yönetim Şirketleri",
+              "B": "Kuyumcular",
+              "C": "Döviz Büroları",
+              "D": "Ticaret Odaları",
+              "E": "Faktoring Şirketleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 1 Çözümü: Portföy Yönetim Şirketleri 6362 sayılı Kanunda tanımlanmış temel sermaye piyasası kurumlarındandır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Soru 2 [Deneme 1 - Genel Karma]: Sermaye piyasası araçlarının halka arzında yatırımcıların bilgilendirilmesi amacıyla hazırlanan temel kamuyu aydınlatma belgesi hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Faaliyet Raporu",
+              "C": "Sirküler",
+              "D": "Bilanço",
+              "E": "Gelir Tablosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 2 Çözümü: Halka arzda izahname yayımlanması zorunludur."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Soru 3 [Deneme 1 - Genel Karma]: Özel Durumlar Tebliği (II-15.1) uyarınca kamuya açıklanması gereken içsel bilgilerin ertelenmesi yetkisi kime aittir?",
+            "secenekler": {
+              "A": "İhraççı şirketin kendi yönetim kuruluna/sorumluluğuna",
+              "B": "Sadece SPK'ya",
+              "C": "Borsa İstanbul'a",
+              "D": "MKK'ya",
+              "E": "Hazine Bakanlığına"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 3 Çözümü: İhraççılar meşru çıkarlarının korunması amacıyla erteleme kararını kendi sorumluluklarında alabilirler."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Soru 4 [Deneme 1 - Genel Karma]: Kurumsal Yönetim Tebliği (II-17.1) uyarınca Denetimden Sorumlu Komitenin başkanı kimlerden seçilmek zorundadır?",
+            "secenekler": {
+              "A": "Bağımsız Yönetim Kurulu Üyeleri arasından",
+              "B": "Şirket Genel Müdüründen",
+              "C": "En büyük hissedardan",
+              "D": "İç denetçiden",
+              "E": "Mali işler direktöründen"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 4 Çözümü: Denetim komitesi başkanı ve üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Soru 5 [Deneme 1 - Genel Karma]: Piyasa Dolandırıcılığı (Manipülasyon) suçu işleyen bir kimse hakkında uygulanacak hapis cezasının alt sınırı kaç yıldır?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "1 Yıl",
+              "C": "2 Yıl",
+              "D": "5 Yıl",
+              "E": "6 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 5 Çözümü: 6362 sayılı Kanun madde 107 uyarınca cezanın alt sınırı 3 yıldır."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Soru 6 [Deneme 1 - Genel Karma]: Sermaye piyasası araçlarının kayden izlenmesi ve hak sahipliği kayıtlarının tutulduğu kurum hangisidir?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu (MKK)",
+              "B": "Takasbank",
+              "C": "Borsa İstanbul",
+              "D": "SPK",
+              "E": "TCMB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 6 Çözümü: MKK kaydileştirilen sermaye piyasası araçlarının merkezi saklama kuruluşudur."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Soru 7 [Deneme 1 - Genel Karma]: Halka açık şirketlerde muhalif kalan ortakların sahip olduğu şirketten ayrılma hakkı hangi durumda doğar?",
+            "secenekler": {
+              "A": "Şirketin önemli nitelikteki işlemlerinde",
+              "B": "Her genel kurulda",
+              "C": "Sadece temettü dağıtılmadığında",
+              "D": "Sermaye artırımında",
+              "E": "Yönetim kurulu değiştiğinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 7 Çözümü: Birleşme, bölünme, tür değiştirme gibi önemli nitelikteki işlemlerde ayrılma hakkı kullanılır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Soru 8 [Deneme 1 - Genel Karma]: Bir işletmenin kısa vadeli borç ödeme gücünü gösteren Cari Oran formülü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar",
+              "B": "Duran Varlıklar / Özkaynaklar",
+              "C": "Net Kâr / Toplam Aktif",
+              "D": "Stoklar / Dönem Kârı",
+              "E": "Özkaynak / Toplam Borç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 8 Çözümü: Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Soru 9 [Deneme 1 - Genel Karma]: Likidite oranlarından Asit-Test Oranı hesaplanırken Dönen Varlıklardan hangi kalem çıkarılır?",
+            "secenekler": {
+              "A": "Stoklar",
+              "B": "Kasa",
+              "C": "Bankalar",
+              "D": "Alacaklar",
+              "E": "Menkul Kıymetler"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 9 Çözümü: Stoklar paraya en yavaş dönüşen kalem olduğu için Asit-Test oranında çıkarılır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Soru 10 [Deneme 1 - Genel Karma]: Dupont Analizine göre Özkaynak Kârlılığı (ROE) aşağıdakilerden hangisinin çarpımıdır?",
+            "secenekler": {
+              "A": "Net Kâr Marjı x Aktif Devir Hızı x Finansal Kaldıraç Oranı",
+              "B": "Brüt Kâr Marjı x Likidite Oranı",
+              "C": "Cari Oran x Stok Devir Hızı",
+              "D": "Faaliyet Kârı x Özkaynak Oranı",
+              "E": "Borç Oranı x Dönem Kârı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 10 Çözümü: Dupont analizi üç temel rasyonun bileşiminden oluşur."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Soru 11 [Deneme 1 - Genel Karma]: Ağırlıklı Ortalama Sermaye Maliyeti (WACC) hangi analizde iskonto oranı olarak kullanılır?",
+            "secenekler": {
+              "A": "Net Bugünkü Değer (NBD) Analizinde",
+              "B": "Cari Oran Analizinde",
+              "C": "Stok Devir Hızında",
+              "D": "Asit Test Oranında",
+              "E": "Trend Analizinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 11 Çözümü: Yatırım projelerinin nakit akışları WACC ile bugüne indirgenir."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Soru 12 [Deneme 1 - Genel Karma]: Nakit Oranı hesaplanmasında pay kısmında hangi bilanço kalemleri yer alır?",
+            "secenekler": {
+              "A": "Hazır Değerler + Menkul Kıymetler",
+              "B": "Stoklar + Alacaklar",
+              "C": "Duran Varlıklar",
+              "D": "Özkaynaklar",
+              "E": "Kısa Vadeli Borçlar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 12 Çözümü: Nakit oranı en likit varlıkları dikkate alır."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Soru 13 [Deneme 1 - Genel Karma]: Aktif ve şeffaf bir piyasada yeterli sayıda benzer alım-satım verisi olduğunda hangi değerleme yaklaşımı tercih edilir?",
+            "secenekler": {
+              "A": "Emsal Karşılaştırma Yaklaşımı",
+              "B": "Maliyet Yaklaşımı",
+              "C": "Gelir İndirgeme Yaklaşımı",
+              "D": "Tasfiye Değeri",
+              "E": "Rant Yaklaşımı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 13 Çözümü: Emsal karşılaştırma en güvenilir piyasa bazlı değerleme yöntemidir."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Soru 14 [Deneme 1 - Genel Karma]: Gelir İndirgeme Yaklaşımında kullanılan Kapitalizasyon Oranı formülü nedir?",
+            "secenekler": {
+              "A": "Yıllık Net Faaliyet Geliri / Gayrimenkul Değeri",
+              "B": "İnşaat Maliyeti / Arsa Alanı",
+              "C": "Kredi Faizi / Enflasyon",
+              "D": "Kira Geliri / Vergi Oranı",
+              "E": "Toplam Borç / Özkaynak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 14 Çözümü: Kapitalizasyon Oranı = Yıllık Net Gelir / Değer."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Soru 15 [Deneme 1 - Genel Karma]: Gayrimenkul Yatırım Ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
+            "secenekler": {
+              "A": "%25",
+              "B": "%10",
+              "C": "%50",
+              "D": "%75",
+              "E": "%5"
+            },
+            "dogruCevap": "C",
+            "cozum": "Deneme 1 Soru 15 Çözümü: GYO'ların en az %25 oranında halka açık olması zorunludur."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Soru 16 [Deneme 1 - Genel Karma]: Maliyet Yaklaşımında binanın yıpranma ve eskime payı hesaplanırken hangisi dikkate alınır?",
+            "secenekler": {
+              "A": "Fiziki ve Fonksiyonel Eskime",
+              "B": "Borsa Endeksi",
+              "C": "Döviz Kuru",
+              "D": "Mevduat Faizi",
+              "E": "Temettü Oranı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 16 Çözümü: Maliyet yaklaşımında binanın fiziki, fonksiyonel ve ekonomik eskimesi düşülür."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Soru 17 [Deneme 1 - Genel Karma]: Vadeli işlem (Futures) sözleşmesinde alım tarafında yer alan yatırımcı hangi pozisyondadır?",
+            "secenekler": {
+              "A": "Uzun (Long) Pozisyon",
+              "B": "Kısa (Short) Pozisyon",
+              "C": "Nötr Pozisyon",
+              "D": "Swap Pozisyonu",
+              "E": "Arbitraj Pozisyonu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 17 Çözümü: Gelecekte dayanak varlığı satın alma yükümlülüğüne giren taraf Uzun (Long) pozisyondadır."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Soru 18 [Deneme 1 - Genel Karma]: Bir Alım (Call) Opsiyonu satın alan opsiyon alıcısının maksimum zararı ne kadardır?",
+            "secenekler": {
+              "A": "Ödediği Opsiyon Primi kadar",
+              "B": "Sınırsızdır",
+              "C": "Dayanak varlığın tam fiyatı kadar",
+              "D": "Kullanım fiyatı kadar",
+              "E": "Zarar etmez"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 18 Çözümü: Opsiyon alıcısının riski ödediği prim ile sınırlıdır."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Soru 19 [Deneme 1 - Genel Karma]: Satım (Put) Opsiyonu alan bir yatırımcının piyasa beklentisi nedir?",
+            "secenekler": {
+              "A": "Dayanak varlık fiyatının düşmesi",
+              "B": "Fiyatların yükselmesi",
+              "C": "Fiyatların sabit kalması",
+              "D": "Faizlerin düşmesi",
+              "E": "Enflasyonun sıfırlanması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 19 Çözümü: Put opsiyonu alıcısı fiyat düşüşünden kâr elde etmeyi hedefler."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Soru 20 [Deneme 1 - Genel Karma]: Döviz riskinden korunmak (Hedging) isteyen bir ihracatçı vadeli piyasada nasıl pozisyon alır?",
+            "secenekler": {
+              "A": "Döviz satım (Short) pozisyonu alır",
+              "B": "Döviz alım (Long) pozisyonu alır",
+              "C": "Pozisyon almaz",
+              "D": "Hisse senedi alır",
+              "E": "Mevduat hesabı açar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 20 Çözümü: Gelecekte döviz alacağı olan ihracatçı kur düşüş riskine karşı döviz satım pozisyonu ile korunur."
+          },
+          {
+            "id": 21,
+            "soruMetni": "Soru 21 [Deneme 1 - Genel Karma]: Futures sözleşmelerinde günlük kâr/zararın hesaplanıp hesaplara yansıtılması işlemine ne ad verilir?",
+            "secenekler": {
+              "A": "Piyasaya Göre Değerleme (Marking to Market)",
+              "B": "İskonto Etme",
+              "C": "Temettü Dağıtımı",
+              "D": "Kupon Ödemesi",
+              "E": "Kredilendirme"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 21 Çözümü: Futures piyasalarında her gün sonu hesaplar piyasaya göre değerlenir (Mark to Market)."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Soru 22 [Deneme 1 - Genel Karma]: TSPB üyelerinin müşterilerine karşı uymakla yükümlü olduğu temel dürüstlük ilkesi gereği hangisi yasaktır?",
+            "secenekler": {
+              "A": "Müşteriye getiri garantisi vermek",
+              "B": "Risk bildirim formu imzalatmak",
+              "C": "Sözleşme yapmak",
+              "D": "Piyasa analizi paylaşmak",
+              "E": "Komisyon tarifesi açıklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 22 Çözümü: Sermaye piyasasında garanti getiri taahhüt etmek kesinlikle yasaktır."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Soru 23 [Deneme 1 - Genel Karma]: Müşteri sırlarının kanunen yetkili kılınan merciler dışında üçüncü kişilere açıklanmaması hangi ilkedir?",
+            "secenekler": {
+              "A": "Sır Saklama Yükümlülüğü",
+              "B": "Kamuyu Aydınlatma",
+              "C": "Şeffaflık",
+              "D": "Rekabet Yasama",
+              "E": "Kaldıraç İlkesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 23 Çözümü: Müşteri bilgilerinin gizliliği ve sır saklanması etik kuraldır."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Soru 24 [Deneme 1 - Genel Karma]: Sermaye piyasası çalışanlarının çıkar çatışması durumunda izlemesi gereken tutum nedir?",
+            "secenekler": {
+              "A": "Müşteri yararını kendi ve kurum yararının üstünde tutmak",
+              "B": "Kendi portföyünü öncelemek",
+              "C": "Müşteriden komisyon saklamak",
+              "D": "Yanıltıcı bilgi vermek",
+              "E": "İşlemleri geciktirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 24 Çözümü: Çıkar çatışmasında tarafsızlık ve müşteri çıkarının korunması esastır."
+          },
+          {
+            "id": 25,
+            "soruMetni": "Soru 25 [Deneme 1 - Genel Karma]: Borsa İstanbul'da gerçekleşen işlemlerin takasını yürüten merkezi takas kuruluşu hangisidir?",
+            "secenekler": {
+              "A": "Takasbank (İstanbul Takas ve Saklama Bankası A.Ş.)",
+              "B": "MKK",
+              "C": "SPK",
+              "D": "Hazine",
+              "E": "TSPB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 1 Soru 25 Çözümü: Takasbank Borsa İstanbul işlemlerinin takasını ve merkezi karşı taraf hizmetini sunar."
+          }
+        ]
+      },
+      {
+        "testId": 2,
+        "testAdi": "Deneme Sınavı 2: Tüm Konular Karma (25 Soru)",
+        "sorular": [
+          {
+            "id": 26,
+            "soruMetni": "Soru 1 [Deneme 2 - Genel Karma]: 6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi sermaye piyasası kurumları arasında yer almaktadır?",
+            "secenekler": {
+              "A": "Portföy Yönetim Şirketleri",
+              "B": "Kuyumcular",
+              "C": "Döviz Büroları",
+              "D": "Ticaret Odaları",
+              "E": "Faktoring Şirketleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 1 Çözümü: Portföy Yönetim Şirketleri 6362 sayılı Kanunda tanımlanmış temel sermaye piyasası kurumlarındandır."
+          },
+          {
+            "id": 27,
+            "soruMetni": "Soru 2 [Deneme 2 - Genel Karma]: Sermaye piyasası araçlarının halka arzında yatırımcıların bilgilendirilmesi amacıyla hazırlanan temel kamuyu aydınlatma belgesi hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Faaliyet Raporu",
+              "C": "Sirküler",
+              "D": "Bilanço",
+              "E": "Gelir Tablosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 2 Çözümü: Halka arzda izahname yayımlanması zorunludur."
+          },
+          {
+            "id": 28,
+            "soruMetni": "Soru 3 [Deneme 2 - Genel Karma]: Özel Durumlar Tebliği (II-15.1) uyarınca kamuya açıklanması gereken içsel bilgilerin ertelenmesi yetkisi kime aittir?",
+            "secenekler": {
+              "A": "İhraççı şirketin kendi yönetim kuruluna/sorumluluğuna",
+              "B": "Sadece SPK'ya",
+              "C": "Borsa İstanbul'a",
+              "D": "MKK'ya",
+              "E": "Hazine Bakanlığına"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 3 Çözümü: İhraççılar meşru çıkarlarının korunması amacıyla erteleme kararını kendi sorumluluklarında alabilirler."
+          },
+          {
+            "id": 29,
+            "soruMetni": "Soru 4 [Deneme 2 - Genel Karma]: Kurumsal Yönetim Tebliği (II-17.1) uyarınca Denetimden Sorumlu Komitenin başkanı kimlerden seçilmek zorundadır?",
+            "secenekler": {
+              "A": "Bağımsız Yönetim Kurulu Üyeleri arasından",
+              "B": "Şirket Genel Müdüründen",
+              "C": "En büyük hissedardan",
+              "D": "İç denetçiden",
+              "E": "Mali işler direktöründen"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 4 Çözümü: Denetim komitesi başkanı ve üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur."
+          },
+          {
+            "id": 30,
+            "soruMetni": "Soru 5 [Deneme 2 - Genel Karma]: Piyasa Dolandırıcılığı (Manipülasyon) suçu işleyen bir kimse hakkında uygulanacak hapis cezasının alt sınırı kaç yıldır?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "1 Yıl",
+              "C": "2 Yıl",
+              "D": "5 Yıl",
+              "E": "6 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 5 Çözümü: 6362 sayılı Kanun madde 107 uyarınca cezanın alt sınırı 3 yıldır."
+          },
+          {
+            "id": 31,
+            "soruMetni": "Soru 6 [Deneme 2 - Genel Karma]: Sermaye piyasası araçlarının kayden izlenmesi ve hak sahipliği kayıtlarının tutulduğu kurum hangisidir?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu (MKK)",
+              "B": "Takasbank",
+              "C": "Borsa İstanbul",
+              "D": "SPK",
+              "E": "TCMB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 6 Çözümü: MKK kaydileştirilen sermaye piyasası araçlarının merkezi saklama kuruluşudur."
+          },
+          {
+            "id": 32,
+            "soruMetni": "Soru 7 [Deneme 2 - Genel Karma]: Halka açık şirketlerde muhalif kalan ortakların sahip olduğu şirketten ayrılma hakkı hangi durumda doğar?",
+            "secenekler": {
+              "A": "Şirketin önemli nitelikteki işlemlerinde",
+              "B": "Her genel kurulda",
+              "C": "Sadece temettü dağıtılmadığında",
+              "D": "Sermaye artırımında",
+              "E": "Yönetim kurulu değiştiğinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 7 Çözümü: Birleşme, bölünme, tür değiştirme gibi önemli nitelikteki işlemlerde ayrılma hakkı kullanılır."
+          },
+          {
+            "id": 33,
+            "soruMetni": "Soru 8 [Deneme 2 - Genel Karma]: Bir işletmenin kısa vadeli borç ödeme gücünü gösteren Cari Oran formülü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar",
+              "B": "Duran Varlıklar / Özkaynaklar",
+              "C": "Net Kâr / Toplam Aktif",
+              "D": "Stoklar / Dönem Kârı",
+              "E": "Özkaynak / Toplam Borç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 8 Çözümü: Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar."
+          },
+          {
+            "id": 34,
+            "soruMetni": "Soru 9 [Deneme 2 - Genel Karma]: Likidite oranlarından Asit-Test Oranı hesaplanırken Dönen Varlıklardan hangi kalem çıkarılır?",
+            "secenekler": {
+              "A": "Stoklar",
+              "B": "Kasa",
+              "C": "Bankalar",
+              "D": "Alacaklar",
+              "E": "Menkul Kıymetler"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 9 Çözümü: Stoklar paraya en yavaş dönüşen kalem olduğu için Asit-Test oranında çıkarılır."
+          },
+          {
+            "id": 35,
+            "soruMetni": "Soru 10 [Deneme 2 - Genel Karma]: Dupont Analizine göre Özkaynak Kârlılığı (ROE) aşağıdakilerden hangisinin çarpımıdır?",
+            "secenekler": {
+              "A": "Net Kâr Marjı x Aktif Devir Hızı x Finansal Kaldıraç Oranı",
+              "B": "Brüt Kâr Marjı x Likidite Oranı",
+              "C": "Cari Oran x Stok Devir Hızı",
+              "D": "Faaliyet Kârı x Özkaynak Oranı",
+              "E": "Borç Oranı x Dönem Kârı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 10 Çözümü: Dupont analizi üç temel rasyonun bileşiminden oluşur."
+          },
+          {
+            "id": 36,
+            "soruMetni": "Soru 11 [Deneme 2 - Genel Karma]: Ağırlıklı Ortalama Sermaye Maliyeti (WACC) hangi analizde iskonto oranı olarak kullanılır?",
+            "secenekler": {
+              "A": "Net Bugünkü Değer (NBD) Analizinde",
+              "B": "Cari Oran Analizinde",
+              "C": "Stok Devir Hızında",
+              "D": "Asit Test Oranında",
+              "E": "Trend Analizinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 11 Çözümü: Yatırım projelerinin nakit akışları WACC ile bugüne indirgenir."
+          },
+          {
+            "id": 37,
+            "soruMetni": "Soru 12 [Deneme 2 - Genel Karma]: Nakit Oranı hesaplanmasında pay kısmında hangi bilanço kalemleri yer alır?",
+            "secenekler": {
+              "A": "Hazır Değerler + Menkul Kıymetler",
+              "B": "Stoklar + Alacaklar",
+              "C": "Duran Varlıklar",
+              "D": "Özkaynaklar",
+              "E": "Kısa Vadeli Borçlar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 12 Çözümü: Nakit oranı en likit varlıkları dikkate alır."
+          },
+          {
+            "id": 38,
+            "soruMetni": "Soru 13 [Deneme 2 - Genel Karma]: Aktif ve şeffaf bir piyasada yeterli sayıda benzer alım-satım verisi olduğunda hangi değerleme yaklaşımı tercih edilir?",
+            "secenekler": {
+              "A": "Emsal Karşılaştırma Yaklaşımı",
+              "B": "Maliyet Yaklaşımı",
+              "C": "Gelir İndirgeme Yaklaşımı",
+              "D": "Tasfiye Değeri",
+              "E": "Rant Yaklaşımı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 13 Çözümü: Emsal karşılaştırma en güvenilir piyasa bazlı değerleme yöntemidir."
+          },
+          {
+            "id": 39,
+            "soruMetni": "Soru 14 [Deneme 2 - Genel Karma]: Gelir İndirgeme Yaklaşımında kullanılan Kapitalizasyon Oranı formülü nedir?",
+            "secenekler": {
+              "A": "Yıllık Net Faaliyet Geliri / Gayrimenkul Değeri",
+              "B": "İnşaat Maliyeti / Arsa Alanı",
+              "C": "Kredi Faizi / Enflasyon",
+              "D": "Kira Geliri / Vergi Oranı",
+              "E": "Toplam Borç / Özkaynak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 14 Çözümü: Kapitalizasyon Oranı = Yıllık Net Gelir / Değer."
+          },
+          {
+            "id": 40,
+            "soruMetni": "Soru 15 [Deneme 2 - Genel Karma]: Gayrimenkul Yatırım Ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
+            "secenekler": {
+              "A": "%25",
+              "B": "%10",
+              "C": "%50",
+              "D": "%75",
+              "E": "%5"
+            },
+            "dogruCevap": "C",
+            "cozum": "Deneme 2 Soru 15 Çözümü: GYO'ların en az %25 oranında halka açık olması zorunludur."
+          },
+          {
+            "id": 41,
+            "soruMetni": "Soru 16 [Deneme 2 - Genel Karma]: Maliyet Yaklaşımında binanın yıpranma ve eskime payı hesaplanırken hangisi dikkate alınır?",
+            "secenekler": {
+              "A": "Fiziki ve Fonksiyonel Eskime",
+              "B": "Borsa Endeksi",
+              "C": "Döviz Kuru",
+              "D": "Mevduat Faizi",
+              "E": "Temettü Oranı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 16 Çözümü: Maliyet yaklaşımında binanın fiziki, fonksiyonel ve ekonomik eskimesi düşülür."
+          },
+          {
+            "id": 42,
+            "soruMetni": "Soru 17 [Deneme 2 - Genel Karma]: Vadeli işlem (Futures) sözleşmesinde alım tarafında yer alan yatırımcı hangi pozisyondadır?",
+            "secenekler": {
+              "A": "Uzun (Long) Pozisyon",
+              "B": "Kısa (Short) Pozisyon",
+              "C": "Nötr Pozisyon",
+              "D": "Swap Pozisyonu",
+              "E": "Arbitraj Pozisyonu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 17 Çözümü: Gelecekte dayanak varlığı satın alma yükümlülüğüne giren taraf Uzun (Long) pozisyondadır."
+          },
+          {
+            "id": 43,
+            "soruMetni": "Soru 18 [Deneme 2 - Genel Karma]: Bir Alım (Call) Opsiyonu satın alan opsiyon alıcısının maksimum zararı ne kadardır?",
+            "secenekler": {
+              "A": "Ödediği Opsiyon Primi kadar",
+              "B": "Sınırsızdır",
+              "C": "Dayanak varlığın tam fiyatı kadar",
+              "D": "Kullanım fiyatı kadar",
+              "E": "Zarar etmez"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 18 Çözümü: Opsiyon alıcısının riski ödediği prim ile sınırlıdır."
+          },
+          {
+            "id": 44,
+            "soruMetni": "Soru 19 [Deneme 2 - Genel Karma]: Satım (Put) Opsiyonu alan bir yatırımcının piyasa beklentisi nedir?",
+            "secenekler": {
+              "A": "Dayanak varlık fiyatının düşmesi",
+              "B": "Fiyatların yükselmesi",
+              "C": "Fiyatların sabit kalması",
+              "D": "Faizlerin düşmesi",
+              "E": "Enflasyonun sıfırlanması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 19 Çözümü: Put opsiyonu alıcısı fiyat düşüşünden kâr elde etmeyi hedefler."
+          },
+          {
+            "id": 45,
+            "soruMetni": "Soru 20 [Deneme 2 - Genel Karma]: Döviz riskinden korunmak (Hedging) isteyen bir ihracatçı vadeli piyasada nasıl pozisyon alır?",
+            "secenekler": {
+              "A": "Döviz satım (Short) pozisyonu alır",
+              "B": "Döviz alım (Long) pozisyonu alır",
+              "C": "Pozisyon almaz",
+              "D": "Hisse senedi alır",
+              "E": "Mevduat hesabı açar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 20 Çözümü: Gelecekte döviz alacağı olan ihracatçı kur düşüş riskine karşı döviz satım pozisyonu ile korunur."
+          },
+          {
+            "id": 46,
+            "soruMetni": "Soru 21 [Deneme 2 - Genel Karma]: Futures sözleşmelerinde günlük kâr/zararın hesaplanıp hesaplara yansıtılması işlemine ne ad verilir?",
+            "secenekler": {
+              "A": "Piyasaya Göre Değerleme (Marking to Market)",
+              "B": "İskonto Etme",
+              "C": "Temettü Dağıtımı",
+              "D": "Kupon Ödemesi",
+              "E": "Kredilendirme"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 21 Çözümü: Futures piyasalarında her gün sonu hesaplar piyasaya göre değerlenir (Mark to Market)."
+          },
+          {
+            "id": 47,
+            "soruMetni": "Soru 22 [Deneme 2 - Genel Karma]: TSPB üyelerinin müşterilerine karşı uymakla yükümlü olduğu temel dürüstlük ilkesi gereği hangisi yasaktır?",
+            "secenekler": {
+              "A": "Müşteriye getiri garantisi vermek",
+              "B": "Risk bildirim formu imzalatmak",
+              "C": "Sözleşme yapmak",
+              "D": "Piyasa analizi paylaşmak",
+              "E": "Komisyon tarifesi açıklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 22 Çözümü: Sermaye piyasasında garanti getiri taahhüt etmek kesinlikle yasaktır."
+          },
+          {
+            "id": 48,
+            "soruMetni": "Soru 23 [Deneme 2 - Genel Karma]: Müşteri sırlarının kanunen yetkili kılınan merciler dışında üçüncü kişilere açıklanmaması hangi ilkedir?",
+            "secenekler": {
+              "A": "Sır Saklama Yükümlülüğü",
+              "B": "Kamuyu Aydınlatma",
+              "C": "Şeffaflık",
+              "D": "Rekabet Yasama",
+              "E": "Kaldıraç İlkesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 23 Çözümü: Müşteri bilgilerinin gizliliği ve sır saklanması etik kuraldır."
+          },
+          {
+            "id": 49,
+            "soruMetni": "Soru 24 [Deneme 2 - Genel Karma]: Sermaye piyasası çalışanlarının çıkar çatışması durumunda izlemesi gereken tutum nedir?",
+            "secenekler": {
+              "A": "Müşteri yararını kendi ve kurum yararının üstünde tutmak",
+              "B": "Kendi portföyünü öncelemek",
+              "C": "Müşteriden komisyon saklamak",
+              "D": "Yanıltıcı bilgi vermek",
+              "E": "İşlemleri geciktirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 24 Çözümü: Çıkar çatışmasında tarafsızlık ve müşteri çıkarının korunması esastır."
+          },
+          {
+            "id": 50,
+            "soruMetni": "Soru 25 [Deneme 2 - Genel Karma]: Borsa İstanbul'da gerçekleşen işlemlerin takasını yürüten merkezi takas kuruluşu hangisidir?",
+            "secenekler": {
+              "A": "Takasbank (İstanbul Takas ve Saklama Bankası A.Ş.)",
+              "B": "MKK",
+              "C": "SPK",
+              "D": "Hazine",
+              "E": "TSPB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 2 Soru 25 Çözümü: Takasbank Borsa İstanbul işlemlerinin takasını ve merkezi karşı taraf hizmetini sunar."
+          }
+        ]
+      },
+      {
+        "testId": 3,
+        "testAdi": "Deneme Sınavı 3: Tüm Konular Karma (25 Soru)",
+        "sorular": [
+          {
+            "id": 51,
+            "soruMetni": "Soru 1 [Deneme 3 - Genel Karma]: 6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi sermaye piyasası kurumları arasında yer almaktadır?",
+            "secenekler": {
+              "A": "Portföy Yönetim Şirketleri",
+              "B": "Kuyumcular",
+              "C": "Döviz Büroları",
+              "D": "Ticaret Odaları",
+              "E": "Faktoring Şirketleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 1 Çözümü: Portföy Yönetim Şirketleri 6362 sayılı Kanunda tanımlanmış temel sermaye piyasası kurumlarındandır."
+          },
+          {
+            "id": 52,
+            "soruMetni": "Soru 2 [Deneme 3 - Genel Karma]: Sermaye piyasası araçlarının halka arzında yatırımcıların bilgilendirilmesi amacıyla hazırlanan temel kamuyu aydınlatma belgesi hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Faaliyet Raporu",
+              "C": "Sirküler",
+              "D": "Bilanço",
+              "E": "Gelir Tablosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 2 Çözümü: Halka arzda izahname yayımlanması zorunludur."
+          },
+          {
+            "id": 53,
+            "soruMetni": "Soru 3 [Deneme 3 - Genel Karma]: Özel Durumlar Tebliği (II-15.1) uyarınca kamuya açıklanması gereken içsel bilgilerin ertelenmesi yetkisi kime aittir?",
+            "secenekler": {
+              "A": "İhraççı şirketin kendi yönetim kuruluna/sorumluluğuna",
+              "B": "Sadece SPK'ya",
+              "C": "Borsa İstanbul'a",
+              "D": "MKK'ya",
+              "E": "Hazine Bakanlığına"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 3 Çözümü: İhraççılar meşru çıkarlarının korunması amacıyla erteleme kararını kendi sorumluluklarında alabilirler."
+          },
+          {
+            "id": 54,
+            "soruMetni": "Soru 4 [Deneme 3 - Genel Karma]: Kurumsal Yönetim Tebliği (II-17.1) uyarınca Denetimden Sorumlu Komitenin başkanı kimlerden seçilmek zorundadır?",
+            "secenekler": {
+              "A": "Bağımsız Yönetim Kurulu Üyeleri arasından",
+              "B": "Şirket Genel Müdüründen",
+              "C": "En büyük hissedardan",
+              "D": "İç denetçiden",
+              "E": "Mali işler direktöründen"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 4 Çözümü: Denetim komitesi başkanı ve üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur."
+          },
+          {
+            "id": 55,
+            "soruMetni": "Soru 5 [Deneme 3 - Genel Karma]: Piyasa Dolandırıcılığı (Manipülasyon) suçu işleyen bir kimse hakkında uygulanacak hapis cezasının alt sınırı kaç yıldır?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "1 Yıl",
+              "C": "2 Yıl",
+              "D": "5 Yıl",
+              "E": "6 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 5 Çözümü: 6362 sayılı Kanun madde 107 uyarınca cezanın alt sınırı 3 yıldır."
+          },
+          {
+            "id": 56,
+            "soruMetni": "Soru 6 [Deneme 3 - Genel Karma]: Sermaye piyasası araçlarının kayden izlenmesi ve hak sahipliği kayıtlarının tutulduğu kurum hangisidir?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu (MKK)",
+              "B": "Takasbank",
+              "C": "Borsa İstanbul",
+              "D": "SPK",
+              "E": "TCMB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 6 Çözümü: MKK kaydileştirilen sermaye piyasası araçlarının merkezi saklama kuruluşudur."
+          },
+          {
+            "id": 57,
+            "soruMetni": "Soru 7 [Deneme 3 - Genel Karma]: Halka açık şirketlerde muhalif kalan ortakların sahip olduğu şirketten ayrılma hakkı hangi durumda doğar?",
+            "secenekler": {
+              "A": "Şirketin önemli nitelikteki işlemlerinde",
+              "B": "Her genel kurulda",
+              "C": "Sadece temettü dağıtılmadığında",
+              "D": "Sermaye artırımında",
+              "E": "Yönetim kurulu değiştiğinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 7 Çözümü: Birleşme, bölünme, tür değiştirme gibi önemli nitelikteki işlemlerde ayrılma hakkı kullanılır."
+          },
+          {
+            "id": 58,
+            "soruMetni": "Soru 8 [Deneme 3 - Genel Karma]: Bir işletmenin kısa vadeli borç ödeme gücünü gösteren Cari Oran formülü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar",
+              "B": "Duran Varlıklar / Özkaynaklar",
+              "C": "Net Kâr / Toplam Aktif",
+              "D": "Stoklar / Dönem Kârı",
+              "E": "Özkaynak / Toplam Borç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 8 Çözümü: Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar."
+          },
+          {
+            "id": 59,
+            "soruMetni": "Soru 9 [Deneme 3 - Genel Karma]: Likidite oranlarından Asit-Test Oranı hesaplanırken Dönen Varlıklardan hangi kalem çıkarılır?",
+            "secenekler": {
+              "A": "Stoklar",
+              "B": "Kasa",
+              "C": "Bankalar",
+              "D": "Alacaklar",
+              "E": "Menkul Kıymetler"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 9 Çözümü: Stoklar paraya en yavaş dönüşen kalem olduğu için Asit-Test oranında çıkarılır."
+          },
+          {
+            "id": 60,
+            "soruMetni": "Soru 10 [Deneme 3 - Genel Karma]: Dupont Analizine göre Özkaynak Kârlılığı (ROE) aşağıdakilerden hangisinin çarpımıdır?",
+            "secenekler": {
+              "A": "Net Kâr Marjı x Aktif Devir Hızı x Finansal Kaldıraç Oranı",
+              "B": "Brüt Kâr Marjı x Likidite Oranı",
+              "C": "Cari Oran x Stok Devir Hızı",
+              "D": "Faaliyet Kârı x Özkaynak Oranı",
+              "E": "Borç Oranı x Dönem Kârı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 10 Çözümü: Dupont analizi üç temel rasyonun bileşiminden oluşur."
+          },
+          {
+            "id": 61,
+            "soruMetni": "Soru 11 [Deneme 3 - Genel Karma]: Ağırlıklı Ortalama Sermaye Maliyeti (WACC) hangi analizde iskonto oranı olarak kullanılır?",
+            "secenekler": {
+              "A": "Net Bugünkü Değer (NBD) Analizinde",
+              "B": "Cari Oran Analizinde",
+              "C": "Stok Devir Hızında",
+              "D": "Asit Test Oranında",
+              "E": "Trend Analizinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 11 Çözümü: Yatırım projelerinin nakit akışları WACC ile bugüne indirgenir."
+          },
+          {
+            "id": 62,
+            "soruMetni": "Soru 12 [Deneme 3 - Genel Karma]: Nakit Oranı hesaplanmasında pay kısmında hangi bilanço kalemleri yer alır?",
+            "secenekler": {
+              "A": "Hazır Değerler + Menkul Kıymetler",
+              "B": "Stoklar + Alacaklar",
+              "C": "Duran Varlıklar",
+              "D": "Özkaynaklar",
+              "E": "Kısa Vadeli Borçlar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 12 Çözümü: Nakit oranı en likit varlıkları dikkate alır."
+          },
+          {
+            "id": 63,
+            "soruMetni": "Soru 13 [Deneme 3 - Genel Karma]: Aktif ve şeffaf bir piyasada yeterli sayıda benzer alım-satım verisi olduğunda hangi değerleme yaklaşımı tercih edilir?",
+            "secenekler": {
+              "A": "Emsal Karşılaştırma Yaklaşımı",
+              "B": "Maliyet Yaklaşımı",
+              "C": "Gelir İndirgeme Yaklaşımı",
+              "D": "Tasfiye Değeri",
+              "E": "Rant Yaklaşımı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 13 Çözümü: Emsal karşılaştırma en güvenilir piyasa bazlı değerleme yöntemidir."
+          },
+          {
+            "id": 64,
+            "soruMetni": "Soru 14 [Deneme 3 - Genel Karma]: Gelir İndirgeme Yaklaşımında kullanılan Kapitalizasyon Oranı formülü nedir?",
+            "secenekler": {
+              "A": "Yıllık Net Faaliyet Geliri / Gayrimenkul Değeri",
+              "B": "İnşaat Maliyeti / Arsa Alanı",
+              "C": "Kredi Faizi / Enflasyon",
+              "D": "Kira Geliri / Vergi Oranı",
+              "E": "Toplam Borç / Özkaynak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 14 Çözümü: Kapitalizasyon Oranı = Yıllık Net Gelir / Değer."
+          },
+          {
+            "id": 65,
+            "soruMetni": "Soru 15 [Deneme 3 - Genel Karma]: Gayrimenkul Yatırım Ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
+            "secenekler": {
+              "A": "%25",
+              "B": "%10",
+              "C": "%50",
+              "D": "%75",
+              "E": "%5"
+            },
+            "dogruCevap": "C",
+            "cozum": "Deneme 3 Soru 15 Çözümü: GYO'ların en az %25 oranında halka açık olması zorunludur."
+          },
+          {
+            "id": 66,
+            "soruMetni": "Soru 16 [Deneme 3 - Genel Karma]: Maliyet Yaklaşımında binanın yıpranma ve eskime payı hesaplanırken hangisi dikkate alınır?",
+            "secenekler": {
+              "A": "Fiziki ve Fonksiyonel Eskime",
+              "B": "Borsa Endeksi",
+              "C": "Döviz Kuru",
+              "D": "Mevduat Faizi",
+              "E": "Temettü Oranı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 16 Çözümü: Maliyet yaklaşımında binanın fiziki, fonksiyonel ve ekonomik eskimesi düşülür."
+          },
+          {
+            "id": 67,
+            "soruMetni": "Soru 17 [Deneme 3 - Genel Karma]: Vadeli işlem (Futures) sözleşmesinde alım tarafında yer alan yatırımcı hangi pozisyondadır?",
+            "secenekler": {
+              "A": "Uzun (Long) Pozisyon",
+              "B": "Kısa (Short) Pozisyon",
+              "C": "Nötr Pozisyon",
+              "D": "Swap Pozisyonu",
+              "E": "Arbitraj Pozisyonu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 17 Çözümü: Gelecekte dayanak varlığı satın alma yükümlülüğüne giren taraf Uzun (Long) pozisyondadır."
+          },
+          {
+            "id": 68,
+            "soruMetni": "Soru 18 [Deneme 3 - Genel Karma]: Bir Alım (Call) Opsiyonu satın alan opsiyon alıcısının maksimum zararı ne kadardır?",
+            "secenekler": {
+              "A": "Ödediği Opsiyon Primi kadar",
+              "B": "Sınırsızdır",
+              "C": "Dayanak varlığın tam fiyatı kadar",
+              "D": "Kullanım fiyatı kadar",
+              "E": "Zarar etmez"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 18 Çözümü: Opsiyon alıcısının riski ödediği prim ile sınırlıdır."
+          },
+          {
+            "id": 69,
+            "soruMetni": "Soru 19 [Deneme 3 - Genel Karma]: Satım (Put) Opsiyonu alan bir yatırımcının piyasa beklentisi nedir?",
+            "secenekler": {
+              "A": "Dayanak varlık fiyatının düşmesi",
+              "B": "Fiyatların yükselmesi",
+              "C": "Fiyatların sabit kalması",
+              "D": "Faizlerin düşmesi",
+              "E": "Enflasyonun sıfırlanması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 19 Çözümü: Put opsiyonu alıcısı fiyat düşüşünden kâr elde etmeyi hedefler."
+          },
+          {
+            "id": 70,
+            "soruMetni": "Soru 20 [Deneme 3 - Genel Karma]: Döviz riskinden korunmak (Hedging) isteyen bir ihracatçı vadeli piyasada nasıl pozisyon alır?",
+            "secenekler": {
+              "A": "Döviz satım (Short) pozisyonu alır",
+              "B": "Döviz alım (Long) pozisyonu alır",
+              "C": "Pozisyon almaz",
+              "D": "Hisse senedi alır",
+              "E": "Mevduat hesabı açar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 20 Çözümü: Gelecekte döviz alacağı olan ihracatçı kur düşüş riskine karşı döviz satım pozisyonu ile korunur."
+          },
+          {
+            "id": 71,
+            "soruMetni": "Soru 21 [Deneme 3 - Genel Karma]: Futures sözleşmelerinde günlük kâr/zararın hesaplanıp hesaplara yansıtılması işlemine ne ad verilir?",
+            "secenekler": {
+              "A": "Piyasaya Göre Değerleme (Marking to Market)",
+              "B": "İskonto Etme",
+              "C": "Temettü Dağıtımı",
+              "D": "Kupon Ödemesi",
+              "E": "Kredilendirme"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 21 Çözümü: Futures piyasalarında her gün sonu hesaplar piyasaya göre değerlenir (Mark to Market)."
+          },
+          {
+            "id": 72,
+            "soruMetni": "Soru 22 [Deneme 3 - Genel Karma]: TSPB üyelerinin müşterilerine karşı uymakla yükümlü olduğu temel dürüstlük ilkesi gereği hangisi yasaktır?",
+            "secenekler": {
+              "A": "Müşteriye getiri garantisi vermek",
+              "B": "Risk bildirim formu imzalatmak",
+              "C": "Sözleşme yapmak",
+              "D": "Piyasa analizi paylaşmak",
+              "E": "Komisyon tarifesi açıklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 22 Çözümü: Sermaye piyasasında garanti getiri taahhüt etmek kesinlikle yasaktır."
+          },
+          {
+            "id": 73,
+            "soruMetni": "Soru 23 [Deneme 3 - Genel Karma]: Müşteri sırlarının kanunen yetkili kılınan merciler dışında üçüncü kişilere açıklanmaması hangi ilkedir?",
+            "secenekler": {
+              "A": "Sır Saklama Yükümlülüğü",
+              "B": "Kamuyu Aydınlatma",
+              "C": "Şeffaflık",
+              "D": "Rekabet Yasama",
+              "E": "Kaldıraç İlkesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 23 Çözümü: Müşteri bilgilerinin gizliliği ve sır saklanması etik kuraldır."
+          },
+          {
+            "id": 74,
+            "soruMetni": "Soru 24 [Deneme 3 - Genel Karma]: Sermaye piyasası çalışanlarının çıkar çatışması durumunda izlemesi gereken tutum nedir?",
+            "secenekler": {
+              "A": "Müşteri yararını kendi ve kurum yararının üstünde tutmak",
+              "B": "Kendi portföyünü öncelemek",
+              "C": "Müşteriden komisyon saklamak",
+              "D": "Yanıltıcı bilgi vermek",
+              "E": "İşlemleri geciktirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 24 Çözümü: Çıkar çatışmasında tarafsızlık ve müşteri çıkarının korunması esastır."
+          },
+          {
+            "id": 75,
+            "soruMetni": "Soru 25 [Deneme 3 - Genel Karma]: Borsa İstanbul'da gerçekleşen işlemlerin takasını yürüten merkezi takas kuruluşu hangisidir?",
+            "secenekler": {
+              "A": "Takasbank (İstanbul Takas ve Saklama Bankası A.Ş.)",
+              "B": "MKK",
+              "C": "SPK",
+              "D": "Hazine",
+              "E": "TSPB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 3 Soru 25 Çözümü: Takasbank Borsa İstanbul işlemlerinin takasını ve merkezi karşı taraf hizmetini sunar."
+          }
+        ]
+      },
+      {
+        "testId": 4,
+        "testAdi": "Deneme Sınavı 4: Tüm Konular Karma (25 Soru)",
+        "sorular": [
+          {
+            "id": 76,
+            "soruMetni": "Soru 1 [Deneme 4 - Genel Karma]: 6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi sermaye piyasası kurumları arasında yer almaktadır?",
+            "secenekler": {
+              "A": "Portföy Yönetim Şirketleri",
+              "B": "Kuyumcular",
+              "C": "Döviz Büroları",
+              "D": "Ticaret Odaları",
+              "E": "Faktoring Şirketleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 1 Çözümü: Portföy Yönetim Şirketleri 6362 sayılı Kanunda tanımlanmış temel sermaye piyasası kurumlarındandır."
+          },
+          {
+            "id": 77,
+            "soruMetni": "Soru 2 [Deneme 4 - Genel Karma]: Sermaye piyasası araçlarının halka arzında yatırımcıların bilgilendirilmesi amacıyla hazırlanan temel kamuyu aydınlatma belgesi hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Faaliyet Raporu",
+              "C": "Sirküler",
+              "D": "Bilanço",
+              "E": "Gelir Tablosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 2 Çözümü: Halka arzda izahname yayımlanması zorunludur."
+          },
+          {
+            "id": 78,
+            "soruMetni": "Soru 3 [Deneme 4 - Genel Karma]: Özel Durumlar Tebliği (II-15.1) uyarınca kamuya açıklanması gereken içsel bilgilerin ertelenmesi yetkisi kime aittir?",
+            "secenekler": {
+              "A": "İhraççı şirketin kendi yönetim kuruluna/sorumluluğuna",
+              "B": "Sadece SPK'ya",
+              "C": "Borsa İstanbul'a",
+              "D": "MKK'ya",
+              "E": "Hazine Bakanlığına"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 3 Çözümü: İhraççılar meşru çıkarlarının korunması amacıyla erteleme kararını kendi sorumluluklarında alabilirler."
+          },
+          {
+            "id": 79,
+            "soruMetni": "Soru 4 [Deneme 4 - Genel Karma]: Kurumsal Yönetim Tebliği (II-17.1) uyarınca Denetimden Sorumlu Komitenin başkanı kimlerden seçilmek zorundadır?",
+            "secenekler": {
+              "A": "Bağımsız Yönetim Kurulu Üyeleri arasından",
+              "B": "Şirket Genel Müdüründen",
+              "C": "En büyük hissedardan",
+              "D": "İç denetçiden",
+              "E": "Mali işler direktöründen"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 4 Çözümü: Denetim komitesi başkanı ve üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur."
+          },
+          {
+            "id": 80,
+            "soruMetni": "Soru 5 [Deneme 4 - Genel Karma]: Piyasa Dolandırıcılığı (Manipülasyon) suçu işleyen bir kimse hakkında uygulanacak hapis cezasının alt sınırı kaç yıldır?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "1 Yıl",
+              "C": "2 Yıl",
+              "D": "5 Yıl",
+              "E": "6 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 5 Çözümü: 6362 sayılı Kanun madde 107 uyarınca cezanın alt sınırı 3 yıldır."
+          },
+          {
+            "id": 81,
+            "soruMetni": "Soru 6 [Deneme 4 - Genel Karma]: Sermaye piyasası araçlarının kayden izlenmesi ve hak sahipliği kayıtlarının tutulduğu kurum hangisidir?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu (MKK)",
+              "B": "Takasbank",
+              "C": "Borsa İstanbul",
+              "D": "SPK",
+              "E": "TCMB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 6 Çözümü: MKK kaydileştirilen sermaye piyasası araçlarının merkezi saklama kuruluşudur."
+          },
+          {
+            "id": 82,
+            "soruMetni": "Soru 7 [Deneme 4 - Genel Karma]: Halka açık şirketlerde muhalif kalan ortakların sahip olduğu şirketten ayrılma hakkı hangi durumda doğar?",
+            "secenekler": {
+              "A": "Şirketin önemli nitelikteki işlemlerinde",
+              "B": "Her genel kurulda",
+              "C": "Sadece temettü dağıtılmadığında",
+              "D": "Sermaye artırımında",
+              "E": "Yönetim kurulu değiştiğinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 7 Çözümü: Birleşme, bölünme, tür değiştirme gibi önemli nitelikteki işlemlerde ayrılma hakkı kullanılır."
+          },
+          {
+            "id": 83,
+            "soruMetni": "Soru 8 [Deneme 4 - Genel Karma]: Bir işletmenin kısa vadeli borç ödeme gücünü gösteren Cari Oran formülü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar",
+              "B": "Duran Varlıklar / Özkaynaklar",
+              "C": "Net Kâr / Toplam Aktif",
+              "D": "Stoklar / Dönem Kârı",
+              "E": "Özkaynak / Toplam Borç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 8 Çözümü: Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar."
+          },
+          {
+            "id": 84,
+            "soruMetni": "Soru 9 [Deneme 4 - Genel Karma]: Likidite oranlarından Asit-Test Oranı hesaplanırken Dönen Varlıklardan hangi kalem çıkarılır?",
+            "secenekler": {
+              "A": "Stoklar",
+              "B": "Kasa",
+              "C": "Bankalar",
+              "D": "Alacaklar",
+              "E": "Menkul Kıymetler"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 9 Çözümü: Stoklar paraya en yavaş dönüşen kalem olduğu için Asit-Test oranında çıkarılır."
+          },
+          {
+            "id": 85,
+            "soruMetni": "Soru 10 [Deneme 4 - Genel Karma]: Dupont Analizine göre Özkaynak Kârlılığı (ROE) aşağıdakilerden hangisinin çarpımıdır?",
+            "secenekler": {
+              "A": "Net Kâr Marjı x Aktif Devir Hızı x Finansal Kaldıraç Oranı",
+              "B": "Brüt Kâr Marjı x Likidite Oranı",
+              "C": "Cari Oran x Stok Devir Hızı",
+              "D": "Faaliyet Kârı x Özkaynak Oranı",
+              "E": "Borç Oranı x Dönem Kârı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 10 Çözümü: Dupont analizi üç temel rasyonun bileşiminden oluşur."
+          },
+          {
+            "id": 86,
+            "soruMetni": "Soru 11 [Deneme 4 - Genel Karma]: Ağırlıklı Ortalama Sermaye Maliyeti (WACC) hangi analizde iskonto oranı olarak kullanılır?",
+            "secenekler": {
+              "A": "Net Bugünkü Değer (NBD) Analizinde",
+              "B": "Cari Oran Analizinde",
+              "C": "Stok Devir Hızında",
+              "D": "Asit Test Oranında",
+              "E": "Trend Analizinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 11 Çözümü: Yatırım projelerinin nakit akışları WACC ile bugüne indirgenir."
+          },
+          {
+            "id": 87,
+            "soruMetni": "Soru 12 [Deneme 4 - Genel Karma]: Nakit Oranı hesaplanmasında pay kısmında hangi bilanço kalemleri yer alır?",
+            "secenekler": {
+              "A": "Hazır Değerler + Menkul Kıymetler",
+              "B": "Stoklar + Alacaklar",
+              "C": "Duran Varlıklar",
+              "D": "Özkaynaklar",
+              "E": "Kısa Vadeli Borçlar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 12 Çözümü: Nakit oranı en likit varlıkları dikkate alır."
+          },
+          {
+            "id": 88,
+            "soruMetni": "Soru 13 [Deneme 4 - Genel Karma]: Aktif ve şeffaf bir piyasada yeterli sayıda benzer alım-satım verisi olduğunda hangi değerleme yaklaşımı tercih edilir?",
+            "secenekler": {
+              "A": "Emsal Karşılaştırma Yaklaşımı",
+              "B": "Maliyet Yaklaşımı",
+              "C": "Gelir İndirgeme Yaklaşımı",
+              "D": "Tasfiye Değeri",
+              "E": "Rant Yaklaşımı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 13 Çözümü: Emsal karşılaştırma en güvenilir piyasa bazlı değerleme yöntemidir."
+          },
+          {
+            "id": 89,
+            "soruMetni": "Soru 14 [Deneme 4 - Genel Karma]: Gelir İndirgeme Yaklaşımında kullanılan Kapitalizasyon Oranı formülü nedir?",
+            "secenekler": {
+              "A": "Yıllık Net Faaliyet Geliri / Gayrimenkul Değeri",
+              "B": "İnşaat Maliyeti / Arsa Alanı",
+              "C": "Kredi Faizi / Enflasyon",
+              "D": "Kira Geliri / Vergi Oranı",
+              "E": "Toplam Borç / Özkaynak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 14 Çözümü: Kapitalizasyon Oranı = Yıllık Net Gelir / Değer."
+          },
+          {
+            "id": 90,
+            "soruMetni": "Soru 15 [Deneme 4 - Genel Karma]: Gayrimenkul Yatırım Ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
+            "secenekler": {
+              "A": "%25",
+              "B": "%10",
+              "C": "%50",
+              "D": "%75",
+              "E": "%5"
+            },
+            "dogruCevap": "C",
+            "cozum": "Deneme 4 Soru 15 Çözümü: GYO'ların en az %25 oranında halka açık olması zorunludur."
+          },
+          {
+            "id": 91,
+            "soruMetni": "Soru 16 [Deneme 4 - Genel Karma]: Maliyet Yaklaşımında binanın yıpranma ve eskime payı hesaplanırken hangisi dikkate alınır?",
+            "secenekler": {
+              "A": "Fiziki ve Fonksiyonel Eskime",
+              "B": "Borsa Endeksi",
+              "C": "Döviz Kuru",
+              "D": "Mevduat Faizi",
+              "E": "Temettü Oranı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 16 Çözümü: Maliyet yaklaşımında binanın fiziki, fonksiyonel ve ekonomik eskimesi düşülür."
+          },
+          {
+            "id": 92,
+            "soruMetni": "Soru 17 [Deneme 4 - Genel Karma]: Vadeli işlem (Futures) sözleşmesinde alım tarafında yer alan yatırımcı hangi pozisyondadır?",
+            "secenekler": {
+              "A": "Uzun (Long) Pozisyon",
+              "B": "Kısa (Short) Pozisyon",
+              "C": "Nötr Pozisyon",
+              "D": "Swap Pozisyonu",
+              "E": "Arbitraj Pozisyonu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 17 Çözümü: Gelecekte dayanak varlığı satın alma yükümlülüğüne giren taraf Uzun (Long) pozisyondadır."
+          },
+          {
+            "id": 93,
+            "soruMetni": "Soru 18 [Deneme 4 - Genel Karma]: Bir Alım (Call) Opsiyonu satın alan opsiyon alıcısının maksimum zararı ne kadardır?",
+            "secenekler": {
+              "A": "Ödediği Opsiyon Primi kadar",
+              "B": "Sınırsızdır",
+              "C": "Dayanak varlığın tam fiyatı kadar",
+              "D": "Kullanım fiyatı kadar",
+              "E": "Zarar etmez"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 18 Çözümü: Opsiyon alıcısının riski ödediği prim ile sınırlıdır."
+          },
+          {
+            "id": 94,
+            "soruMetni": "Soru 19 [Deneme 4 - Genel Karma]: Satım (Put) Opsiyonu alan bir yatırımcının piyasa beklentisi nedir?",
+            "secenekler": {
+              "A": "Dayanak varlık fiyatının düşmesi",
+              "B": "Fiyatların yükselmesi",
+              "C": "Fiyatların sabit kalması",
+              "D": "Faizlerin düşmesi",
+              "E": "Enflasyonun sıfırlanması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 19 Çözümü: Put opsiyonu alıcısı fiyat düşüşünden kâr elde etmeyi hedefler."
+          },
+          {
+            "id": 95,
+            "soruMetni": "Soru 20 [Deneme 4 - Genel Karma]: Döviz riskinden korunmak (Hedging) isteyen bir ihracatçı vadeli piyasada nasıl pozisyon alır?",
+            "secenekler": {
+              "A": "Döviz satım (Short) pozisyonu alır",
+              "B": "Döviz alım (Long) pozisyonu alır",
+              "C": "Pozisyon almaz",
+              "D": "Hisse senedi alır",
+              "E": "Mevduat hesabı açar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 20 Çözümü: Gelecekte döviz alacağı olan ihracatçı kur düşüş riskine karşı döviz satım pozisyonu ile korunur."
+          },
+          {
+            "id": 96,
+            "soruMetni": "Soru 21 [Deneme 4 - Genel Karma]: Futures sözleşmelerinde günlük kâr/zararın hesaplanıp hesaplara yansıtılması işlemine ne ad verilir?",
+            "secenekler": {
+              "A": "Piyasaya Göre Değerleme (Marking to Market)",
+              "B": "İskonto Etme",
+              "C": "Temettü Dağıtımı",
+              "D": "Kupon Ödemesi",
+              "E": "Kredilendirme"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 21 Çözümü: Futures piyasalarında her gün sonu hesaplar piyasaya göre değerlenir (Mark to Market)."
+          },
+          {
+            "id": 97,
+            "soruMetni": "Soru 22 [Deneme 4 - Genel Karma]: TSPB üyelerinin müşterilerine karşı uymakla yükümlü olduğu temel dürüstlük ilkesi gereği hangisi yasaktır?",
+            "secenekler": {
+              "A": "Müşteriye getiri garantisi vermek",
+              "B": "Risk bildirim formu imzalatmak",
+              "C": "Sözleşme yapmak",
+              "D": "Piyasa analizi paylaşmak",
+              "E": "Komisyon tarifesi açıklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 22 Çözümü: Sermaye piyasasında garanti getiri taahhüt etmek kesinlikle yasaktır."
+          },
+          {
+            "id": 98,
+            "soruMetni": "Soru 23 [Deneme 4 - Genel Karma]: Müşteri sırlarının kanunen yetkili kılınan merciler dışında üçüncü kişilere açıklanmaması hangi ilkedir?",
+            "secenekler": {
+              "A": "Sır Saklama Yükümlülüğü",
+              "B": "Kamuyu Aydınlatma",
+              "C": "Şeffaflık",
+              "D": "Rekabet Yasama",
+              "E": "Kaldıraç İlkesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 23 Çözümü: Müşteri bilgilerinin gizliliği ve sır saklanması etik kuraldır."
+          },
+          {
+            "id": 99,
+            "soruMetni": "Soru 24 [Deneme 4 - Genel Karma]: Sermaye piyasası çalışanlarının çıkar çatışması durumunda izlemesi gereken tutum nedir?",
+            "secenekler": {
+              "A": "Müşteri yararını kendi ve kurum yararının üstünde tutmak",
+              "B": "Kendi portföyünü öncelemek",
+              "C": "Müşteriden komisyon saklamak",
+              "D": "Yanıltıcı bilgi vermek",
+              "E": "İşlemleri geciktirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 24 Çözümü: Çıkar çatışmasında tarafsızlık ve müşteri çıkarının korunması esastır."
+          },
+          {
+            "id": 100,
+            "soruMetni": "Soru 25 [Deneme 4 - Genel Karma]: Borsa İstanbul'da gerçekleşen işlemlerin takasını yürüten merkezi takas kuruluşu hangisidir?",
+            "secenekler": {
+              "A": "Takasbank (İstanbul Takas ve Saklama Bankası A.Ş.)",
+              "B": "MKK",
+              "C": "SPK",
+              "D": "Hazine",
+              "E": "TSPB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 4 Soru 25 Çözümü: Takasbank Borsa İstanbul işlemlerinin takasını ve merkezi karşı taraf hizmetini sunar."
+          }
+        ]
+      },
+      {
+        "testId": 5,
+        "testAdi": "Deneme Sınavı 5: Tüm Konular Karma (25 Soru)",
+        "sorular": [
+          {
+            "id": 101,
+            "soruMetni": "Soru 1 [Deneme 5 - Genel Karma]: 6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi sermaye piyasası kurumları arasında yer almaktadır?",
+            "secenekler": {
+              "A": "Portföy Yönetim Şirketleri",
+              "B": "Kuyumcular",
+              "C": "Döviz Büroları",
+              "D": "Ticaret Odaları",
+              "E": "Faktoring Şirketleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 1 Çözümü: Portföy Yönetim Şirketleri 6362 sayılı Kanunda tanımlanmış temel sermaye piyasası kurumlarındandır."
+          },
+          {
+            "id": 102,
+            "soruMetni": "Soru 2 [Deneme 5 - Genel Karma]: Sermaye piyasası araçlarının halka arzında yatırımcıların bilgilendirilmesi amacıyla hazırlanan temel kamuyu aydınlatma belgesi hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Faaliyet Raporu",
+              "C": "Sirküler",
+              "D": "Bilanço",
+              "E": "Gelir Tablosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 2 Çözümü: Halka arzda izahname yayımlanması zorunludur."
+          },
+          {
+            "id": 103,
+            "soruMetni": "Soru 3 [Deneme 5 - Genel Karma]: Özel Durumlar Tebliği (II-15.1) uyarınca kamuya açıklanması gereken içsel bilgilerin ertelenmesi yetkisi kime aittir?",
+            "secenekler": {
+              "A": "İhraççı şirketin kendi yönetim kuruluna/sorumluluğuna",
+              "B": "Sadece SPK'ya",
+              "C": "Borsa İstanbul'a",
+              "D": "MKK'ya",
+              "E": "Hazine Bakanlığına"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 3 Çözümü: İhraççılar meşru çıkarlarının korunması amacıyla erteleme kararını kendi sorumluluklarında alabilirler."
+          },
+          {
+            "id": 104,
+            "soruMetni": "Soru 4 [Deneme 5 - Genel Karma]: Kurumsal Yönetim Tebliği (II-17.1) uyarınca Denetimden Sorumlu Komitenin başkanı kimlerden seçilmek zorundadır?",
+            "secenekler": {
+              "A": "Bağımsız Yönetim Kurulu Üyeleri arasından",
+              "B": "Şirket Genel Müdüründen",
+              "C": "En büyük hissedardan",
+              "D": "İç denetçiden",
+              "E": "Mali işler direktöründen"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 4 Çözümü: Denetim komitesi başkanı ve üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur."
+          },
+          {
+            "id": 105,
+            "soruMetni": "Soru 5 [Deneme 5 - Genel Karma]: Piyasa Dolandırıcılığı (Manipülasyon) suçu işleyen bir kimse hakkında uygulanacak hapis cezasının alt sınırı kaç yıldır?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "1 Yıl",
+              "C": "2 Yıl",
+              "D": "5 Yıl",
+              "E": "6 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 5 Çözümü: 6362 sayılı Kanun madde 107 uyarınca cezanın alt sınırı 3 yıldır."
+          },
+          {
+            "id": 106,
+            "soruMetni": "Soru 6 [Deneme 5 - Genel Karma]: Sermaye piyasası araçlarının kayden izlenmesi ve hak sahipliği kayıtlarının tutulduğu kurum hangisidir?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu (MKK)",
+              "B": "Takasbank",
+              "C": "Borsa İstanbul",
+              "D": "SPK",
+              "E": "TCMB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 6 Çözümü: MKK kaydileştirilen sermaye piyasası araçlarının merkezi saklama kuruluşudur."
+          },
+          {
+            "id": 107,
+            "soruMetni": "Soru 7 [Deneme 5 - Genel Karma]: Halka açık şirketlerde muhalif kalan ortakların sahip olduğu şirketten ayrılma hakkı hangi durumda doğar?",
+            "secenekler": {
+              "A": "Şirketin önemli nitelikteki işlemlerinde",
+              "B": "Her genel kurulda",
+              "C": "Sadece temettü dağıtılmadığında",
+              "D": "Sermaye artırımında",
+              "E": "Yönetim kurulu değiştiğinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 7 Çözümü: Birleşme, bölünme, tür değiştirme gibi önemli nitelikteki işlemlerde ayrılma hakkı kullanılır."
+          },
+          {
+            "id": 108,
+            "soruMetni": "Soru 8 [Deneme 5 - Genel Karma]: Bir işletmenin kısa vadeli borç ödeme gücünü gösteren Cari Oran formülü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar",
+              "B": "Duran Varlıklar / Özkaynaklar",
+              "C": "Net Kâr / Toplam Aktif",
+              "D": "Stoklar / Dönem Kârı",
+              "E": "Özkaynak / Toplam Borç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 8 Çözümü: Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar."
+          },
+          {
+            "id": 109,
+            "soruMetni": "Soru 9 [Deneme 5 - Genel Karma]: Likidite oranlarından Asit-Test Oranı hesaplanırken Dönen Varlıklardan hangi kalem çıkarılır?",
+            "secenekler": {
+              "A": "Stoklar",
+              "B": "Kasa",
+              "C": "Bankalar",
+              "D": "Alacaklar",
+              "E": "Menkul Kıymetler"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 9 Çözümü: Stoklar paraya en yavaş dönüşen kalem olduğu için Asit-Test oranında çıkarılır."
+          },
+          {
+            "id": 110,
+            "soruMetni": "Soru 10 [Deneme 5 - Genel Karma]: Dupont Analizine göre Özkaynak Kârlılığı (ROE) aşağıdakilerden hangisinin çarpımıdır?",
+            "secenekler": {
+              "A": "Net Kâr Marjı x Aktif Devir Hızı x Finansal Kaldıraç Oranı",
+              "B": "Brüt Kâr Marjı x Likidite Oranı",
+              "C": "Cari Oran x Stok Devir Hızı",
+              "D": "Faaliyet Kârı x Özkaynak Oranı",
+              "E": "Borç Oranı x Dönem Kârı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 10 Çözümü: Dupont analizi üç temel rasyonun bileşiminden oluşur."
+          },
+          {
+            "id": 111,
+            "soruMetni": "Soru 11 [Deneme 5 - Genel Karma]: Ağırlıklı Ortalama Sermaye Maliyeti (WACC) hangi analizde iskonto oranı olarak kullanılır?",
+            "secenekler": {
+              "A": "Net Bugünkü Değer (NBD) Analizinde",
+              "B": "Cari Oran Analizinde",
+              "C": "Stok Devir Hızında",
+              "D": "Asit Test Oranında",
+              "E": "Trend Analizinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 11 Çözümü: Yatırım projelerinin nakit akışları WACC ile bugüne indirgenir."
+          },
+          {
+            "id": 112,
+            "soruMetni": "Soru 12 [Deneme 5 - Genel Karma]: Nakit Oranı hesaplanmasında pay kısmında hangi bilanço kalemleri yer alır?",
+            "secenekler": {
+              "A": "Hazır Değerler + Menkul Kıymetler",
+              "B": "Stoklar + Alacaklar",
+              "C": "Duran Varlıklar",
+              "D": "Özkaynaklar",
+              "E": "Kısa Vadeli Borçlar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 12 Çözümü: Nakit oranı en likit varlıkları dikkate alır."
+          },
+          {
+            "id": 113,
+            "soruMetni": "Soru 13 [Deneme 5 - Genel Karma]: Aktif ve şeffaf bir piyasada yeterli sayıda benzer alım-satım verisi olduğunda hangi değerleme yaklaşımı tercih edilir?",
+            "secenekler": {
+              "A": "Emsal Karşılaştırma Yaklaşımı",
+              "B": "Maliyet Yaklaşımı",
+              "C": "Gelir İndirgeme Yaklaşımı",
+              "D": "Tasfiye Değeri",
+              "E": "Rant Yaklaşımı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 13 Çözümü: Emsal karşılaştırma en güvenilir piyasa bazlı değerleme yöntemidir."
+          },
+          {
+            "id": 114,
+            "soruMetni": "Soru 14 [Deneme 5 - Genel Karma]: Gelir İndirgeme Yaklaşımında kullanılan Kapitalizasyon Oranı formülü nedir?",
+            "secenekler": {
+              "A": "Yıllık Net Faaliyet Geliri / Gayrimenkul Değeri",
+              "B": "İnşaat Maliyeti / Arsa Alanı",
+              "C": "Kredi Faizi / Enflasyon",
+              "D": "Kira Geliri / Vergi Oranı",
+              "E": "Toplam Borç / Özkaynak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 14 Çözümü: Kapitalizasyon Oranı = Yıllık Net Gelir / Değer."
+          },
+          {
+            "id": 115,
+            "soruMetni": "Soru 15 [Deneme 5 - Genel Karma]: Gayrimenkul Yatırım Ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
+            "secenekler": {
+              "A": "%25",
+              "B": "%10",
+              "C": "%50",
+              "D": "%75",
+              "E": "%5"
+            },
+            "dogruCevap": "C",
+            "cozum": "Deneme 5 Soru 15 Çözümü: GYO'ların en az %25 oranında halka açık olması zorunludur."
+          },
+          {
+            "id": 116,
+            "soruMetni": "Soru 16 [Deneme 5 - Genel Karma]: Maliyet Yaklaşımında binanın yıpranma ve eskime payı hesaplanırken hangisi dikkate alınır?",
+            "secenekler": {
+              "A": "Fiziki ve Fonksiyonel Eskime",
+              "B": "Borsa Endeksi",
+              "C": "Döviz Kuru",
+              "D": "Mevduat Faizi",
+              "E": "Temettü Oranı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 16 Çözümü: Maliyet yaklaşımında binanın fiziki, fonksiyonel ve ekonomik eskimesi düşülür."
+          },
+          {
+            "id": 117,
+            "soruMetni": "Soru 17 [Deneme 5 - Genel Karma]: Vadeli işlem (Futures) sözleşmesinde alım tarafında yer alan yatırımcı hangi pozisyondadır?",
+            "secenekler": {
+              "A": "Uzun (Long) Pozisyon",
+              "B": "Kısa (Short) Pozisyon",
+              "C": "Nötr Pozisyon",
+              "D": "Swap Pozisyonu",
+              "E": "Arbitraj Pozisyonu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 17 Çözümü: Gelecekte dayanak varlığı satın alma yükümlülüğüne giren taraf Uzun (Long) pozisyondadır."
+          },
+          {
+            "id": 118,
+            "soruMetni": "Soru 18 [Deneme 5 - Genel Karma]: Bir Alım (Call) Opsiyonu satın alan opsiyon alıcısının maksimum zararı ne kadardır?",
+            "secenekler": {
+              "A": "Ödediği Opsiyon Primi kadar",
+              "B": "Sınırsızdır",
+              "C": "Dayanak varlığın tam fiyatı kadar",
+              "D": "Kullanım fiyatı kadar",
+              "E": "Zarar etmez"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 18 Çözümü: Opsiyon alıcısının riski ödediği prim ile sınırlıdır."
+          },
+          {
+            "id": 119,
+            "soruMetni": "Soru 19 [Deneme 5 - Genel Karma]: Satım (Put) Opsiyonu alan bir yatırımcının piyasa beklentisi nedir?",
+            "secenekler": {
+              "A": "Dayanak varlık fiyatının düşmesi",
+              "B": "Fiyatların yükselmesi",
+              "C": "Fiyatların sabit kalması",
+              "D": "Faizlerin düşmesi",
+              "E": "Enflasyonun sıfırlanması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 19 Çözümü: Put opsiyonu alıcısı fiyat düşüşünden kâr elde etmeyi hedefler."
+          },
+          {
+            "id": 120,
+            "soruMetni": "Soru 20 [Deneme 5 - Genel Karma]: Döviz riskinden korunmak (Hedging) isteyen bir ihracatçı vadeli piyasada nasıl pozisyon alır?",
+            "secenekler": {
+              "A": "Döviz satım (Short) pozisyonu alır",
+              "B": "Döviz alım (Long) pozisyonu alır",
+              "C": "Pozisyon almaz",
+              "D": "Hisse senedi alır",
+              "E": "Mevduat hesabı açar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 20 Çözümü: Gelecekte döviz alacağı olan ihracatçı kur düşüş riskine karşı döviz satım pozisyonu ile korunur."
+          },
+          {
+            "id": 121,
+            "soruMetni": "Soru 21 [Deneme 5 - Genel Karma]: Futures sözleşmelerinde günlük kâr/zararın hesaplanıp hesaplara yansıtılması işlemine ne ad verilir?",
+            "secenekler": {
+              "A": "Piyasaya Göre Değerleme (Marking to Market)",
+              "B": "İskonto Etme",
+              "C": "Temettü Dağıtımı",
+              "D": "Kupon Ödemesi",
+              "E": "Kredilendirme"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 21 Çözümü: Futures piyasalarında her gün sonu hesaplar piyasaya göre değerlenir (Mark to Market)."
+          },
+          {
+            "id": 122,
+            "soruMetni": "Soru 22 [Deneme 5 - Genel Karma]: TSPB üyelerinin müşterilerine karşı uymakla yükümlü olduğu temel dürüstlük ilkesi gereği hangisi yasaktır?",
+            "secenekler": {
+              "A": "Müşteriye getiri garantisi vermek",
+              "B": "Risk bildirim formu imzalatmak",
+              "C": "Sözleşme yapmak",
+              "D": "Piyasa analizi paylaşmak",
+              "E": "Komisyon tarifesi açıklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 22 Çözümü: Sermaye piyasasında garanti getiri taahhüt etmek kesinlikle yasaktır."
+          },
+          {
+            "id": 123,
+            "soruMetni": "Soru 23 [Deneme 5 - Genel Karma]: Müşteri sırlarının kanunen yetkili kılınan merciler dışında üçüncü kişilere açıklanmaması hangi ilkedir?",
+            "secenekler": {
+              "A": "Sır Saklama Yükümlülüğü",
+              "B": "Kamuyu Aydınlatma",
+              "C": "Şeffaflık",
+              "D": "Rekabet Yasama",
+              "E": "Kaldıraç İlkesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 23 Çözümü: Müşteri bilgilerinin gizliliği ve sır saklanması etik kuraldır."
+          },
+          {
+            "id": 124,
+            "soruMetni": "Soru 24 [Deneme 5 - Genel Karma]: Sermaye piyasası çalışanlarının çıkar çatışması durumunda izlemesi gereken tutum nedir?",
+            "secenekler": {
+              "A": "Müşteri yararını kendi ve kurum yararının üstünde tutmak",
+              "B": "Kendi portföyünü öncelemek",
+              "C": "Müşteriden komisyon saklamak",
+              "D": "Yanıltıcı bilgi vermek",
+              "E": "İşlemleri geciktirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 24 Çözümü: Çıkar çatışmasında tarafsızlık ve müşteri çıkarının korunması esastır."
+          },
+          {
+            "id": 125,
+            "soruMetni": "Soru 25 [Deneme 5 - Genel Karma]: Borsa İstanbul'da gerçekleşen işlemlerin takasını yürüten merkezi takas kuruluşu hangisidir?",
+            "secenekler": {
+              "A": "Takasbank (İstanbul Takas ve Saklama Bankası A.Ş.)",
+              "B": "MKK",
+              "C": "SPK",
+              "D": "Hazine",
+              "E": "TSPB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 5 Soru 25 Çözümü: Takasbank Borsa İstanbul işlemlerinin takasını ve merkezi karşı taraf hizmetini sunar."
+          }
+        ]
+      },
+      {
+        "testId": 6,
+        "testAdi": "Deneme Sınavı 6: Tüm Konular Karma (25 Soru)",
+        "sorular": [
+          {
+            "id": 126,
+            "soruMetni": "Soru 1 [Deneme 6 - Genel Karma]: 6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi sermaye piyasası kurumları arasında yer almaktadır?",
+            "secenekler": {
+              "A": "Portföy Yönetim Şirketleri",
+              "B": "Kuyumcular",
+              "C": "Döviz Büroları",
+              "D": "Ticaret Odaları",
+              "E": "Faktoring Şirketleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 1 Çözümü: Portföy Yönetim Şirketleri 6362 sayılı Kanunda tanımlanmış temel sermaye piyasası kurumlarındandır."
+          },
+          {
+            "id": 127,
+            "soruMetni": "Soru 2 [Deneme 6 - Genel Karma]: Sermaye piyasası araçlarının halka arzında yatırımcıların bilgilendirilmesi amacıyla hazırlanan temel kamuyu aydınlatma belgesi hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Faaliyet Raporu",
+              "C": "Sirküler",
+              "D": "Bilanço",
+              "E": "Gelir Tablosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 2 Çözümü: Halka arzda izahname yayımlanması zorunludur."
+          },
+          {
+            "id": 128,
+            "soruMetni": "Soru 3 [Deneme 6 - Genel Karma]: Özel Durumlar Tebliği (II-15.1) uyarınca kamuya açıklanması gereken içsel bilgilerin ertelenmesi yetkisi kime aittir?",
+            "secenekler": {
+              "A": "İhraççı şirketin kendi yönetim kuruluna/sorumluluğuna",
+              "B": "Sadece SPK'ya",
+              "C": "Borsa İstanbul'a",
+              "D": "MKK'ya",
+              "E": "Hazine Bakanlığına"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 3 Çözümü: İhraççılar meşru çıkarlarının korunması amacıyla erteleme kararını kendi sorumluluklarında alabilirler."
+          },
+          {
+            "id": 129,
+            "soruMetni": "Soru 4 [Deneme 6 - Genel Karma]: Kurumsal Yönetim Tebliği (II-17.1) uyarınca Denetimden Sorumlu Komitenin başkanı kimlerden seçilmek zorundadır?",
+            "secenekler": {
+              "A": "Bağımsız Yönetim Kurulu Üyeleri arasından",
+              "B": "Şirket Genel Müdüründen",
+              "C": "En büyük hissedardan",
+              "D": "İç denetçiden",
+              "E": "Mali işler direktöründen"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 4 Çözümü: Denetim komitesi başkanı ve üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur."
+          },
+          {
+            "id": 130,
+            "soruMetni": "Soru 5 [Deneme 6 - Genel Karma]: Piyasa Dolandırıcılığı (Manipülasyon) suçu işleyen bir kimse hakkında uygulanacak hapis cezasının alt sınırı kaç yıldır?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "1 Yıl",
+              "C": "2 Yıl",
+              "D": "5 Yıl",
+              "E": "6 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 5 Çözümü: 6362 sayılı Kanun madde 107 uyarınca cezanın alt sınırı 3 yıldır."
+          },
+          {
+            "id": 131,
+            "soruMetni": "Soru 6 [Deneme 6 - Genel Karma]: Sermaye piyasası araçlarının kayden izlenmesi ve hak sahipliği kayıtlarının tutulduğu kurum hangisidir?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu (MKK)",
+              "B": "Takasbank",
+              "C": "Borsa İstanbul",
+              "D": "SPK",
+              "E": "TCMB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 6 Çözümü: MKK kaydileştirilen sermaye piyasası araçlarının merkezi saklama kuruluşudur."
+          },
+          {
+            "id": 132,
+            "soruMetni": "Soru 7 [Deneme 6 - Genel Karma]: Halka açık şirketlerde muhalif kalan ortakların sahip olduğu şirketten ayrılma hakkı hangi durumda doğar?",
+            "secenekler": {
+              "A": "Şirketin önemli nitelikteki işlemlerinde",
+              "B": "Her genel kurulda",
+              "C": "Sadece temettü dağıtılmadığında",
+              "D": "Sermaye artırımında",
+              "E": "Yönetim kurulu değiştiğinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 7 Çözümü: Birleşme, bölünme, tür değiştirme gibi önemli nitelikteki işlemlerde ayrılma hakkı kullanılır."
+          },
+          {
+            "id": 133,
+            "soruMetni": "Soru 8 [Deneme 6 - Genel Karma]: Bir işletmenin kısa vadeli borç ödeme gücünü gösteren Cari Oran formülü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar",
+              "B": "Duran Varlıklar / Özkaynaklar",
+              "C": "Net Kâr / Toplam Aktif",
+              "D": "Stoklar / Dönem Kârı",
+              "E": "Özkaynak / Toplam Borç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 8 Çözümü: Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar."
+          },
+          {
+            "id": 134,
+            "soruMetni": "Soru 9 [Deneme 6 - Genel Karma]: Likidite oranlarından Asit-Test Oranı hesaplanırken Dönen Varlıklardan hangi kalem çıkarılır?",
+            "secenekler": {
+              "A": "Stoklar",
+              "B": "Kasa",
+              "C": "Bankalar",
+              "D": "Alacaklar",
+              "E": "Menkul Kıymetler"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 9 Çözümü: Stoklar paraya en yavaş dönüşen kalem olduğu için Asit-Test oranında çıkarılır."
+          },
+          {
+            "id": 135,
+            "soruMetni": "Soru 10 [Deneme 6 - Genel Karma]: Dupont Analizine göre Özkaynak Kârlılığı (ROE) aşağıdakilerden hangisinin çarpımıdır?",
+            "secenekler": {
+              "A": "Net Kâr Marjı x Aktif Devir Hızı x Finansal Kaldıraç Oranı",
+              "B": "Brüt Kâr Marjı x Likidite Oranı",
+              "C": "Cari Oran x Stok Devir Hızı",
+              "D": "Faaliyet Kârı x Özkaynak Oranı",
+              "E": "Borç Oranı x Dönem Kârı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 10 Çözümü: Dupont analizi üç temel rasyonun bileşiminden oluşur."
+          },
+          {
+            "id": 136,
+            "soruMetni": "Soru 11 [Deneme 6 - Genel Karma]: Ağırlıklı Ortalama Sermaye Maliyeti (WACC) hangi analizde iskonto oranı olarak kullanılır?",
+            "secenekler": {
+              "A": "Net Bugünkü Değer (NBD) Analizinde",
+              "B": "Cari Oran Analizinde",
+              "C": "Stok Devir Hızında",
+              "D": "Asit Test Oranında",
+              "E": "Trend Analizinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 11 Çözümü: Yatırım projelerinin nakit akışları WACC ile bugüne indirgenir."
+          },
+          {
+            "id": 137,
+            "soruMetni": "Soru 12 [Deneme 6 - Genel Karma]: Nakit Oranı hesaplanmasında pay kısmında hangi bilanço kalemleri yer alır?",
+            "secenekler": {
+              "A": "Hazır Değerler + Menkul Kıymetler",
+              "B": "Stoklar + Alacaklar",
+              "C": "Duran Varlıklar",
+              "D": "Özkaynaklar",
+              "E": "Kısa Vadeli Borçlar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 12 Çözümü: Nakit oranı en likit varlıkları dikkate alır."
+          },
+          {
+            "id": 138,
+            "soruMetni": "Soru 13 [Deneme 6 - Genel Karma]: Aktif ve şeffaf bir piyasada yeterli sayıda benzer alım-satım verisi olduğunda hangi değerleme yaklaşımı tercih edilir?",
+            "secenekler": {
+              "A": "Emsal Karşılaştırma Yaklaşımı",
+              "B": "Maliyet Yaklaşımı",
+              "C": "Gelir İndirgeme Yaklaşımı",
+              "D": "Tasfiye Değeri",
+              "E": "Rant Yaklaşımı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 13 Çözümü: Emsal karşılaştırma en güvenilir piyasa bazlı değerleme yöntemidir."
+          },
+          {
+            "id": 139,
+            "soruMetni": "Soru 14 [Deneme 6 - Genel Karma]: Gelir İndirgeme Yaklaşımında kullanılan Kapitalizasyon Oranı formülü nedir?",
+            "secenekler": {
+              "A": "Yıllık Net Faaliyet Geliri / Gayrimenkul Değeri",
+              "B": "İnşaat Maliyeti / Arsa Alanı",
+              "C": "Kredi Faizi / Enflasyon",
+              "D": "Kira Geliri / Vergi Oranı",
+              "E": "Toplam Borç / Özkaynak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 14 Çözümü: Kapitalizasyon Oranı = Yıllık Net Gelir / Değer."
+          },
+          {
+            "id": 140,
+            "soruMetni": "Soru 15 [Deneme 6 - Genel Karma]: Gayrimenkul Yatırım Ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
+            "secenekler": {
+              "A": "%25",
+              "B": "%10",
+              "C": "%50",
+              "D": "%75",
+              "E": "%5"
+            },
+            "dogruCevap": "C",
+            "cozum": "Deneme 6 Soru 15 Çözümü: GYO'ların en az %25 oranında halka açık olması zorunludur."
+          },
+          {
+            "id": 141,
+            "soruMetni": "Soru 16 [Deneme 6 - Genel Karma]: Maliyet Yaklaşımında binanın yıpranma ve eskime payı hesaplanırken hangisi dikkate alınır?",
+            "secenekler": {
+              "A": "Fiziki ve Fonksiyonel Eskime",
+              "B": "Borsa Endeksi",
+              "C": "Döviz Kuru",
+              "D": "Mevduat Faizi",
+              "E": "Temettü Oranı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 16 Çözümü: Maliyet yaklaşımında binanın fiziki, fonksiyonel ve ekonomik eskimesi düşülür."
+          },
+          {
+            "id": 142,
+            "soruMetni": "Soru 17 [Deneme 6 - Genel Karma]: Vadeli işlem (Futures) sözleşmesinde alım tarafında yer alan yatırımcı hangi pozisyondadır?",
+            "secenekler": {
+              "A": "Uzun (Long) Pozisyon",
+              "B": "Kısa (Short) Pozisyon",
+              "C": "Nötr Pozisyon",
+              "D": "Swap Pozisyonu",
+              "E": "Arbitraj Pozisyonu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 17 Çözümü: Gelecekte dayanak varlığı satın alma yükümlülüğüne giren taraf Uzun (Long) pozisyondadır."
+          },
+          {
+            "id": 143,
+            "soruMetni": "Soru 18 [Deneme 6 - Genel Karma]: Bir Alım (Call) Opsiyonu satın alan opsiyon alıcısının maksimum zararı ne kadardır?",
+            "secenekler": {
+              "A": "Ödediği Opsiyon Primi kadar",
+              "B": "Sınırsızdır",
+              "C": "Dayanak varlığın tam fiyatı kadar",
+              "D": "Kullanım fiyatı kadar",
+              "E": "Zarar etmez"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 18 Çözümü: Opsiyon alıcısının riski ödediği prim ile sınırlıdır."
+          },
+          {
+            "id": 144,
+            "soruMetni": "Soru 19 [Deneme 6 - Genel Karma]: Satım (Put) Opsiyonu alan bir yatırımcının piyasa beklentisi nedir?",
+            "secenekler": {
+              "A": "Dayanak varlık fiyatının düşmesi",
+              "B": "Fiyatların yükselmesi",
+              "C": "Fiyatların sabit kalması",
+              "D": "Faizlerin düşmesi",
+              "E": "Enflasyonun sıfırlanması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 19 Çözümü: Put opsiyonu alıcısı fiyat düşüşünden kâr elde etmeyi hedefler."
+          },
+          {
+            "id": 145,
+            "soruMetni": "Soru 20 [Deneme 6 - Genel Karma]: Döviz riskinden korunmak (Hedging) isteyen bir ihracatçı vadeli piyasada nasıl pozisyon alır?",
+            "secenekler": {
+              "A": "Döviz satım (Short) pozisyonu alır",
+              "B": "Döviz alım (Long) pozisyonu alır",
+              "C": "Pozisyon almaz",
+              "D": "Hisse senedi alır",
+              "E": "Mevduat hesabı açar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 20 Çözümü: Gelecekte döviz alacağı olan ihracatçı kur düşüş riskine karşı döviz satım pozisyonu ile korunur."
+          },
+          {
+            "id": 146,
+            "soruMetni": "Soru 21 [Deneme 6 - Genel Karma]: Futures sözleşmelerinde günlük kâr/zararın hesaplanıp hesaplara yansıtılması işlemine ne ad verilir?",
+            "secenekler": {
+              "A": "Piyasaya Göre Değerleme (Marking to Market)",
+              "B": "İskonto Etme",
+              "C": "Temettü Dağıtımı",
+              "D": "Kupon Ödemesi",
+              "E": "Kredilendirme"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 21 Çözümü: Futures piyasalarında her gün sonu hesaplar piyasaya göre değerlenir (Mark to Market)."
+          },
+          {
+            "id": 147,
+            "soruMetni": "Soru 22 [Deneme 6 - Genel Karma]: TSPB üyelerinin müşterilerine karşı uymakla yükümlü olduğu temel dürüstlük ilkesi gereği hangisi yasaktır?",
+            "secenekler": {
+              "A": "Müşteriye getiri garantisi vermek",
+              "B": "Risk bildirim formu imzalatmak",
+              "C": "Sözleşme yapmak",
+              "D": "Piyasa analizi paylaşmak",
+              "E": "Komisyon tarifesi açıklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 22 Çözümü: Sermaye piyasasında garanti getiri taahhüt etmek kesinlikle yasaktır."
+          },
+          {
+            "id": 148,
+            "soruMetni": "Soru 23 [Deneme 6 - Genel Karma]: Müşteri sırlarının kanunen yetkili kılınan merciler dışında üçüncü kişilere açıklanmaması hangi ilkedir?",
+            "secenekler": {
+              "A": "Sır Saklama Yükümlülüğü",
+              "B": "Kamuyu Aydınlatma",
+              "C": "Şeffaflık",
+              "D": "Rekabet Yasama",
+              "E": "Kaldıraç İlkesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 23 Çözümü: Müşteri bilgilerinin gizliliği ve sır saklanması etik kuraldır."
+          },
+          {
+            "id": 149,
+            "soruMetni": "Soru 24 [Deneme 6 - Genel Karma]: Sermaye piyasası çalışanlarının çıkar çatışması durumunda izlemesi gereken tutum nedir?",
+            "secenekler": {
+              "A": "Müşteri yararını kendi ve kurum yararının üstünde tutmak",
+              "B": "Kendi portföyünü öncelemek",
+              "C": "Müşteriden komisyon saklamak",
+              "D": "Yanıltıcı bilgi vermek",
+              "E": "İşlemleri geciktirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 24 Çözümü: Çıkar çatışmasında tarafsızlık ve müşteri çıkarının korunması esastır."
+          },
+          {
+            "id": 150,
+            "soruMetni": "Soru 25 [Deneme 6 - Genel Karma]: Borsa İstanbul'da gerçekleşen işlemlerin takasını yürüten merkezi takas kuruluşu hangisidir?",
+            "secenekler": {
+              "A": "Takasbank (İstanbul Takas ve Saklama Bankası A.Ş.)",
+              "B": "MKK",
+              "C": "SPK",
+              "D": "Hazine",
+              "E": "TSPB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 6 Soru 25 Çözümü: Takasbank Borsa İstanbul işlemlerinin takasını ve merkezi karşı taraf hizmetini sunar."
+          }
+        ]
+      },
+      {
+        "testId": 7,
+        "testAdi": "Deneme Sınavı 7: Tüm Konular Karma (25 Soru)",
+        "sorular": [
+          {
+            "id": 151,
+            "soruMetni": "Soru 1 [Deneme 7 - Genel Karma]: 6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi sermaye piyasası kurumları arasında yer almaktadır?",
+            "secenekler": {
+              "A": "Portföy Yönetim Şirketleri",
+              "B": "Kuyumcular",
+              "C": "Döviz Büroları",
+              "D": "Ticaret Odaları",
+              "E": "Faktoring Şirketleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 1 Çözümü: Portföy Yönetim Şirketleri 6362 sayılı Kanunda tanımlanmış temel sermaye piyasası kurumlarındandır."
+          },
+          {
+            "id": 152,
+            "soruMetni": "Soru 2 [Deneme 7 - Genel Karma]: Sermaye piyasası araçlarının halka arzında yatırımcıların bilgilendirilmesi amacıyla hazırlanan temel kamuyu aydınlatma belgesi hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Faaliyet Raporu",
+              "C": "Sirküler",
+              "D": "Bilanço",
+              "E": "Gelir Tablosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 2 Çözümü: Halka arzda izahname yayımlanması zorunludur."
+          },
+          {
+            "id": 153,
+            "soruMetni": "Soru 3 [Deneme 7 - Genel Karma]: Özel Durumlar Tebliği (II-15.1) uyarınca kamuya açıklanması gereken içsel bilgilerin ertelenmesi yetkisi kime aittir?",
+            "secenekler": {
+              "A": "İhraççı şirketin kendi yönetim kuruluna/sorumluluğuna",
+              "B": "Sadece SPK'ya",
+              "C": "Borsa İstanbul'a",
+              "D": "MKK'ya",
+              "E": "Hazine Bakanlığına"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 3 Çözümü: İhraççılar meşru çıkarlarının korunması amacıyla erteleme kararını kendi sorumluluklarında alabilirler."
+          },
+          {
+            "id": 154,
+            "soruMetni": "Soru 4 [Deneme 7 - Genel Karma]: Kurumsal Yönetim Tebliği (II-17.1) uyarınca Denetimden Sorumlu Komitenin başkanı kimlerden seçilmek zorundadır?",
+            "secenekler": {
+              "A": "Bağımsız Yönetim Kurulu Üyeleri arasından",
+              "B": "Şirket Genel Müdüründen",
+              "C": "En büyük hissedardan",
+              "D": "İç denetçiden",
+              "E": "Mali işler direktöründen"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 4 Çözümü: Denetim komitesi başkanı ve üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur."
+          },
+          {
+            "id": 155,
+            "soruMetni": "Soru 5 [Deneme 7 - Genel Karma]: Piyasa Dolandırıcılığı (Manipülasyon) suçu işleyen bir kimse hakkında uygulanacak hapis cezasının alt sınırı kaç yıldır?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "1 Yıl",
+              "C": "2 Yıl",
+              "D": "5 Yıl",
+              "E": "6 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 5 Çözümü: 6362 sayılı Kanun madde 107 uyarınca cezanın alt sınırı 3 yıldır."
+          },
+          {
+            "id": 156,
+            "soruMetni": "Soru 6 [Deneme 7 - Genel Karma]: Sermaye piyasası araçlarının kayden izlenmesi ve hak sahipliği kayıtlarının tutulduğu kurum hangisidir?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu (MKK)",
+              "B": "Takasbank",
+              "C": "Borsa İstanbul",
+              "D": "SPK",
+              "E": "TCMB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 6 Çözümü: MKK kaydileştirilen sermaye piyasası araçlarının merkezi saklama kuruluşudur."
+          },
+          {
+            "id": 157,
+            "soruMetni": "Soru 7 [Deneme 7 - Genel Karma]: Halka açık şirketlerde muhalif kalan ortakların sahip olduğu şirketten ayrılma hakkı hangi durumda doğar?",
+            "secenekler": {
+              "A": "Şirketin önemli nitelikteki işlemlerinde",
+              "B": "Her genel kurulda",
+              "C": "Sadece temettü dağıtılmadığında",
+              "D": "Sermaye artırımında",
+              "E": "Yönetim kurulu değiştiğinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 7 Çözümü: Birleşme, bölünme, tür değiştirme gibi önemli nitelikteki işlemlerde ayrılma hakkı kullanılır."
+          },
+          {
+            "id": 158,
+            "soruMetni": "Soru 8 [Deneme 7 - Genel Karma]: Bir işletmenin kısa vadeli borç ödeme gücünü gösteren Cari Oran formülü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar",
+              "B": "Duran Varlıklar / Özkaynaklar",
+              "C": "Net Kâr / Toplam Aktif",
+              "D": "Stoklar / Dönem Kârı",
+              "E": "Özkaynak / Toplam Borç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 8 Çözümü: Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar."
+          },
+          {
+            "id": 159,
+            "soruMetni": "Soru 9 [Deneme 7 - Genel Karma]: Likidite oranlarından Asit-Test Oranı hesaplanırken Dönen Varlıklardan hangi kalem çıkarılır?",
+            "secenekler": {
+              "A": "Stoklar",
+              "B": "Kasa",
+              "C": "Bankalar",
+              "D": "Alacaklar",
+              "E": "Menkul Kıymetler"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 9 Çözümü: Stoklar paraya en yavaş dönüşen kalem olduğu için Asit-Test oranında çıkarılır."
+          },
+          {
+            "id": 160,
+            "soruMetni": "Soru 10 [Deneme 7 - Genel Karma]: Dupont Analizine göre Özkaynak Kârlılığı (ROE) aşağıdakilerden hangisinin çarpımıdır?",
+            "secenekler": {
+              "A": "Net Kâr Marjı x Aktif Devir Hızı x Finansal Kaldıraç Oranı",
+              "B": "Brüt Kâr Marjı x Likidite Oranı",
+              "C": "Cari Oran x Stok Devir Hızı",
+              "D": "Faaliyet Kârı x Özkaynak Oranı",
+              "E": "Borç Oranı x Dönem Kârı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 10 Çözümü: Dupont analizi üç temel rasyonun bileşiminden oluşur."
+          },
+          {
+            "id": 161,
+            "soruMetni": "Soru 11 [Deneme 7 - Genel Karma]: Ağırlıklı Ortalama Sermaye Maliyeti (WACC) hangi analizde iskonto oranı olarak kullanılır?",
+            "secenekler": {
+              "A": "Net Bugünkü Değer (NBD) Analizinde",
+              "B": "Cari Oran Analizinde",
+              "C": "Stok Devir Hızında",
+              "D": "Asit Test Oranında",
+              "E": "Trend Analizinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 11 Çözümü: Yatırım projelerinin nakit akışları WACC ile bugüne indirgenir."
+          },
+          {
+            "id": 162,
+            "soruMetni": "Soru 12 [Deneme 7 - Genel Karma]: Nakit Oranı hesaplanmasında pay kısmında hangi bilanço kalemleri yer alır?",
+            "secenekler": {
+              "A": "Hazır Değerler + Menkul Kıymetler",
+              "B": "Stoklar + Alacaklar",
+              "C": "Duran Varlıklar",
+              "D": "Özkaynaklar",
+              "E": "Kısa Vadeli Borçlar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 12 Çözümü: Nakit oranı en likit varlıkları dikkate alır."
+          },
+          {
+            "id": 163,
+            "soruMetni": "Soru 13 [Deneme 7 - Genel Karma]: Aktif ve şeffaf bir piyasada yeterli sayıda benzer alım-satım verisi olduğunda hangi değerleme yaklaşımı tercih edilir?",
+            "secenekler": {
+              "A": "Emsal Karşılaştırma Yaklaşımı",
+              "B": "Maliyet Yaklaşımı",
+              "C": "Gelir İndirgeme Yaklaşımı",
+              "D": "Tasfiye Değeri",
+              "E": "Rant Yaklaşımı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 13 Çözümü: Emsal karşılaştırma en güvenilir piyasa bazlı değerleme yöntemidir."
+          },
+          {
+            "id": 164,
+            "soruMetni": "Soru 14 [Deneme 7 - Genel Karma]: Gelir İndirgeme Yaklaşımında kullanılan Kapitalizasyon Oranı formülü nedir?",
+            "secenekler": {
+              "A": "Yıllık Net Faaliyet Geliri / Gayrimenkul Değeri",
+              "B": "İnşaat Maliyeti / Arsa Alanı",
+              "C": "Kredi Faizi / Enflasyon",
+              "D": "Kira Geliri / Vergi Oranı",
+              "E": "Toplam Borç / Özkaynak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 14 Çözümü: Kapitalizasyon Oranı = Yıllık Net Gelir / Değer."
+          },
+          {
+            "id": 165,
+            "soruMetni": "Soru 15 [Deneme 7 - Genel Karma]: Gayrimenkul Yatırım Ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
+            "secenekler": {
+              "A": "%25",
+              "B": "%10",
+              "C": "%50",
+              "D": "%75",
+              "E": "%5"
+            },
+            "dogruCevap": "C",
+            "cozum": "Deneme 7 Soru 15 Çözümü: GYO'ların en az %25 oranında halka açık olması zorunludur."
+          },
+          {
+            "id": 166,
+            "soruMetni": "Soru 16 [Deneme 7 - Genel Karma]: Maliyet Yaklaşımında binanın yıpranma ve eskime payı hesaplanırken hangisi dikkate alınır?",
+            "secenekler": {
+              "A": "Fiziki ve Fonksiyonel Eskime",
+              "B": "Borsa Endeksi",
+              "C": "Döviz Kuru",
+              "D": "Mevduat Faizi",
+              "E": "Temettü Oranı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 16 Çözümü: Maliyet yaklaşımında binanın fiziki, fonksiyonel ve ekonomik eskimesi düşülür."
+          },
+          {
+            "id": 167,
+            "soruMetni": "Soru 17 [Deneme 7 - Genel Karma]: Vadeli işlem (Futures) sözleşmesinde alım tarafında yer alan yatırımcı hangi pozisyondadır?",
+            "secenekler": {
+              "A": "Uzun (Long) Pozisyon",
+              "B": "Kısa (Short) Pozisyon",
+              "C": "Nötr Pozisyon",
+              "D": "Swap Pozisyonu",
+              "E": "Arbitraj Pozisyonu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 17 Çözümü: Gelecekte dayanak varlığı satın alma yükümlülüğüne giren taraf Uzun (Long) pozisyondadır."
+          },
+          {
+            "id": 168,
+            "soruMetni": "Soru 18 [Deneme 7 - Genel Karma]: Bir Alım (Call) Opsiyonu satın alan opsiyon alıcısının maksimum zararı ne kadardır?",
+            "secenekler": {
+              "A": "Ödediği Opsiyon Primi kadar",
+              "B": "Sınırsızdır",
+              "C": "Dayanak varlığın tam fiyatı kadar",
+              "D": "Kullanım fiyatı kadar",
+              "E": "Zarar etmez"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 18 Çözümü: Opsiyon alıcısının riski ödediği prim ile sınırlıdır."
+          },
+          {
+            "id": 169,
+            "soruMetni": "Soru 19 [Deneme 7 - Genel Karma]: Satım (Put) Opsiyonu alan bir yatırımcının piyasa beklentisi nedir?",
+            "secenekler": {
+              "A": "Dayanak varlık fiyatının düşmesi",
+              "B": "Fiyatların yükselmesi",
+              "C": "Fiyatların sabit kalması",
+              "D": "Faizlerin düşmesi",
+              "E": "Enflasyonun sıfırlanması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 19 Çözümü: Put opsiyonu alıcısı fiyat düşüşünden kâr elde etmeyi hedefler."
+          },
+          {
+            "id": 170,
+            "soruMetni": "Soru 20 [Deneme 7 - Genel Karma]: Döviz riskinden korunmak (Hedging) isteyen bir ihracatçı vadeli piyasada nasıl pozisyon alır?",
+            "secenekler": {
+              "A": "Döviz satım (Short) pozisyonu alır",
+              "B": "Döviz alım (Long) pozisyonu alır",
+              "C": "Pozisyon almaz",
+              "D": "Hisse senedi alır",
+              "E": "Mevduat hesabı açar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 20 Çözümü: Gelecekte döviz alacağı olan ihracatçı kur düşüş riskine karşı döviz satım pozisyonu ile korunur."
+          },
+          {
+            "id": 171,
+            "soruMetni": "Soru 21 [Deneme 7 - Genel Karma]: Futures sözleşmelerinde günlük kâr/zararın hesaplanıp hesaplara yansıtılması işlemine ne ad verilir?",
+            "secenekler": {
+              "A": "Piyasaya Göre Değerleme (Marking to Market)",
+              "B": "İskonto Etme",
+              "C": "Temettü Dağıtımı",
+              "D": "Kupon Ödemesi",
+              "E": "Kredilendirme"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 21 Çözümü: Futures piyasalarında her gün sonu hesaplar piyasaya göre değerlenir (Mark to Market)."
+          },
+          {
+            "id": 172,
+            "soruMetni": "Soru 22 [Deneme 7 - Genel Karma]: TSPB üyelerinin müşterilerine karşı uymakla yükümlü olduğu temel dürüstlük ilkesi gereği hangisi yasaktır?",
+            "secenekler": {
+              "A": "Müşteriye getiri garantisi vermek",
+              "B": "Risk bildirim formu imzalatmak",
+              "C": "Sözleşme yapmak",
+              "D": "Piyasa analizi paylaşmak",
+              "E": "Komisyon tarifesi açıklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 22 Çözümü: Sermaye piyasasında garanti getiri taahhüt etmek kesinlikle yasaktır."
+          },
+          {
+            "id": 173,
+            "soruMetni": "Soru 23 [Deneme 7 - Genel Karma]: Müşteri sırlarının kanunen yetkili kılınan merciler dışında üçüncü kişilere açıklanmaması hangi ilkedir?",
+            "secenekler": {
+              "A": "Sır Saklama Yükümlülüğü",
+              "B": "Kamuyu Aydınlatma",
+              "C": "Şeffaflık",
+              "D": "Rekabet Yasama",
+              "E": "Kaldıraç İlkesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 23 Çözümü: Müşteri bilgilerinin gizliliği ve sır saklanması etik kuraldır."
+          },
+          {
+            "id": 174,
+            "soruMetni": "Soru 24 [Deneme 7 - Genel Karma]: Sermaye piyasası çalışanlarının çıkar çatışması durumunda izlemesi gereken tutum nedir?",
+            "secenekler": {
+              "A": "Müşteri yararını kendi ve kurum yararının üstünde tutmak",
+              "B": "Kendi portföyünü öncelemek",
+              "C": "Müşteriden komisyon saklamak",
+              "D": "Yanıltıcı bilgi vermek",
+              "E": "İşlemleri geciktirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 24 Çözümü: Çıkar çatışmasında tarafsızlık ve müşteri çıkarının korunması esastır."
+          },
+          {
+            "id": 175,
+            "soruMetni": "Soru 25 [Deneme 7 - Genel Karma]: Borsa İstanbul'da gerçekleşen işlemlerin takasını yürüten merkezi takas kuruluşu hangisidir?",
+            "secenekler": {
+              "A": "Takasbank (İstanbul Takas ve Saklama Bankası A.Ş.)",
+              "B": "MKK",
+              "C": "SPK",
+              "D": "Hazine",
+              "E": "TSPB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 7 Soru 25 Çözümü: Takasbank Borsa İstanbul işlemlerinin takasını ve merkezi karşı taraf hizmetini sunar."
+          }
+        ]
+      },
+      {
+        "testId": 8,
+        "testAdi": "Deneme Sınavı 8: Tüm Konular Karma (25 Soru)",
+        "sorular": [
+          {
+            "id": 176,
+            "soruMetni": "Soru 1 [Deneme 8 - Genel Karma]: 6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi sermaye piyasası kurumları arasında yer almaktadır?",
+            "secenekler": {
+              "A": "Portföy Yönetim Şirketleri",
+              "B": "Kuyumcular",
+              "C": "Döviz Büroları",
+              "D": "Ticaret Odaları",
+              "E": "Faktoring Şirketleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 1 Çözümü: Portföy Yönetim Şirketleri 6362 sayılı Kanunda tanımlanmış temel sermaye piyasası kurumlarındandır."
+          },
+          {
+            "id": 177,
+            "soruMetni": "Soru 2 [Deneme 8 - Genel Karma]: Sermaye piyasası araçlarının halka arzında yatırımcıların bilgilendirilmesi amacıyla hazırlanan temel kamuyu aydınlatma belgesi hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Faaliyet Raporu",
+              "C": "Sirküler",
+              "D": "Bilanço",
+              "E": "Gelir Tablosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 2 Çözümü: Halka arzda izahname yayımlanması zorunludur."
+          },
+          {
+            "id": 178,
+            "soruMetni": "Soru 3 [Deneme 8 - Genel Karma]: Özel Durumlar Tebliği (II-15.1) uyarınca kamuya açıklanması gereken içsel bilgilerin ertelenmesi yetkisi kime aittir?",
+            "secenekler": {
+              "A": "İhraççı şirketin kendi yönetim kuruluna/sorumluluğuna",
+              "B": "Sadece SPK'ya",
+              "C": "Borsa İstanbul'a",
+              "D": "MKK'ya",
+              "E": "Hazine Bakanlığına"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 3 Çözümü: İhraççılar meşru çıkarlarının korunması amacıyla erteleme kararını kendi sorumluluklarında alabilirler."
+          },
+          {
+            "id": 179,
+            "soruMetni": "Soru 4 [Deneme 8 - Genel Karma]: Kurumsal Yönetim Tebliği (II-17.1) uyarınca Denetimden Sorumlu Komitenin başkanı kimlerden seçilmek zorundadır?",
+            "secenekler": {
+              "A": "Bağımsız Yönetim Kurulu Üyeleri arasından",
+              "B": "Şirket Genel Müdüründen",
+              "C": "En büyük hissedardan",
+              "D": "İç denetçiden",
+              "E": "Mali işler direktöründen"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 4 Çözümü: Denetim komitesi başkanı ve üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur."
+          },
+          {
+            "id": 180,
+            "soruMetni": "Soru 5 [Deneme 8 - Genel Karma]: Piyasa Dolandırıcılığı (Manipülasyon) suçu işleyen bir kimse hakkında uygulanacak hapis cezasının alt sınırı kaç yıldır?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "1 Yıl",
+              "C": "2 Yıl",
+              "D": "5 Yıl",
+              "E": "6 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 5 Çözümü: 6362 sayılı Kanun madde 107 uyarınca cezanın alt sınırı 3 yıldır."
+          },
+          {
+            "id": 181,
+            "soruMetni": "Soru 6 [Deneme 8 - Genel Karma]: Sermaye piyasası araçlarının kayden izlenmesi ve hak sahipliği kayıtlarının tutulduğu kurum hangisidir?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu (MKK)",
+              "B": "Takasbank",
+              "C": "Borsa İstanbul",
+              "D": "SPK",
+              "E": "TCMB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 6 Çözümü: MKK kaydileştirilen sermaye piyasası araçlarının merkezi saklama kuruluşudur."
+          },
+          {
+            "id": 182,
+            "soruMetni": "Soru 7 [Deneme 8 - Genel Karma]: Halka açık şirketlerde muhalif kalan ortakların sahip olduğu şirketten ayrılma hakkı hangi durumda doğar?",
+            "secenekler": {
+              "A": "Şirketin önemli nitelikteki işlemlerinde",
+              "B": "Her genel kurulda",
+              "C": "Sadece temettü dağıtılmadığında",
+              "D": "Sermaye artırımında",
+              "E": "Yönetim kurulu değiştiğinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 7 Çözümü: Birleşme, bölünme, tür değiştirme gibi önemli nitelikteki işlemlerde ayrılma hakkı kullanılır."
+          },
+          {
+            "id": 183,
+            "soruMetni": "Soru 8 [Deneme 8 - Genel Karma]: Bir işletmenin kısa vadeli borç ödeme gücünü gösteren Cari Oran formülü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar",
+              "B": "Duran Varlıklar / Özkaynaklar",
+              "C": "Net Kâr / Toplam Aktif",
+              "D": "Stoklar / Dönem Kârı",
+              "E": "Özkaynak / Toplam Borç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 8 Çözümü: Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar."
+          },
+          {
+            "id": 184,
+            "soruMetni": "Soru 9 [Deneme 8 - Genel Karma]: Likidite oranlarından Asit-Test Oranı hesaplanırken Dönen Varlıklardan hangi kalem çıkarılır?",
+            "secenekler": {
+              "A": "Stoklar",
+              "B": "Kasa",
+              "C": "Bankalar",
+              "D": "Alacaklar",
+              "E": "Menkul Kıymetler"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 9 Çözümü: Stoklar paraya en yavaş dönüşen kalem olduğu için Asit-Test oranında çıkarılır."
+          },
+          {
+            "id": 185,
+            "soruMetni": "Soru 10 [Deneme 8 - Genel Karma]: Dupont Analizine göre Özkaynak Kârlılığı (ROE) aşağıdakilerden hangisinin çarpımıdır?",
+            "secenekler": {
+              "A": "Net Kâr Marjı x Aktif Devir Hızı x Finansal Kaldıraç Oranı",
+              "B": "Brüt Kâr Marjı x Likidite Oranı",
+              "C": "Cari Oran x Stok Devir Hızı",
+              "D": "Faaliyet Kârı x Özkaynak Oranı",
+              "E": "Borç Oranı x Dönem Kârı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 10 Çözümü: Dupont analizi üç temel rasyonun bileşiminden oluşur."
+          },
+          {
+            "id": 186,
+            "soruMetni": "Soru 11 [Deneme 8 - Genel Karma]: Ağırlıklı Ortalama Sermaye Maliyeti (WACC) hangi analizde iskonto oranı olarak kullanılır?",
+            "secenekler": {
+              "A": "Net Bugünkü Değer (NBD) Analizinde",
+              "B": "Cari Oran Analizinde",
+              "C": "Stok Devir Hızında",
+              "D": "Asit Test Oranında",
+              "E": "Trend Analizinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 11 Çözümü: Yatırım projelerinin nakit akışları WACC ile bugüne indirgenir."
+          },
+          {
+            "id": 187,
+            "soruMetni": "Soru 12 [Deneme 8 - Genel Karma]: Nakit Oranı hesaplanmasında pay kısmında hangi bilanço kalemleri yer alır?",
+            "secenekler": {
+              "A": "Hazır Değerler + Menkul Kıymetler",
+              "B": "Stoklar + Alacaklar",
+              "C": "Duran Varlıklar",
+              "D": "Özkaynaklar",
+              "E": "Kısa Vadeli Borçlar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 12 Çözümü: Nakit oranı en likit varlıkları dikkate alır."
+          },
+          {
+            "id": 188,
+            "soruMetni": "Soru 13 [Deneme 8 - Genel Karma]: Aktif ve şeffaf bir piyasada yeterli sayıda benzer alım-satım verisi olduğunda hangi değerleme yaklaşımı tercih edilir?",
+            "secenekler": {
+              "A": "Emsal Karşılaştırma Yaklaşımı",
+              "B": "Maliyet Yaklaşımı",
+              "C": "Gelir İndirgeme Yaklaşımı",
+              "D": "Tasfiye Değeri",
+              "E": "Rant Yaklaşımı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 13 Çözümü: Emsal karşılaştırma en güvenilir piyasa bazlı değerleme yöntemidir."
+          },
+          {
+            "id": 189,
+            "soruMetni": "Soru 14 [Deneme 8 - Genel Karma]: Gelir İndirgeme Yaklaşımında kullanılan Kapitalizasyon Oranı formülü nedir?",
+            "secenekler": {
+              "A": "Yıllık Net Faaliyet Geliri / Gayrimenkul Değeri",
+              "B": "İnşaat Maliyeti / Arsa Alanı",
+              "C": "Kredi Faizi / Enflasyon",
+              "D": "Kira Geliri / Vergi Oranı",
+              "E": "Toplam Borç / Özkaynak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 14 Çözümü: Kapitalizasyon Oranı = Yıllık Net Gelir / Değer."
+          },
+          {
+            "id": 190,
+            "soruMetni": "Soru 15 [Deneme 8 - Genel Karma]: Gayrimenkul Yatırım Ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
+            "secenekler": {
+              "A": "%25",
+              "B": "%10",
+              "C": "%50",
+              "D": "%75",
+              "E": "%5"
+            },
+            "dogruCevap": "C",
+            "cozum": "Deneme 8 Soru 15 Çözümü: GYO'ların en az %25 oranında halka açık olması zorunludur."
+          },
+          {
+            "id": 191,
+            "soruMetni": "Soru 16 [Deneme 8 - Genel Karma]: Maliyet Yaklaşımında binanın yıpranma ve eskime payı hesaplanırken hangisi dikkate alınır?",
+            "secenekler": {
+              "A": "Fiziki ve Fonksiyonel Eskime",
+              "B": "Borsa Endeksi",
+              "C": "Döviz Kuru",
+              "D": "Mevduat Faizi",
+              "E": "Temettü Oranı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 16 Çözümü: Maliyet yaklaşımında binanın fiziki, fonksiyonel ve ekonomik eskimesi düşülür."
+          },
+          {
+            "id": 192,
+            "soruMetni": "Soru 17 [Deneme 8 - Genel Karma]: Vadeli işlem (Futures) sözleşmesinde alım tarafında yer alan yatırımcı hangi pozisyondadır?",
+            "secenekler": {
+              "A": "Uzun (Long) Pozisyon",
+              "B": "Kısa (Short) Pozisyon",
+              "C": "Nötr Pozisyon",
+              "D": "Swap Pozisyonu",
+              "E": "Arbitraj Pozisyonu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 17 Çözümü: Gelecekte dayanak varlığı satın alma yükümlülüğüne giren taraf Uzun (Long) pozisyondadır."
+          },
+          {
+            "id": 193,
+            "soruMetni": "Soru 18 [Deneme 8 - Genel Karma]: Bir Alım (Call) Opsiyonu satın alan opsiyon alıcısının maksimum zararı ne kadardır?",
+            "secenekler": {
+              "A": "Ödediği Opsiyon Primi kadar",
+              "B": "Sınırsızdır",
+              "C": "Dayanak varlığın tam fiyatı kadar",
+              "D": "Kullanım fiyatı kadar",
+              "E": "Zarar etmez"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 18 Çözümü: Opsiyon alıcısının riski ödediği prim ile sınırlıdır."
+          },
+          {
+            "id": 194,
+            "soruMetni": "Soru 19 [Deneme 8 - Genel Karma]: Satım (Put) Opsiyonu alan bir yatırımcının piyasa beklentisi nedir?",
+            "secenekler": {
+              "A": "Dayanak varlık fiyatının düşmesi",
+              "B": "Fiyatların yükselmesi",
+              "C": "Fiyatların sabit kalması",
+              "D": "Faizlerin düşmesi",
+              "E": "Enflasyonun sıfırlanması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 19 Çözümü: Put opsiyonu alıcısı fiyat düşüşünden kâr elde etmeyi hedefler."
+          },
+          {
+            "id": 195,
+            "soruMetni": "Soru 20 [Deneme 8 - Genel Karma]: Döviz riskinden korunmak (Hedging) isteyen bir ihracatçı vadeli piyasada nasıl pozisyon alır?",
+            "secenekler": {
+              "A": "Döviz satım (Short) pozisyonu alır",
+              "B": "Döviz alım (Long) pozisyonu alır",
+              "C": "Pozisyon almaz",
+              "D": "Hisse senedi alır",
+              "E": "Mevduat hesabı açar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 20 Çözümü: Gelecekte döviz alacağı olan ihracatçı kur düşüş riskine karşı döviz satım pozisyonu ile korunur."
+          },
+          {
+            "id": 196,
+            "soruMetni": "Soru 21 [Deneme 8 - Genel Karma]: Futures sözleşmelerinde günlük kâr/zararın hesaplanıp hesaplara yansıtılması işlemine ne ad verilir?",
+            "secenekler": {
+              "A": "Piyasaya Göre Değerleme (Marking to Market)",
+              "B": "İskonto Etme",
+              "C": "Temettü Dağıtımı",
+              "D": "Kupon Ödemesi",
+              "E": "Kredilendirme"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 21 Çözümü: Futures piyasalarında her gün sonu hesaplar piyasaya göre değerlenir (Mark to Market)."
+          },
+          {
+            "id": 197,
+            "soruMetni": "Soru 22 [Deneme 8 - Genel Karma]: TSPB üyelerinin müşterilerine karşı uymakla yükümlü olduğu temel dürüstlük ilkesi gereği hangisi yasaktır?",
+            "secenekler": {
+              "A": "Müşteriye getiri garantisi vermek",
+              "B": "Risk bildirim formu imzalatmak",
+              "C": "Sözleşme yapmak",
+              "D": "Piyasa analizi paylaşmak",
+              "E": "Komisyon tarifesi açıklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 22 Çözümü: Sermaye piyasasında garanti getiri taahhüt etmek kesinlikle yasaktır."
+          },
+          {
+            "id": 198,
+            "soruMetni": "Soru 23 [Deneme 8 - Genel Karma]: Müşteri sırlarının kanunen yetkili kılınan merciler dışında üçüncü kişilere açıklanmaması hangi ilkedir?",
+            "secenekler": {
+              "A": "Sır Saklama Yükümlülüğü",
+              "B": "Kamuyu Aydınlatma",
+              "C": "Şeffaflık",
+              "D": "Rekabet Yasama",
+              "E": "Kaldıraç İlkesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 23 Çözümü: Müşteri bilgilerinin gizliliği ve sır saklanması etik kuraldır."
+          },
+          {
+            "id": 199,
+            "soruMetni": "Soru 24 [Deneme 8 - Genel Karma]: Sermaye piyasası çalışanlarının çıkar çatışması durumunda izlemesi gereken tutum nedir?",
+            "secenekler": {
+              "A": "Müşteri yararını kendi ve kurum yararının üstünde tutmak",
+              "B": "Kendi portföyünü öncelemek",
+              "C": "Müşteriden komisyon saklamak",
+              "D": "Yanıltıcı bilgi vermek",
+              "E": "İşlemleri geciktirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 24 Çözümü: Çıkar çatışmasında tarafsızlık ve müşteri çıkarının korunması esastır."
+          },
+          {
+            "id": 200,
+            "soruMetni": "Soru 25 [Deneme 8 - Genel Karma]: Borsa İstanbul'da gerçekleşen işlemlerin takasını yürüten merkezi takas kuruluşu hangisidir?",
+            "secenekler": {
+              "A": "Takasbank (İstanbul Takas ve Saklama Bankası A.Ş.)",
+              "B": "MKK",
+              "C": "SPK",
+              "D": "Hazine",
+              "E": "TSPB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 8 Soru 25 Çözümü: Takasbank Borsa İstanbul işlemlerinin takasını ve merkezi karşı taraf hizmetini sunar."
+          }
+        ]
+      },
+      {
+        "testId": 9,
+        "testAdi": "Deneme Sınavı 9: Tüm Konular Karma (25 Soru)",
+        "sorular": [
+          {
+            "id": 201,
+            "soruMetni": "Soru 1 [Deneme 9 - Genel Karma]: 6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi sermaye piyasası kurumları arasında yer almaktadır?",
+            "secenekler": {
+              "A": "Portföy Yönetim Şirketleri",
+              "B": "Kuyumcular",
+              "C": "Döviz Büroları",
+              "D": "Ticaret Odaları",
+              "E": "Faktoring Şirketleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 1 Çözümü: Portföy Yönetim Şirketleri 6362 sayılı Kanunda tanımlanmış temel sermaye piyasası kurumlarındandır."
+          },
+          {
+            "id": 202,
+            "soruMetni": "Soru 2 [Deneme 9 - Genel Karma]: Sermaye piyasası araçlarının halka arzında yatırımcıların bilgilendirilmesi amacıyla hazırlanan temel kamuyu aydınlatma belgesi hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Faaliyet Raporu",
+              "C": "Sirküler",
+              "D": "Bilanço",
+              "E": "Gelir Tablosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 2 Çözümü: Halka arzda izahname yayımlanması zorunludur."
+          },
+          {
+            "id": 203,
+            "soruMetni": "Soru 3 [Deneme 9 - Genel Karma]: Özel Durumlar Tebliği (II-15.1) uyarınca kamuya açıklanması gereken içsel bilgilerin ertelenmesi yetkisi kime aittir?",
+            "secenekler": {
+              "A": "İhraççı şirketin kendi yönetim kuruluna/sorumluluğuna",
+              "B": "Sadece SPK'ya",
+              "C": "Borsa İstanbul'a",
+              "D": "MKK'ya",
+              "E": "Hazine Bakanlığına"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 3 Çözümü: İhraççılar meşru çıkarlarının korunması amacıyla erteleme kararını kendi sorumluluklarında alabilirler."
+          },
+          {
+            "id": 204,
+            "soruMetni": "Soru 4 [Deneme 9 - Genel Karma]: Kurumsal Yönetim Tebliği (II-17.1) uyarınca Denetimden Sorumlu Komitenin başkanı kimlerden seçilmek zorundadır?",
+            "secenekler": {
+              "A": "Bağımsız Yönetim Kurulu Üyeleri arasından",
+              "B": "Şirket Genel Müdüründen",
+              "C": "En büyük hissedardan",
+              "D": "İç denetçiden",
+              "E": "Mali işler direktöründen"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 4 Çözümü: Denetim komitesi başkanı ve üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur."
+          },
+          {
+            "id": 205,
+            "soruMetni": "Soru 5 [Deneme 9 - Genel Karma]: Piyasa Dolandırıcılığı (Manipülasyon) suçu işleyen bir kimse hakkında uygulanacak hapis cezasının alt sınırı kaç yıldır?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "1 Yıl",
+              "C": "2 Yıl",
+              "D": "5 Yıl",
+              "E": "6 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 5 Çözümü: 6362 sayılı Kanun madde 107 uyarınca cezanın alt sınırı 3 yıldır."
+          },
+          {
+            "id": 206,
+            "soruMetni": "Soru 6 [Deneme 9 - Genel Karma]: Sermaye piyasası araçlarının kayden izlenmesi ve hak sahipliği kayıtlarının tutulduğu kurum hangisidir?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu (MKK)",
+              "B": "Takasbank",
+              "C": "Borsa İstanbul",
+              "D": "SPK",
+              "E": "TCMB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 6 Çözümü: MKK kaydileştirilen sermaye piyasası araçlarının merkezi saklama kuruluşudur."
+          },
+          {
+            "id": 207,
+            "soruMetni": "Soru 7 [Deneme 9 - Genel Karma]: Halka açık şirketlerde muhalif kalan ortakların sahip olduğu şirketten ayrılma hakkı hangi durumda doğar?",
+            "secenekler": {
+              "A": "Şirketin önemli nitelikteki işlemlerinde",
+              "B": "Her genel kurulda",
+              "C": "Sadece temettü dağıtılmadığında",
+              "D": "Sermaye artırımında",
+              "E": "Yönetim kurulu değiştiğinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 7 Çözümü: Birleşme, bölünme, tür değiştirme gibi önemli nitelikteki işlemlerde ayrılma hakkı kullanılır."
+          },
+          {
+            "id": 208,
+            "soruMetni": "Soru 8 [Deneme 9 - Genel Karma]: Bir işletmenin kısa vadeli borç ödeme gücünü gösteren Cari Oran formülü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar",
+              "B": "Duran Varlıklar / Özkaynaklar",
+              "C": "Net Kâr / Toplam Aktif",
+              "D": "Stoklar / Dönem Kârı",
+              "E": "Özkaynak / Toplam Borç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 8 Çözümü: Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar."
+          },
+          {
+            "id": 209,
+            "soruMetni": "Soru 9 [Deneme 9 - Genel Karma]: Likidite oranlarından Asit-Test Oranı hesaplanırken Dönen Varlıklardan hangi kalem çıkarılır?",
+            "secenekler": {
+              "A": "Stoklar",
+              "B": "Kasa",
+              "C": "Bankalar",
+              "D": "Alacaklar",
+              "E": "Menkul Kıymetler"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 9 Çözümü: Stoklar paraya en yavaş dönüşen kalem olduğu için Asit-Test oranında çıkarılır."
+          },
+          {
+            "id": 210,
+            "soruMetni": "Soru 10 [Deneme 9 - Genel Karma]: Dupont Analizine göre Özkaynak Kârlılığı (ROE) aşağıdakilerden hangisinin çarpımıdır?",
+            "secenekler": {
+              "A": "Net Kâr Marjı x Aktif Devir Hızı x Finansal Kaldıraç Oranı",
+              "B": "Brüt Kâr Marjı x Likidite Oranı",
+              "C": "Cari Oran x Stok Devir Hızı",
+              "D": "Faaliyet Kârı x Özkaynak Oranı",
+              "E": "Borç Oranı x Dönem Kârı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 10 Çözümü: Dupont analizi üç temel rasyonun bileşiminden oluşur."
+          },
+          {
+            "id": 211,
+            "soruMetni": "Soru 11 [Deneme 9 - Genel Karma]: Ağırlıklı Ortalama Sermaye Maliyeti (WACC) hangi analizde iskonto oranı olarak kullanılır?",
+            "secenekler": {
+              "A": "Net Bugünkü Değer (NBD) Analizinde",
+              "B": "Cari Oran Analizinde",
+              "C": "Stok Devir Hızında",
+              "D": "Asit Test Oranında",
+              "E": "Trend Analizinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 11 Çözümü: Yatırım projelerinin nakit akışları WACC ile bugüne indirgenir."
+          },
+          {
+            "id": 212,
+            "soruMetni": "Soru 12 [Deneme 9 - Genel Karma]: Nakit Oranı hesaplanmasında pay kısmında hangi bilanço kalemleri yer alır?",
+            "secenekler": {
+              "A": "Hazır Değerler + Menkul Kıymetler",
+              "B": "Stoklar + Alacaklar",
+              "C": "Duran Varlıklar",
+              "D": "Özkaynaklar",
+              "E": "Kısa Vadeli Borçlar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 12 Çözümü: Nakit oranı en likit varlıkları dikkate alır."
+          },
+          {
+            "id": 213,
+            "soruMetni": "Soru 13 [Deneme 9 - Genel Karma]: Aktif ve şeffaf bir piyasada yeterli sayıda benzer alım-satım verisi olduğunda hangi değerleme yaklaşımı tercih edilir?",
+            "secenekler": {
+              "A": "Emsal Karşılaştırma Yaklaşımı",
+              "B": "Maliyet Yaklaşımı",
+              "C": "Gelir İndirgeme Yaklaşımı",
+              "D": "Tasfiye Değeri",
+              "E": "Rant Yaklaşımı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 13 Çözümü: Emsal karşılaştırma en güvenilir piyasa bazlı değerleme yöntemidir."
+          },
+          {
+            "id": 214,
+            "soruMetni": "Soru 14 [Deneme 9 - Genel Karma]: Gelir İndirgeme Yaklaşımında kullanılan Kapitalizasyon Oranı formülü nedir?",
+            "secenekler": {
+              "A": "Yıllık Net Faaliyet Geliri / Gayrimenkul Değeri",
+              "B": "İnşaat Maliyeti / Arsa Alanı",
+              "C": "Kredi Faizi / Enflasyon",
+              "D": "Kira Geliri / Vergi Oranı",
+              "E": "Toplam Borç / Özkaynak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 14 Çözümü: Kapitalizasyon Oranı = Yıllık Net Gelir / Değer."
+          },
+          {
+            "id": 215,
+            "soruMetni": "Soru 15 [Deneme 9 - Genel Karma]: Gayrimenkul Yatırım Ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
+            "secenekler": {
+              "A": "%25",
+              "B": "%10",
+              "C": "%50",
+              "D": "%75",
+              "E": "%5"
+            },
+            "dogruCevap": "C",
+            "cozum": "Deneme 9 Soru 15 Çözümü: GYO'ların en az %25 oranında halka açık olması zorunludur."
+          },
+          {
+            "id": 216,
+            "soruMetni": "Soru 16 [Deneme 9 - Genel Karma]: Maliyet Yaklaşımında binanın yıpranma ve eskime payı hesaplanırken hangisi dikkate alınır?",
+            "secenekler": {
+              "A": "Fiziki ve Fonksiyonel Eskime",
+              "B": "Borsa Endeksi",
+              "C": "Döviz Kuru",
+              "D": "Mevduat Faizi",
+              "E": "Temettü Oranı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 16 Çözümü: Maliyet yaklaşımında binanın fiziki, fonksiyonel ve ekonomik eskimesi düşülür."
+          },
+          {
+            "id": 217,
+            "soruMetni": "Soru 17 [Deneme 9 - Genel Karma]: Vadeli işlem (Futures) sözleşmesinde alım tarafında yer alan yatırımcı hangi pozisyondadır?",
+            "secenekler": {
+              "A": "Uzun (Long) Pozisyon",
+              "B": "Kısa (Short) Pozisyon",
+              "C": "Nötr Pozisyon",
+              "D": "Swap Pozisyonu",
+              "E": "Arbitraj Pozisyonu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 17 Çözümü: Gelecekte dayanak varlığı satın alma yükümlülüğüne giren taraf Uzun (Long) pozisyondadır."
+          },
+          {
+            "id": 218,
+            "soruMetni": "Soru 18 [Deneme 9 - Genel Karma]: Bir Alım (Call) Opsiyonu satın alan opsiyon alıcısının maksimum zararı ne kadardır?",
+            "secenekler": {
+              "A": "Ödediği Opsiyon Primi kadar",
+              "B": "Sınırsızdır",
+              "C": "Dayanak varlığın tam fiyatı kadar",
+              "D": "Kullanım fiyatı kadar",
+              "E": "Zarar etmez"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 18 Çözümü: Opsiyon alıcısının riski ödediği prim ile sınırlıdır."
+          },
+          {
+            "id": 219,
+            "soruMetni": "Soru 19 [Deneme 9 - Genel Karma]: Satım (Put) Opsiyonu alan bir yatırımcının piyasa beklentisi nedir?",
+            "secenekler": {
+              "A": "Dayanak varlık fiyatının düşmesi",
+              "B": "Fiyatların yükselmesi",
+              "C": "Fiyatların sabit kalması",
+              "D": "Faizlerin düşmesi",
+              "E": "Enflasyonun sıfırlanması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 19 Çözümü: Put opsiyonu alıcısı fiyat düşüşünden kâr elde etmeyi hedefler."
+          },
+          {
+            "id": 220,
+            "soruMetni": "Soru 20 [Deneme 9 - Genel Karma]: Döviz riskinden korunmak (Hedging) isteyen bir ihracatçı vadeli piyasada nasıl pozisyon alır?",
+            "secenekler": {
+              "A": "Döviz satım (Short) pozisyonu alır",
+              "B": "Döviz alım (Long) pozisyonu alır",
+              "C": "Pozisyon almaz",
+              "D": "Hisse senedi alır",
+              "E": "Mevduat hesabı açar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 20 Çözümü: Gelecekte döviz alacağı olan ihracatçı kur düşüş riskine karşı döviz satım pozisyonu ile korunur."
+          },
+          {
+            "id": 221,
+            "soruMetni": "Soru 21 [Deneme 9 - Genel Karma]: Futures sözleşmelerinde günlük kâr/zararın hesaplanıp hesaplara yansıtılması işlemine ne ad verilir?",
+            "secenekler": {
+              "A": "Piyasaya Göre Değerleme (Marking to Market)",
+              "B": "İskonto Etme",
+              "C": "Temettü Dağıtımı",
+              "D": "Kupon Ödemesi",
+              "E": "Kredilendirme"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 21 Çözümü: Futures piyasalarında her gün sonu hesaplar piyasaya göre değerlenir (Mark to Market)."
+          },
+          {
+            "id": 222,
+            "soruMetni": "Soru 22 [Deneme 9 - Genel Karma]: TSPB üyelerinin müşterilerine karşı uymakla yükümlü olduğu temel dürüstlük ilkesi gereği hangisi yasaktır?",
+            "secenekler": {
+              "A": "Müşteriye getiri garantisi vermek",
+              "B": "Risk bildirim formu imzalatmak",
+              "C": "Sözleşme yapmak",
+              "D": "Piyasa analizi paylaşmak",
+              "E": "Komisyon tarifesi açıklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 22 Çözümü: Sermaye piyasasında garanti getiri taahhüt etmek kesinlikle yasaktır."
+          },
+          {
+            "id": 223,
+            "soruMetni": "Soru 23 [Deneme 9 - Genel Karma]: Müşteri sırlarının kanunen yetkili kılınan merciler dışında üçüncü kişilere açıklanmaması hangi ilkedir?",
+            "secenekler": {
+              "A": "Sır Saklama Yükümlülüğü",
+              "B": "Kamuyu Aydınlatma",
+              "C": "Şeffaflık",
+              "D": "Rekabet Yasama",
+              "E": "Kaldıraç İlkesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 23 Çözümü: Müşteri bilgilerinin gizliliği ve sır saklanması etik kuraldır."
+          },
+          {
+            "id": 224,
+            "soruMetni": "Soru 24 [Deneme 9 - Genel Karma]: Sermaye piyasası çalışanlarının çıkar çatışması durumunda izlemesi gereken tutum nedir?",
+            "secenekler": {
+              "A": "Müşteri yararını kendi ve kurum yararının üstünde tutmak",
+              "B": "Kendi portföyünü öncelemek",
+              "C": "Müşteriden komisyon saklamak",
+              "D": "Yanıltıcı bilgi vermek",
+              "E": "İşlemleri geciktirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 24 Çözümü: Çıkar çatışmasında tarafsızlık ve müşteri çıkarının korunması esastır."
+          },
+          {
+            "id": 225,
+            "soruMetni": "Soru 25 [Deneme 9 - Genel Karma]: Borsa İstanbul'da gerçekleşen işlemlerin takasını yürüten merkezi takas kuruluşu hangisidir?",
+            "secenekler": {
+              "A": "Takasbank (İstanbul Takas ve Saklama Bankası A.Ş.)",
+              "B": "MKK",
+              "C": "SPK",
+              "D": "Hazine",
+              "E": "TSPB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 9 Soru 25 Çözümü: Takasbank Borsa İstanbul işlemlerinin takasını ve merkezi karşı taraf hizmetini sunar."
+          }
+        ]
+      },
+      {
+        "testId": 10,
+        "testAdi": "Deneme Sınavı 10: Tüm Konular Karma (25 Soru)",
+        "sorular": [
+          {
+            "id": 226,
+            "soruMetni": "Soru 1 [Deneme 10 - Genel Karma]: 6362 sayılı Sermaye Piyasası Kanununa göre aşağıdakilerden hangisi sermaye piyasası kurumları arasında yer almaktadır?",
+            "secenekler": {
+              "A": "Portföy Yönetim Şirketleri",
+              "B": "Kuyumcular",
+              "C": "Döviz Büroları",
+              "D": "Ticaret Odaları",
+              "E": "Faktoring Şirketleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 1 Çözümü: Portföy Yönetim Şirketleri 6362 sayılı Kanunda tanımlanmış temel sermaye piyasası kurumlarındandır."
+          },
+          {
+            "id": 227,
+            "soruMetni": "Soru 2 [Deneme 10 - Genel Karma]: Sermaye piyasası araçlarının halka arzında yatırımcıların bilgilendirilmesi amacıyla hazırlanan temel kamuyu aydınlatma belgesi hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Faaliyet Raporu",
+              "C": "Sirküler",
+              "D": "Bilanço",
+              "E": "Gelir Tablosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 2 Çözümü: Halka arzda izahname yayımlanması zorunludur."
+          },
+          {
+            "id": 228,
+            "soruMetni": "Soru 3 [Deneme 10 - Genel Karma]: Özel Durumlar Tebliği (II-15.1) uyarınca kamuya açıklanması gereken içsel bilgilerin ertelenmesi yetkisi kime aittir?",
+            "secenekler": {
+              "A": "İhraççı şirketin kendi yönetim kuruluna/sorumluluğuna",
+              "B": "Sadece SPK'ya",
+              "C": "Borsa İstanbul'a",
+              "D": "MKK'ya",
+              "E": "Hazine Bakanlığına"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 3 Çözümü: İhraççılar meşru çıkarlarının korunması amacıyla erteleme kararını kendi sorumluluklarında alabilirler."
+          },
+          {
+            "id": 229,
+            "soruMetni": "Soru 4 [Deneme 10 - Genel Karma]: Kurumsal Yönetim Tebliği (II-17.1) uyarınca Denetimden Sorumlu Komitenin başkanı kimlerden seçilmek zorundadır?",
+            "secenekler": {
+              "A": "Bağımsız Yönetim Kurulu Üyeleri arasından",
+              "B": "Şirket Genel Müdüründen",
+              "C": "En büyük hissedardan",
+              "D": "İç denetçiden",
+              "E": "Mali işler direktöründen"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 4 Çözümü: Denetim komitesi başkanı ve üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur."
+          },
+          {
+            "id": 230,
+            "soruMetni": "Soru 5 [Deneme 10 - Genel Karma]: Piyasa Dolandırıcılığı (Manipülasyon) suçu işleyen bir kimse hakkında uygulanacak hapis cezasının alt sınırı kaç yıldır?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "1 Yıl",
+              "C": "2 Yıl",
+              "D": "5 Yıl",
+              "E": "6 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 5 Çözümü: 6362 sayılı Kanun madde 107 uyarınca cezanın alt sınırı 3 yıldır."
+          },
+          {
+            "id": 231,
+            "soruMetni": "Soru 6 [Deneme 10 - Genel Karma]: Sermaye piyasası araçlarının kayden izlenmesi ve hak sahipliği kayıtlarının tutulduğu kurum hangisidir?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu (MKK)",
+              "B": "Takasbank",
+              "C": "Borsa İstanbul",
+              "D": "SPK",
+              "E": "TCMB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 6 Çözümü: MKK kaydileştirilen sermaye piyasası araçlarının merkezi saklama kuruluşudur."
+          },
+          {
+            "id": 232,
+            "soruMetni": "Soru 7 [Deneme 10 - Genel Karma]: Halka açık şirketlerde muhalif kalan ortakların sahip olduğu şirketten ayrılma hakkı hangi durumda doğar?",
+            "secenekler": {
+              "A": "Şirketin önemli nitelikteki işlemlerinde",
+              "B": "Her genel kurulda",
+              "C": "Sadece temettü dağıtılmadığında",
+              "D": "Sermaye artırımında",
+              "E": "Yönetim kurulu değiştiğinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 7 Çözümü: Birleşme, bölünme, tür değiştirme gibi önemli nitelikteki işlemlerde ayrılma hakkı kullanılır."
+          },
+          {
+            "id": 233,
+            "soruMetni": "Soru 8 [Deneme 10 - Genel Karma]: Bir işletmenin kısa vadeli borç ödeme gücünü gösteren Cari Oran formülü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar",
+              "B": "Duran Varlıklar / Özkaynaklar",
+              "C": "Net Kâr / Toplam Aktif",
+              "D": "Stoklar / Dönem Kârı",
+              "E": "Özkaynak / Toplam Borç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 8 Çözümü: Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar."
+          },
+          {
+            "id": 234,
+            "soruMetni": "Soru 9 [Deneme 10 - Genel Karma]: Likidite oranlarından Asit-Test Oranı hesaplanırken Dönen Varlıklardan hangi kalem çıkarılır?",
+            "secenekler": {
+              "A": "Stoklar",
+              "B": "Kasa",
+              "C": "Bankalar",
+              "D": "Alacaklar",
+              "E": "Menkul Kıymetler"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 9 Çözümü: Stoklar paraya en yavaş dönüşen kalem olduğu için Asit-Test oranında çıkarılır."
+          },
+          {
+            "id": 235,
+            "soruMetni": "Soru 10 [Deneme 10 - Genel Karma]: Dupont Analizine göre Özkaynak Kârlılığı (ROE) aşağıdakilerden hangisinin çarpımıdır?",
+            "secenekler": {
+              "A": "Net Kâr Marjı x Aktif Devir Hızı x Finansal Kaldıraç Oranı",
+              "B": "Brüt Kâr Marjı x Likidite Oranı",
+              "C": "Cari Oran x Stok Devir Hızı",
+              "D": "Faaliyet Kârı x Özkaynak Oranı",
+              "E": "Borç Oranı x Dönem Kârı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 10 Çözümü: Dupont analizi üç temel rasyonun bileşiminden oluşur."
+          },
+          {
+            "id": 236,
+            "soruMetni": "Soru 11 [Deneme 10 - Genel Karma]: Ağırlıklı Ortalama Sermaye Maliyeti (WACC) hangi analizde iskonto oranı olarak kullanılır?",
+            "secenekler": {
+              "A": "Net Bugünkü Değer (NBD) Analizinde",
+              "B": "Cari Oran Analizinde",
+              "C": "Stok Devir Hızında",
+              "D": "Asit Test Oranında",
+              "E": "Trend Analizinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 11 Çözümü: Yatırım projelerinin nakit akışları WACC ile bugüne indirgenir."
+          },
+          {
+            "id": 237,
+            "soruMetni": "Soru 12 [Deneme 10 - Genel Karma]: Nakit Oranı hesaplanmasında pay kısmında hangi bilanço kalemleri yer alır?",
+            "secenekler": {
+              "A": "Hazır Değerler + Menkul Kıymetler",
+              "B": "Stoklar + Alacaklar",
+              "C": "Duran Varlıklar",
+              "D": "Özkaynaklar",
+              "E": "Kısa Vadeli Borçlar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 12 Çözümü: Nakit oranı en likit varlıkları dikkate alır."
+          },
+          {
+            "id": 238,
+            "soruMetni": "Soru 13 [Deneme 10 - Genel Karma]: Aktif ve şeffaf bir piyasada yeterli sayıda benzer alım-satım verisi olduğunda hangi değerleme yaklaşımı tercih edilir?",
+            "secenekler": {
+              "A": "Emsal Karşılaştırma Yaklaşımı",
+              "B": "Maliyet Yaklaşımı",
+              "C": "Gelir İndirgeme Yaklaşımı",
+              "D": "Tasfiye Değeri",
+              "E": "Rant Yaklaşımı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 13 Çözümü: Emsal karşılaştırma en güvenilir piyasa bazlı değerleme yöntemidir."
+          },
+          {
+            "id": 239,
+            "soruMetni": "Soru 14 [Deneme 10 - Genel Karma]: Gelir İndirgeme Yaklaşımında kullanılan Kapitalizasyon Oranı formülü nedir?",
+            "secenekler": {
+              "A": "Yıllık Net Faaliyet Geliri / Gayrimenkul Değeri",
+              "B": "İnşaat Maliyeti / Arsa Alanı",
+              "C": "Kredi Faizi / Enflasyon",
+              "D": "Kira Geliri / Vergi Oranı",
+              "E": "Toplam Borç / Özkaynak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 14 Çözümü: Kapitalizasyon Oranı = Yıllık Net Gelir / Değer."
+          },
+          {
+            "id": 240,
+            "soruMetni": "Soru 15 [Deneme 10 - Genel Karma]: Gayrimenkul Yatırım Ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
+            "secenekler": {
+              "A": "%25",
+              "B": "%10",
+              "C": "%50",
+              "D": "%75",
+              "E": "%5"
+            },
+            "dogruCevap": "C",
+            "cozum": "Deneme 10 Soru 15 Çözümü: GYO'ların en az %25 oranında halka açık olması zorunludur."
+          },
+          {
+            "id": 241,
+            "soruMetni": "Soru 16 [Deneme 10 - Genel Karma]: Maliyet Yaklaşımında binanın yıpranma ve eskime payı hesaplanırken hangisi dikkate alınır?",
+            "secenekler": {
+              "A": "Fiziki ve Fonksiyonel Eskime",
+              "B": "Borsa Endeksi",
+              "C": "Döviz Kuru",
+              "D": "Mevduat Faizi",
+              "E": "Temettü Oranı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 16 Çözümü: Maliyet yaklaşımında binanın fiziki, fonksiyonel ve ekonomik eskimesi düşülür."
+          },
+          {
+            "id": 242,
+            "soruMetni": "Soru 17 [Deneme 10 - Genel Karma]: Vadeli işlem (Futures) sözleşmesinde alım tarafında yer alan yatırımcı hangi pozisyondadır?",
+            "secenekler": {
+              "A": "Uzun (Long) Pozisyon",
+              "B": "Kısa (Short) Pozisyon",
+              "C": "Nötr Pozisyon",
+              "D": "Swap Pozisyonu",
+              "E": "Arbitraj Pozisyonu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 17 Çözümü: Gelecekte dayanak varlığı satın alma yükümlülüğüne giren taraf Uzun (Long) pozisyondadır."
+          },
+          {
+            "id": 243,
+            "soruMetni": "Soru 18 [Deneme 10 - Genel Karma]: Bir Alım (Call) Opsiyonu satın alan opsiyon alıcısının maksimum zararı ne kadardır?",
+            "secenekler": {
+              "A": "Ödediği Opsiyon Primi kadar",
+              "B": "Sınırsızdır",
+              "C": "Dayanak varlığın tam fiyatı kadar",
+              "D": "Kullanım fiyatı kadar",
+              "E": "Zarar etmez"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 18 Çözümü: Opsiyon alıcısının riski ödediği prim ile sınırlıdır."
+          },
+          {
+            "id": 244,
+            "soruMetni": "Soru 19 [Deneme 10 - Genel Karma]: Satım (Put) Opsiyonu alan bir yatırımcının piyasa beklentisi nedir?",
+            "secenekler": {
+              "A": "Dayanak varlık fiyatının düşmesi",
+              "B": "Fiyatların yükselmesi",
+              "C": "Fiyatların sabit kalması",
+              "D": "Faizlerin düşmesi",
+              "E": "Enflasyonun sıfırlanması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 19 Çözümü: Put opsiyonu alıcısı fiyat düşüşünden kâr elde etmeyi hedefler."
+          },
+          {
+            "id": 245,
+            "soruMetni": "Soru 20 [Deneme 10 - Genel Karma]: Döviz riskinden korunmak (Hedging) isteyen bir ihracatçı vadeli piyasada nasıl pozisyon alır?",
+            "secenekler": {
+              "A": "Döviz satım (Short) pozisyonu alır",
+              "B": "Döviz alım (Long) pozisyonu alır",
+              "C": "Pozisyon almaz",
+              "D": "Hisse senedi alır",
+              "E": "Mevduat hesabı açar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 20 Çözümü: Gelecekte döviz alacağı olan ihracatçı kur düşüş riskine karşı döviz satım pozisyonu ile korunur."
+          },
+          {
+            "id": 246,
+            "soruMetni": "Soru 21 [Deneme 10 - Genel Karma]: Futures sözleşmelerinde günlük kâr/zararın hesaplanıp hesaplara yansıtılması işlemine ne ad verilir?",
+            "secenekler": {
+              "A": "Piyasaya Göre Değerleme (Marking to Market)",
+              "B": "İskonto Etme",
+              "C": "Temettü Dağıtımı",
+              "D": "Kupon Ödemesi",
+              "E": "Kredilendirme"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 21 Çözümü: Futures piyasalarında her gün sonu hesaplar piyasaya göre değerlenir (Mark to Market)."
+          },
+          {
+            "id": 247,
+            "soruMetni": "Soru 22 [Deneme 10 - Genel Karma]: TSPB üyelerinin müşterilerine karşı uymakla yükümlü olduğu temel dürüstlük ilkesi gereği hangisi yasaktır?",
+            "secenekler": {
+              "A": "Müşteriye getiri garantisi vermek",
+              "B": "Risk bildirim formu imzalatmak",
+              "C": "Sözleşme yapmak",
+              "D": "Piyasa analizi paylaşmak",
+              "E": "Komisyon tarifesi açıklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 22 Çözümü: Sermaye piyasasında garanti getiri taahhüt etmek kesinlikle yasaktır."
+          },
+          {
+            "id": 248,
+            "soruMetni": "Soru 23 [Deneme 10 - Genel Karma]: Müşteri sırlarının kanunen yetkili kılınan merciler dışında üçüncü kişilere açıklanmaması hangi ilkedir?",
+            "secenekler": {
+              "A": "Sır Saklama Yükümlülüğü",
+              "B": "Kamuyu Aydınlatma",
+              "C": "Şeffaflık",
+              "D": "Rekabet Yasama",
+              "E": "Kaldıraç İlkesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 23 Çözümü: Müşteri bilgilerinin gizliliği ve sır saklanması etik kuraldır."
+          },
+          {
+            "id": 249,
+            "soruMetni": "Soru 24 [Deneme 10 - Genel Karma]: Sermaye piyasası çalışanlarının çıkar çatışması durumunda izlemesi gereken tutum nedir?",
+            "secenekler": {
+              "A": "Müşteri yararını kendi ve kurum yararının üstünde tutmak",
+              "B": "Kendi portföyünü öncelemek",
+              "C": "Müşteriden komisyon saklamak",
+              "D": "Yanıltıcı bilgi vermek",
+              "E": "İşlemleri geciktirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 24 Çözümü: Çıkar çatışmasında tarafsızlık ve müşteri çıkarının korunması esastır."
+          },
+          {
+            "id": 250,
+            "soruMetni": "Soru 25 [Deneme 10 - Genel Karma]: Borsa İstanbul'da gerçekleşen işlemlerin takasını yürüten merkezi takas kuruluşu hangisidir?",
+            "secenekler": {
+              "A": "Takasbank (İstanbul Takas ve Saklama Bankası A.Ş.)",
+              "B": "MKK",
+              "C": "SPK",
+              "D": "Hazine",
+              "E": "TSPB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Deneme 10 Soru 25 Çözümü: Takasbank Borsa İstanbul işlemlerinin takasını ve merkezi karşı taraf hizmetini sunar."
+          }
+        ]
+      }
+    ]
+  },
   {
     "dersAdi": "Geniş Kapsamlı Sermaye Piyasası Mevzuatı",
     "kategori": "SPL Düzey 2 - 3 - Türev - Derecelendirme",
