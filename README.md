@@ -1,4 +1,8 @@
-# 📈 SPL Soru-Cevap Portalı (Client-Side SPA)
+# 📈 SPL Soru-Cevap Portalı (Client-Side SPA) `[BETA]`
+
+> [!WARNING]
+> **DURUM: BETA - GELİŞTİRİLME AŞAMASINDADIR 🚧**  
+> Bu proje aktif olarak geliştirilmekte ve yeni soru paketleri eklenmeye devam etmektedir.
 
 Sermaye Piyasası Lisanslama (SPL) Düzey 1, Düzey 2, Düzey 3, Gayrimenkul Değerleme ve Türev Araçlar lisanslama sınavlarına hazırlık için tamamen istemci taraflı (client-side) çalışan, modern, duyarlı (responsive) ve GitHub Pages ile tam uyumlu Single Page Application (SPA) soru platformu.
 
