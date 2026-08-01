@@ -2,7 +2,7 @@
  * ============================================================================
  * SPL (Sermaye Piyasası Lisanslama) SORU VERİTABANI (questions.js)
  * ============================================================================
- * Geniş Kapsamlı Sermaye Piyasası Mevzuatı: 25 Konu Testi (500 Soru) + 10 Deneme (250 Soru)
+ * Kitaplar ve PNG Görsellerindeki Tüm Çıkmış/Benzer Sorular Denetlendi & Entegre Edildi
  * ============================================================================
  */
 
@@ -14,215 +14,215 @@ const splVeritabani = [
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: SPK Kanunu ve Temel Esaslar - I",
+        "testAdi": "Test 1: Çıkmış ve Benzer Sorular Özel Paketi",
         "sorular": [
           {
-            "id": 1,
-            "soruMetni": "Soru 1: 6362 sayılı Sermaye Piyasası Kanunu'na göre sermaye piyasası araçlarının halka arzında yatırımcıların bilgilendirilmesi amacıyla hazırlanan ve onaylanması zorunlu olan temel belge aşağıdakilerden hangisidir?",
+            "soruMetni": "Aşağıdakilerden hangisi aracı kurum kuruluşu için aranan şartlar arasında yer almaz?",
             "secenekler": {
-              "A": "İzahname",
-              "B": "Sirküler",
-              "C": "Esas Sözleşme",
-              "D": "Faaliyet Raporu",
-              "E": "Yatırımcı Bilgi Formu"
-            },
-            "dogruCevap": "A",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): 6362 sayılı Kanun uyarınca sermaye piyasası araçlarının halka arzında veya borsada işlem görmesinde SPK tarafından onaylanmış izahname yayımlanması zorunludur."
-          },
-          {
-            "id": 2,
-            "soruMetni": "Soru 2: Aşağıdakilerden hangisi 6362 sayılı Kanun kapsamında sermaye piyasası kurumları arasında yer almaz?",
-            "secenekler": {
-              "A": "Aracı kurumlar",
-              "B": "Portföy yönetim şirketleri",
-              "C": "Kuyumcular ve döviz büroları",
-              "D": "Yatırım ortaklıkları",
-              "E": "Merkezi kayıt kuruluşu"
-            },
-            "dogruCevap": "C",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): Kuyumcular ve döviz büroları Hazine ve Maliye Bakanlığı mevzuatına tabi olup sermaye piyasası kurumu sayılmazlar."
-          },
-          {
-            "id": 3,
-            "soruMetni": "Soru 3: Özel Durumlar Tebliği (II-15.1) uyarınca, ihraççıların henüz kamuya açıklanmamış içsel bilgilerin açıklanmasını erteleme yetkisine ilişkin aşağıdakilerden hangisi doğrudur?",
-            "secenekler": {
-              "A": "İhraççı kendi sorumluluğunda erteleme kararı alabilir.",
-              "B": "Erteleme için SPK'dan önceden izin alınması şarttır.",
-              "C": "Erteleme süresi en fazla 3 gün olabilir.",
-              "D": "İçsel bilgiler hiçbir durumda ertelenemez.",
-              "E": "Erteleme kararı Ticaret Sicil Gazetesinde ilan edilir."
-            },
-            "dogruCevap": "A",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): İhraççılar, meşru çıkarlarının zarar görmemesi için yatırımcıların yanıltılmasına yol açmaması ve bilginin gizliliğini koruyabilmesi kaydıyla içsel bilgilerin açıklanmasını kendi sorumluluklarında erteleyebilirler."
-          },
-          {
-            "id": 4,
-            "soruMetni": "Soru 4: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BIST 30 veya BIST 50 endeksinde yer alan 1. grup halka açık anonim ortaklıklarda yönetim kurulundaki bağımsız üye sayısı en az ne kadar olmalıdır?",
-            "secenekler": {
-              "A": "Üye sayısının 1/3'ünden az olamaz ve her halükarda 2 üyeden az olamaz.",
-              "B": "En az 1 üye",
-              "C": "Yönetim kurulunun yarısı",
-              "D": "En az 5 üye",
-              "E": "Tamamı bağımsız olmalıdır."
-            },
-            "dogruCevap": "A",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): 1. Grup halka açık ortaklıklarda bağımsız yönetim kurulu üye sayısı, toplam üye sayısının üçte birinden az olamaz ve her durumda bağımsız üye sayısı ikiden az olamaz."
-          },
-          {
-            "id": 5,
-            "soruMetni": "Soru 5: Sermaye piyasası araçlarının kaydileştirilmesi ve hak sahipleri bazında elektronik ortamda izlenmesinden sorumlu merkezi kuruluş aşağıdakilerden hangisidir?",
-            "secenekler": {
-              "A": "Borsa İstanbul A.Ş.",
-              "B": "Merkezi Kayıt Kuruluşu A.Ş. (MKK)",
-              "C": "Takasbank A.Ş.",
-              "D": "Sermaye Piyasası Kurulu",
-              "E": "Türkiye Sermaye Piyasaları Birliği"
-            },
-            "dogruCevap": "B",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): Merkezi Kayıt Kuruluşu (MKK), sermaye piyasası araçlarının kaydileştirilerek hak sahipleri bazında izlendiği tek merkezi saklama kuruluşudur."
-          },
-          {
-            "id": 6,
-            "soruMetni": "Soru 6: Aşağıdakilerden hangisi 'Piyasa Dolandırıcılığı' (Manipülasyon) suçu kapsamında değerlendirilir?",
-            "secenekler": {
-              "A": "Şirket bilançosunu zamanında açıklamak",
-              "B": "Yapay fiyat veya işlem hacmi oluşturmak amacıyla alım satım yapmak",
-              "C": "Halka arz izahnamesi hazırlamak",
-              "D": "Yatırım danışmanlığı sözleşmesi imzalamak",
-              "E": "Temettü dağıtım kararı almak"
-            },
-            "dogruCevap": "B",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): Sermaye piyasası araçlarının fiyatlarını, fiyat değişimlerini, arz ve taleplerini etkilemek amacıyla yapay piyasa oluşturulması işlem bazlı piyasa dolandırıcılığı suçunu oluşturur."
-          },
-          {
-            "id": 7,
-            "soruMetni": "Soru 7: 6362 sayılı Sermaye Piyasası Kanununa göre, bilgi suiistimali (Insider Trading) veya piyasa dolandırıcılığı suçu işleyenlere verilecek hapis cezasının alt sınırı kaç yıldır?",
-            "secenekler": {
-              "A": "1 Yıl",
-              "B": "2 Yıl",
-              "C": "3 Yıl",
-              "D": "5 Yıl",
-              "E": "10 Yıl"
-            },
-            "dogruCevap": "C",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): 6362 sayılı Kanunun 106 ve 107. maddeleri uyarınca bilgi suiistimali ve piyasa dolandırıcılığı suçlarında hapis cezasının alt sınırı 3 yıldır."
-          },
-          {
-            "id": 8,
-            "soruMetni": "Soru 8: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların asgari halka arz oranı % kaçtır?",
-            "secenekler": {
-              "A": "%10",
-              "B": "%20",
-              "C": "%25",
-              "D": "%49",
-              "E": "%51"
-            },
-            "dogruCevap": "C",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): GYO Tebliği uyarınca çıkarılmış veya ödenmiş sermayelerinin en az %25'inin halka arz edilmiş veya halka arz edilmek üzere SPK'ya başvurulmuş olması zorunludur."
-          },
-          {
-            "id": 9,
-            "soruMetni": "Soru 9: Yatırım Fonlarına ilişkin Tebliğ (III-52.1) uyarınca fon portföy değerinin hesaplanmasında esas alınan temel esas aşağıdakilerden hangisidir?",
-            "secenekler": {
-              "A": "Tarihi maliyet değeri",
-              "B": "Piyasa değeri (Makul değer)",
-              "C": "Nominal değer",
-              "D": "Vergi değeri",
-              "E": "İskonto edilmiş değer"
-            },
-            "dogruCevap": "B",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): Yatırım fonu portföyündeki varlıklar her iş günü itibarıyla piyasa fiyatı/makul değer esas alınarak değerlenir."
-          },
-          {
-            "id": 10,
-            "soruMetni": "Soru 10: Halka açık anonim ortaklıklarda örtülü kazanç aktarımı yasağına aykırılık tespit edildiğinde SPK'nın başvurabileceği hukuki yol aşağıdakilerden hangisidir?",
-            "secenekler": {
-              "A": "Şirketin tüm mallarına el koymak",
-              "B": "Aktarılan tutarın faiziyle iadesi için dava açmak veya tedbir istemek",
-              "C": "Şirket hisselerini borsa kotundan çıkarmak",
-              "D": "Şirketi derhal tasfiye etmek",
-              "E": "Yönetim kuruluna doğrudan kendi personelini atamak"
-            },
-            "dogruCevap": "B",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): SPK, tespit edilen örtülü kazanç aktarımının iadesi için dava açabilir, ihtiyati tedbir ve ihtiyati haciz kararı alınmasını mahkemeden talep edebilir."
-          },
-          {
-            "id": 11,
-            "soruMetni": "Soru 11: Kurumsal Yönetim İlkelerine göre Yönetim Kurulu bünyesinde oluşturulması zorunlu olan komitelerden hangisinin başkanı mutlaka bağımsız üye olmalıdır?",
-            "secenekler": {
-              "A": "Denetimden Sorumlu Komite",
-              "B": "Disiplin Komitesi",
-              "C": "İç Denetim Komitesi",
-              "D": "Bütçe Komitesi",
-              "E": "Pazarlama Komitesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): Kurumsal yönetim ilkeleri gereği Denetimden Sorumlu Komitenin tüm üyeleri ve diğer komitelerin başkanları bağımsız yönetim kurulu üyeleri arasından seçilir."
-          },
-          {
-            "id": 12,
-            "soruMetni": "Soru 12: TSPB Üyelerinin Sermaye Piyasası Faaliyetlerini Yürütürken Uymaları Gereken Meslek Kurallarına göre müşteri sırlarının korunması ile ilgili aşağıdakilerden hangisi doğrudur?",
-            "secenekler": {
-              "A": "Müşteri sırları kanunen yetkili kılınan merciler hariç üçüncü kişilere açıklanamaz.",
-              "B": "Müşteri sırları rakip şirketlere bilgi amaçlı verilebilir.",
-              "C": "Sözleşme bittiğinde sır saklama yükümlülüğü sona erer.",
-              "D": "Müşteri izni olsa dahi hiçbir kuruma bilgi verilemez.",
-              "E": "Sadece bankalar sır saklamakla yükümlüdür."
-            },
-            "dogruCevap": "A",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): Meslek kuralları gereği müşteri sırları mevzuatın açıkça yetkili kıldığı adli ve idari merciler dışında kimseye açıklanamaz."
-          },
-          {
-            "id": 13,
-            "soruMetni": "Soru 13: Borsa Yatırım Fonları (BYF) ile ilgili aşağıdakilerden hangisi yanlıştır?",
-            "secenekler": {
-              "A": "Borsa İstanbul'da hisse senedi gibi alınıp satılabilirler.",
-              "B": "Bir endeksi takip ederler.",
-              "C": "Katılma payları ayni sermaye karşılığı oluşturulabilir.",
-              "D": "Sadece nitelikli yatırımcılara satılabilirler.",
-              "E": "Yetkilendirilmiş katılımcılar aracılığıyla oluşturma ve geri alım yapılır."
+              "A": "Anonim ortaklık şeklinde kurulmaları",
+              "B": "Paylarının tamamının nama yazılı olması",
+              "C": "Paylarının nakit karşılığı çıkarılması",
+              "D": "Ortakları arasında banka olması",
+              "E": "Ortaklık yapısının şeffaf ve açık olması"
             },
             "dogruCevap": "D",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): Borsa yatırım fonları borsada işlem gördüğünden tüm bireysel ve kurumsal yatırımcılara açıktır."
+            "cozum": "Aracı kurumların ortakları arasında banka bulunması zorunlu değildir; gerçek veya tüzel kişiler kurucu olabilir.",
+            "id": 1
           },
           {
-            "id": 14,
-            "soruMetni": "Soru 14: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca PYŞ'lerin özkaynaklarının asgari sermaye yükümlülüğünün altına düşmesi halinde izlenecek yol nedir?",
+            "soruMetni": "Yatırım kuruluşları ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Eksikliğin SPK tarafından verilen süre içinde tamamlanması zorunludur.",
-              "B": "Şirket derhal iflas eder.",
-              "C": "Portföydeki tüm fonlar nakde çevrilir.",
-              "D": "Yöneticiler hapis cezası alır.",
-              "E": "Şirketin lisansı otomatik iptal olur."
+              "A": "Paylarının ayni değer karşılığı çıkarılması",
+              "B": "Limited ortaklık şeklinde kurulmaları",
+              "C": "Paylarının tamamının nama yazılı olması",
+              "D": "Ancak bir banka aracılığıyla kurulması",
+              "E": "BDDK düzenlemelerine uygun olarak esas sözleşmelerini oluşturması"
             },
-            "dogruCevap": "A",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): Özkaynak eksikliği durumunda Kurul tarafından şirkete durumun düzeltilmesi için süre verilir."
+            "dogruCevap": "C",
+            "cozum": "Sermaye Piyasası Kanununa göre yatırım kuruluşlarının paylarının tamamının nama yazılı olması zorunludur.",
+            "id": 2
           },
           {
-            "id": 15,
-            "soruMetni": "Soru 15: Sermaye piyasasında kamuya açıklanacak özel durumlar açıklaması en geç ne zaman Kamuyu Aydınlatma Platformuna (KAP) bildirilmelidir?",
+            "soruMetni": "Aşağıdakilerden hangisi 'diğer sermaye piyasası araçları' arasında yer alır?",
             "secenekler": {
-              "A": "Olayın ortaya çıktığı veya öğrenildiği anı takip eden en kısa sürede",
-              "B": "1 hafta sonra",
-              "C": "Ay sonunda",
-              "D": "Yıl sonu bilançosu ile birlikte",
-              "E": "İlk genel kurul toplantısında"
+              "A": "Tahvil",
+              "B": "Paylar",
+              "C": "Gayrimenkul sertifikaları",
+              "D": "Poliçe",
+              "E": "Borçlanma araçları depo sertifikaları"
             },
-            "dogruCevap": "A",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): Özel durum açıklamaları kamuya açıklama yükümlülüğü doğduğu an gecikmeksizin KAP'a iletilmelidir."
+            "dogruCevap": "C",
+            "cozum": "Gayrimenkul sertifikaları, 6362 sayılı Kanunda diğer sermaye piyasası araçları kategorisinde yer alır.",
+            "id": 3
           },
           {
-            "id": 16,
-            "soruMetni": "Soru 16: Girişim Sermayesi Yatırım Ortaklıkları (GSYO) temel yatırım amacı nedir?",
+            "soruMetni": "Sermaye piyasası araçlarının fiyatlarına, fiyat değişimlerine, arz ve taleplerine ilişkin olarak yanlış veya yanıltıcı izlenim uyandırmak amacıyla alım veya satım yapanlar, emir verenler hangi suçu işlemiş olurlar?",
             "secenekler": {
-              "A": "Gelişme potansiyeli olan anonim şirketlere sermaye veya kaynak aktarmak",
-              "B": "Gayrimenkul alıp satmak",
-              "C": "Döviz ticareti yapmak",
-              "D": "Mevduat toplamak",
-              "E": "Kredi kartı vermek"
+              "A": "Bilgi suiistimali",
+              "B": "Piyasa dolandırıcılığı",
+              "C": "Spekülasyon",
+              "D": "Sahtecilik",
+              "E": "Sır saklama yükümlülüğünü ihlal"
+            },
+            "dogruCevap": "B",
+            "cozum": "6362 sayılı Kanun Madde 107 uyarınca alım-satım yoluyla fiyat ve hacim manipülasyonu yapılması Piyasa Dolandırıcılığı suçudur.",
+            "id": 4
+          },
+          {
+            "soruMetni": "Aşağıdakilerden hangisi Sermaye Piyasası Kanunu uyarınca yan hizmetler kapsamında yer alan faaliyetlerdendir?",
+            "secenekler": {
+              "A": "Portföy yöneticiliği",
+              "B": "Borçlanma veya başka yollardan finansman sağlanmasında aracılık hizmeti sunulması",
+              "C": "Sermaye piyasası araçlarının halka arzında yüklenimde bulunmaksızın satışa aracılık edilmesi",
+              "D": "Yatırım danışmanlığı",
+              "E": "Sermaye piyasası araçlarının müşteri namına saklanması"
+            },
+            "dogruCevap": "B",
+            "cozum": "Finansman sağlanmasında aracılık hizmeti sunulması yatırım kuruluşlarının sunduğu yan hizmetlerdendir.",
+            "id": 5
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Kanunu'na göre aşağıdakilerden hangisi sermaye piyasası kurumları arasında yer almamaktadır?",
+            "secenekler": {
+              "A": "Varlık finansman fonları",
+              "B": "Sigorta firmaları",
+              "C": "Varlık kiralama şirketleri",
+              "D": "Portföy yönetim şirketleri",
+              "E": "Veri depolama kuruluşları"
+            },
+            "dogruCevap": "B",
+            "cozum": "Sigorta şirketleri SEDDK (Sigortacılık ve Özel Emeklilik Düzenleme ve Denetleme Kurumu) düzenlemelerine tabidir; SPK kapsamında sermaye piyasası kurumu sayılmazlar.",
+            "id": 6
+          },
+          {
+            "soruMetni": "Gayrimenkul yatırım ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
+            "secenekler": {
+              "A": "10",
+              "B": "20",
+              "C": "25",
+              "D": "49",
+              "E": "75"
+            },
+            "dogruCevap": "C",
+            "cozum": "GYO Tebliği uyarınca ödenmiş/çıkarılmış sermayelerinin en az %25'inin halka arz edilmiş olması zorunludur.",
+            "id": 7
+          },
+          {
+            "soruMetni": "Sermaye piyasası araçlarını konu alan teminat sözleşmelerine ilişkin aşağıda yer alan ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "MKK nezdinde kayden izlenen sermaye piyasası araçlarını konu alan teminat sözleşmeleri yazılı şekilde yapılır",
+              "B": "Sözleşmede hüküm bulunması halinde, teminata konu olan sermaye piyasası aracının mülkiyeti teminat alan tarafa geçebilir",
+              "C": "Teminat konusu sermaye piyasası aracının teminat alana geçtiği sözleşmelerde, teminat alan taraf ilgili sermaye piyasası aracı üzerinde herhangi bir tasarruf yetkisi yoktur",
+              "D": "Teminat sözleşmesinin sona ermesi ile teminat konusu varlığın kendisinin veya eşdeğerinin iadesi yükümlülüğü öngörülmüştür",
+              "E": "Temerrüt halinde teminat konusu sermaye piyasası aracı resen satılır"
+            },
+            "dogruCevap": "C",
+            "cozum": "Teminatın mülkiyetinin teminat alana geçtiği hallerde teminat alan tarafın varlık üzerinde tasarruf yetkisi bulunmaktadır; bu nedenle C seçeneği yanlıştır.",
+            "id": 8
+          },
+          {
+            "soruMetni": "Aşağıdakilerden hangisi özel durumlar ile ilgili sermaye piyasası mevzuatı kapsamında sermaye yapısı ve yönetim kontrolüne ilişkin olarak açıklama yükümlülüğü gerektiren bir durumdur?",
+            "secenekler": {
+              "A": "Bir kurucuya ait yatırım fonlarının doğrudan ihraççının sermayesindeki payının, %20'den %28'e yükselmesi",
+              "B": "Bir tüzel kişinin dolaylı olarak payları borsada işlem gören bir ihraççının sermayesindeki toplam oy haklarının %5'ten %8'e artması",
+              "C": "Bir gerçek kişinin doğrudan payları borsada işlem gören bir ihraççının sermayesindeki payının %35'den %45'e yükselmesi",
+              "D": "Bir kurucuya ait yatırım fonlarının dolaylı olarak ihraççının sermayesindeki toplam oy haklarının %17'den %19'a yükselmesi",
+              "E": "Bir gerçek kişinin dolaylı olarak payları borsada işlem gören bir ihraççının sermayesindeki payının %69'dan %86'ya yükselmesi"
+            },
+            "dogruCevap": "B",
+            "cozum": "Özel Durumlar Tebliğine göre oy haklarının %5, %10, %15, %20, %25, %33, %50, %67 veya %75 eşiklerini aşması veya altına düşmesi durumunda KAP açıklaması zorunludur. %5'ten %8'e çıkış %5 eşiğini aştığı için açıklama gerektirir.",
+            "id": 9
+          },
+          {
+            "soruMetni": "Aşağıdakilerden hangisi kurumsal yönetim ilkelerine göre borsada işlem gören şirketlerin sınıflandırılmasında kullanılan kriterlerden biridir?",
+            "secenekler": {
+              "A": "Aktif büyüklüğü",
+              "B": "Kuruluş tarihi",
+              "C": "Faaliyette bulunduğu sektör",
+              "D": "Fiili dolaşımdaki pay değeri",
+              "E": "Son iki yılda sağladığı kar tutarı"
+            },
+            "dogruCevap": "D",
+            "cozum": "Kurumsal yönetim gruplandırmasında şirketlerin sistemik önemini belirlemek amacıyla ortalama piyasa değeri ve fiili dolaşımdaki pay değeri kriterleri kullanılır.",
+            "id": 10
+          },
+          {
+            "soruMetni": "Aşağıdakilerden hangisi kurumsal yönetim ilkeleri pay sahipleri ile ilgili ilkeler arasında yer almaz?",
+            "secenekler": {
+              "A": "Ortaklık yönetimi özel denetim yapılmasını zorlaştırıcı işlem yapmaktan kaçınır",
+              "B": "Oy hakkının kullanılmasını zorlaştırıcı uygulamalardan kaçınılır",
+              "C": "Azlık haklarının kullandırılmasına azami özen gösterilir",
+              "D": "Menfaat sahipleri, haklarının korunması ile ilgili şirket politikaları ve prosedürleri hakkında bilgilendirilir",
+              "E": "Kâr dağıtım politikasında pay sahiplerinin menfaatleri ile ortaklık menfaati arasında dengeli bir politika izlenir"
+            },
+            "dogruCevap": "D",
+            "cozum": "Menfaat sahiplerinin bilgilendirilmesi 'Pay Sahipleri' başlığı altında değil, Kurumsal Yönetim İlkelerinin 'Menfaat Sahipleri' bölümünde düzenlenmiştir.",
+            "id": 11
+          },
+          {
+            "soruMetni": "Değişken sermayeli yatırım ortaklıkları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Değişken sermayeli yatırım ortaklıkları, sermayesi her zaman net aktif değerine eşit olan yatırım ortaklıklarıdır",
+              "B": "Net aktif değer, varlıkların toplamından borçların toplamının düşülmesi suretiyle bulunan tutarı ifade eder",
+              "C": "Değişken sermayeli yatırım ortaklıklarının paylarının itibari değeri bulunmaz",
+              "D": "Değişken sermayeli yatırım ortaklıkları, pay sahibinin talebi üzerine payları itfa etmek ve ortaklık sermayesinde buna karşılık gelen pay bedelini geri ödemekle yükümlüdür",
+              "E": "Değişken sermayeli yatırım ortaklığının payları, yatırımcı payları ile hamiline yazılı olması zorunlu olan kurucu paylarından oluşur"
+            },
+            "dogruCevap": "E",
+            "cozum": "Değişken sermayeli yatırım ortaklığının kurucu paylarının hamiline yazılı olması zorunluluğu yoktur; kurucu payları nama yazılı olarak çıkarılır.",
+            "id": 12
+          },
+          {
+            "soruMetni": "Serbest fonlarla ilgili aşağıda yer alan ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Payları serbest fonların portföylerine alınacak yabancı fonlar için ilgili otoriteden izin alınmış olma şartı aranmaz",
+              "B": "Serbest fonlar için izahnamede hüküm bulunması ve Borsanın uygun görmesi şartı ile katılma payları Borsada işlem görebilir hükmü uygulanmaz",
+              "C": "Serbest fonların katılma paylarının satışını yapacak kuruluşlar, katılma payı satışlarının bu konuda yeterli bilgi ve deneyime sahip satış personeli tarafından gerçekleştirilmesini temin ederler",
+              "D": "Serbest fonların pay fiyatlarının en az ayda bir kere hesaplanması ve yatırımcılara bildirilmesi zorunludur",
+              "E": "Unvanında 'hisse senedi' ibaresi yer alan serbest fonların, Tebliğin 6'ncı maddesinin ikinci fıkrasında yer alan hükümler uygulanmak kaydıyla ihraç edilmesi mümkündür"
             },
             "dogruCevap": "A",
-            "cozum": "Açıklama (Test 1: SPK Kanunu ve Temel Esaslar - I): GSYO'lar Türkiye'de kurulu gelişme potansiyeli taşıyan girişim şirketlerine yatırım yaparlar."
+            "cozum": "Serbest fon portföyüne dahil edilecek yabancı fonların ilgili ülke otoritesinden izinli/denetimli olması şarttır; bu nedenle A seçeneği yanlıştır.",
+            "id": 13
+          },
+          {
+            "soruMetni": "Borsa yatırım fonu, Fon toplam değerinin en az ____ devamlı olarak sadece takip edilen endeks kapsamındaki varlıklara yatırım yapmak suretiyle endeksi takip etmesi mümkündür. Boşluğa aşağıdakilerden hangisi gelmelidir?",
+            "secenekler": {
+              "A": "% 60",
+              "B": "% 70",
+              "C": "% 80",
+              "D": "% 90",
+              "E": "% 100"
+            },
+            "dogruCevap": "C",
+            "cozum": "Borsa Yatırım Fonları Tebliği (III-52.2) uyarınca BYF'ler fon toplam değerinin en az %80'ini devamlı olarak takip edilen endeks kapsamındaki varlıklara yatırmak zorundadır.",
+            "id": 14
+          },
+          {
+            "soruMetni": "Aşağıdakilerden hangisi Türkiye Sermaye Piyasaları Birliği üyelerinin faaliyetleri sırasında uyacağı genel ilkeler arasında yer almaz?",
+            "secenekler": {
+              "A": "Dürüst ve Adil Davranma İlkesi",
+              "B": "Bağımsızlık ve Tarafsızlık",
+              "C": "Mesleki Özen ve Titizlik İlkesi",
+              "D": "Saydamlık İlkesi",
+              "E": "Müşteriyi tanıma ilkesi"
+            },
+            "dogruCevap": "E",
+            "cozum": "Müşteriyi tanıma (Know Your Customer) ilkesi genel bir etik meslek kuralı olmayıp, Kara Para Aklanmasının Önlenmesi ve müşteri ilişkileri operasyonel sürecidir.",
+            "id": 15
+          },
+          {
+            "soruMetni": "Şirket yönetiminin bütün hak sahiplerine karşı eşit davranmasını ifade eden Kurumsal Yönetim İlkesi aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Hakkaniyet (Adillik)",
+              "B": "Sorumluluk",
+              "C": "Dönemsellik",
+              "D": "Şeffaflık",
+              "E": "Hesap Verilebilirlik"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kurumsal yönetimdeki 4 ana ilkeden birisi olan Hakkaniyet (Adillik), yönetimin tüm pay ve hak sahiplerine eşit davranmasını ifade eder.",
+            "id": 16
           },
           {
             "id": 17,
