@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="tr" class="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>SPL Soru-Cevap Portalı | Sermaye Piyasası Lisanslama Sınavlarına Hazırlık</title>
+  
+  <!-- SEO Meta Tags -->
+  <meta name="description" content="SPL (Sermaye Piyasası Lisanslama) Düzey 1, 2, 3 ve Gayrimenkul Değerleme sınavlarına hazırlık için modüler, responsive soru çözme portalı.">
+  <meta name="keywords" content="SPL, Sermaye Piyasası Lisanslama, SPK Sınav Soruları, Gayrimenkul Değerleme, Türev Araçlar, Finansal Yönetim">
+  <meta name="author" content="SPL Soru-Cevap Platformu">
+
+  <!-- Tailwind CSS CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      darkMode: 'class',
+      theme: {
+        extend: {
+          colors: {
+            brand: {
+              50: '#f0f9ff',
+              100: '#e0f2fe',
+              500: '#0284c7',
+              600: '#0369a1',
+              700: '#075985',
+              900: '#0c4a6e',
+            },
+            navy: {
+              800: '#1c2541',
+              900: '#0b132b',
+              950: '#070d1f',
+            }
+          }
+        }
+      }
+    }
+  </script>
+
+  <!-- Font Awesome Icons CDN -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  
+  <!-- Custom Stylesheet -->
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body class="flex flex-col min-h-screen">
+
+  <!-- HEADER -->
+  <header class="sticky top-0 z-40 glass-header">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex items-center justify-between h-16">
+        
+        <!-- Logo & Title -->
+        <div class="flex items-center space-x-3 cursor-pointer" id="brand-logo-btn">
+          <div class="w-10 h-10 rounded-xl bg-gradient-to-tr from-sky-500 to-emerald-500 flex items-center justify-center text-white shadow-md">
+            <i class="fa-solid fa-chart-line text-lg"></i>
+          </div>
+          <div>
+            <h1 class="text-lg font-bold tracking-tight text-slate-900 dark:text-white leading-tight">
+              SPL <span class="text-sky-500">Soru-Cevap</span>
+            </h1>
+            <p class="text-xs text-slate-500 dark:text-slate-400 font-medium">Sermaye Piyasası Lisanslama Portal</p>
+          </div>
+        </div>
+
+        <!-- Global Stats & Actions -->
+        <div class="flex items-center space-x-3 sm:space-x-5">
+          <!-- Total Solved Stat -->
+          <div class="hidden md:flex items-center space-x-2 px-3 py-1.5 rounded-lg bg-slate-100 dark:bg-slate-800 text-xs font-semibold text-slate-600 dark:text-slate-300">
+            <i class="fa-solid fa-check-circle text-emerald-500"></i>
+            <span>Çözülen: <strong id="global-total-solved" class="text-slate-900 dark:text-white">0</strong></span>
+          </div>
+
+          <!-- Dark/Light Theme Toggle -->
+          <button id="theme-toggle-btn" class="p-2.5 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:text-sky-500 dark:hover:text-sky-400 focus:outline-none transition" title="Koyu/Aydınlık Mod">
+            <i class="fa-solid fa-moon dark:hidden text-lg"></i>
+            <i class="fa-solid fa-sun hidden dark:block text-amber-400 text-lg"></i>
+          </button>
+
+          <!-- Reset Progress Button -->
+          <button id="reset-progress-btn" class="p-2.5 rounded-xl bg-slate-100 dark:bg-slate-800 text-slate-500 dark:text-slate-400 hover:text-rose-500 dark:hover:text-rose-400 focus:outline-none transition" title="İlerlemeyi Sıfırla">
+            <i class="fa-solid fa-rotate-right text-base"></i>
+          </button>
+        </div>
+
+      </div>
+    </div>
+  </header>
+
+  <!-- MAIN SPA CONTENT CONTAINER -->
+  <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6 sm:py-8">
+
+    <!-- ==================================================================== -->
+    <!-- VIEW 1: DERS SEÇİM EKRANI (course-view) -->
+    <!-- ==================================================================== -->
+    <section id="course-view" class="spa-view animate-fade-in">
+      <!-- Hero Banner -->
+      <div class="relative overflow-hidden rounded-2xl bg-gradient-to-r from-sky-900 via-navy-900 to-slate-900 p-6 sm:p-10 mb-8 text-white shadow-xl">
+        <div class="relative z-10 max-w-2xl">
+          <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-sky-500/20 text-sky-300 border border-sky-500/30 mb-3">
+            <i class="fa-solid fa-graduation-cap"></i> SPK & SPL Hazırlık
+          </span>
+          <h2 class="text-2xl sm:text-4xl font-extrabold tracking-tight mb-3">
+            Sermaye Piyasası Lisanslama Soruları
+          </h2>
+          <p class="text-sm sm:text-base text-slate-300 font-normal">
+            Düzey 1, 2, 3, Gayrimenkul Değerleme ve Türev Araçlar lisanslama sınavlarına yönelik modüler soru bankası. Dersi seçin ve hemen çözmeye başlayın.
+          </p>
+        </div>
+
+        <!-- Decorative Pattern -->
+        <div class="absolute -right-10 -bottom-10 opacity-10 text-9xl text-white font-black pointer-events-none">
+          SPL
+        </div>
+      </div>
+
+      <!-- Search & Filter Bar -->
+      <div class="flex flex-col sm:flex-row items-center justify-between gap-4 mb-6">
+        <h3 class="text-xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
+          <i class="fa-solid fa-book-bookmark text-sky-500"></i> SPL Dersleri
+        </h3>
+
+        <!-- Search Input -->
+        <div class="relative w-full sm:w-72">
+          <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-sm"></i>
+          <input type="text" id="course-search-input" placeholder="Ders ara..." class="w-full pl-10 pr-4 py-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-white text-sm focus:outline-none focus:ring-2 focus:ring-sky-500">
+        </div>
+      </div>
+
+      <!-- Course Cards Container -->
+      <div id="course-cards-container" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-6">
+        <!-- Dynamic JS Insertion -->
+      </div>
+    </section>
+
+
+    <!-- ==================================================================== -->
+    <!-- VIEW 2: TEST SEÇİM EKRANI (test-view) -->
+    <!-- ==================================================================== -->
+    <section id="test-view" class="spa-view hidden animate-fade-in">
+      <!-- Breadcrumb Nav -->
+      <div class="flex items-center gap-2 text-sm text-slate-500 dark:text-slate-400 mb-6">
+        <button id="back-to-courses-btn" class="hover:text-sky-500 font-medium flex items-center gap-1 transition">
+          <i class="fa-solid fa-arrow-left"></i> Tüm Dersler
+        </button>
+        <i class="fa-solid fa-chevron-right text-xs text-slate-400"></i>
+        <span id="breadcrumb-course-title" class="font-semibold text-slate-900 dark:text-white">Ders Adı</span>
+      </div>
+
+      <!-- Course Overview Header -->
+      <div class="bg-white dark:bg-slate-800/80 rounded-2xl p-6 border border-slate-200 dark:border-slate-700/80 shadow-sm mb-8">
+        <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
+          <div>
+            <span id="selected-course-badge" class="inline-block px-3 py-1 text-xs font-semibold rounded-md bg-sky-100 dark:bg-sky-900/40 text-sky-700 dark:text-sky-300 mb-2">
+              Lisanslama
+            </span>
+            <h2 id="selected-course-title" class="text-2xl font-bold text-slate-900 dark:text-white mb-1">
+              Sermaye Piyasası Mevzuatı
+            </h2>
+            <p id="selected-course-desc" class="text-sm text-slate-600 dark:text-slate-400">
+              Ders açıklaması burada yer alır.
+            </p>
+          </div>
+
+          <div class="flex items-center gap-4 bg-slate-50 dark:bg-slate-900/60 p-4 rounded-xl border border-slate-200/60 dark:border-slate-800">
+            <div class="text-center">
+              <span id="course-total-tests" class="text-xl font-bold text-slate-900 dark:text-white block">0</span>
+              <span class="text-xs text-slate-500">Test Sayısı</span>
+            </div>
+            <div class="h-8 w-px bg-slate-200 dark:bg-slate-700"></div>
+            <div class="text-center">
+              <span id="course-completion-rate" class="text-xl font-bold text-emerald-500 block">%0</span>
+              <span class="text-xs text-slate-500">Tamamlanma</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Test List Grid -->
+      <h3 class="text-lg font-bold text-slate-900 dark:text-white mb-4 flex items-center gap-2">
+        <i class="fa-solid fa-list-check text-sky-500"></i> Mevcut Testler
+      </h3>
+      <div id="test-cards-container" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <!-- Dynamic JS Insertion -->
+      </div>
+    </section>
+
+
+    <!-- ==================================================================== -->
+    <!-- VIEW 3: TEST ÇÖZME EKRANI (quiz-view) -->
+    <!-- ==================================================================== -->
+    <section id="quiz-view" class="spa-view hidden animate-fade-in">
+      
+      <!-- Quiz Top Navigation & Toolbar -->
+      <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-4 bg-white dark:bg-slate-800 p-4 sm:p-5 rounded-2xl border border-slate-200 dark:border-slate-700 shadow-sm mb-6">
+        
+        <!-- Left: Back & Title -->
+        <div class="flex items-center space-x-3">
+          <button id="back-to-tests-btn" class="p-2 rounded-xl bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300 hover:text-sky-500 transition" title="Test Seçimine Dön">
+            <i class="fa-solid fa-arrow-left"></i>
+          </button>
+          <div>
+            <h2 id="quiz-header-title" class="text-base sm:text-lg font-bold text-slate-900 dark:text-white leading-tight">
+              Test 1
+            </h2>
+            <p id="quiz-header-subtitle" class="text-xs text-slate-500 dark:text-slate-400">
+              Sermaye Piyasası Mevzuatı
+            </p>
+          </div>
+        </div>
+
+        <!-- Middle: Quiz Preferences (Instant vs Exam Mode & View Type) -->
+        <div class="flex flex-wrap items-center gap-2 sm:gap-3 text-xs">
+          <!-- Feedback Mode Selector -->
+          <div class="flex bg-slate-100 dark:bg-slate-900 p-1 rounded-xl border border-slate-200 dark:border-slate-700">
+            <button id="mode-instant-btn" class="px-3 py-1.5 rounded-lg font-semibold transition bg-white dark:bg-slate-800 text-sky-600 dark:text-sky-400 shadow-sm">
+              <i class="fa-solid fa-bolt text-amber-500 mr-1"></i> Anında Cevap
+            </button>
+            <button id="mode-exam-btn" class="px-3 py-1.5 rounded-lg font-semibold transition text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white">
+              <i class="fa-solid fa-file-signature text-sky-500 mr-1"></i> Sınav Modu
+            </button>
+          </div>
+
+          <!-- View Type Toggle (Single vs List) -->
+          <div class="flex bg-slate-100 dark:bg-slate-900 p-1 rounded-xl border border-slate-200 dark:border-slate-700">
+            <button id="view-single-btn" class="px-3 py-1.5 rounded-lg font-semibold transition bg-white dark:bg-slate-800 text-sky-600 dark:text-sky-400 shadow-sm">
+              Tekli
+            </button>
+            <button id="view-list-btn" class="px-3 py-1.5 rounded-lg font-semibold transition text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white">
+              Liste
+            </button>
+          </div>
+        </div>
+
+        <!-- Right: Timer & Question Palette Drawer Toggle -->
+        <div class="flex items-center justify-between sm:justify-end gap-3">
+          <!-- Timer Display -->
+          <div class="flex items-center gap-2 px-3.5 py-1.5 rounded-xl bg-slate-100 dark:bg-slate-900 text-xs font-bold text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700">
+            <i class="fa-regular fa-clock text-sky-500"></i>
+            <span id="quiz-timer-display">00:00</span>
+          </div>
+
+          <!-- Palette Toggle Button -->
+          <button id="toggle-palette-btn" class="px-3.5 py-1.5 rounded-xl bg-sky-500 hover:bg-sky-600 text-white text-xs font-semibold shadow-sm transition flex items-center gap-1.5">
+            <i class="fa-solid fa-th"></i>
+            <span>Sorular</span>
+          </button>
+        </div>
+
+      </div>
+
+      <!-- Main Layout: Question Box + Sidebar Palette -->
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-6 items-start">
+
+        <!-- Question Container Area (Col 8 or 12) -->
+        <div id="question-area-col" class="lg:col-span-8 space-y-6">
+          
+          <!-- SINGLE QUESTION CONTAINER -->
+          <div id="single-question-container" class="bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 p-5 sm:p-8 shadow-sm relative">
+            
+            <!-- Question Number Header & Bookmark -->
+            <div class="flex items-center justify-between pb-4 mb-6 border-b border-slate-100 dark:border-slate-700/60">
+              <span class="text-xs sm:text-sm font-bold uppercase tracking-wider text-sky-600 dark:text-sky-400 bg-sky-50 dark:bg-sky-950/60 px-3 py-1 rounded-lg">
+                Soru <span id="current-q-num">1</span> / <span id="total-q-num">10</span>
+              </span>
+
+              <button id="bookmark-btn" class="text-slate-400 hover:text-amber-500 dark:hover:text-amber-400 transition text-lg p-1" title="Soruyu İşaretle">
+                <i class="fa-regular fa-bookmark"></i>
+              </button>
+            </div>
+
+            <!-- Question Text -->
+            <div id="question-text" class="text-base sm:text-lg font-semibold text-slate-900 dark:text-white leading-relaxed mb-6">
+              Soru metni yükleniyor...
+            </div>
+
+            <!-- Options List (A, B, C, D, E) -->
+            <div id="options-container" class="space-y-3 mb-6">
+              <!-- Dynamic JS Buttons -->
+            </div>
+
+            <!-- Solution Explanation Box (Instant Mode or Post-Test) -->
+            <div id="solution-box" class="hidden mt-6 p-4 rounded-xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-800/60 text-emerald-900 dark:text-emerald-200 text-sm">
+              <div class="font-bold flex items-center gap-2 mb-1 text-emerald-700 dark:text-emerald-400">
+                <i class="fa-solid fa-lightbulb"></i> Çözüm ve Açıklama:
+              </div>
+              <p id="solution-text" class="leading-relaxed">
+                Çözüm açıklaması burada görünür.
+              </p>
+            </div>
+
+            <!-- Navigation Controls Footer -->
+            <div class="flex items-center justify-between pt-6 mt-6 border-t border-slate-100 dark:border-slate-700/60">
+              <button id="prev-question-btn" class="px-4 py-2.5 rounded-xl border border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300 font-semibold text-sm hover:bg-slate-100 dark:hover:bg-slate-700 transition flex items-center gap-2 disabled:opacity-40 disabled:cursor-not-allowed">
+                <i class="fa-solid fa-chevron-left text-xs"></i> Önceki
+              </button>
+
+              <button id="finish-test-btn" class="px-5 py-2.5 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white font-bold text-sm shadow-md transition flex items-center gap-2">
+                <i class="fa-solid fa-flag-checkered"></i> Testi Bitir
+              </button>
+
+              <button id="next-question-btn" class="px-4 py-2.5 rounded-xl bg-sky-500 hover:bg-sky-600 text-white font-semibold text-sm shadow-sm transition flex items-center gap-2 disabled:opacity-40 disabled:cursor-not-allowed">
+                Sonraki <i class="fa-solid fa-chevron-right text-xs"></i>
+              </button>
+            </div>
+
+          </div>
+
+          <!-- LIST VIEW CONTAINER (Hidden by default) -->
+          <div id="list-questions-container" class="hidden space-y-6">
+            <!-- Dynamic Insertion of all questions in list format -->
+          </div>
+
+        </div>
+
+        <!-- Question Palette Sidebar (Col 4) -->
+        <div id="palette-sidebar" class="lg:col-span-4 bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 p-5 shadow-sm">
+          <div class="flex items-center justify-between mb-4 pb-3 border-b border-slate-100 dark:border-slate-700">
+            <h4 class="font-bold text-slate-900 dark:text-white text-sm flex items-center gap-2">
+              <i class="fa-solid fa-grid-2 text-sky-500"></i> Soru Haritası
+            </h4>
+            <span id="palette-solved-count" class="text-xs font-semibold text-slate-500">0/0 Çözüldü</span>
+          </div>
+
+          <!-- Grid of Question Buttons -->
+          <div id="question-palette-grid" class="grid grid-cols-5 sm:grid-cols-5 gap-2.5">
+            <!-- Dynamic Grid Buttons -->
+          </div>
+
+          <!-- Palette Legend -->
+          <div class="mt-6 pt-4 border-t border-slate-100 dark:border-slate-700 text-xs space-y-2 text-slate-600 dark:text-slate-400">
+            <div class="flex items-center gap-2">
+              <span class="w-3.5 h-3.5 rounded bg-sky-500 inline-block"></span>
+              <span>İşaretlenmiş Soru</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="w-3.5 h-3.5 rounded border-2 border-amber-500 inline-block"></span>
+              <span>Aktif Soru</span>
+            </div>
+            <div class="flex items-center gap-2">
+              <span class="w-3.5 h-3.5 rounded bg-slate-100 dark:bg-slate-700 border border-slate-300 dark:border-slate-600 inline-block"></span>
+              <span>Boş Soru</span>
+            </div>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+
+    <!-- ==================================================================== -->
+    <!-- VIEW 4: SONUÇ EKRANI (results-view) -->
+    <!-- ==================================================================== -->
+    <section id="results-view" class="spa-view hidden animate-fade-in">
+      
+      <!-- Results Overview Banner -->
+      <div class="bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 p-6 sm:p-10 shadow-lg text-center mb-8">
+        
+        <div class="inline-flex items-center justify-center w-20 h-20 rounded-full bg-emerald-100 dark:bg-emerald-950/60 text-emerald-500 mb-4 text-3xl shadow-inner">
+          <i class="fa-solid fa-trophy"></i>
+        </div>
+
+        <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 dark:text-white mb-2">
+          Test Tamamlandı!
+        </h2>
+        <p id="result-test-name" class="text-slate-600 dark:text-slate-400 text-sm mb-6">
+          Sermaye Piyasası Mevzuatı - Test 1
+        </p>
+
+        <!-- Stats Breakdown Grid -->
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 max-w-2xl mx-auto mb-8">
+          
+          <!-- Correct Count -->
+          <div class="p-4 rounded-xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-800/60">
+            <span class="block text-xs font-semibold text-emerald-600 dark:text-emerald-400 uppercase tracking-wider">Doğru</span>
+            <span id="res-correct-count" class="text-2xl sm:text-3xl font-black text-emerald-600 dark:text-emerald-400">0</span>
+          </div>
+
+          <!-- Incorrect Count -->
+          <div class="p-4 rounded-xl bg-rose-50 dark:bg-rose-950/40 border border-rose-200 dark:border-rose-800/60">
+            <span class="block text-xs font-semibold text-rose-600 dark:text-rose-400 uppercase tracking-wider">Yanlış</span>
+            <span id="res-wrong-count" class="text-2xl sm:text-3xl font-black text-rose-600 dark:text-rose-400">0</span>
+          </div>
+
+          <!-- Empty Count -->
+          <div class="p-4 rounded-xl bg-slate-100 dark:bg-slate-900 border border-slate-200 dark:border-slate-700">
+            <span class="block text-xs font-semibold text-slate-500 uppercase tracking-wider">Boş</span>
+            <span id="res-empty-count" class="text-2xl sm:text-3xl font-black text-slate-700 dark:text-slate-300">0</span>
+          </div>
+
+          <!-- Percentage -->
+          <div class="p-4 rounded-xl bg-sky-50 dark:bg-sky-950/40 border border-sky-200 dark:border-sky-800/60">
+            <span class="block text-xs font-semibold text-sky-600 dark:text-sky-400 uppercase tracking-wider">Başarı Puanı</span>
+            <span id="res-percentage" class="text-2xl sm:text-3xl font-black text-sky-600 dark:text-sky-400">%0</span>
+          </div>
+
+        </div>
+
+        <!-- Action Buttons -->
+        <div class="flex flex-wrap items-center justify-center gap-4">
+          <button id="retry-test-btn" class="px-6 py-3 rounded-xl bg-sky-500 hover:bg-sky-600 text-white font-bold text-sm shadow-md transition flex items-center gap-2">
+            <i class="fa-solid fa-rotate-left"></i> Testi Tekrar Çöz
+          </button>
+
+          <button id="res-back-to-tests-btn" class="px-6 py-3 rounded-xl bg-slate-100 dark:bg-slate-700 hover:bg-slate-200 dark:hover:bg-slate-600 text-slate-800 dark:text-white font-semibold text-sm transition flex items-center gap-2">
+            <i class="fa-solid fa-list"></i> Test Listesine Dön
+          </button>
+        </div>
+
+      </div>
+
+      <!-- Detailed Question Review List Header & Filters -->
+      <div class="flex flex-col sm:flex-row items-center justify-between gap-4 mb-6">
+        <h3 class="text-xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
+          <i class="fa-solid fa-magnifying-glass-chart text-sky-500"></i> Detaylı Soru İncelemesi
+        </h3>
+
+        <!-- Filter Tabs -->
+        <div class="flex bg-white dark:bg-slate-800 p-1 rounded-xl border border-slate-200 dark:border-slate-700 text-xs font-semibold">
+          <button id="res-filter-all" class="px-3.5 py-1.5 rounded-lg bg-sky-500 text-white transition">Tümü</button>
+          <button id="res-filter-wrong" class="px-3.5 py-1.5 rounded-lg text-slate-600 dark:text-slate-300 hover:text-slate-900 transition">Yanlışlar</button>
+          <button id="res-filter-empty" class="px-3.5 py-1.5 rounded-lg text-slate-600 dark:text-slate-300 hover:text-slate-900 transition">Boşlar</button>
+        </div>
+      </div>
+
+      <!-- Detailed Review List Container -->
+      <div id="results-review-container" class="space-y-6">
+        <!-- Dynamic Insertion -->
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer class="border-t border-slate-200 dark:border-slate-800 bg-white dark:bg-slate-900 py-6 mt-12">
+    <div class="max-w-7xl mx-auto px-4 text-center text-xs text-slate-500 dark:text-slate-400">
+      <p class="mb-2">
+        SPL (Sermaye Piyasası Lisanslama) Soru-Cevap Platformu &copy; 2026. İstemci taraflı (Client-side) SPA mimarisi.
+      </p>
+      <p class="text-slate-400 dark:text-slate-500">
+        GitHub Pages uyumlu statik web uygulaması. Sorularınızı <code class="bg-slate-100 dark:bg-slate-800 px-1.5 py-0.5 rounded text-sky-500">js/questions.js</code> dosyasına kolayca ekleyebilirsiniz.
+      </p>
+    </div>
+  </footer>
+
+  <!-- JAVASCRIPT FILES -->
+  <script src="js/questions.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

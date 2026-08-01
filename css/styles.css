@@ -1,0 +1,240 @@
+/* ============================================================================
+   SPL (Sermaye Piyasası Lisanslama) Portal - CSS Stylesheet
+   ============================================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+
+:root {
+  /* Financial Theme - Light Mode */
+  --bg-primary: #f8fafc;
+  --bg-card: #ffffff;
+  --bg-card-hover: #f1f5f9;
+  --bg-secondary: #edf2f7;
+  --text-main: #0f172a;
+  --text-muted: #64748b;
+  --border-color: #e2e8f0;
+
+  /* Accent Colors */
+  --accent-primary: #0284c7;    /* Financial Blue */
+  --accent-primary-hover: #0369a1;
+  --accent-emerald: #10b981;    /* Success / Correct */
+  --accent-emerald-light: #d1fae5;
+  --accent-rose: #ef4444;       /* Incorrect */
+  --accent-rose-light: #fee2e2;
+  --accent-amber: #f59e0b;      /* Warning / Bookmark */
+  --accent-amber-light: #fef3c7;
+  --navy-dark: #0f172a;
+
+  /* Shadows & Glassmorphism */
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  --glass-bg: rgba(255, 255, 255, 0.85);
+  --glass-border: rgba(226, 232, 240, 0.8);
+
+  --font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.dark {
+  /* Financial Theme - Dark Mode (Navy & Slate) */
+  --bg-primary: #0b132b;
+  --bg-card: #1c2541;
+  --bg-card-hover: #232f54;
+  --bg-secondary: #131c38;
+  --text-main: #f1f5f9;
+  --text-muted: #94a3b8;
+  --border-color: #2e3d66;
+
+  --accent-emerald-light: rgba(16, 185, 129, 0.15);
+  --accent-rose-light: rgba(239, 68, 68, 0.15);
+  --accent-amber-light: rgba(245, 158, 11, 0.15);
+
+  --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.5);
+  --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.3);
+  --shadow-lg: 0 10px 20px -3px rgb(0 0 0 / 0.4);
+  --glass-bg: rgba(28, 37, 65, 0.85);
+  --glass-border: rgba(46, 61, 102, 0.8);
+}
+
+* {
+  box-sizing: border-box;
+  font-family: var(--font-family);
+  transition: background-color 0.2s ease, border-color 0.2s ease;
+}
+
+body {
+  background-color: var(--bg-primary);
+  color: var(--text-main);
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Glassmorphism Header */
+.glass-header {
+  background: var(--glass-bg);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--glass-border);
+}
+
+/* Course & Test Cards */
+.card-hover-effect {
+  transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.card-hover-effect:hover {
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--accent-primary);
+}
+
+/* Question Option Buttons */
+.option-btn {
+  background-color: var(--bg-card);
+  border: 2px solid var(--border-color);
+  color: var(--text-main);
+  transition: all 0.15s ease-in-out;
+  cursor: pointer;
+}
+
+.option-btn:hover:not(:disabled) {
+  border-color: var(--accent-primary);
+  background-color: var(--bg-card-hover);
+}
+
+.option-btn.selected {
+  border-color: var(--accent-primary);
+  background-color: rgba(2, 132, 199, 0.08);
+  font-weight: 600;
+}
+
+.dark .option-btn.selected {
+  background-color: rgba(2, 132, 199, 0.2);
+}
+
+/* Correct / Incorrect Feedback States */
+.option-btn.correct {
+  border-color: var(--accent-emerald) !important;
+  background-color: var(--accent-emerald-light) !important;
+  color: var(--accent-emerald) !important;
+}
+
+.option-btn.incorrect {
+  border-color: var(--accent-rose) !important;
+  background-color: var(--accent-rose-light) !important;
+  color: var(--accent-rose) !important;
+}
+
+/* Option Letter Badge */
+.option-letter {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  background-color: var(--bg-secondary);
+  color: var(--text-main);
+  transition: all 0.15s ease;
+}
+
+.option-btn.selected .option-letter {
+  background-color: var(--accent-primary);
+  color: #ffffff;
+}
+
+.option-btn.correct .option-letter {
+  background-color: var(--accent-emerald);
+  color: #ffffff;
+}
+
+.option-btn.incorrect .option-letter {
+  background-color: var(--accent-rose);
+  color: #ffffff;
+}
+
+/* Palette Buttons */
+.palette-grid-btn {
+  width: 38px;
+  height: 38px;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 0.875rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid var(--border-color);
+  background-color: var(--bg-card);
+  color: var(--text-main);
+  cursor: pointer;
+  transition: all 0.15s ease;
+}
+
+.palette-grid-btn:hover {
+  transform: scale(1.08);
+  border-color: var(--accent-primary);
+}
+
+.palette-grid-btn.answered {
+  background-color: var(--accent-primary);
+  color: #ffffff;
+  border-color: var(--accent-primary);
+}
+
+.palette-grid-btn.current {
+  ring: 3px solid var(--accent-amber);
+  border-color: var(--accent-amber);
+  font-weight: 800;
+}
+
+.palette-grid-btn.correct-eval {
+  background-color: var(--accent-emerald);
+  color: #ffffff;
+  border-color: var(--accent-emerald);
+}
+
+.palette-grid-btn.incorrect-eval {
+  background-color: var(--accent-rose);
+  color: #ffffff;
+  border-color: var(--accent-rose);
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-primary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
+
+/* Circular Progress Indicator */
+.progress-ring-circle {
+  transition: stroke-dashoffset 0.5s ease-in-out;
+  transform: rotate(-90deg);
+  transform-origin: 50% 50%;
+}
