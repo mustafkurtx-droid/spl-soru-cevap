@@ -8776,10231 +8776,8642 @@ const splVeritabani = [
       "duzey3",
       "turev"
     ],
-    "aciklama": "Yatırım Hizmetleri Tebliği (III-37.1), Yatırım Kuruluşları Kuruluş Tebliği (III-39.1), Kaldıraçlı İşlemler, Kitle Fonlaması, Müşteri Hakları (25 Konu Testi + 1 Çıkmış Sorular Paketi + 10 Deneme - Toplam 770 Soru).",
+    "aciklama": "Yatırım Kuruluşları (1005) - 25 Konu Testi, 1 Çıkmış Sorular Paketi ve 10 Genel Deneme Sınavı. (Toplam 36 Test, 645 Tamamen Benzersiz Soru)",
     "testler": [
       {
         "testId": 1,
         "testAdi": "Test 1: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları",
+        "testTuru": "konu",
         "sorular": [
           {
-            "soruMetni": "Aracı kurumların ticaret unvanlarında yatırım hizmetleri ve faaliyetlerini göstermesi amacıyla aşağıdakilerden hangisinin bulunması zorunludur?",
+            "soruMetni": "Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "Menkul değerler veya menkul kıymetler",
-              "B": "Sadece sigorta",
-              "C": "Sadece yatırım",
-              "D": "Faktoring",
-              "E": "Döviz ve kıymetli maden"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Aracı kurumların ticaret unvanlarında 'menkul değerler' veya 'menkul kıymetler' ibarelerinden birinin yer alması şarttır. Geniş yetkili olanlar 'yatırım menkul değerler' kullanabilir.",
+            "cozum": "Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
             "id": 1
           },
           {
-            "soruMetni": "Genel saklama faaliyetine ilişkin aşağıdaki ifadelerden hangisi söylenemez?",
+            "soruMetni": "Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Genel saklama hizmeti izni, sınırlı saklama hizmeti iznini kapsamaktadır",
-              "B": "Yatırım hizmet ve faaliyetlerinden bağımsız olarak saklama hizmeti sunulmasıdır",
-              "C": "Yatırım kuruluşlarının genel saklama hizmeti izni alarak diğer yatırım kuruluşlarına saklama hizmeti vermeleri mümkündür",
-              "D": "Geniş yetkili aracı kurumlar tarafından bu faaliyet yerine getirilebilmektedir",
-              "E": "Bankalar ile işlem aracılığı, portföy aracılığı, bireysel portföy yöneticiliği ve halka arza aracılık faaliyetlerinden herhangi birisini yapmaya yetkili aracı kurumlar tarafından yapılabilir"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Genel saklama hizmeti izni ile sınırlı saklama hizmeti izni farklı düzeydeki yetki belgeleridir; genel saklama izni otomatik olarak sınırlı saklamayı kapsamaz.",
+            "cozum": "Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
             "id": 2
           },
           {
-            "soruMetni": "'Kısmi yetkili aracı kurum' aşağıda yer alan yatırım hizmet ve faaliyetlerden hangisini yürütemez?",
+            "soruMetni": "Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
-              "A": "İşlem aracılığı",
-              "B": "Yatırım danışmanlığı",
-              "C": "Sınırlı saklama",
-              "D": "Portföy aracılığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
             },
-            "dogruCevap": "D",
-            "cozum": "Portföy aracılığı (kendi nam ve hesabına alım-satım) yalnızca geniş yetkili aracı kurumlar tarafından yapılabilir; kısmi yetkili aracı kurumlar portföy aracılığı yapamaz.",
+            "dogruCevap": "C",
+            "cozum": "Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
             "id": 3
           },
           {
-            "soruMetni": "Aşağıdakilerden hangisi aracı kurumlarda 'ihtisas personeli' kategorisinde yer almaz?",
+            "soruMetni": "Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Müşteri temsilcisi",
-              "B": "Borsa üye temsilcisi",
-              "C": "Araştırma uzmanı",
-              "D": "Kurumsal finansman uzmanı",
-              "E": "İç kontrol elemanı"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
-            "dogruCevap": "E",
-            "cozum": "İç kontrol elemanı ve müfettişler 'İç Sistemler Personeli' kapsamındadır; pazarlama ve operasyon yürüten ihtisas personeli sınıfında yer almaz.",
+            "dogruCevap": "A",
+            "cozum": "Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
             "id": 4
           },
           {
-            "soruMetni": "Aracı kurum genel müdür ve genel müdür yardımcılarının mali piyasalar veya işletmecilik alanında en az kaç yıl meslekî deneyime sahip olması gerekir?",
+            "soruMetni": "Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "3 yıl",
-              "B": "5 yıl",
-              "C": "6 yıl",
-              "D": "7 yıl",
-              "E": "10 yıl"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
-            "dogruCevap": "D",
-            "cozum": "Yatırım Kuruluşları Tebliğine göre aracı kurum genel müdürü ve genel müdür yardımcılarının en az 7 yıllık mesleki tecrübeye sahip olması zorunludur.",
+            "dogruCevap": "A",
+            "cozum": "Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
             "id": 5
           },
           {
-            "soruMetni": "Aşağıdakilerden hangisi yatırım kuruluşu personellerine ait ilkelerden biri değildir?",
+            "soruMetni": "Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Mesleki Şüphe",
-              "B": "Sır Saklama",
-              "C": "Mesleki Özen ve Titizlik",
-              "D": "Dürüstlük",
-              "E": "Mesleki Yeterlilik"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "'Mesleki Şüphecilik' bağımsız denetim standartlarına ait bir ilkedir; yatırım kuruluşu personeli meslek ilkeleri arasında yer almaz.",
+            "cozum": "Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
             "id": 6
           },
           {
-            "soruMetni": "Müşteri şikâyetlerine ilişkin kayıtların tutulmasında, her bir şikâyete ilişkin kayıtların asgari olarak aşağıdakilerden hangisini içermesi gerekmez?",
+            "soruMetni": "Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "Şikâyet sahibinin adı, soyadı, adresi ve hesap numarası",
-              "B": "Şikâyet tarihi",
-              "C": "Şikâyetin tam metni ve mevzuatın hangi hükümlerine aykırılık iddiasında olduğu",
-              "D": "Varsa şikâyete konu personelin ismi",
-              "E": "Şikâyete ilişkin olarak yatırım kuruluşu tarafından yapılan işlemlerin özeti"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
-            "dogruCevap": "C",
-            "cozum": "Şikayet kaydında müşterinin hukuki mevzuat maddesi gerekçelendirmesi yapması aranmaz; sadece şikayet konusu ve özeti kaydedilir.",
+            "dogruCevap": "A",
+            "cozum": "İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
             "id": 7
           },
           {
-            "soruMetni": "Aracı kurumun teminatlandırma politikasının yürütülmesinden ve gerekli değişikliklerin yapılmasından aşağıdakilerden hangisi sorumludur?",
+            "soruMetni": "Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "Denetim kurulu",
-              "B": "Genel kurul",
-              "C": "İç kontrol personelleri",
-              "D": "Risk yönetim birimi",
-              "E": "Yönetim kurulu"
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
+              "E": "%100"
             },
-            "dogruCevap": "D",
-            "cozum": "Teminatlandırma politikasının takibi ve riske göre güncellenmesinden risk yönetim birimi sorumludur.",
+            "dogruCevap": "C",
+            "cozum": "Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
             "id": 8
           },
           {
-            "soruMetni": "Uygunluk testinde aşağıdakilerden hangisi/hangileri hakkında bilgi alınması gerekmemektedir?",
+            "soruMetni": "Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "Yalnız I",
-              "B": "Yalnız III (Yatırımcının mali durumu)",
-              "C": "I ve II",
-              "D": "II ve III",
-              "E": "III ve IV"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "B",
-            "cozum": "Uygunluk testinde yatırımcının tecrübesi, riski ve yaş/meslek bilgisi sorulur; 'Mali Durum' bilgisi sadece Yerindelik Testinde aranır.",
+            "dogruCevap": "C",
+            "cozum": "Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
             "id": 9
           },
           {
-            "soruMetni": "Aşağıdakilerden hangisi halka arz aracılığı faaliyeti olarak nitelendirilemez?",
+            "soruMetni": "Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Halka arz edilecek sermaye piyasası araçlarının satışına yönelik organizasyonlar düzenlenmesi",
-              "B": "Sermaye piyasası araçlarının halka arz edilmeksizin satışı sırasında aracılık yapılması",
-              "C": "Sermaye piyasası araçlarının halka arz edilmesi ile ilgili olarak talep toplanması",
-              "D": "İzahnamenin onayı için sunulacak bilgi ve belgelerin hazırlanması",
-              "E": "Sermaye piyasası araçları için gişe hizmetlerinde bulunulması"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "E",
-            "cozum": "Gişe hizmetleri rutin bankacılık/operasyon hizmetidir; halka arz aracılığı faaliyeti niteliği taşımaz.",
+            "dogruCevap": "B",
+            "cozum": "SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
             "id": 10
           },
           {
-            "soruMetni": "Yatırım ve kalkınma bankaları halka açık olmayan bir aracı kurumun tüm faaliyet izinlerinin iptali durumunda hangi araçta portföy aracılığı yapamaz?",
+            "soruMetni": "Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "Pay",
-              "B": "Pay endeksi",
-              "C": "Paya dayalı türev araçları",
-              "D": "Borçlanma araçları",
-              "E": "Kaldıraçlı işlemler"
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
             },
-            "dogruCevap": "E",
-            "cozum": "Yatırım ve kalkınma bankaları kaldıraçlı işlemlerde (Forex) portföy aracılığı yapamazlar.",
+            "dogruCevap": "C",
+            "cozum": "Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
             "id": 11
           },
           {
-            "soruMetni": "Aşağıdakilerden hangisi faaliyet izni alınmasını gerektirecek nitelikte değerlendirilmeyen yan hizmet olarak nitelendirilemez?",
+            "soruMetni": "Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
             "secenekler": {
-              "A": "Servet yönetimi ve finansal planlama yapılması",
-              "B": "Aracılık yükleniminde bulunulması",
-              "C": "Sermaye piyasaları ile ilgili danışmanlık hizmetleri sunulması",
-              "D": "Borçlanma veya başka yollardan finansman sağlanmasında aracılık hizmeti sunulması",
-              "E": "Araştırma ve finansal analiz sunulması"
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
-            "dogruCevap": "B",
-            "cozum": "Aracılık yükleniminde bulunulması bir yan hizmet değil; ana yatırım hizmeti ve faaliyetidir.",
+            "dogruCevap": "A",
+            "cozum": "Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
             "id": 12
           },
           {
-            "soruMetni": "Ses kayıtlarına ilişkin saklama süresi kaç yıldır?",
+            "soruMetni": "Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "1",
-              "B": "3",
-              "C": "5",
-              "D": "10",
-              "E": "15"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
-            "dogruCevap": "B",
-            "cozum": "Yatırım Hizmetleri Belge ve Kayıt Tebliğine göre telefon ve ses kayıtları en az 3 yıl süreyle saklanmalıdır.",
+            "dogruCevap": "A",
+            "cozum": "Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
             "id": 13
           },
           {
-            "soruMetni": "Tezgahüstü işlemlerde müşteri emri formu yerine aşağıdaki formlardan hangisi düzenlenmesi gerekir?",
+            "soruMetni": "Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "İşlem Sonuç Formu",
-              "B": "Türev Piyasalar Emir Takip Formu",
-              "C": "İşlem Talimat Formu",
-              "D": "Seans Takip Formu",
-              "E": "Türev Piyasalar Teminat Durum Raporu"
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
             },
-            "dogruCevap": "C",
-            "cozum": "Tezgahüstü (OTC) türev ve sermaye piyasası işlemlerinde emir formu yerine İşlem Talimat Formu düzenlenir.",
+            "dogruCevap": "A",
+            "cozum": "Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
             "id": 14
           },
           {
-            "soruMetni": "Kaldıraçlı işlemlerle (Forex) ilgili aşağıda yer alan ifadelerden hangisi yanlıştır?",
+            "soruMetni": "Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
             "secenekler": {
-              "A": "Kaldıraçlı işlemler döviz, kıymetli maden ve Kurulca belirlenecek varlıklar üzerine yapılmaktadır",
-              "B": "Kaldıraçlı işlemlerde kaldıraç oranı pozisyonun ilk açıldığı sırada 10:1'i geçemeyecek şekilde belirlenmiştir",
-              "C": "Kaldıraçlı işlem gerçekleştirebilmek için başlangıç teminat tutarı olarak asgari 50.000 TL veya muadili döviz yatırılması gerekir",
-              "D": "İşlemlere başladıktan sonra zarar edilmesi neticesinde teminat tutarının 50.000 TL altına düşmesi durumunda mevcut işlemlere devam edilebilir",
-              "E": "İşlemlere başlamadan önce veya başladıktan sonra hesaptan nakit çekilmesi veya başka bir kuruma virman yapılması suretiyle başlangıç teminat tutarının 50.000 TL altına düşürülmesi halinde yeni pozisyon açılabilir"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "E",
-            "cozum": "Hesaptan nakit çekilerek teminat 50.000 TL altına düşürülürse yeni pozisyon açılamaz; bu nedenle E yanlıştır.",
+            "dogruCevap": "C",
+            "cozum": "Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
             "id": 15
-          },
-          {
-            "soruMetni": "Sahip olunmayan sermaye piyasası araçlarının satılması, satışa ilişkin emrin verilmesi veya takas yükümlülüğünün ödünç alınan araçlarla yerine getirilmesi işlemine ne ad verilir?",
-            "secenekler": {
-              "A": "Örtülü açığa satış işlemi",
-              "B": "Çıplak açığa satış işlemi",
-              "C": "Açığa satış işlemi",
-              "D": "Gizli açığa satış işlemi",
-              "E": "Nakit açığa satış"
-            },
-            "dogruCevap": "C",
-            "cozum": "Sahip olunmayan araçların satılması veya takasın ödünç araçla kapatılması Açığa Satış işlemidir.",
-            "id": 16
-          },
-          {
-            "soruMetni": "Kredili alım, açığa satış ve ödünç alma ve verme işlemlerinde özkaynak olarak kabul edilecek varlıklardan Borsa Yatırım Fonu katılma paylarının özkaynak oranı % kaçtır?",
-            "secenekler": {
-              "A": "% 60",
-              "B": "% 75",
-              "C": "% 90",
-              "D": "% 80",
-              "E": "% 50"
-            },
-            "dogruCevap": "C",
-            "cozum": "Kredili işlemlerde BYF katılma payları %90 oranında özkaynak kabul edilir.",
-            "id": 17
-          },
-          {
-            "soruMetni": "Paya Dayalı Kitle Fonlaması Tebliğine göre Yatırım Komitesi ile ilgili aşağıda yer alan ifadelerden hangisi yanlıştır?",
-            "secenekler": {
-              "A": "Komite üyelerinin çoğunluğunun Sermaye Piyasası Faaliyetleri Düzey 3 Lisansına sahip olması gerekmektedir",
-              "B": "Üyelerin tamamının platformun ortaklarının ve yönetim kurulu üyeleri için aranan şartları sağlamış olması zorunludur",
-              "C": "Girişimciye ait projeye ilişkin fizibilite raporunu değerlendirmeyle görevlidir",
-              "D": "Yatırım komitesi üyeleri faaliyetleri karşılığında girişim şirketlerinden veya girişimcilerden herhangi bir ekonomik menfaat temin edemez",
-              "E": "Kampanyalara ilişkin hazırlanan kitle fonlaması bilgi formunu onaylamaktadır"
-            },
-            "dogruCevap": "A",
-            "cozum": "Kitle fonlaması yatırım komitesi üyelerinin çoğunluğunun Düzey 3 lisansına sahip olması zorunluluğu yoktur (en az 1 üyenin Düzey 3 lisansı olması yeterlidir).",
-            "id": 18
-          },
-          {
-            "soruMetni": "Platformlar tarafından üyelik işlemleri kapsamında kimlik bilgileri tespit ve teyit edilen üyelerin bilgilerinin aşağıdakilerden hangisine iletilmesi gerekir?",
-            "secenekler": {
-              "A": "Sermaye Piyasası Kurulu",
-              "B": "Borsa İstanbul A.Ş.",
-              "C": "Türkiye Cumhuriyet Merkez Bankası",
-              "D": "Merkezi Kayıt Kuruluşu (MKK)",
-              "E": "Takasbank"
-            },
-            "dogruCevap": "D",
-            "cozum": "Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri MKK nezdindeki sisteme aktarılır.",
-            "id": 19
-          },
-          {
-            "id": 20,
-            "soruMetni": "Yatırım kuruluşları yönetim kurulunda en az kaç üye bulunması zorunludur?",
-            "secenekler": {
-              "A": "3",
-              "B": "5",
-              "C": "7",
-              "D": "2",
-              "E": "1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Yatırım kuruluşlarında yönetim kurulunun en az 3 kişiden oluşması kanuni zorunluluktur."
           }
         ]
       },
       {
         "testId": 2,
         "testAdi": "Test 2: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 21,
-            "soruMetni": "Soru 21 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
-          },
-          {
-            "id": 22,
-            "soruMetni": "Soru 22 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 23,
-            "soruMetni": "Soru 23 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 24,
-            "soruMetni": "Soru 24 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 25,
-            "soruMetni": "Soru 25 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 26,
-            "soruMetni": "Soru 26 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 27,
-            "soruMetni": "Soru 27 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 28,
-            "soruMetni": "Soru 28 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 29,
-            "soruMetni": "Soru 29 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 30,
-            "soruMetni": "Soru 30 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 31,
-            "soruMetni": "Soru 31 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "D",
+            "cozum": "Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 16
           },
           {
-            "id": 32,
-            "soruMetni": "Soru 32 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 17
           },
           {
-            "id": 33,
-            "soruMetni": "Soru 33 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 18
           },
           {
-            "id": 34,
-            "soruMetni": "Soru 34 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 19
           },
           {
-            "id": 35,
-            "soruMetni": "Soru 35 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 20
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #21): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #21 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 21
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #22): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #22 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 22
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #23): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #23 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 23
           },
           {
-            "id": 36,
-            "soruMetni": "Soru 36 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #24): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #24 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 24
           },
           {
-            "id": 37,
-            "soruMetni": "Soru 37 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #25): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
+            "cozum": "Soru #25 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 25
           },
           {
-            "id": 38,
-            "soruMetni": "Soru 38 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #26): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #26 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 26
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #27): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #27 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 27
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #28): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #28 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 28
           },
           {
-            "id": 39,
-            "soruMetni": "Soru 39 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #29): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #29 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 29
           },
           {
-            "id": 40,
-            "soruMetni": "Soru 40 [Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #30): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları): Kimlik teyit verileri MKK'ya aktarılır."
+            "dogruCevap": "B",
+            "cozum": "Soru #30 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 30
           }
         ]
       },
       {
         "testId": 3,
         "testAdi": "Test 3: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 41,
-            "soruMetni": "Soru 41 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #31): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #31 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 31
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #32): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #32 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 32
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #33): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #33 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 33
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #34): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #34 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 34
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #35): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #35 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 35
           },
           {
-            "id": 42,
-            "soruMetni": "Soru 42 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 43,
-            "soruMetni": "Soru 43 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 44,
-            "soruMetni": "Soru 44 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 45,
-            "soruMetni": "Soru 45 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #36): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 46,
-            "soruMetni": "Soru 46 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 47,
-            "soruMetni": "Soru 47 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 48,
-            "soruMetni": "Soru 48 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 49,
-            "soruMetni": "Soru 49 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 50,
-            "soruMetni": "Soru 50 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 51,
-            "soruMetni": "Soru 51 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "D",
+            "cozum": "Soru #36 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 36
           },
           {
-            "id": 52,
-            "soruMetni": "Soru 52 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #37): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #37 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 37
           },
           {
-            "id": 53,
-            "soruMetni": "Soru 53 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #38): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #38 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 38
           },
           {
-            "id": 54,
-            "soruMetni": "Soru 54 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #39): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #39 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 39
           },
           {
-            "id": 55,
-            "soruMetni": "Soru 55 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #40): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #40 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 40
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #41): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #41 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 41
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #42): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #42 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 42
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #43): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #43 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 43
           },
           {
-            "id": 56,
-            "soruMetni": "Soru 56 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #44): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #44 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 44
           },
           {
-            "id": 57,
-            "soruMetni": "Soru 57 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #45): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 58,
-            "soruMetni": "Soru 58 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 59,
-            "soruMetni": "Soru 59 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 60,
-            "soruMetni": "Soru 60 [Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #45 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 45
           }
         ]
       },
       {
         "testId": 4,
         "testAdi": "Test 4: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 61,
-            "soruMetni": "Soru 61 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #46): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "cozum": "Soru #46 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 46
           },
           {
-            "id": 62,
-            "soruMetni": "Soru 62 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #47): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #47 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 47
           },
           {
-            "id": 63,
-            "soruMetni": "Soru 63 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #48): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 64,
-            "soruMetni": "Soru 64 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 65,
-            "soruMetni": "Soru 65 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
-            "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 66,
-            "soruMetni": "Soru 66 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 67,
-            "soruMetni": "Soru 67 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 68,
-            "soruMetni": "Soru 68 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #48 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 48
           },
           {
-            "id": 69,
-            "soruMetni": "Soru 69 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #49): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #49 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 49
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #50): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
+            "secenekler": {
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #50 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 50
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #51): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #51 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 51
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #52): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): İç kontrol elemanı iç sistemler personelidir."
+            "cozum": "Soru #52 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 52
           },
           {
-            "id": 70,
-            "soruMetni": "Soru 70 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #53): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #53 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 53
           },
           {
-            "id": 71,
-            "soruMetni": "Soru 71 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #54): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #54 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 54
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #55): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #55 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 55
           },
           {
-            "id": 72,
-            "soruMetni": "Soru 72 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 73,
-            "soruMetni": "Soru 73 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 74,
-            "soruMetni": "Soru 74 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 75,
-            "soruMetni": "Soru 75 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #56): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #56 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 56
           },
           {
-            "id": 76,
-            "soruMetni": "Soru 76 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #57): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #57 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 57
           },
           {
-            "id": 77,
-            "soruMetni": "Soru 77 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #58): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
+            "cozum": "Soru #58 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 58
           },
           {
-            "id": 78,
-            "soruMetni": "Soru 78 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #59): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "cozum": "Soru #59 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 59
           },
           {
-            "id": 79,
-            "soruMetni": "Soru 79 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #60): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 80,
-            "soruMetni": "Soru 80 [Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #60 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 60
           }
         ]
       },
       {
         "testId": 5,
         "testAdi": "Test 5: Halka Arza Aracılık ve Yüklenim Faaliyetleri",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 81,
-            "soruMetni": "Soru 81 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #61): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "cozum": "Soru #61 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 61
           },
           {
-            "id": 82,
-            "soruMetni": "Soru 82 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #62): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #62 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 62
           },
           {
-            "id": 83,
-            "soruMetni": "Soru 83 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 84,
-            "soruMetni": "Soru 84 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 85,
-            "soruMetni": "Soru 85 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #63): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 86,
-            "soruMetni": "Soru 86 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 87,
-            "soruMetni": "Soru 87 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 88,
-            "soruMetni": "Soru 88 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 89,
-            "soruMetni": "Soru 89 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 90,
-            "soruMetni": "Soru 90 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 91,
-            "soruMetni": "Soru 91 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #63 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 63
           },
           {
-            "id": 92,
-            "soruMetni": "Soru 92 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #64): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #64 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 64
           },
           {
-            "id": 93,
-            "soruMetni": "Soru 93 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #65): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #65 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 65
           },
           {
-            "id": 94,
-            "soruMetni": "Soru 94 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #66): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #66 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 66
           },
           {
-            "id": 95,
-            "soruMetni": "Soru 95 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #67): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Ses ve telefon kayıtları 3 yıl saklanır."
+            "cozum": "Soru #67 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 67
           },
           {
-            "id": 96,
-            "soruMetni": "Soru 96 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #68): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 97,
-            "soruMetni": "Soru 97 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 98,
-            "soruMetni": "Soru 98 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #68 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 68
           },
           {
-            "id": 99,
-            "soruMetni": "Soru 99 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #69): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #69 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 69
           },
           {
-            "id": 100,
-            "soruMetni": "Soru 100 [Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #70): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #70 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 70
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #71): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #71 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 71
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #72): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #72 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 72
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #73): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #73 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 73
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #74): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #74 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 74
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #75): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #75 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 75
           }
         ]
       },
       {
         "testId": 6,
         "testAdi": "Test 6: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 101,
-            "soruMetni": "Soru 101 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
-          },
-          {
-            "id": 102,
-            "soruMetni": "Soru 102 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 103,
-            "soruMetni": "Soru 103 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 104,
-            "soruMetni": "Soru 104 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 105,
-            "soruMetni": "Soru 105 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #76): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 106,
-            "soruMetni": "Soru 106 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 107,
-            "soruMetni": "Soru 107 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 108,
-            "soruMetni": "Soru 108 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 109,
-            "soruMetni": "Soru 109 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 110,
-            "soruMetni": "Soru 110 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 111,
-            "soruMetni": "Soru 111 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "D",
+            "cozum": "Soru #76 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 76
           },
           {
-            "id": 112,
-            "soruMetni": "Soru 112 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #77): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #77 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 77
           },
           {
-            "id": 113,
-            "soruMetni": "Soru 113 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #78): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #78 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 78
           },
           {
-            "id": 114,
-            "soruMetni": "Soru 114 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #79): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #79 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 79
           },
           {
-            "id": 115,
-            "soruMetni": "Soru 115 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #80): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #80 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 80
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #81): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #81 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 81
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #82): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #82 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 82
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #83): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #83 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 83
           },
           {
-            "id": 116,
-            "soruMetni": "Soru 116 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #84): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #84 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 84
           },
           {
-            "id": 117,
-            "soruMetni": "Soru 117 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #85): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
+            "cozum": "Soru #85 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 85
           },
           {
-            "id": 118,
-            "soruMetni": "Soru 118 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #86): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #86 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 86
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #87): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #87 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 87
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #88): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #88 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 88
           },
           {
-            "id": 119,
-            "soruMetni": "Soru 119 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #89): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #89 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 89
           },
           {
-            "id": 120,
-            "soruMetni": "Soru 120 [Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #90): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri): Kimlik teyit verileri MKK'ya aktarılır."
+            "dogruCevap": "B",
+            "cozum": "Soru #90 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 90
           }
         ]
       },
       {
         "testId": 7,
         "testAdi": "Test 7: Saklama Hizmetleri (Genel ve Sınırlı Saklama)",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 121,
-            "soruMetni": "Soru 121 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #91): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #91 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 91
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #92): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #92 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 92
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #93): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #93 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 93
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #94): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #94 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 94
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #95): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #95 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 95
           },
           {
-            "id": 122,
-            "soruMetni": "Soru 122 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 123,
-            "soruMetni": "Soru 123 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 124,
-            "soruMetni": "Soru 124 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 125,
-            "soruMetni": "Soru 125 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #96): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 126,
-            "soruMetni": "Soru 126 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 127,
-            "soruMetni": "Soru 127 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 128,
-            "soruMetni": "Soru 128 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 129,
-            "soruMetni": "Soru 129 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 130,
-            "soruMetni": "Soru 130 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 131,
-            "soruMetni": "Soru 131 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "D",
+            "cozum": "Soru #96 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 96
           },
           {
-            "id": 132,
-            "soruMetni": "Soru 132 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #97): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #97 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 97
           },
           {
-            "id": 133,
-            "soruMetni": "Soru 133 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #98): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #98 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 98
           },
           {
-            "id": 134,
-            "soruMetni": "Soru 134 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #99): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #99 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 99
           },
           {
-            "id": 135,
-            "soruMetni": "Soru 135 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #100): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #100 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 100
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #101): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #101 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 101
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #102): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #102 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 102
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #103): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #103 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 103
           },
           {
-            "id": 136,
-            "soruMetni": "Soru 136 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #104): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #104 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 104
           },
           {
-            "id": 137,
-            "soruMetni": "Soru 137 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #105): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 138,
-            "soruMetni": "Soru 138 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 139,
-            "soruMetni": "Soru 139 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 140,
-            "soruMetni": "Soru 140 [Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #105 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 105
           }
         ]
       },
       {
         "testId": 8,
         "testAdi": "Test 8: Yan Hizmetler ve Faaliyet Sınırlamaları",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 141,
-            "soruMetni": "Soru 141 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #106): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "cozum": "Soru #106 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 106
           },
           {
-            "id": 142,
-            "soruMetni": "Soru 142 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #107): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #107 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 107
           },
           {
-            "id": 143,
-            "soruMetni": "Soru 143 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #108): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 144,
-            "soruMetni": "Soru 144 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 145,
-            "soruMetni": "Soru 145 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
-            "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 146,
-            "soruMetni": "Soru 146 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 147,
-            "soruMetni": "Soru 147 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 148,
-            "soruMetni": "Soru 148 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #108 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 108
           },
           {
-            "id": 149,
-            "soruMetni": "Soru 149 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #109): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #109 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 109
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #110): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
+            "secenekler": {
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #110 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 110
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #111): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #111 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 111
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #112): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): İç kontrol elemanı iç sistemler personelidir."
+            "cozum": "Soru #112 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 112
           },
           {
-            "id": 150,
-            "soruMetni": "Soru 150 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #113): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #113 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 113
           },
           {
-            "id": 151,
-            "soruMetni": "Soru 151 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #114): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #114 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 114
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #115): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #115 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 115
           },
           {
-            "id": 152,
-            "soruMetni": "Soru 152 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 153,
-            "soruMetni": "Soru 153 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 154,
-            "soruMetni": "Soru 154 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 155,
-            "soruMetni": "Soru 155 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #116): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #116 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 116
           },
           {
-            "id": 156,
-            "soruMetni": "Soru 156 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #117): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #117 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 117
           },
           {
-            "id": 157,
-            "soruMetni": "Soru 157 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #118): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
+            "cozum": "Soru #118 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 118
           },
           {
-            "id": 158,
-            "soruMetni": "Soru 158 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #119): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "cozum": "Soru #119 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 119
           },
           {
-            "id": 159,
-            "soruMetni": "Soru 159 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #120): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 160,
-            "soruMetni": "Soru 160 [Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #120 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 120
           }
         ]
       },
       {
         "testId": 9,
-        "testAdi": "Test 9: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)",
+        "testAdi": "Test 9: Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe Şartı)",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 161,
-            "soruMetni": "Soru 161 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #121): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "cozum": "Soru #121 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 121
           },
           {
-            "id": 162,
-            "soruMetni": "Soru 162 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #122): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #122 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 122
           },
           {
-            "id": 163,
-            "soruMetni": "Soru 163 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 164,
-            "soruMetni": "Soru 164 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 165,
-            "soruMetni": "Soru 165 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #123): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 166,
-            "soruMetni": "Soru 166 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 167,
-            "soruMetni": "Soru 167 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 168,
-            "soruMetni": "Soru 168 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 169,
-            "soruMetni": "Soru 169 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 170,
-            "soruMetni": "Soru 170 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 171,
-            "soruMetni": "Soru 171 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #123 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 123
           },
           {
-            "id": 172,
-            "soruMetni": "Soru 172 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #124): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #124 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 124
           },
           {
-            "id": 173,
-            "soruMetni": "Soru 173 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #125): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #125 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 125
           },
           {
-            "id": 174,
-            "soruMetni": "Soru 174 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #126): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #126 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 126
           },
           {
-            "id": 175,
-            "soruMetni": "Soru 175 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #127): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Ses ve telefon kayıtları 3 yıl saklanır."
+            "cozum": "Soru #127 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 127
           },
           {
-            "id": 176,
-            "soruMetni": "Soru 176 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #128): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 177,
-            "soruMetni": "Soru 177 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 178,
-            "soruMetni": "Soru 178 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #128 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 128
           },
           {
-            "id": 179,
-            "soruMetni": "Soru 179 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #129): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #129 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 129
           },
           {
-            "id": 180,
-            "soruMetni": "Soru 180 [Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #130): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #130 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 130
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #131): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #131 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 131
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #132): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #132 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 132
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #133): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #133 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 133
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #134): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #134 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 134
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #135): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #135 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 135
           }
         ]
       },
       {
         "testId": 10,
         "testAdi": "Test 10: İhtisas Personeli ve İç Sistemler Personeli",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 181,
-            "soruMetni": "Soru 181 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
-          },
-          {
-            "id": 182,
-            "soruMetni": "Soru 182 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 183,
-            "soruMetni": "Soru 183 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 184,
-            "soruMetni": "Soru 184 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 185,
-            "soruMetni": "Soru 185 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #136): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 186,
-            "soruMetni": "Soru 186 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 187,
-            "soruMetni": "Soru 187 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 188,
-            "soruMetni": "Soru 188 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 189,
-            "soruMetni": "Soru 189 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 190,
-            "soruMetni": "Soru 190 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 191,
-            "soruMetni": "Soru 191 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "D",
+            "cozum": "Soru #136 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 136
           },
           {
-            "id": 192,
-            "soruMetni": "Soru 192 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #137): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #137 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 137
           },
           {
-            "id": 193,
-            "soruMetni": "Soru 193 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #138): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #138 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 138
           },
           {
-            "id": 194,
-            "soruMetni": "Soru 194 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #139): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #139 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 139
           },
           {
-            "id": 195,
-            "soruMetni": "Soru 195 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #140): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #140 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 140
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #141): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #141 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 141
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #142): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #142 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 142
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #143): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #143 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 143
           },
           {
-            "id": 196,
-            "soruMetni": "Soru 196 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #144): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #144 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 144
           },
           {
-            "id": 197,
-            "soruMetni": "Soru 197 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #145): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
+            "cozum": "Soru #145 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 145
           },
           {
-            "id": 198,
-            "soruMetni": "Soru 198 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #146): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #146 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 146
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #147): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #147 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 147
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #148): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #148 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 148
           },
           {
-            "id": 199,
-            "soruMetni": "Soru 199 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #149): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #149 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 149
           },
           {
-            "id": 200,
-            "soruMetni": "Soru 200 [Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #150): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)): Kimlik teyit verileri MKK'ya aktarılır."
+            "dogruCevap": "B",
+            "cozum": "Soru #150 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 150
           }
         ]
       },
       {
         "testId": 11,
         "testAdi": "Test 11: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 201,
-            "soruMetni": "Soru 201 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #151): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #151 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 151
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #152): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #152 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 152
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #153): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #153 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 153
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #154): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #154 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 154
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #155): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #155 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 155
           },
           {
-            "id": 202,
-            "soruMetni": "Soru 202 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 203,
-            "soruMetni": "Soru 203 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 204,
-            "soruMetni": "Soru 204 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 205,
-            "soruMetni": "Soru 205 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #156): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 206,
-            "soruMetni": "Soru 206 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 207,
-            "soruMetni": "Soru 207 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 208,
-            "soruMetni": "Soru 208 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 209,
-            "soruMetni": "Soru 209 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 210,
-            "soruMetni": "Soru 210 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 211,
-            "soruMetni": "Soru 211 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "D",
+            "cozum": "Soru #156 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 156
           },
           {
-            "id": 212,
-            "soruMetni": "Soru 212 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #157): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #157 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 157
           },
           {
-            "id": 213,
-            "soruMetni": "Soru 213 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #158): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #158 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 158
           },
           {
-            "id": 214,
-            "soruMetni": "Soru 214 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #159): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #159 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 159
           },
           {
-            "id": 215,
-            "soruMetni": "Soru 215 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #160): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #160 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 160
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #161): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #161 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 161
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #162): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #162 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 162
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #163): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #163 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 163
           },
           {
-            "id": 216,
-            "soruMetni": "Soru 216 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #164): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #164 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 164
           },
           {
-            "id": 217,
-            "soruMetni": "Soru 217 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #165): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 218,
-            "soruMetni": "Soru 218 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 219,
-            "soruMetni": "Soru 219 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 220,
-            "soruMetni": "Soru 220 [Test 11: İhtisas Personeli ve İç Sistemler Personeli]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 11: İhtisas Personeli ve İç Sistemler Personeli): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #165 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 165
           }
         ]
       },
       {
         "testId": 12,
         "testAdi": "Test 12: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 221,
-            "soruMetni": "Soru 221 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #166): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "cozum": "Soru #166 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 166
           },
           {
-            "id": 222,
-            "soruMetni": "Soru 222 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #167): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #167 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 167
           },
           {
-            "id": 223,
-            "soruMetni": "Soru 223 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #168): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 224,
-            "soruMetni": "Soru 224 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 225,
-            "soruMetni": "Soru 225 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
-            "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 226,
-            "soruMetni": "Soru 226 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 227,
-            "soruMetni": "Soru 227 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 228,
-            "soruMetni": "Soru 228 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #168 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 168
           },
           {
-            "id": 229,
-            "soruMetni": "Soru 229 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #169): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #169 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 169
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #170): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
+            "secenekler": {
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #170 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 170
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #171): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #171 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 171
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #172): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): İç kontrol elemanı iç sistemler personelidir."
+            "cozum": "Soru #172 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 172
           },
           {
-            "id": 230,
-            "soruMetni": "Soru 230 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #173): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #173 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 173
           },
           {
-            "id": 231,
-            "soruMetni": "Soru 231 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #174): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #174 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 174
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #175): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #175 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 175
           },
           {
-            "id": 232,
-            "soruMetni": "Soru 232 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 233,
-            "soruMetni": "Soru 233 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 234,
-            "soruMetni": "Soru 234 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 235,
-            "soruMetni": "Soru 235 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #176): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #176 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 176
           },
           {
-            "id": 236,
-            "soruMetni": "Soru 236 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #177): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #177 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 177
           },
           {
-            "id": 237,
-            "soruMetni": "Soru 237 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #178): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
+            "cozum": "Soru #178 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 178
           },
           {
-            "id": 238,
-            "soruMetni": "Soru 238 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #179): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "cozum": "Soru #179 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 179
           },
           {
-            "id": 239,
-            "soruMetni": "Soru 239 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #180): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 240,
-            "soruMetni": "Soru 240 [Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #180 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 180
           }
         ]
       },
       {
         "testId": 13,
         "testAdi": "Test 13: Uygunluk Testi Esasları ve Uygulama Şartları",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 241,
-            "soruMetni": "Soru 241 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #181): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "cozum": "Soru #181 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 181
           },
           {
-            "id": 242,
-            "soruMetni": "Soru 242 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #182): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #182 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 182
           },
           {
-            "id": 243,
-            "soruMetni": "Soru 243 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 244,
-            "soruMetni": "Soru 244 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 245,
-            "soruMetni": "Soru 245 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #183): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 246,
-            "soruMetni": "Soru 246 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 247,
-            "soruMetni": "Soru 247 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 248,
-            "soruMetni": "Soru 248 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 249,
-            "soruMetni": "Soru 249 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 250,
-            "soruMetni": "Soru 250 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 251,
-            "soruMetni": "Soru 251 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #183 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 183
           },
           {
-            "id": 252,
-            "soruMetni": "Soru 252 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #184): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #184 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 184
           },
           {
-            "id": 253,
-            "soruMetni": "Soru 253 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #185): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #185 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 185
           },
           {
-            "id": 254,
-            "soruMetni": "Soru 254 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #186): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #186 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 186
           },
           {
-            "id": 255,
-            "soruMetni": "Soru 255 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #187): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Ses ve telefon kayıtları 3 yıl saklanır."
+            "cozum": "Soru #187 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 187
           },
           {
-            "id": 256,
-            "soruMetni": "Soru 256 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #188): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 257,
-            "soruMetni": "Soru 257 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 258,
-            "soruMetni": "Soru 258 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #188 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 188
           },
           {
-            "id": 259,
-            "soruMetni": "Soru 259 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #189): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #189 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 189
           },
           {
-            "id": 260,
-            "soruMetni": "Soru 260 [Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #190): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #190 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 190
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #191): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #191 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 191
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #192): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #192 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 192
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #193): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #193 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 193
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #194): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #194 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 194
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #195): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #195 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 195
           }
         ]
       },
       {
         "testId": 14,
         "testAdi": "Test 14: Yerindelik Testi Esasları ve Mali Durum Analizi",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 261,
-            "soruMetni": "Soru 261 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
-          },
-          {
-            "id": 262,
-            "soruMetni": "Soru 262 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 263,
-            "soruMetni": "Soru 263 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 264,
-            "soruMetni": "Soru 264 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 265,
-            "soruMetni": "Soru 265 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #196): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 266,
-            "soruMetni": "Soru 266 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 267,
-            "soruMetni": "Soru 267 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 268,
-            "soruMetni": "Soru 268 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 269,
-            "soruMetni": "Soru 269 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 270,
-            "soruMetni": "Soru 270 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 271,
-            "soruMetni": "Soru 271 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "D",
+            "cozum": "Soru #196 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 196
           },
           {
-            "id": 272,
-            "soruMetni": "Soru 272 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #197): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #197 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 197
           },
           {
-            "id": 273,
-            "soruMetni": "Soru 273 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #198): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #198 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 198
           },
           {
-            "id": 274,
-            "soruMetni": "Soru 274 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #199): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #199 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 199
           },
           {
-            "id": 275,
-            "soruMetni": "Soru 275 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #200): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #200 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 200
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #201): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #201 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 201
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #202): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #202 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 202
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #203): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #203 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 203
           },
           {
-            "id": 276,
-            "soruMetni": "Soru 276 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #204): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #204 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 204
           },
           {
-            "id": 277,
-            "soruMetni": "Soru 277 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #205): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
+            "cozum": "Soru #205 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 205
           },
           {
-            "id": 278,
-            "soruMetni": "Soru 278 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #206): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #206 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 206
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #207): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #207 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 207
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #208): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #208 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 208
           },
           {
-            "id": 279,
-            "soruMetni": "Soru 279 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #209): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #209 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 209
           },
           {
-            "id": 280,
-            "soruMetni": "Soru 280 [Test 14: Uygunluk Testi Esasları ve Uygulama Şartları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #210): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 14: Uygunluk Testi Esasları ve Uygulama Şartları): Kimlik teyit verileri MKK'ya aktarılır."
+            "dogruCevap": "B",
+            "cozum": "Soru #210 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 210
           }
         ]
       },
       {
         "testId": 15,
-        "testAdi": "Test 15: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları",
+        "testAdi": "Test 15: Müşteri Emirlerinin Alınması ve Zaman Önceliği İlkesi",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 281,
-            "soruMetni": "Soru 281 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #211): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #211 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 211
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #212): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #212 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 212
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #213): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #213 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 213
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #214): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #214 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 214
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #215): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #215 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 215
           },
           {
-            "id": 282,
-            "soruMetni": "Soru 282 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 283,
-            "soruMetni": "Soru 283 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 284,
-            "soruMetni": "Soru 284 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 285,
-            "soruMetni": "Soru 285 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #216): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 286,
-            "soruMetni": "Soru 286 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 287,
-            "soruMetni": "Soru 287 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 288,
-            "soruMetni": "Soru 288 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 289,
-            "soruMetni": "Soru 289 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 290,
-            "soruMetni": "Soru 290 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 291,
-            "soruMetni": "Soru 291 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "D",
+            "cozum": "Soru #216 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 216
           },
           {
-            "id": 292,
-            "soruMetni": "Soru 292 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #217): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #217 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 217
           },
           {
-            "id": 293,
-            "soruMetni": "Soru 293 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #218): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #218 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 218
           },
           {
-            "id": 294,
-            "soruMetni": "Soru 294 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #219): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #219 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 219
           },
           {
-            "id": 295,
-            "soruMetni": "Soru 295 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #220): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #220 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 220
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #221): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #221 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 221
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #222): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #222 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 222
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #223): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #223 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 223
           },
           {
-            "id": 296,
-            "soruMetni": "Soru 296 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #224): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #224 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 224
           },
           {
-            "id": 297,
-            "soruMetni": "Soru 297 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #225): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 298,
-            "soruMetni": "Soru 298 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 299,
-            "soruMetni": "Soru 299 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 300,
-            "soruMetni": "Soru 300 [Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #225 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 225
           }
         ]
       },
       {
         "testId": 16,
-        "testAdi": "Test 16: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)",
+        "testAdi": "Test 16: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 301,
-            "soruMetni": "Soru 301 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #226): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "cozum": "Soru #226 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 226
           },
           {
-            "id": 302,
-            "soruMetni": "Soru 302 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #227): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #227 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 227
           },
           {
-            "id": 303,
-            "soruMetni": "Soru 303 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #228): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 304,
-            "soruMetni": "Soru 304 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 305,
-            "soruMetni": "Soru 305 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
-            "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 306,
-            "soruMetni": "Soru 306 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 307,
-            "soruMetni": "Soru 307 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 308,
-            "soruMetni": "Soru 308 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #228 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 228
           },
           {
-            "id": 309,
-            "soruMetni": "Soru 309 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #229): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #229 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 229
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #230): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
+            "secenekler": {
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #230 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 230
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #231): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #231 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 231
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #232): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): İç kontrol elemanı iç sistemler personelidir."
+            "cozum": "Soru #232 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 232
           },
           {
-            "id": 310,
-            "soruMetni": "Soru 310 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #233): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #233 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 233
           },
           {
-            "id": 311,
-            "soruMetni": "Soru 311 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #234): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #234 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 234
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #235): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #235 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 235
           },
           {
-            "id": 312,
-            "soruMetni": "Soru 312 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 313,
-            "soruMetni": "Soru 313 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 314,
-            "soruMetni": "Soru 314 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 315,
-            "soruMetni": "Soru 315 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #236): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #236 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 236
           },
           {
-            "id": 316,
-            "soruMetni": "Soru 316 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #237): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #237 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 237
           },
           {
-            "id": 317,
-            "soruMetni": "Soru 317 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #238): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
+            "cozum": "Soru #238 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 238
           },
           {
-            "id": 318,
-            "soruMetni": "Soru 318 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #239): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "cozum": "Soru #239 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 239
           },
           {
-            "id": 319,
-            "soruMetni": "Soru 319 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #240): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 320,
-            "soruMetni": "Soru 320 [Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #240 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 240
           }
         ]
       },
       {
         "testId": 17,
         "testAdi": "Test 17: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 321,
-            "soruMetni": "Soru 321 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #241): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "cozum": "Soru #241 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 241
           },
           {
-            "id": 322,
-            "soruMetni": "Soru 322 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #242): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #242 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 242
           },
           {
-            "id": 323,
-            "soruMetni": "Soru 323 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 324,
-            "soruMetni": "Soru 324 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 325,
-            "soruMetni": "Soru 325 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #243): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 326,
-            "soruMetni": "Soru 326 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 327,
-            "soruMetni": "Soru 327 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 328,
-            "soruMetni": "Soru 328 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 329,
-            "soruMetni": "Soru 329 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 330,
-            "soruMetni": "Soru 330 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 331,
-            "soruMetni": "Soru 331 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #243 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 243
           },
           {
-            "id": 332,
-            "soruMetni": "Soru 332 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #244): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #244 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 244
           },
           {
-            "id": 333,
-            "soruMetni": "Soru 333 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #245): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #245 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 245
           },
           {
-            "id": 334,
-            "soruMetni": "Soru 334 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #246): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #246 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 246
           },
           {
-            "id": 335,
-            "soruMetni": "Soru 335 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #247): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Ses ve telefon kayıtları 3 yıl saklanır."
+            "cozum": "Soru #247 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 247
           },
           {
-            "id": 336,
-            "soruMetni": "Soru 336 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #248): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 337,
-            "soruMetni": "Soru 337 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 338,
-            "soruMetni": "Soru 338 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #248 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 248
           },
           {
-            "id": 339,
-            "soruMetni": "Soru 339 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #249): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #249 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 249
           },
           {
-            "id": 340,
-            "soruMetni": "Soru 340 [Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #250): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #250 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 250
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #251): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #251 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 251
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #252): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #252 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 252
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #253): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #253 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 253
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #254): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #254 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 254
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #255): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #255 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 255
           }
         ]
       },
       {
         "testId": 18,
-        "testAdi": "Test 18: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)",
+        "testAdi": "Test 18: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 341,
-            "soruMetni": "Soru 341 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
-          },
-          {
-            "id": 342,
-            "soruMetni": "Soru 342 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 343,
-            "soruMetni": "Soru 343 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 344,
-            "soruMetni": "Soru 344 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 345,
-            "soruMetni": "Soru 345 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #256): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 346,
-            "soruMetni": "Soru 346 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 347,
-            "soruMetni": "Soru 347 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 348,
-            "soruMetni": "Soru 348 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 349,
-            "soruMetni": "Soru 349 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 350,
-            "soruMetni": "Soru 350 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 351,
-            "soruMetni": "Soru 351 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "D",
+            "cozum": "Soru #256 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 256
           },
           {
-            "id": 352,
-            "soruMetni": "Soru 352 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #257): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #257 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 257
           },
           {
-            "id": 353,
-            "soruMetni": "Soru 353 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #258): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #258 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 258
           },
           {
-            "id": 354,
-            "soruMetni": "Soru 354 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #259): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #259 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 259
           },
           {
-            "id": 355,
-            "soruMetni": "Soru 355 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #260): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #260 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 260
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #261): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #261 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 261
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #262): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #262 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 262
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #263): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #263 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 263
           },
           {
-            "id": 356,
-            "soruMetni": "Soru 356 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #264): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #264 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 264
           },
           {
-            "id": 357,
-            "soruMetni": "Soru 357 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #265): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
+            "cozum": "Soru #265 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 265
           },
           {
-            "id": 358,
-            "soruMetni": "Soru 358 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #266): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #266 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 266
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #267): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #267 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 267
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #268): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #268 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 268
           },
           {
-            "id": 359,
-            "soruMetni": "Soru 359 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #269): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #269 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 269
           },
           {
-            "id": 360,
-            "soruMetni": "Soru 360 [Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #270): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları): Kimlik teyit verileri MKK'ya aktarılır."
+            "dogruCevap": "B",
+            "cozum": "Soru #270 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 270
           }
         ]
       },
       {
         "testId": 19,
-        "testAdi": "Test 19: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler",
+        "testAdi": "Test 19: Tezgahüstü (OTC) Türev İşlemler ve Bildirim Esasları",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 361,
-            "soruMetni": "Soru 361 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #271): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #271 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 271
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #272): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #272 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 272
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #273): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #273 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 273
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #274): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #274 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 274
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #275): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #275 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 275
           },
           {
-            "id": 362,
-            "soruMetni": "Soru 362 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 363,
-            "soruMetni": "Soru 363 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 364,
-            "soruMetni": "Soru 364 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 365,
-            "soruMetni": "Soru 365 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #276): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 366,
-            "soruMetni": "Soru 366 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 367,
-            "soruMetni": "Soru 367 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 368,
-            "soruMetni": "Soru 368 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 369,
-            "soruMetni": "Soru 369 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 370,
-            "soruMetni": "Soru 370 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 371,
-            "soruMetni": "Soru 371 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "D",
+            "cozum": "Soru #276 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 276
           },
           {
-            "id": 372,
-            "soruMetni": "Soru 372 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #277): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #277 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 277
           },
           {
-            "id": 373,
-            "soruMetni": "Soru 373 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #278): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #278 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 278
           },
           {
-            "id": 374,
-            "soruMetni": "Soru 374 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #279): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #279 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 279
           },
           {
-            "id": 375,
-            "soruMetni": "Soru 375 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #280): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #280 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 280
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #281): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #281 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 281
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #282): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #282 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 282
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #283): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #283 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 283
           },
           {
-            "id": 376,
-            "soruMetni": "Soru 376 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #284): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #284 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 284
           },
           {
-            "id": 377,
-            "soruMetni": "Soru 377 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #285): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 378,
-            "soruMetni": "Soru 378 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 379,
-            "soruMetni": "Soru 379 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 380,
-            "soruMetni": "Soru 380 [Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #285 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 285
           }
         ]
       },
       {
         "testId": 20,
         "testAdi": "Test 20: Paya Dayalı Kitle Fonlaması ve Platform Esasları",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 381,
-            "soruMetni": "Soru 381 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #286): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "cozum": "Soru #286 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 286
           },
           {
-            "id": 382,
-            "soruMetni": "Soru 382 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #287): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #287 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 287
           },
           {
-            "id": 383,
-            "soruMetni": "Soru 383 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #288): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 384,
-            "soruMetni": "Soru 384 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 385,
-            "soruMetni": "Soru 385 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
-            "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 386,
-            "soruMetni": "Soru 386 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 387,
-            "soruMetni": "Soru 387 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 388,
-            "soruMetni": "Soru 388 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #288 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 288
           },
           {
-            "id": 389,
-            "soruMetni": "Soru 389 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #289): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #289 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 289
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #290): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
+            "secenekler": {
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #290 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 290
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #291): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #291 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 291
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #292): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): İç kontrol elemanı iç sistemler personelidir."
+            "cozum": "Soru #292 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 292
           },
           {
-            "id": 390,
-            "soruMetni": "Soru 390 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #293): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #293 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 293
           },
           {
-            "id": 391,
-            "soruMetni": "Soru 391 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #294): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #294 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 294
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #295): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #295 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 295
           },
           {
-            "id": 392,
-            "soruMetni": "Soru 392 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 393,
-            "soruMetni": "Soru 393 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 394,
-            "soruMetni": "Soru 394 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 395,
-            "soruMetni": "Soru 395 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #296): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #296 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 296
           },
           {
-            "id": 396,
-            "soruMetni": "Soru 396 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #297): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #297 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 297
           },
           {
-            "id": 397,
-            "soruMetni": "Soru 397 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #298): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
+            "cozum": "Soru #298 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 298
           },
           {
-            "id": 398,
-            "soruMetni": "Soru 398 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #299): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "cozum": "Soru #299 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 299
           },
           {
-            "id": 399,
-            "soruMetni": "Soru 399 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #300): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 400,
-            "soruMetni": "Soru 400 [Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #300 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 300
           }
         ]
       },
       {
         "testId": 21,
-        "testAdi": "Test 21: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi",
+        "testAdi": "Test 21: Müşteri Şikayetleri Yönetimi ve Kayıt Saklama Süreleri",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 401,
-            "soruMetni": "Soru 401 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #301): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "cozum": "Soru #301 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 301
           },
           {
-            "id": 402,
-            "soruMetni": "Soru 402 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #302): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #302 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 302
           },
           {
-            "id": 403,
-            "soruMetni": "Soru 403 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 404,
-            "soruMetni": "Soru 404 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 405,
-            "soruMetni": "Soru 405 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #303): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 406,
-            "soruMetni": "Soru 406 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 407,
-            "soruMetni": "Soru 407 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 408,
-            "soruMetni": "Soru 408 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 409,
-            "soruMetni": "Soru 409 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 410,
-            "soruMetni": "Soru 410 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 411,
-            "soruMetni": "Soru 411 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #303 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 303
           },
           {
-            "id": 412,
-            "soruMetni": "Soru 412 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #304): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #304 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 304
           },
           {
-            "id": 413,
-            "soruMetni": "Soru 413 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #305): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #305 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 305
           },
           {
-            "id": 414,
-            "soruMetni": "Soru 414 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #306): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #306 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 306
           },
           {
-            "id": 415,
-            "soruMetni": "Soru 415 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #307): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Ses ve telefon kayıtları 3 yıl saklanır."
+            "cozum": "Soru #307 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 307
           },
           {
-            "id": 416,
-            "soruMetni": "Soru 416 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #308): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 417,
-            "soruMetni": "Soru 417 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 418,
-            "soruMetni": "Soru 418 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #308 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 308
           },
           {
-            "id": 419,
-            "soruMetni": "Soru 419 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #309): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #309 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 309
           },
           {
-            "id": 420,
-            "soruMetni": "Soru 420 [Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #310): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #310 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 310
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #311): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #311 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 311
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #312): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #312 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 312
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #313): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #313 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 313
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #314): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #314 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 314
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #315): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #315 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 315
           }
         ]
       },
       {
         "testId": 22,
         "testAdi": "Test 22: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 421,
-            "soruMetni": "Soru 421 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
-          },
-          {
-            "id": 422,
-            "soruMetni": "Soru 422 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 423,
-            "soruMetni": "Soru 423 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 424,
-            "soruMetni": "Soru 424 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 425,
-            "soruMetni": "Soru 425 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #316): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 426,
-            "soruMetni": "Soru 426 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 427,
-            "soruMetni": "Soru 427 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 428,
-            "soruMetni": "Soru 428 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 429,
-            "soruMetni": "Soru 429 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 430,
-            "soruMetni": "Soru 430 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 431,
-            "soruMetni": "Soru 431 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "D",
+            "cozum": "Soru #316 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 316
           },
           {
-            "id": 432,
-            "soruMetni": "Soru 432 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #317): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #317 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 317
           },
           {
-            "id": 433,
-            "soruMetni": "Soru 433 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #318): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #318 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 318
           },
           {
-            "id": 434,
-            "soruMetni": "Soru 434 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #319): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #319 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 319
           },
           {
-            "id": 435,
-            "soruMetni": "Soru 435 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #320): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #320 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 320
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #321): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #321 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 321
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #322): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #322 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 322
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #323): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #323 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 323
           },
           {
-            "id": 436,
-            "soruMetni": "Soru 436 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #324): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #324 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 324
           },
           {
-            "id": 437,
-            "soruMetni": "Soru 437 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #325): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
+            "cozum": "Soru #325 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 325
           },
           {
-            "id": 438,
-            "soruMetni": "Soru 438 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #326): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #326 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 326
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #327): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #327 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 327
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #328): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #328 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 328
           },
           {
-            "id": 439,
-            "soruMetni": "Soru 439 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #329): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #329 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 329
           },
           {
-            "id": 440,
-            "soruMetni": "Soru 440 [Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #330): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi): Kimlik teyit verileri MKK'ya aktarılır."
+            "dogruCevap": "B",
+            "cozum": "Soru #330 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 330
           }
         ]
       },
       {
         "testId": 23,
-        "testAdi": "Test 23: Yatırım Kuruluşu Personeli Meslek İlkeleri",
+        "testAdi": "Test 23: Yatırım Kuruluşu Personeli Meslek ve Etik İlkeleri",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 441,
-            "soruMetni": "Soru 441 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #331): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #331 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 331
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #332): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #332 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 332
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #333): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #333 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 333
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #334): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #334 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 334
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #335): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #335 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 335
           },
           {
-            "id": 442,
-            "soruMetni": "Soru 442 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 443,
-            "soruMetni": "Soru 443 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 444,
-            "soruMetni": "Soru 444 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 445,
-            "soruMetni": "Soru 445 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #336): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 446,
-            "soruMetni": "Soru 446 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 447,
-            "soruMetni": "Soru 447 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 448,
-            "soruMetni": "Soru 448 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 449,
-            "soruMetni": "Soru 449 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 450,
-            "soruMetni": "Soru 450 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 451,
-            "soruMetni": "Soru 451 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "D",
+            "cozum": "Soru #336 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 336
           },
           {
-            "id": 452,
-            "soruMetni": "Soru 452 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #337): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #337 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 337
           },
           {
-            "id": 453,
-            "soruMetni": "Soru 453 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #338): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #338 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 338
           },
           {
-            "id": 454,
-            "soruMetni": "Soru 454 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #339): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #339 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 339
           },
           {
-            "id": 455,
-            "soruMetni": "Soru 455 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #340): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #340 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 340
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #341): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #341 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 341
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #342): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #342 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 342
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #343): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #343 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 343
           },
           {
-            "id": 456,
-            "soruMetni": "Soru 456 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #344): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #344 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 344
           },
           {
-            "id": 457,
-            "soruMetni": "Soru 457 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #345): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 458,
-            "soruMetni": "Soru 458 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 459,
-            "soruMetni": "Soru 459 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 460,
-            "soruMetni": "Soru 460 [Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #345 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 345
           }
         ]
       },
       {
         "testId": 24,
         "testAdi": "Test 24: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 461,
-            "soruMetni": "Soru 461 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #346): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "cozum": "Soru #346 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 346
           },
           {
-            "id": 462,
-            "soruMetni": "Soru 462 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #347): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #347 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 347
           },
           {
-            "id": 463,
-            "soruMetni": "Soru 463 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #348): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 464,
-            "soruMetni": "Soru 464 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 465,
-            "soruMetni": "Soru 465 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
-            "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 466,
-            "soruMetni": "Soru 466 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 467,
-            "soruMetni": "Soru 467 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 468,
-            "soruMetni": "Soru 468 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #348 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 348
           },
           {
-            "id": 469,
-            "soruMetni": "Soru 469 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #349): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #349 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 349
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #350): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
+            "secenekler": {
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #350 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 350
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #351): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #351 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 351
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #352): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): İç kontrol elemanı iç sistemler personelidir."
+            "cozum": "Soru #352 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 352
           },
           {
-            "id": 470,
-            "soruMetni": "Soru 470 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #353): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #353 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 353
           },
           {
-            "id": 471,
-            "soruMetni": "Soru 471 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #354): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #354 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 354
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #355): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #355 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 355
           },
           {
-            "id": 472,
-            "soruMetni": "Soru 472 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
-          },
-          {
-            "id": 473,
-            "soruMetni": "Soru 473 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 474,
-            "soruMetni": "Soru 474 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 475,
-            "soruMetni": "Soru 475 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #356): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Ses ve telefon kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #356 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 356
           },
           {
-            "id": 476,
-            "soruMetni": "Soru 476 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #357): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Mali durum bilgisi Yerindelik Testinde sorgulanır."
+            "cozum": "Soru #357 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 357
           },
           {
-            "id": 477,
-            "soruMetni": "Soru 477 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #358): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
+            "cozum": "Soru #358 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 358
           },
           {
-            "id": 478,
-            "soruMetni": "Soru 478 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #359): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "cozum": "Soru #359 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 359
           },
           {
-            "id": 479,
-            "soruMetni": "Soru 479 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #360): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 480,
-            "soruMetni": "Soru 480 [Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #360 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 360
           }
         ]
       },
       {
         "testId": 25,
-        "testAdi": "Test 25: Genel İnceleme ve Mevzuat Tekrarı",
+        "testAdi": "Test 25: Genel Mevzuat İnceleme ve Değerlendirme Testi",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 481,
-            "soruMetni": "Soru 481 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #361): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "cozum": "Soru #361 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 361
           },
           {
-            "id": 482,
-            "soruMetni": "Soru 482 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #362): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #362 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 362
           },
           {
-            "id": 483,
-            "soruMetni": "Soru 483 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
-          },
-          {
-            "id": 484,
-            "soruMetni": "Soru 484 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
-          },
-          {
-            "id": 485,
-            "soruMetni": "Soru 485 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #363): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Ses ve telefon kayıtları 3 yıl saklanır."
-          },
-          {
-            "id": 486,
-            "soruMetni": "Soru 486 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 487,
-            "soruMetni": "Soru 487 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 488,
-            "soruMetni": "Soru 488 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
-              "E": "%100"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 489,
-            "soruMetni": "Soru 489 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
-            "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): İç kontrol elemanı iç sistemler personelidir."
-          },
-          {
-            "id": 490,
-            "soruMetni": "Soru 490 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
-            "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Kimlik teyit verileri MKK'ya aktarılır."
-          },
-          {
-            "id": 491,
-            "soruMetni": "Soru 491 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Aracı kurum genel müdür yardımcısı olabilmek için en az kaç yıllık mesleki tecrübe aranır?",
-            "secenekler": {
-              "A": "7 Yıl",
               "B": "5 Yıl",
-              "C": "3 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
-              "E": "2 Yıl"
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Genel müdür ve genel müdür yardımcılarında en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #363 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 363
           },
           {
-            "id": 492,
-            "soruMetni": "Soru 492 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Kısmi yetkili aracı kurumlar aşağıdaki faaliyetlerden hangisini yapamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #364): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Portföy aracılığı sadece geniş yetkili aracı kurumlarca yapılabilir."
+            "cozum": "Soru #364 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 364
           },
           {
-            "id": 493,
-            "soruMetni": "Soru 493 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Kaldıraçlı işlemlerde (Forex) başlangıç teminatı tutarı en az kaç TL veya muadili dövizdir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #365): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Kaldıraçlı işlemlerde asgari başlangıç teminatı 50.000 TL'dir."
+            "cozum": "Soru #365 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 365
           },
           {
-            "id": 494,
-            "soruMetni": "Soru 494 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Kaldıraçlı işlemlerde pozisyon açıldığı sırada uygulanacak maksimum kaldıraç oranı kaçtır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #366): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Pozisyon ilk açıldığında azami kaldıraç oranı 10:1'dir."
+            "cozum": "Soru #366 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 366
           },
           {
-            "id": 495,
-            "soruMetni": "Soru 495 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Yatırım kuruluşlarında telefon ve ses kayıtlarının saklanma süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #367): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Ses ve telefon kayıtları 3 yıl saklanır."
+            "cozum": "Soru #367 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 367
           },
           {
-            "id": 496,
-            "soruMetni": "Soru 496 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Müşterinin mali durumu hakkındaki bilgiler hangi test kapsamında alınır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #368): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Risk Testi",
-              "D": "Genel Test",
-              "E": "Kimlik Doğrulama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Mali durum bilgisi Yerindelik Testinde sorgulanır."
-          },
-          {
-            "id": 497,
-            "soruMetni": "Soru 497 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Tezgahüstü (OTC) türev işlemlerde emir formu yerine hangi belge düzenlenir?",
-            "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Tezgahüstü işlemlerde İşlem Talimat Formu esastır."
-          },
-          {
-            "id": 498,
-            "soruMetni": "Soru 498 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Kredili işlemlerde Borsa Yatırım Fonu (BYF) katılma payları yüzde kaç oranında özkaynak sayılır?",
-            "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #368 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 368
           },
           {
-            "id": 499,
-            "soruMetni": "Soru 499 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Aşağıdakilerden hangisi ihtisas personellerinden biri değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #369): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #369 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 369
           },
           {
-            "id": 500,
-            "soruMetni": "Soru 500 [Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği]: Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri hangi kuruma iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #370): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "SPK",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "TCMB"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #370 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 370
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #371): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #371 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 371
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #372): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Çözüm (Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği): Kimlik teyit verileri MKK'ya aktarılır."
+            "cozum": "Soru #372 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 372
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #373): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #373 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 373
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #374): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #374 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 374
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #375): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #375 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 375
           }
         ]
       },
       {
         "testId": 26,
         "testAdi": "Test 26: Görsellerdeki Çıkmış Sorular Özel Paketi (20 Soru)",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 1,
-            "soruMetni": "Aracı kurumların ticaret unvanlarında yatırım hizmetleri ve faaliyetlerini göstermesi amacıyla aşağıdakilerden hangisinin bulunması zorunludur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #376): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
-              "A": "Menkul değerler veya menkul kıymetler",
-              "B": "Sadece sigorta",
-              "C": "Sadece yatırım",
-              "D": "Faktoring",
-              "E": "Döviz ve kıymetli maden"
-            },
-            "dogruCevap": "A",
-            "cozum": "Aracı kurumların ticaret unvanlarında 'menkul değerler' veya 'menkul kıymetler' ibarelerinden birinin yer alması şarttır. Geniş yetkili olanlar 'yatırım menkul değerler' kullanabilir."
-          },
-          {
-            "id": 2,
-            "soruMetni": "Genel saklama faaliyetine ilişkin aşağıdaki ifadelerden hangisi söylenemez?",
-            "secenekler": {
-              "A": "Genel saklama hizmeti izni, sınırlı saklama hizmeti iznini kapsamaktadır",
-              "B": "Yatırım hizmet ve faaliyetlerinden bağımsız olarak saklama hizmeti sunulmasıdır",
-              "C": "Yatırım kuruluşlarının genel saklama hizmeti izni alarak diğer yatırım kuruluşlarına saklama hizmeti vermeleri mümkündür",
-              "D": "Geniş yetkili aracı kurumlar tarafından bu faaliyet yerine getirilebilmektedir",
-              "E": "Bankalar ile işlem aracılığı, portföy aracılığı, bireysel portföy yöneticiliği ve halka arza aracılık faaliyetlerinden herhangi birisini yapmaya yetkili aracı kurumlar tarafından yapılabilir"
-            },
-            "dogruCevap": "A",
-            "cozum": "Genel saklama hizmeti izni ile sınırlı saklama hizmeti izni farklı düzeydeki yetki belgeleridir; genel saklama izni otomatik olarak sınırlı saklamayı kapsamaz."
-          },
-          {
-            "id": 3,
-            "soruMetni": "'Kısmi yetkili aracı kurum' aşağıda yer alan yatırım hizmet ve faaliyetlerden hangisini yürütemez?",
-            "secenekler": {
-              "A": "İşlem aracılığı",
-              "B": "Yatırım danışmanlığı",
-              "C": "Sınırlı saklama",
-              "D": "Portföy aracılığı",
-              "E": "En iyi gayret aracılığı"
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
             },
             "dogruCevap": "D",
-            "cozum": "Portföy aracılığı (kendi nam ve hesabına alım-satım) yalnızca geniş yetkili aracı kurumlar tarafından yapılabilir; kısmi yetkili aracı kurumlar portföy aracılığı yapamaz."
+            "cozum": "Soru #376 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 376
           },
           {
-            "id": 4,
-            "soruMetni": "Aşağıdakilerden hangisi aracı kurumlarda 'ihtisas personeli' kategorisinde yer almaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #377): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Müşteri temsilcisi",
-              "B": "Borsa üye temsilcisi",
-              "C": "Araştırma uzmanı",
-              "D": "Kurumsal finansman uzmanı",
-              "E": "İç kontrol elemanı"
-            },
-            "dogruCevap": "E",
-            "cozum": "İç kontrol elemanı ve müfettişler 'İç Sistemler Personeli' kapsamındadır; pazarlama ve operasyon yürüten ihtisas personeli sınıfında yer almaz."
-          },
-          {
-            "id": 5,
-            "soruMetni": "Aracı kurum genel müdür ve genel müdür yardımcılarının mali piyasalar veya işletmecilik alanında en az kaç yıl meslekî deneyime sahip olması gerekir?",
-            "secenekler": {
-              "A": "3 yıl",
-              "B": "5 yıl",
-              "C": "6 yıl",
-              "D": "7 yıl",
-              "E": "10 yıl"
-            },
-            "dogruCevap": "D",
-            "cozum": "Yatırım Kuruluşları Tebliğine göre aracı kurum genel müdürü ve genel müdür yardımcılarının en az 7 yıllık mesleki tecrübeye sahip olması zorunludur."
-          },
-          {
-            "id": 6,
-            "soruMetni": "Aşağıdakilerden hangisi yatırım kuruluşu personellerine ait ilkelerden biri değildir?",
-            "secenekler": {
-              "A": "Mesleki Şüphe",
-              "B": "Sır Saklama",
-              "C": "Mesleki Özen ve Titizlik",
-              "D": "Dürüstlük",
-              "E": "Mesleki Yeterlilik"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "'Mesleki Şüphecilik' bağımsız denetim standartlarına ait bir ilkedir; yatırım kuruluşu personeli meslek ilkeleri arasında yer almaz."
+            "cozum": "Soru #377 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 377
           },
           {
-            "id": 7,
-            "soruMetni": "Müşteri şikâyetlerine ilişkin kayıtların tutulmasında, her bir şikâyete ilişkin kayıtların asgari olarak aşağıdakilerden hangisini içermesi gerekmez?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #378): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "Şikâyet sahibinin adı, soyadı, adresi ve hesap numarası",
-              "B": "Şikâyet tarihi",
-              "C": "Şikâyetin tam metni ve mevzuatın hangi hükümlerine aykırılık iddiasında olduğu",
-              "D": "Varsa şikâyete konu personelin ismi",
-              "E": "Şikâyete ilişkin olarak yatırım kuruluşu tarafından yapılan işlemlerin özeti"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #378 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 378
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #379): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
+            "secenekler": {
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #379 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 379
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #380): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #380 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 380
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #381): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #381 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 381
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #382): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #382 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 382
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #383): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
             },
             "dogruCevap": "C",
-            "cozum": "Şikayet kaydında müşterinin hukuki mevzuat maddesi gerekçelendirmesi yapması aranmaz; sadece şikayet konusu ve özeti kaydedilir."
+            "cozum": "Soru #383 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 383
           },
           {
-            "id": 8,
-            "soruMetni": "Aracı kurumun teminatlandırma politikasının yürütülmesinden ve gerekli değişikliklerin yapılmasından aşağıdakilerden hangisi sorumludur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #384): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Denetim kurulu",
-              "B": "Genel kurul",
-              "C": "İç kontrol personelleri",
-              "D": "Risk yönetim birimi",
-              "E": "Yönetim kurulu"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
-            "dogruCevap": "D",
-            "cozum": "Teminatlandırma politikasının takibi ve riske göre güncellenmesinden risk yönetim birimi sorumludur."
+            "dogruCevap": "A",
+            "cozum": "Soru #384 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 384
           },
           {
-            "id": 9,
-            "soruMetni": "Uygunluk testinde aşağıdakilerden hangisi/hangileri hakkında bilgi alınması gerekmemektedir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #385): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "Yalnız I",
-              "B": "Yalnız III (Yatırımcının mali durumu)",
-              "C": "I ve II",
-              "D": "II ve III",
-              "E": "III ve IV"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #385 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 385
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #386): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #386 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 386
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #387): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #387 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 387
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #388): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
+              "E": "%100"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #388 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 388
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #389): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
+            "secenekler": {
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #389 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 389
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #390): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
+            "secenekler": {
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
             "dogruCevap": "B",
-            "cozum": "Uygunluk testinde yatırımcının tecrübesi, riski ve yaş/meslek bilgisi sorulur; 'Mali Durum' bilgisi sadece Yerindelik Testinde aranır."
+            "cozum": "Soru #390 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 390
           },
           {
-            "id": 10,
-            "soruMetni": "Aşağıdakilerden hangisi halka arz aracılığı faaliyeti olarak nitelendirilemez?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #391): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "Halka arz edilecek sermaye piyasası araçlarının satışına yönelik organizasyonlar düzenlenmesi",
-              "B": "Sermaye piyasası araçlarının halka arz edilmeksizin satışı sırasında aracılık yapılması",
-              "C": "Sermaye piyasası araçlarının halka arz edilmesi ile ilgili olarak talep toplanması",
-              "D": "İzahnamenin onayı için sunulacak bilgi ve belgelerin hazırlanması",
-              "E": "Sermaye piyasası araçları için gişe hizmetlerinde bulunulması"
-            },
-            "dogruCevap": "E",
-            "cozum": "Gişe hizmetleri rutin bankacılık/operasyon hizmetidir; halka arz aracılığı faaliyeti niteliği taşımaz."
-          },
-          {
-            "id": 11,
-            "soruMetni": "Yatırım ve kalkınma bankaları halka açık olmayan bir aracı kurumun tüm faaliyet izinlerinin iptali durumunda hangi araçta portföy aracılığı yapamaz?",
-            "secenekler": {
-              "A": "Pay",
-              "B": "Pay endeksi",
-              "C": "Paya dayalı türev araçları",
-              "D": "Borçlanma araçları",
-              "E": "Kaldıraçlı işlemler"
-            },
-            "dogruCevap": "E",
-            "cozum": "Yatırım ve kalkınma bankaları kaldıraçlı işlemlerde (Forex) portföy aracılığı yapamazlar."
-          },
-          {
-            "id": 12,
-            "soruMetni": "Aşağıdakilerden hangisi faaliyet izni alınmasını gerektirecek nitelikte değerlendirilmeyen yan hizmet olarak nitelendirilemez?",
-            "secenekler": {
-              "A": "Servet yönetimi ve finansal planlama yapılması",
-              "B": "Aracılık yükleniminde bulunulması",
-              "C": "Sermaye piyasaları ile ilgili danışmanlık hizmetleri sunulması",
-              "D": "Borçlanma veya başka yollardan finansman sağlanmasında aracılık hizmeti sunulması",
-              "E": "Araştırma ve finansal analiz sunulması"
-            },
-            "dogruCevap": "B",
-            "cozum": "Aracılık yükleniminde bulunulması bir yan hizmet değil; ana yatırım hizmeti ve faaliyetidir."
-          },
-          {
-            "id": 13,
-            "soruMetni": "Ses kayıtlarına ilişkin saklama süresi kaç yıldır?",
-            "secenekler": {
-              "A": "1",
-              "B": "3",
-              "C": "5",
-              "D": "10",
-              "E": "15"
-            },
-            "dogruCevap": "B",
-            "cozum": "Yatırım Hizmetleri Belge ve Kayıt Tebliğine göre telefon ve ses kayıtları en az 3 yıl süreyle saklanmalıdır."
-          },
-          {
-            "id": 14,
-            "soruMetni": "Tezgahüstü işlemlerde müşteri emri formu yerine aşağıdaki formlardan hangisi düzenlenmesi gerekir?",
-            "secenekler": {
-              "A": "İşlem Sonuç Formu",
-              "B": "Türev Piyasalar Emir Takip Formu",
-              "C": "İşlem Talimat Formu",
-              "D": "Seans Takip Formu",
-              "E": "Türev Piyasalar Teminat Durum Raporu"
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
             },
             "dogruCevap": "C",
-            "cozum": "Tezgahüstü (OTC) türev ve sermaye piyasası işlemlerinde emir formu yerine İşlem Talimat Formu düzenlenir."
+            "cozum": "Soru #391 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 391
           },
           {
-            "id": 15,
-            "soruMetni": "Kaldıraçlı işlemlerle (Forex) ilgili aşağıda yer alan ifadelerden hangisi yanlıştır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #392): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
             "secenekler": {
-              "A": "Kaldıraçlı işlemler döviz, kıymetli maden ve Kurulca belirlenecek varlıklar üzerine yapılmaktadır",
-              "B": "Kaldıraçlı işlemlerde kaldıraç oranı pozisyonun ilk açıldığı sırada 10:1'i geçemeyecek şekilde belirlenmiştir",
-              "C": "Kaldıraçlı işlem gerçekleştirebilmek için başlangıç teminat tutarı olarak asgari 50.000 TL veya muadili döviz yatırılması gerekir",
-              "D": "İşlemlere başladıktan sonra zarar edilmesi neticesinde teminat tutarının 50.000 TL altına düşmesi durumunda mevcut işlemlere devam edilebilir",
-              "E": "İşlemlere başlamadan önce veya başladıktan sonra hesaptan nakit çekilmesi veya başka bir kuruma virman yapılması suretiyle başlangıç teminat tutarının 50.000 TL altına düşürülmesi halinde yeni pozisyon açılabilir"
-            },
-            "dogruCevap": "E",
-            "cozum": "Hesaptan nakit çekilerek teminat 50.000 TL altına düşürülürse yeni pozisyon açılamaz; bu nedenle E yanlıştır."
-          },
-          {
-            "id": 16,
-            "soruMetni": "Sahip olunmayan sermaye piyasası araçlarının satılması, satışa ilişkin emrin verilmesi veya takas yükümlülüğünün ödünç alınan araçlarla yerine getirilmesi işlemine ne ad verilir?",
-            "secenekler": {
-              "A": "Örtülü açığa satış işlemi",
-              "B": "Çıplak açığa satış işlemi",
-              "C": "Açığa satış işlemi",
-              "D": "Gizli açığa satış işlemi",
-              "E": "Nakit açığa satış"
-            },
-            "dogruCevap": "C",
-            "cozum": "Sahip olunmayan araçların satılması veya takasın ödünç araçla kapatılması Açığa Satış işlemidir."
-          },
-          {
-            "id": 17,
-            "soruMetni": "Kredili alım, açığa satış ve ödünç alma ve verme işlemlerinde özkaynak olarak kabul edilecek varlıklardan Borsa Yatırım Fonu katılma paylarının özkaynak oranı % kaçtır?",
-            "secenekler": {
-              "A": "% 60",
-              "B": "% 75",
-              "C": "% 90",
-              "D": "% 80",
-              "E": "% 50"
-            },
-            "dogruCevap": "C",
-            "cozum": "Kredili işlemlerde BYF katılma payları %90 oranında özkaynak kabul edilir."
-          },
-          {
-            "id": 18,
-            "soruMetni": "Paya Dayalı Kitle Fonlaması Tebliğine göre Yatırım Komitesi ile ilgili aşağıda yer alan ifadelerden hangisi yanlıştır?",
-            "secenekler": {
-              "A": "Komite üyelerinin çoğunluğunun Sermaye Piyasası Faaliyetleri Düzey 3 Lisansına sahip olması gerekmektedir",
-              "B": "Üyelerin tamamının platformun ortaklarının ve yönetim kurulu üyeleri için aranan şartları sağlamış olması zorunludur",
-              "C": "Girişimciye ait projeye ilişkin fizibilite raporunu değerlendirmeyle görevlidir",
-              "D": "Yatırım komitesi üyeleri faaliyetleri karşılığında girişim şirketlerinden veya girişimcilerden herhangi bir ekonomik menfaat temin edemez",
-              "E": "Kampanyalara ilişkin hazırlanan kitle fonlaması bilgi formunu onaylamaktadır"
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Kitle fonlaması yatırım komitesi üyelerinin çoğunluğunun Düzey 3 lisansına sahip olması zorunluluğu yoktur (en az 1 üyenin Düzey 3 lisansı olması yeterlidir)."
+            "cozum": "Soru #392 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 392
           },
           {
-            "id": 19,
-            "soruMetni": "Platformlar tarafından üyelik işlemleri kapsamında kimlik bilgileri tespit ve teyit edilen üyelerin bilgilerinin aşağıdakilerden hangisine iletilmesi gerekir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #393): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurulu",
-              "B": "Borsa İstanbul A.Ş.",
-              "C": "Türkiye Cumhuriyet Merkez Bankası",
-              "D": "Merkezi Kayıt Kuruluşu (MKK)",
-              "E": "Takasbank"
-            },
-            "dogruCevap": "D",
-            "cozum": "Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri MKK nezdindeki sisteme aktarılır."
-          },
-          {
-            "id": 20,
-            "soruMetni": "Aşağıdakilerden hangisi aracı kurumların genel müdür ve genel müdür yardımcılarında aranacak şartlardan biridir?",
-            "secenekler": {
-              "A": "Mali piyasalar veya işletmecilik alanında en az 7 yıllık mesleki tecrübeye sahip olunması",
-              "B": "En az doktora derecesine sahip olunması",
-              "C": "Banka yöneticisi olunması",
-              "D": "Sadece 35 yaşından büyük olunması",
-              "E": "Müfettişlik belgesi bulunması"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Yatırım Kuruluşları Tebliğine göre genel müdür ve yardımcıları mali piyasalar veya işletmecilikte en az 7 yıl tecrübeli olmalıdır."
+            "cozum": "Soru #393 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 393
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #394): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #394 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 394
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #395): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #395 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 395
           }
         ]
       },
       {
         "testId": 27,
         "testAdi": "Deneme 1: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
         "sorular": [
           {
-            "id": 501,
-            "soruMetni": "Soru 1 [Deneme 1 - Yatırım Kuruluşları Genel]: Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin yer alması zorunludur?",
-            "secenekler": {
-              "A": "Menkul değerler / menkul kıymetler",
-              "B": "Sigorta",
-              "C": "Faktoring",
-              "D": "Mevduat",
-              "E": "Kredi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 1 Açıklaması: Ticaret unvanında menkul değerler veya menkul kıymetler ibaresi şarttır."
-          },
-          {
-            "id": 502,
-            "soruMetni": "Soru 2 [Deneme 1 - Yatırım Kuruluşları Genel]: Kısmi yetkili aracı kurumlar hangi faaliyeti yürütemez?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "Halka arz aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 2 Açıklaması: Portföy aracılığı sadece geniş yetkili kurumlarca yapılır."
-          },
-          {
-            "id": 503,
-            "soruMetni": "Soru 3 [Deneme 1 - Yatırım Kuruluşları Genel]: Aracı kurum genel müdür ve genel müdür yardımcılarının mesleki tecrübe şartı en az kaç yıldır?",
-            "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 3 Açıklaması: Genel müdür ve yardımcıları için en az 7 yıl tecrübe aranır."
-          },
-          {
-            "id": 504,
-            "soruMetni": "Soru 4 [Deneme 1 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde (Forex) ilk pozisyon açılışında maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 4 Açıklaması: İlk açılışta azami kaldıraç 10:1'dir."
-          },
-          {
-            "id": 505,
-            "soruMetni": "Soru 5 [Deneme 1 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde asgari başlangıç teminatı tutarı kaç TL'dir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 5 Açıklaması: Başlangıç teminatı asgari 50.000 TL'dir."
-          },
-          {
-            "id": 506,
-            "soruMetni": "Soru 6 [Deneme 1 - Yatırım Kuruluşları Genel]: Ses ve telefon kayıtlarının yasal saklama süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #376): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır? (Detay Soru S-396)",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
               "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 6 Açıklaması: Ses kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #376 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 396
           },
           {
-            "id": 507,
-            "soruMetni": "Soru 7 [Deneme 1 - Yatırım Kuruluşları Genel]: Müşterinin mali durumu bilgisi hangi test kapsamında sorulur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #377): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR? (Detay Soru S-397)",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Doğrulama",
-              "D": "Genel Test",
-              "E": "Risk Testi"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 7 Açıklaması: Mali durum Yerindelik Testinde sorulur."
+            "cozum": "Soru #377 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 397
           },
           {
-            "id": 508,
-            "soruMetni": "Soru 8 [Deneme 1 - Yatırım Kuruluşları Genel]: Tezgahüstü (OTC) işlemlerde emir formu yerine hangi form düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #378): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir? (Detay Soru S-398)",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 8 Açıklaması: İşlem Talimat Formu düzenlenir."
+            "cozum": "Soru #378 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 398
           },
           {
-            "id": 509,
-            "soruMetni": "Soru 9 [Deneme 1 - Yatırım Kuruluşları Genel]: BYF katılma payları kredili işlemlerde yüzde kaç özkaynak kabul edilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #379): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir? (Detay Soru S-399)",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #379 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 399
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #380): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir? (Detay Soru S-400)",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #380 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 400
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #381): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR? (Detay Soru S-401)",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #381 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 401
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #382): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür? (Detay Soru S-402)",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #382 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 402
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #383): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur? (Detay Soru S-403)",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #383 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 403
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #384): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR? (Detay Soru S-404)",
+            "secenekler": {
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #384 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 404
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #385): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir? (Detay Soru S-405)",
+            "secenekler": {
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #385 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 405
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #386): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR? (Detay Soru S-406)",
+            "secenekler": {
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #386 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 406
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #387): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR? (Detay Soru S-407)",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #387 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 407
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #388): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır? (Detay Soru S-408)",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 9 Açıklaması: BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #388 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 408
           },
           {
-            "id": 510,
-            "soruMetni": "Soru 10 [Deneme 1 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ihtisas personeli sayılamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #389): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder? (Detay Soru S-409)",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 10 Açıklaması: İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #389 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 409
           },
           {
-            "id": 511,
-            "soruMetni": "Soru 11 [Deneme 1 - Yatırım Kuruluşları Genel]: Genel saklama faaliyeti izni olan bir yatırım kuruluşu ile ilgili hangisi doğrudur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #390): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir? (Detay Soru S-410)",
             "secenekler": {
-              "A": "Diğer yatırım kuruluşlarına da saklama hizmeti verebilir",
-              "B": "Sadece kendi müşterisine bakar",
-              "C": "Borsada işlem yapamaz",
-              "D": "Banka olmak zorundadır",
-              "E": "Kredili işlem yapamaz"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 11 Açıklaması: Genel saklama yetkilisi diğer kurumlara saklama hizmeti verebilir."
+            "dogruCevap": "B",
+            "cozum": "Soru #390 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 410
           },
           {
-            "id": 512,
-            "soruMetni": "Soru 12 [Deneme 1 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ana yatırım hizmetidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #391): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır? (Detay Soru S-411)",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "Servet yönetimi",
-              "C": "Finansman danışmanlığı",
-              "D": "Araştırma raporu sunma",
-              "E": "Kasa kiralama"
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 12 Açıklaması: Portföy aracılığı ana yatırım hizmetidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #391 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 411
           },
           {
-            "id": 513,
-            "soruMetni": "Soru 13 [Deneme 1 - Yatırım Kuruluşları Genel]: Kitle fonlamasında kimlik doğrulama bilgileri nereye iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #392): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir? (Detay Soru S-412)",
             "secenekler": {
-              "A": "MKK",
-              "B": "Takasbank",
-              "C": "SPK",
-              "D": "Borsa İstanbul",
-              "E": "TCMB"
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 13 Açıklaması: MKK'ya iletilir."
+            "cozum": "Soru #392 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 412
           },
           {
-            "id": 514,
-            "soruMetni": "Soru 14 [Deneme 1 - Yatırım Kuruluşları Genel]: Açığa satış işlemi tanımı aşağıdakilerden hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #393): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir? (Detay Soru S-413)",
             "secenekler": {
-              "A": "Sahip olunmayan sermaye piyasası araçlarının satılması",
-              "B": "Peşin alım yapılması",
-              "C": "Temettü tahsili",
-              "D": "Tahvil ihracı",
-              "E": "Repo işlemi"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 14 Açıklaması: Sahip olunmayan varlıkların satışı açığa satıştır."
+            "cozum": "Soru #393 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 413
           },
           {
-            "id": 515,
-            "soruMetni": "Soru 15 [Deneme 1 - Yatırım Kuruluşları Genel]: Aracı kurum teminatlandırma politikasını kim yürütür ve günceller?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #394): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır? (Detay Soru S-414)",
             "secenekler": {
-              "A": "Risk Yönetim Birimi",
-              "B": "Genel Kurul",
-              "C": "Müfettiş",
-              "D": "Bursa Temsilcisi",
-              "E": "Müşteri Temsilcisi"
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 15 Açıklaması: Risk yönetim birimi yürütür."
+            "cozum": "Soru #394 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 414
           },
           {
-            "id": 516,
-            "soruMetni": "Soru 16 [Deneme 1 - Yatırım Kuruluşları Genel]: Müşteri şikayetleri kayıtlarında aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #395): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır? (Detay Soru S-415)",
             "secenekler": {
-              "A": "Şikayete konu mevzuat maddesi gerekçesi",
-              "B": "Şikayetçi adı soyadı",
-              "C": "Şikayet tarihi",
-              "D": "İşlem özeti",
-              "E": "Şikayet konusu"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 16 Açıklaması: Mevzuat maddesi gerekçesi zorunlu değildir."
+            "dogruCevap": "C",
+            "cozum": "Soru #395 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 415
           },
           {
-            "id": 517,
-            "soruMetni": "Soru 17 [Deneme 1 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde zarar neticesinde teminat 50.000 TL altına düşerse ne olur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #396): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
-              "A": "Mevcut pozisyonlarla işlemlere devam edilebilir ancak yeni pozisyon açılamaz",
-              "B": "Hesap derhal kapatılır",
-              "C": "Tüm pozisyonlar resen kapatılır",
-              "D": "Hapis cezası verilir",
-              "E": "Ceza kesilir"
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 17 Açıklaması: Mevcut pozisyonlarla işlemlere devam edilebilir."
+            "dogruCevap": "D",
+            "cozum": "Soru #396 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 416
           },
           {
-            "id": 518,
-            "soruMetni": "Soru 18 [Deneme 1 - Yatırım Kuruluşları Genel]: Geniş yetkili aracı kurumlar ticaret unvanlarında hangisini kullanabilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #397): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yatırım menkul değerler / Yatırım menkul kıymetler",
-              "B": "Mevduat bankası",
-              "C": "Katılım bankası",
-              "D": "Sigorta acentesi",
-              "E": "Kredi kurumu"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 18 Açıklaması: Geniş yetkililer bu ibareyi kullanabilir."
+            "cozum": "Soru #397 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 417
           },
           {
-            "id": 519,
-            "soruMetni": "Soru 19 [Deneme 1 - Yatırım Kuruluşları Genel]: Girişim sermayesi yatırım ortaklıklarında portföy aracılığı yapan kurum hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #398): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "Geniş yetkili aracı kurumlar",
-              "B": "Limited şirketler",
-              "C": "Kuyumcular",
-              "D": "Döviz büroları",
-              "E": "Sigorta acenteleri"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 19 Açıklaması: Geniş yetkili aracı kurumlar bu işlemleri yürütür."
+            "cozum": "Soru #398 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 418
           },
           {
-            "id": 520,
-            "soruMetni": "Soru 20 [Deneme 1 - Yatırım Kuruluşları Genel]: Müşteriyi tanıma kuralı aşağıdakilerden hangisinin kapsamındadır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #399): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "Müşteri ilişkileri operasyonel süreci ve Suç gelirlerinin aklanmasının önlenmesi",
-              "B": "Genel etik ilke",
-              "C": "Muhasebe standardı",
-              "D": "Bilanço kalemi",
-              "E": "Borsa kuralı"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 20 Açıklaması: Müşteriyi tanıma operasyonel süreçtir."
+            "cozum": "Soru #399 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 419
           },
           {
-            "id": 521,
-            "soruMetni": "Soru 21 [Deneme 1 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi yan hizmettir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #400): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
             "secenekler": {
-              "A": "Sermaye piyasası araçlarının müşteriler adına saklanması ve yönetimi",
-              "B": "İşlem aracılığı",
-              "C": "Portföy aracılığı",
-              "D": "Bireysel portföy yöneticiliği",
-              "E": "Borsa işletimi"
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 21 Açıklaması: Saklama ve yönetim yan hizmettir."
-          },
-          {
-            "id": 522,
-            "soruMetni": "Soru 22 [Deneme 1 - Yatırım Kuruluşları Genel]: Yatırım kuruluşu çalışanlarında dürüstlük ve tarafsızlık neyi ifade eder?",
-            "secenekler": {
-              "A": "Tüm müşterilere adil ve tarafsız davranmayı",
-              "B": "Komisyon artırmayı",
-              "C": "Sadece büyük müşteriye bakmayı",
-              "D": "Garanti getiri vermeyi",
-              "E": "Kendi portföyünü öncellemeyi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 22 Açıklaması: Tüm müşterilere adil davranmayı ifade eder."
-          },
-          {
-            "id": 523,
-            "soruMetni": "Soru 23 [Deneme 1 - Yatırım Kuruluşları Genel]: Sermaye piyasasında garanti getiri taahhüt etmek nasıldır?",
-            "secenekler": {
-              "A": "Kesinlikle yasaktır ve mevzuata aykırıdır",
-              "B": "Serbesttir",
-              "C": "Yazılı olursa serbesttir",
-              "D": "Sadece bankalara serbesttir",
-              "E": "SPK izniyle serbesttir"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 23 Açıklaması: Garanti getiri vaat etmek kesinlikle yasaktır."
-          },
-          {
-            "id": 524,
-            "soruMetni": "Soru 24 [Deneme 1 - Yatırım Kuruluşları Genel]: Yatırım danışmanlığı çerçeve sözleşmesi imzalanmadan önce hangi test yapılmalıdır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Tespiti",
-              "D": "Bilanço Testi",
-              "E": "Gelir Testi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 24 Açıklaması: Yatırım danışmanlığı öncesinde Yerindelik Testi yapılır."
-          },
-          {
-            "id": 525,
-            "soruMetni": "Soru 25 [Deneme 1 - Yatırım Kuruluşları Genel]: Aracı kurumlar ne zaman faaliyet izni iptali riskiyle karşılaşır?",
-            "secenekler": {
-              "A": "Sermaye yeterliliği yükümlülüklerini verilen sürede yerine getirmediklerinde",
-              "B": "Kâr ettiklerinde",
-              "C": "Eleman aldıklarında",
-              "D": "Şube açtıklarında",
-              "E": "İzahname yayımladıklarında"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 25 Açıklaması: Sermaye eksikliğini gidermeyen kurumların izinleri iptal edilebilir."
+            "cozum": "Soru #400 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 420
           }
         ]
       },
       {
         "testId": 28,
         "testAdi": "Deneme 2: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
         "sorular": [
           {
-            "id": 526,
-            "soruMetni": "Soru 1 [Deneme 2 - Yatırım Kuruluşları Genel]: Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin yer alması zorunludur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #401): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "Menkul değerler / menkul kıymetler",
-              "B": "Sigorta",
-              "C": "Faktoring",
-              "D": "Mevduat",
-              "E": "Kredi"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 1 Açıklaması: Ticaret unvanında menkul değerler veya menkul kıymetler ibaresi şarttır."
+            "cozum": "Soru #401 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 421
           },
           {
-            "id": 527,
-            "soruMetni": "Soru 2 [Deneme 2 - Yatırım Kuruluşları Genel]: Kısmi yetkili aracı kurumlar hangi faaliyeti yürütemez?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #402): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "Halka arz aracılığı"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 2 Açıklaması: Portföy aracılığı sadece geniş yetkili kurumlarca yapılır."
+            "cozum": "Soru #402 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 422
           },
           {
-            "id": 528,
-            "soruMetni": "Soru 3 [Deneme 2 - Yatırım Kuruluşları Genel]: Aracı kurum genel müdür ve genel müdür yardımcılarının mesleki tecrübe şartı en az kaç yıldır?",
-            "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 3 Açıklaması: Genel müdür ve yardımcıları için en az 7 yıl tecrübe aranır."
-          },
-          {
-            "id": 529,
-            "soruMetni": "Soru 4 [Deneme 2 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde (Forex) ilk pozisyon açılışında maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 4 Açıklaması: İlk açılışta azami kaldıraç 10:1'dir."
-          },
-          {
-            "id": 530,
-            "soruMetni": "Soru 5 [Deneme 2 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde asgari başlangıç teminatı tutarı kaç TL'dir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 5 Açıklaması: Başlangıç teminatı asgari 50.000 TL'dir."
-          },
-          {
-            "id": 531,
-            "soruMetni": "Soru 6 [Deneme 2 - Yatırım Kuruluşları Genel]: Ses ve telefon kayıtlarının yasal saklama süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #403): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
               "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 6 Açıklaması: Ses kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #403 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 423
           },
           {
-            "id": 532,
-            "soruMetni": "Soru 7 [Deneme 2 - Yatırım Kuruluşları Genel]: Müşterinin mali durumu bilgisi hangi test kapsamında sorulur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #404): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Doğrulama",
-              "D": "Genel Test",
-              "E": "Risk Testi"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 7 Açıklaması: Mali durum Yerindelik Testinde sorulur."
+            "cozum": "Soru #404 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 424
           },
           {
-            "id": 533,
-            "soruMetni": "Soru 8 [Deneme 2 - Yatırım Kuruluşları Genel]: Tezgahüstü (OTC) işlemlerde emir formu yerine hangi form düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #405): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 8 Açıklaması: İşlem Talimat Formu düzenlenir."
+            "cozum": "Soru #405 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 425
           },
           {
-            "id": 534,
-            "soruMetni": "Soru 9 [Deneme 2 - Yatırım Kuruluşları Genel]: BYF katılma payları kredili işlemlerde yüzde kaç özkaynak kabul edilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #406): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #406 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 426
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #407): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #407 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 427
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #408): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 9 Açıklaması: BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #408 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 428
           },
           {
-            "id": 535,
-            "soruMetni": "Soru 10 [Deneme 2 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ihtisas personeli sayılamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #409): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 10 Açıklaması: İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #409 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 429
           },
           {
-            "id": 536,
-            "soruMetni": "Soru 11 [Deneme 2 - Yatırım Kuruluşları Genel]: Genel saklama faaliyeti izni olan bir yatırım kuruluşu ile ilgili hangisi doğrudur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #410): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Diğer yatırım kuruluşlarına da saklama hizmeti verebilir",
-              "B": "Sadece kendi müşterisine bakar",
-              "C": "Borsada işlem yapamaz",
-              "D": "Banka olmak zorundadır",
-              "E": "Kredili işlem yapamaz"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 11 Açıklaması: Genel saklama yetkilisi diğer kurumlara saklama hizmeti verebilir."
+            "dogruCevap": "B",
+            "cozum": "Soru #410 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 430
           },
           {
-            "id": 537,
-            "soruMetni": "Soru 12 [Deneme 2 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ana yatırım hizmetidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #411): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "Servet yönetimi",
-              "C": "Finansman danışmanlığı",
-              "D": "Araştırma raporu sunma",
-              "E": "Kasa kiralama"
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 12 Açıklaması: Portföy aracılığı ana yatırım hizmetidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #411 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 431
           },
           {
-            "id": 538,
-            "soruMetni": "Soru 13 [Deneme 2 - Yatırım Kuruluşları Genel]: Kitle fonlamasında kimlik doğrulama bilgileri nereye iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #412): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
             "secenekler": {
-              "A": "MKK",
-              "B": "Takasbank",
-              "C": "SPK",
-              "D": "Borsa İstanbul",
-              "E": "TCMB"
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 13 Açıklaması: MKK'ya iletilir."
+            "cozum": "Soru #412 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 432
           },
           {
-            "id": 539,
-            "soruMetni": "Soru 14 [Deneme 2 - Yatırım Kuruluşları Genel]: Açığa satış işlemi tanımı aşağıdakilerden hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #413): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Sahip olunmayan sermaye piyasası araçlarının satılması",
-              "B": "Peşin alım yapılması",
-              "C": "Temettü tahsili",
-              "D": "Tahvil ihracı",
-              "E": "Repo işlemi"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 14 Açıklaması: Sahip olunmayan varlıkların satışı açığa satıştır."
+            "cozum": "Soru #413 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 433
           },
           {
-            "id": 540,
-            "soruMetni": "Soru 15 [Deneme 2 - Yatırım Kuruluşları Genel]: Aracı kurum teminatlandırma politikasını kim yürütür ve günceller?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #414): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "Risk Yönetim Birimi",
-              "B": "Genel Kurul",
-              "C": "Müfettiş",
-              "D": "Bursa Temsilcisi",
-              "E": "Müşteri Temsilcisi"
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 15 Açıklaması: Risk yönetim birimi yürütür."
+            "cozum": "Soru #414 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 434
           },
           {
-            "id": 541,
-            "soruMetni": "Soru 16 [Deneme 2 - Yatırım Kuruluşları Genel]: Müşteri şikayetleri kayıtlarında aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #415): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
             "secenekler": {
-              "A": "Şikayete konu mevzuat maddesi gerekçesi",
-              "B": "Şikayetçi adı soyadı",
-              "C": "Şikayet tarihi",
-              "D": "İşlem özeti",
-              "E": "Şikayet konusu"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 16 Açıklaması: Mevzuat maddesi gerekçesi zorunlu değildir."
+            "dogruCevap": "C",
+            "cozum": "Soru #415 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 435
           },
           {
-            "id": 542,
-            "soruMetni": "Soru 17 [Deneme 2 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde zarar neticesinde teminat 50.000 TL altına düşerse ne olur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #416): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
-              "A": "Mevcut pozisyonlarla işlemlere devam edilebilir ancak yeni pozisyon açılamaz",
-              "B": "Hesap derhal kapatılır",
-              "C": "Tüm pozisyonlar resen kapatılır",
-              "D": "Hapis cezası verilir",
-              "E": "Ceza kesilir"
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 17 Açıklaması: Mevcut pozisyonlarla işlemlere devam edilebilir."
+            "dogruCevap": "D",
+            "cozum": "Soru #416 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 436
           },
           {
-            "id": 543,
-            "soruMetni": "Soru 18 [Deneme 2 - Yatırım Kuruluşları Genel]: Geniş yetkili aracı kurumlar ticaret unvanlarında hangisini kullanabilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #417): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yatırım menkul değerler / Yatırım menkul kıymetler",
-              "B": "Mevduat bankası",
-              "C": "Katılım bankası",
-              "D": "Sigorta acentesi",
-              "E": "Kredi kurumu"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 18 Açıklaması: Geniş yetkililer bu ibareyi kullanabilir."
+            "cozum": "Soru #417 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 437
           },
           {
-            "id": 544,
-            "soruMetni": "Soru 19 [Deneme 2 - Yatırım Kuruluşları Genel]: Girişim sermayesi yatırım ortaklıklarında portföy aracılığı yapan kurum hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #418): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "Geniş yetkili aracı kurumlar",
-              "B": "Limited şirketler",
-              "C": "Kuyumcular",
-              "D": "Döviz büroları",
-              "E": "Sigorta acenteleri"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 19 Açıklaması: Geniş yetkili aracı kurumlar bu işlemleri yürütür."
+            "cozum": "Soru #418 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 438
           },
           {
-            "id": 545,
-            "soruMetni": "Soru 20 [Deneme 2 - Yatırım Kuruluşları Genel]: Müşteriyi tanıma kuralı aşağıdakilerden hangisinin kapsamındadır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #419): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "Müşteri ilişkileri operasyonel süreci ve Suç gelirlerinin aklanmasının önlenmesi",
-              "B": "Genel etik ilke",
-              "C": "Muhasebe standardı",
-              "D": "Bilanço kalemi",
-              "E": "Borsa kuralı"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 20 Açıklaması: Müşteriyi tanıma operasyonel süreçtir."
+            "cozum": "Soru #419 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 439
           },
           {
-            "id": 546,
-            "soruMetni": "Soru 21 [Deneme 2 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi yan hizmettir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #420): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
             "secenekler": {
-              "A": "Sermaye piyasası araçlarının müşteriler adına saklanması ve yönetimi",
-              "B": "İşlem aracılığı",
-              "C": "Portföy aracılığı",
-              "D": "Bireysel portföy yöneticiliği",
-              "E": "Borsa işletimi"
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 21 Açıklaması: Saklama ve yönetim yan hizmettir."
+            "cozum": "Soru #420 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 440
           },
           {
-            "id": 547,
-            "soruMetni": "Soru 22 [Deneme 2 - Yatırım Kuruluşları Genel]: Yatırım kuruluşu çalışanlarında dürüstlük ve tarafsızlık neyi ifade eder?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #421): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "Tüm müşterilere adil ve tarafsız davranmayı",
-              "B": "Komisyon artırmayı",
-              "C": "Sadece büyük müşteriye bakmayı",
-              "D": "Garanti getiri vermeyi",
-              "E": "Kendi portföyünü öncellemeyi"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 22 Açıklaması: Tüm müşterilere adil davranmayı ifade eder."
+            "cozum": "Soru #421 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 441
           },
           {
-            "id": 548,
-            "soruMetni": "Soru 23 [Deneme 2 - Yatırım Kuruluşları Genel]: Sermaye piyasasında garanti getiri taahhüt etmek nasıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #422): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Kesinlikle yasaktır ve mevzuata aykırıdır",
-              "B": "Serbesttir",
-              "C": "Yazılı olursa serbesttir",
-              "D": "Sadece bankalara serbesttir",
-              "E": "SPK izniyle serbesttir"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 23 Açıklaması: Garanti getiri vaat etmek kesinlikle yasaktır."
+            "cozum": "Soru #422 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 442
           },
           {
-            "id": 549,
-            "soruMetni": "Soru 24 [Deneme 2 - Yatırım Kuruluşları Genel]: Yatırım danışmanlığı çerçeve sözleşmesi imzalanmadan önce hangi test yapılmalıdır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #423): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Tespiti",
-              "D": "Bilanço Testi",
-              "E": "Gelir Testi"
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 24 Açıklaması: Yatırım danışmanlığı öncesinde Yerindelik Testi yapılır."
+            "dogruCevap": "C",
+            "cozum": "Soru #423 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 443
           },
           {
-            "id": 550,
-            "soruMetni": "Soru 25 [Deneme 2 - Yatırım Kuruluşları Genel]: Aracı kurumlar ne zaman faaliyet izni iptali riskiyle karşılaşır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #424): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Sermaye yeterliliği yükümlülüklerini verilen sürede yerine getirmediklerinde",
-              "B": "Kâr ettiklerinde",
-              "C": "Eleman aldıklarında",
-              "D": "Şube açtıklarında",
-              "E": "İzahname yayımladıklarında"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 25 Açıklaması: Sermaye eksikliğini gidermeyen kurumların izinleri iptal edilebilir."
+            "cozum": "Soru #424 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 444
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #425): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
+            "secenekler": {
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #425 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 445
           }
         ]
       },
       {
         "testId": 29,
         "testAdi": "Deneme 3: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
         "sorular": [
           {
-            "id": 551,
-            "soruMetni": "Soru 1 [Deneme 3 - Yatırım Kuruluşları Genel]: Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin yer alması zorunludur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #426): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Menkul değerler / menkul kıymetler",
-              "B": "Sigorta",
-              "C": "Faktoring",
-              "D": "Mevduat",
-              "E": "Kredi"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 1 Açıklaması: Ticaret unvanında menkul değerler veya menkul kıymetler ibaresi şarttır."
+            "cozum": "Soru #426 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 446
           },
           {
-            "id": 552,
-            "soruMetni": "Soru 2 [Deneme 3 - Yatırım Kuruluşları Genel]: Kısmi yetkili aracı kurumlar hangi faaliyeti yürütemez?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #427): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "Halka arz aracılığı"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 2 Açıklaması: Portföy aracılığı sadece geniş yetkili kurumlarca yapılır."
+            "cozum": "Soru #427 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 447
           },
           {
-            "id": 553,
-            "soruMetni": "Soru 3 [Deneme 3 - Yatırım Kuruluşları Genel]: Aracı kurum genel müdür ve genel müdür yardımcılarının mesleki tecrübe şartı en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #428): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
+              "E": "%100"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #428 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 448
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #429): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
+            "secenekler": {
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #429 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 449
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #430): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
+            "secenekler": {
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #430 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 450
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #431): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #431 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 451
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #432): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #432 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 452
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #433): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #433 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 453
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #434): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #434 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 454
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #435): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 3 Açıklaması: Genel müdür ve yardımcıları için en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #435 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 455
           },
           {
-            "id": 554,
-            "soruMetni": "Soru 4 [Deneme 3 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde (Forex) ilk pozisyon açılışında maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 4 Açıklaması: İlk açılışta azami kaldıraç 10:1'dir."
-          },
-          {
-            "id": 555,
-            "soruMetni": "Soru 5 [Deneme 3 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde asgari başlangıç teminatı tutarı kaç TL'dir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 5 Açıklaması: Başlangıç teminatı asgari 50.000 TL'dir."
-          },
-          {
-            "id": 556,
-            "soruMetni": "Soru 6 [Deneme 3 - Yatırım Kuruluşları Genel]: Ses ve telefon kayıtlarının yasal saklama süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #436): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
               "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 6 Açıklaması: Ses kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #436 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 456
           },
           {
-            "id": 557,
-            "soruMetni": "Soru 7 [Deneme 3 - Yatırım Kuruluşları Genel]: Müşterinin mali durumu bilgisi hangi test kapsamında sorulur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #437): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Doğrulama",
-              "D": "Genel Test",
-              "E": "Risk Testi"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 7 Açıklaması: Mali durum Yerindelik Testinde sorulur."
+            "cozum": "Soru #437 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 457
           },
           {
-            "id": 558,
-            "soruMetni": "Soru 8 [Deneme 3 - Yatırım Kuruluşları Genel]: Tezgahüstü (OTC) işlemlerde emir formu yerine hangi form düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #438): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 8 Açıklaması: İşlem Talimat Formu düzenlenir."
+            "cozum": "Soru #438 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 458
           },
           {
-            "id": 559,
-            "soruMetni": "Soru 9 [Deneme 3 - Yatırım Kuruluşları Genel]: BYF katılma payları kredili işlemlerde yüzde kaç özkaynak kabul edilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #439): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #439 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 459
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #440): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #440 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 460
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #441): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #441 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 461
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #442): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #442 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 462
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #443): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #443 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 463
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #444): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
+            "secenekler": {
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #444 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 464
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #445): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
+            "secenekler": {
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #445 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 465
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #446): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #446 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 466
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #447): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #447 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 467
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #448): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 9 Açıklaması: BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #448 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 468
           },
           {
-            "id": 560,
-            "soruMetni": "Soru 10 [Deneme 3 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ihtisas personeli sayılamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #449): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 10 Açıklaması: İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #449 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 469
           },
           {
-            "id": 561,
-            "soruMetni": "Soru 11 [Deneme 3 - Yatırım Kuruluşları Genel]: Genel saklama faaliyeti izni olan bir yatırım kuruluşu ile ilgili hangisi doğrudur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #450): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Diğer yatırım kuruluşlarına da saklama hizmeti verebilir",
-              "B": "Sadece kendi müşterisine bakar",
-              "C": "Borsada işlem yapamaz",
-              "D": "Banka olmak zorundadır",
-              "E": "Kredili işlem yapamaz"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 11 Açıklaması: Genel saklama yetkilisi diğer kurumlara saklama hizmeti verebilir."
-          },
-          {
-            "id": 562,
-            "soruMetni": "Soru 12 [Deneme 3 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ana yatırım hizmetidir?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "Servet yönetimi",
-              "C": "Finansman danışmanlığı",
-              "D": "Araştırma raporu sunma",
-              "E": "Kasa kiralama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 12 Açıklaması: Portföy aracılığı ana yatırım hizmetidir."
-          },
-          {
-            "id": 563,
-            "soruMetni": "Soru 13 [Deneme 3 - Yatırım Kuruluşları Genel]: Kitle fonlamasında kimlik doğrulama bilgileri nereye iletilir?",
-            "secenekler": {
-              "A": "MKK",
-              "B": "Takasbank",
-              "C": "SPK",
-              "D": "Borsa İstanbul",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 13 Açıklaması: MKK'ya iletilir."
-          },
-          {
-            "id": 564,
-            "soruMetni": "Soru 14 [Deneme 3 - Yatırım Kuruluşları Genel]: Açığa satış işlemi tanımı aşağıdakilerden hangisidir?",
-            "secenekler": {
-              "A": "Sahip olunmayan sermaye piyasası araçlarının satılması",
-              "B": "Peşin alım yapılması",
-              "C": "Temettü tahsili",
-              "D": "Tahvil ihracı",
-              "E": "Repo işlemi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 14 Açıklaması: Sahip olunmayan varlıkların satışı açığa satıştır."
-          },
-          {
-            "id": 565,
-            "soruMetni": "Soru 15 [Deneme 3 - Yatırım Kuruluşları Genel]: Aracı kurum teminatlandırma politikasını kim yürütür ve günceller?",
-            "secenekler": {
-              "A": "Risk Yönetim Birimi",
-              "B": "Genel Kurul",
-              "C": "Müfettiş",
-              "D": "Bursa Temsilcisi",
-              "E": "Müşteri Temsilcisi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 15 Açıklaması: Risk yönetim birimi yürütür."
-          },
-          {
-            "id": 566,
-            "soruMetni": "Soru 16 [Deneme 3 - Yatırım Kuruluşları Genel]: Müşteri şikayetleri kayıtlarında aşağıdakilerden hangisinin bulunması zorunlu değildir?",
-            "secenekler": {
-              "A": "Şikayete konu mevzuat maddesi gerekçesi",
-              "B": "Şikayetçi adı soyadı",
-              "C": "Şikayet tarihi",
-              "D": "İşlem özeti",
-              "E": "Şikayet konusu"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 16 Açıklaması: Mevzuat maddesi gerekçesi zorunlu değildir."
-          },
-          {
-            "id": 567,
-            "soruMetni": "Soru 17 [Deneme 3 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde zarar neticesinde teminat 50.000 TL altına düşerse ne olur?",
-            "secenekler": {
-              "A": "Mevcut pozisyonlarla işlemlere devam edilebilir ancak yeni pozisyon açılamaz",
-              "B": "Hesap derhal kapatılır",
-              "C": "Tüm pozisyonlar resen kapatılır",
-              "D": "Hapis cezası verilir",
-              "E": "Ceza kesilir"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 17 Açıklaması: Mevcut pozisyonlarla işlemlere devam edilebilir."
-          },
-          {
-            "id": 568,
-            "soruMetni": "Soru 18 [Deneme 3 - Yatırım Kuruluşları Genel]: Geniş yetkili aracı kurumlar ticaret unvanlarında hangisini kullanabilir?",
-            "secenekler": {
-              "A": "Yatırım menkul değerler / Yatırım menkul kıymetler",
-              "B": "Mevduat bankası",
-              "C": "Katılım bankası",
-              "D": "Sigorta acentesi",
-              "E": "Kredi kurumu"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 18 Açıklaması: Geniş yetkililer bu ibareyi kullanabilir."
-          },
-          {
-            "id": 569,
-            "soruMetni": "Soru 19 [Deneme 3 - Yatırım Kuruluşları Genel]: Girişim sermayesi yatırım ortaklıklarında portföy aracılığı yapan kurum hangisidir?",
-            "secenekler": {
-              "A": "Geniş yetkili aracı kurumlar",
-              "B": "Limited şirketler",
-              "C": "Kuyumcular",
-              "D": "Döviz büroları",
-              "E": "Sigorta acenteleri"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 19 Açıklaması: Geniş yetkili aracı kurumlar bu işlemleri yürütür."
-          },
-          {
-            "id": 570,
-            "soruMetni": "Soru 20 [Deneme 3 - Yatırım Kuruluşları Genel]: Müşteriyi tanıma kuralı aşağıdakilerden hangisinin kapsamındadır?",
-            "secenekler": {
-              "A": "Müşteri ilişkileri operasyonel süreci ve Suç gelirlerinin aklanmasının önlenmesi",
-              "B": "Genel etik ilke",
-              "C": "Muhasebe standardı",
-              "D": "Bilanço kalemi",
-              "E": "Borsa kuralı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 20 Açıklaması: Müşteriyi tanıma operasyonel süreçtir."
-          },
-          {
-            "id": 571,
-            "soruMetni": "Soru 21 [Deneme 3 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi yan hizmettir?",
-            "secenekler": {
-              "A": "Sermaye piyasası araçlarının müşteriler adına saklanması ve yönetimi",
-              "B": "İşlem aracılığı",
-              "C": "Portföy aracılığı",
-              "D": "Bireysel portföy yöneticiliği",
-              "E": "Borsa işletimi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 21 Açıklaması: Saklama ve yönetim yan hizmettir."
-          },
-          {
-            "id": 572,
-            "soruMetni": "Soru 22 [Deneme 3 - Yatırım Kuruluşları Genel]: Yatırım kuruluşu çalışanlarında dürüstlük ve tarafsızlık neyi ifade eder?",
-            "secenekler": {
-              "A": "Tüm müşterilere adil ve tarafsız davranmayı",
-              "B": "Komisyon artırmayı",
-              "C": "Sadece büyük müşteriye bakmayı",
-              "D": "Garanti getiri vermeyi",
-              "E": "Kendi portföyünü öncellemeyi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 22 Açıklaması: Tüm müşterilere adil davranmayı ifade eder."
-          },
-          {
-            "id": 573,
-            "soruMetni": "Soru 23 [Deneme 3 - Yatırım Kuruluşları Genel]: Sermaye piyasasında garanti getiri taahhüt etmek nasıldır?",
-            "secenekler": {
-              "A": "Kesinlikle yasaktır ve mevzuata aykırıdır",
-              "B": "Serbesttir",
-              "C": "Yazılı olursa serbesttir",
-              "D": "Sadece bankalara serbesttir",
-              "E": "SPK izniyle serbesttir"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 23 Açıklaması: Garanti getiri vaat etmek kesinlikle yasaktır."
-          },
-          {
-            "id": 574,
-            "soruMetni": "Soru 24 [Deneme 3 - Yatırım Kuruluşları Genel]: Yatırım danışmanlığı çerçeve sözleşmesi imzalanmadan önce hangi test yapılmalıdır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Tespiti",
-              "D": "Bilanço Testi",
-              "E": "Gelir Testi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 24 Açıklaması: Yatırım danışmanlığı öncesinde Yerindelik Testi yapılır."
-          },
-          {
-            "id": 575,
-            "soruMetni": "Soru 25 [Deneme 3 - Yatırım Kuruluşları Genel]: Aracı kurumlar ne zaman faaliyet izni iptali riskiyle karşılaşır?",
-            "secenekler": {
-              "A": "Sermaye yeterliliği yükümlülüklerini verilen sürede yerine getirmediklerinde",
-              "B": "Kâr ettiklerinde",
-              "C": "Eleman aldıklarında",
-              "D": "Şube açtıklarında",
-              "E": "İzahname yayımladıklarında"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 25 Açıklaması: Sermaye eksikliğini gidermeyen kurumların izinleri iptal edilebilir."
+            "dogruCevap": "B",
+            "cozum": "Soru #450 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 470
           }
         ]
       },
       {
         "testId": 30,
         "testAdi": "Deneme 4: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
         "sorular": [
           {
-            "id": 576,
-            "soruMetni": "Soru 1 [Deneme 4 - Yatırım Kuruluşları Genel]: Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin yer alması zorunludur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #451): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "Menkul değerler / menkul kıymetler",
-              "B": "Sigorta",
-              "C": "Faktoring",
-              "D": "Mevduat",
-              "E": "Kredi"
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 1 Açıklaması: Ticaret unvanında menkul değerler veya menkul kıymetler ibaresi şarttır."
+            "dogruCevap": "C",
+            "cozum": "Soru #451 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 471
           },
           {
-            "id": 577,
-            "soruMetni": "Soru 2 [Deneme 4 - Yatırım Kuruluşları Genel]: Kısmi yetkili aracı kurumlar hangi faaliyeti yürütemez?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #452): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "Halka arz aracılığı"
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 2 Açıklaması: Portföy aracılığı sadece geniş yetkili kurumlarca yapılır."
+            "cozum": "Soru #452 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 472
           },
           {
-            "id": 578,
-            "soruMetni": "Soru 3 [Deneme 4 - Yatırım Kuruluşları Genel]: Aracı kurum genel müdür ve genel müdür yardımcılarının mesleki tecrübe şartı en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #453): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #453 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 473
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #454): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #454 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 474
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #455): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 3 Açıklaması: Genel müdür ve yardımcıları için en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #455 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 475
           },
           {
-            "id": 579,
-            "soruMetni": "Soru 4 [Deneme 4 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde (Forex) ilk pozisyon açılışında maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 4 Açıklaması: İlk açılışta azami kaldıraç 10:1'dir."
-          },
-          {
-            "id": 580,
-            "soruMetni": "Soru 5 [Deneme 4 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde asgari başlangıç teminatı tutarı kaç TL'dir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 5 Açıklaması: Başlangıç teminatı asgari 50.000 TL'dir."
-          },
-          {
-            "id": 581,
-            "soruMetni": "Soru 6 [Deneme 4 - Yatırım Kuruluşları Genel]: Ses ve telefon kayıtlarının yasal saklama süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #456): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
               "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 6 Açıklaması: Ses kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #456 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 476
           },
           {
-            "id": 582,
-            "soruMetni": "Soru 7 [Deneme 4 - Yatırım Kuruluşları Genel]: Müşterinin mali durumu bilgisi hangi test kapsamında sorulur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #457): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Doğrulama",
-              "D": "Genel Test",
-              "E": "Risk Testi"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 7 Açıklaması: Mali durum Yerindelik Testinde sorulur."
+            "cozum": "Soru #457 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 477
           },
           {
-            "id": 583,
-            "soruMetni": "Soru 8 [Deneme 4 - Yatırım Kuruluşları Genel]: Tezgahüstü (OTC) işlemlerde emir formu yerine hangi form düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #458): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 8 Açıklaması: İşlem Talimat Formu düzenlenir."
+            "cozum": "Soru #458 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 478
           },
           {
-            "id": 584,
-            "soruMetni": "Soru 9 [Deneme 4 - Yatırım Kuruluşları Genel]: BYF katılma payları kredili işlemlerde yüzde kaç özkaynak kabul edilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #459): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #459 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 479
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #460): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #460 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 480
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #461): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #461 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 481
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #462): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #462 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 482
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #463): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #463 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 483
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #464): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
+            "secenekler": {
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #464 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 484
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #465): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
+            "secenekler": {
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #465 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 485
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #466): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #466 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 486
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #467): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #467 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 487
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #468): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 9 Açıklaması: BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #468 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 488
           },
           {
-            "id": 585,
-            "soruMetni": "Soru 10 [Deneme 4 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ihtisas personeli sayılamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #469): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 10 Açıklaması: İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #469 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 489
           },
           {
-            "id": 586,
-            "soruMetni": "Soru 11 [Deneme 4 - Yatırım Kuruluşları Genel]: Genel saklama faaliyeti izni olan bir yatırım kuruluşu ile ilgili hangisi doğrudur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #470): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Diğer yatırım kuruluşlarına da saklama hizmeti verebilir",
-              "B": "Sadece kendi müşterisine bakar",
-              "C": "Borsada işlem yapamaz",
-              "D": "Banka olmak zorundadır",
-              "E": "Kredili işlem yapamaz"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 11 Açıklaması: Genel saklama yetkilisi diğer kurumlara saklama hizmeti verebilir."
+            "dogruCevap": "B",
+            "cozum": "Soru #470 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 490
           },
           {
-            "id": 587,
-            "soruMetni": "Soru 12 [Deneme 4 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ana yatırım hizmetidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #471): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "Servet yönetimi",
-              "C": "Finansman danışmanlığı",
-              "D": "Araştırma raporu sunma",
-              "E": "Kasa kiralama"
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 12 Açıklaması: Portföy aracılığı ana yatırım hizmetidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #471 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 491
           },
           {
-            "id": 588,
-            "soruMetni": "Soru 13 [Deneme 4 - Yatırım Kuruluşları Genel]: Kitle fonlamasında kimlik doğrulama bilgileri nereye iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #472): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
             "secenekler": {
-              "A": "MKK",
-              "B": "Takasbank",
-              "C": "SPK",
-              "D": "Borsa İstanbul",
-              "E": "TCMB"
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 13 Açıklaması: MKK'ya iletilir."
+            "cozum": "Soru #472 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 492
           },
           {
-            "id": 589,
-            "soruMetni": "Soru 14 [Deneme 4 - Yatırım Kuruluşları Genel]: Açığa satış işlemi tanımı aşağıdakilerden hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #473): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Sahip olunmayan sermaye piyasası araçlarının satılması",
-              "B": "Peşin alım yapılması",
-              "C": "Temettü tahsili",
-              "D": "Tahvil ihracı",
-              "E": "Repo işlemi"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 14 Açıklaması: Sahip olunmayan varlıkların satışı açığa satıştır."
+            "cozum": "Soru #473 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 493
           },
           {
-            "id": 590,
-            "soruMetni": "Soru 15 [Deneme 4 - Yatırım Kuruluşları Genel]: Aracı kurum teminatlandırma politikasını kim yürütür ve günceller?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #474): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "Risk Yönetim Birimi",
-              "B": "Genel Kurul",
-              "C": "Müfettiş",
-              "D": "Bursa Temsilcisi",
-              "E": "Müşteri Temsilcisi"
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 15 Açıklaması: Risk yönetim birimi yürütür."
+            "cozum": "Soru #474 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 494
           },
           {
-            "id": 591,
-            "soruMetni": "Soru 16 [Deneme 4 - Yatırım Kuruluşları Genel]: Müşteri şikayetleri kayıtlarında aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #475): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
             "secenekler": {
-              "A": "Şikayete konu mevzuat maddesi gerekçesi",
-              "B": "Şikayetçi adı soyadı",
-              "C": "Şikayet tarihi",
-              "D": "İşlem özeti",
-              "E": "Şikayet konusu"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 16 Açıklaması: Mevzuat maddesi gerekçesi zorunlu değildir."
-          },
-          {
-            "id": 592,
-            "soruMetni": "Soru 17 [Deneme 4 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde zarar neticesinde teminat 50.000 TL altına düşerse ne olur?",
-            "secenekler": {
-              "A": "Mevcut pozisyonlarla işlemlere devam edilebilir ancak yeni pozisyon açılamaz",
-              "B": "Hesap derhal kapatılır",
-              "C": "Tüm pozisyonlar resen kapatılır",
-              "D": "Hapis cezası verilir",
-              "E": "Ceza kesilir"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 17 Açıklaması: Mevcut pozisyonlarla işlemlere devam edilebilir."
-          },
-          {
-            "id": 593,
-            "soruMetni": "Soru 18 [Deneme 4 - Yatırım Kuruluşları Genel]: Geniş yetkili aracı kurumlar ticaret unvanlarında hangisini kullanabilir?",
-            "secenekler": {
-              "A": "Yatırım menkul değerler / Yatırım menkul kıymetler",
-              "B": "Mevduat bankası",
-              "C": "Katılım bankası",
-              "D": "Sigorta acentesi",
-              "E": "Kredi kurumu"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 18 Açıklaması: Geniş yetkililer bu ibareyi kullanabilir."
-          },
-          {
-            "id": 594,
-            "soruMetni": "Soru 19 [Deneme 4 - Yatırım Kuruluşları Genel]: Girişim sermayesi yatırım ortaklıklarında portföy aracılığı yapan kurum hangisidir?",
-            "secenekler": {
-              "A": "Geniş yetkili aracı kurumlar",
-              "B": "Limited şirketler",
-              "C": "Kuyumcular",
-              "D": "Döviz büroları",
-              "E": "Sigorta acenteleri"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 19 Açıklaması: Geniş yetkili aracı kurumlar bu işlemleri yürütür."
-          },
-          {
-            "id": 595,
-            "soruMetni": "Soru 20 [Deneme 4 - Yatırım Kuruluşları Genel]: Müşteriyi tanıma kuralı aşağıdakilerden hangisinin kapsamındadır?",
-            "secenekler": {
-              "A": "Müşteri ilişkileri operasyonel süreci ve Suç gelirlerinin aklanmasının önlenmesi",
-              "B": "Genel etik ilke",
-              "C": "Muhasebe standardı",
-              "D": "Bilanço kalemi",
-              "E": "Borsa kuralı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 20 Açıklaması: Müşteriyi tanıma operasyonel süreçtir."
-          },
-          {
-            "id": 596,
-            "soruMetni": "Soru 21 [Deneme 4 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi yan hizmettir?",
-            "secenekler": {
-              "A": "Sermaye piyasası araçlarının müşteriler adına saklanması ve yönetimi",
-              "B": "İşlem aracılığı",
-              "C": "Portföy aracılığı",
-              "D": "Bireysel portföy yöneticiliği",
-              "E": "Borsa işletimi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 21 Açıklaması: Saklama ve yönetim yan hizmettir."
-          },
-          {
-            "id": 597,
-            "soruMetni": "Soru 22 [Deneme 4 - Yatırım Kuruluşları Genel]: Yatırım kuruluşu çalışanlarında dürüstlük ve tarafsızlık neyi ifade eder?",
-            "secenekler": {
-              "A": "Tüm müşterilere adil ve tarafsız davranmayı",
-              "B": "Komisyon artırmayı",
-              "C": "Sadece büyük müşteriye bakmayı",
-              "D": "Garanti getiri vermeyi",
-              "E": "Kendi portföyünü öncellemeyi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 22 Açıklaması: Tüm müşterilere adil davranmayı ifade eder."
-          },
-          {
-            "id": 598,
-            "soruMetni": "Soru 23 [Deneme 4 - Yatırım Kuruluşları Genel]: Sermaye piyasasında garanti getiri taahhüt etmek nasıldır?",
-            "secenekler": {
-              "A": "Kesinlikle yasaktır ve mevzuata aykırıdır",
-              "B": "Serbesttir",
-              "C": "Yazılı olursa serbesttir",
-              "D": "Sadece bankalara serbesttir",
-              "E": "SPK izniyle serbesttir"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 23 Açıklaması: Garanti getiri vaat etmek kesinlikle yasaktır."
-          },
-          {
-            "id": 599,
-            "soruMetni": "Soru 24 [Deneme 4 - Yatırım Kuruluşları Genel]: Yatırım danışmanlığı çerçeve sözleşmesi imzalanmadan önce hangi test yapılmalıdır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Tespiti",
-              "D": "Bilanço Testi",
-              "E": "Gelir Testi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 24 Açıklaması: Yatırım danışmanlığı öncesinde Yerindelik Testi yapılır."
-          },
-          {
-            "id": 600,
-            "soruMetni": "Soru 25 [Deneme 4 - Yatırım Kuruluşları Genel]: Aracı kurumlar ne zaman faaliyet izni iptali riskiyle karşılaşır?",
-            "secenekler": {
-              "A": "Sermaye yeterliliği yükümlülüklerini verilen sürede yerine getirmediklerinde",
-              "B": "Kâr ettiklerinde",
-              "C": "Eleman aldıklarında",
-              "D": "Şube açtıklarında",
-              "E": "İzahname yayımladıklarında"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 25 Açıklaması: Sermaye eksikliğini gidermeyen kurumların izinleri iptal edilebilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #475 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 495
           }
         ]
       },
       {
         "testId": 31,
         "testAdi": "Deneme 5: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
         "sorular": [
           {
-            "id": 601,
-            "soruMetni": "Soru 1 [Deneme 5 - Yatırım Kuruluşları Genel]: Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin yer alması zorunludur?",
-            "secenekler": {
-              "A": "Menkul değerler / menkul kıymetler",
-              "B": "Sigorta",
-              "C": "Faktoring",
-              "D": "Mevduat",
-              "E": "Kredi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 1 Açıklaması: Ticaret unvanında menkul değerler veya menkul kıymetler ibaresi şarttır."
-          },
-          {
-            "id": 602,
-            "soruMetni": "Soru 2 [Deneme 5 - Yatırım Kuruluşları Genel]: Kısmi yetkili aracı kurumlar hangi faaliyeti yürütemez?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "Halka arz aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 2 Açıklaması: Portföy aracılığı sadece geniş yetkili kurumlarca yapılır."
-          },
-          {
-            "id": 603,
-            "soruMetni": "Soru 3 [Deneme 5 - Yatırım Kuruluşları Genel]: Aracı kurum genel müdür ve genel müdür yardımcılarının mesleki tecrübe şartı en az kaç yıldır?",
-            "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 3 Açıklaması: Genel müdür ve yardımcıları için en az 7 yıl tecrübe aranır."
-          },
-          {
-            "id": 604,
-            "soruMetni": "Soru 4 [Deneme 5 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde (Forex) ilk pozisyon açılışında maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 4 Açıklaması: İlk açılışta azami kaldıraç 10:1'dir."
-          },
-          {
-            "id": 605,
-            "soruMetni": "Soru 5 [Deneme 5 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde asgari başlangıç teminatı tutarı kaç TL'dir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 5 Açıklaması: Başlangıç teminatı asgari 50.000 TL'dir."
-          },
-          {
-            "id": 606,
-            "soruMetni": "Soru 6 [Deneme 5 - Yatırım Kuruluşları Genel]: Ses ve telefon kayıtlarının yasal saklama süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #476): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
               "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 6 Açıklaması: Ses kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #476 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 496
           },
           {
-            "id": 607,
-            "soruMetni": "Soru 7 [Deneme 5 - Yatırım Kuruluşları Genel]: Müşterinin mali durumu bilgisi hangi test kapsamında sorulur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #477): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Doğrulama",
-              "D": "Genel Test",
-              "E": "Risk Testi"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 7 Açıklaması: Mali durum Yerindelik Testinde sorulur."
+            "cozum": "Soru #477 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 497
           },
           {
-            "id": 608,
-            "soruMetni": "Soru 8 [Deneme 5 - Yatırım Kuruluşları Genel]: Tezgahüstü (OTC) işlemlerde emir formu yerine hangi form düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #478): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 8 Açıklaması: İşlem Talimat Formu düzenlenir."
+            "cozum": "Soru #478 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 498
           },
           {
-            "id": 609,
-            "soruMetni": "Soru 9 [Deneme 5 - Yatırım Kuruluşları Genel]: BYF katılma payları kredili işlemlerde yüzde kaç özkaynak kabul edilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #479): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #479 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 499
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #480): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #480 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 500
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #481): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #481 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 501
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #482): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #482 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 502
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #483): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #483 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 503
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #484): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
+            "secenekler": {
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #484 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 504
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #485): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
+            "secenekler": {
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #485 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 505
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #486): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #486 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 506
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #487): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #487 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 507
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #488): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 9 Açıklaması: BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #488 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 508
           },
           {
-            "id": 610,
-            "soruMetni": "Soru 10 [Deneme 5 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ihtisas personeli sayılamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #489): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 10 Açıklaması: İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #489 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 509
           },
           {
-            "id": 611,
-            "soruMetni": "Soru 11 [Deneme 5 - Yatırım Kuruluşları Genel]: Genel saklama faaliyeti izni olan bir yatırım kuruluşu ile ilgili hangisi doğrudur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #490): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Diğer yatırım kuruluşlarına da saklama hizmeti verebilir",
-              "B": "Sadece kendi müşterisine bakar",
-              "C": "Borsada işlem yapamaz",
-              "D": "Banka olmak zorundadır",
-              "E": "Kredili işlem yapamaz"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 11 Açıklaması: Genel saklama yetkilisi diğer kurumlara saklama hizmeti verebilir."
+            "dogruCevap": "B",
+            "cozum": "Soru #490 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 510
           },
           {
-            "id": 612,
-            "soruMetni": "Soru 12 [Deneme 5 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ana yatırım hizmetidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #491): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "Servet yönetimi",
-              "C": "Finansman danışmanlığı",
-              "D": "Araştırma raporu sunma",
-              "E": "Kasa kiralama"
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 12 Açıklaması: Portföy aracılığı ana yatırım hizmetidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #491 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 511
           },
           {
-            "id": 613,
-            "soruMetni": "Soru 13 [Deneme 5 - Yatırım Kuruluşları Genel]: Kitle fonlamasında kimlik doğrulama bilgileri nereye iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #492): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
             "secenekler": {
-              "A": "MKK",
-              "B": "Takasbank",
-              "C": "SPK",
-              "D": "Borsa İstanbul",
-              "E": "TCMB"
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 13 Açıklaması: MKK'ya iletilir."
+            "cozum": "Soru #492 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 512
           },
           {
-            "id": 614,
-            "soruMetni": "Soru 14 [Deneme 5 - Yatırım Kuruluşları Genel]: Açığa satış işlemi tanımı aşağıdakilerden hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #493): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Sahip olunmayan sermaye piyasası araçlarının satılması",
-              "B": "Peşin alım yapılması",
-              "C": "Temettü tahsili",
-              "D": "Tahvil ihracı",
-              "E": "Repo işlemi"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 14 Açıklaması: Sahip olunmayan varlıkların satışı açığa satıştır."
+            "cozum": "Soru #493 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 513
           },
           {
-            "id": 615,
-            "soruMetni": "Soru 15 [Deneme 5 - Yatırım Kuruluşları Genel]: Aracı kurum teminatlandırma politikasını kim yürütür ve günceller?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #494): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "Risk Yönetim Birimi",
-              "B": "Genel Kurul",
-              "C": "Müfettiş",
-              "D": "Bursa Temsilcisi",
-              "E": "Müşteri Temsilcisi"
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 15 Açıklaması: Risk yönetim birimi yürütür."
+            "cozum": "Soru #494 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 514
           },
           {
-            "id": 616,
-            "soruMetni": "Soru 16 [Deneme 5 - Yatırım Kuruluşları Genel]: Müşteri şikayetleri kayıtlarında aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #495): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
             "secenekler": {
-              "A": "Şikayete konu mevzuat maddesi gerekçesi",
-              "B": "Şikayetçi adı soyadı",
-              "C": "Şikayet tarihi",
-              "D": "İşlem özeti",
-              "E": "Şikayet konusu"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 16 Açıklaması: Mevzuat maddesi gerekçesi zorunlu değildir."
+            "dogruCevap": "C",
+            "cozum": "Soru #495 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 515
           },
           {
-            "id": 617,
-            "soruMetni": "Soru 17 [Deneme 5 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde zarar neticesinde teminat 50.000 TL altına düşerse ne olur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #496): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
-              "A": "Mevcut pozisyonlarla işlemlere devam edilebilir ancak yeni pozisyon açılamaz",
-              "B": "Hesap derhal kapatılır",
-              "C": "Tüm pozisyonlar resen kapatılır",
-              "D": "Hapis cezası verilir",
-              "E": "Ceza kesilir"
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 17 Açıklaması: Mevcut pozisyonlarla işlemlere devam edilebilir."
+            "dogruCevap": "D",
+            "cozum": "Soru #496 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 516
           },
           {
-            "id": 618,
-            "soruMetni": "Soru 18 [Deneme 5 - Yatırım Kuruluşları Genel]: Geniş yetkili aracı kurumlar ticaret unvanlarında hangisini kullanabilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #497): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yatırım menkul değerler / Yatırım menkul kıymetler",
-              "B": "Mevduat bankası",
-              "C": "Katılım bankası",
-              "D": "Sigorta acentesi",
-              "E": "Kredi kurumu"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 18 Açıklaması: Geniş yetkililer bu ibareyi kullanabilir."
+            "cozum": "Soru #497 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 517
           },
           {
-            "id": 619,
-            "soruMetni": "Soru 19 [Deneme 5 - Yatırım Kuruluşları Genel]: Girişim sermayesi yatırım ortaklıklarında portföy aracılığı yapan kurum hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #498): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "Geniş yetkili aracı kurumlar",
-              "B": "Limited şirketler",
-              "C": "Kuyumcular",
-              "D": "Döviz büroları",
-              "E": "Sigorta acenteleri"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 19 Açıklaması: Geniş yetkili aracı kurumlar bu işlemleri yürütür."
+            "cozum": "Soru #498 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 518
           },
           {
-            "id": 620,
-            "soruMetni": "Soru 20 [Deneme 5 - Yatırım Kuruluşları Genel]: Müşteriyi tanıma kuralı aşağıdakilerden hangisinin kapsamındadır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #499): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "Müşteri ilişkileri operasyonel süreci ve Suç gelirlerinin aklanmasının önlenmesi",
-              "B": "Genel etik ilke",
-              "C": "Muhasebe standardı",
-              "D": "Bilanço kalemi",
-              "E": "Borsa kuralı"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 20 Açıklaması: Müşteriyi tanıma operasyonel süreçtir."
+            "cozum": "Soru #499 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 519
           },
           {
-            "id": 621,
-            "soruMetni": "Soru 21 [Deneme 5 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi yan hizmettir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #500): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
             "secenekler": {
-              "A": "Sermaye piyasası araçlarının müşteriler adına saklanması ve yönetimi",
-              "B": "İşlem aracılığı",
-              "C": "Portföy aracılığı",
-              "D": "Bireysel portföy yöneticiliği",
-              "E": "Borsa işletimi"
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 21 Açıklaması: Saklama ve yönetim yan hizmettir."
-          },
-          {
-            "id": 622,
-            "soruMetni": "Soru 22 [Deneme 5 - Yatırım Kuruluşları Genel]: Yatırım kuruluşu çalışanlarında dürüstlük ve tarafsızlık neyi ifade eder?",
-            "secenekler": {
-              "A": "Tüm müşterilere adil ve tarafsız davranmayı",
-              "B": "Komisyon artırmayı",
-              "C": "Sadece büyük müşteriye bakmayı",
-              "D": "Garanti getiri vermeyi",
-              "E": "Kendi portföyünü öncellemeyi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 22 Açıklaması: Tüm müşterilere adil davranmayı ifade eder."
-          },
-          {
-            "id": 623,
-            "soruMetni": "Soru 23 [Deneme 5 - Yatırım Kuruluşları Genel]: Sermaye piyasasında garanti getiri taahhüt etmek nasıldır?",
-            "secenekler": {
-              "A": "Kesinlikle yasaktır ve mevzuata aykırıdır",
-              "B": "Serbesttir",
-              "C": "Yazılı olursa serbesttir",
-              "D": "Sadece bankalara serbesttir",
-              "E": "SPK izniyle serbesttir"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 23 Açıklaması: Garanti getiri vaat etmek kesinlikle yasaktır."
-          },
-          {
-            "id": 624,
-            "soruMetni": "Soru 24 [Deneme 5 - Yatırım Kuruluşları Genel]: Yatırım danışmanlığı çerçeve sözleşmesi imzalanmadan önce hangi test yapılmalıdır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Tespiti",
-              "D": "Bilanço Testi",
-              "E": "Gelir Testi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 24 Açıklaması: Yatırım danışmanlığı öncesinde Yerindelik Testi yapılır."
-          },
-          {
-            "id": 625,
-            "soruMetni": "Soru 25 [Deneme 5 - Yatırım Kuruluşları Genel]: Aracı kurumlar ne zaman faaliyet izni iptali riskiyle karşılaşır?",
-            "secenekler": {
-              "A": "Sermaye yeterliliği yükümlülüklerini verilen sürede yerine getirmediklerinde",
-              "B": "Kâr ettiklerinde",
-              "C": "Eleman aldıklarında",
-              "D": "Şube açtıklarında",
-              "E": "İzahname yayımladıklarında"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 25 Açıklaması: Sermaye eksikliğini gidermeyen kurumların izinleri iptal edilebilir."
+            "cozum": "Soru #500 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 520
           }
         ]
       },
       {
         "testId": 32,
         "testAdi": "Deneme 6: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
         "sorular": [
           {
-            "id": 626,
-            "soruMetni": "Soru 1 [Deneme 6 - Yatırım Kuruluşları Genel]: Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin yer alması zorunludur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #501): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "Menkul değerler / menkul kıymetler",
-              "B": "Sigorta",
-              "C": "Faktoring",
-              "D": "Mevduat",
-              "E": "Kredi"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 1 Açıklaması: Ticaret unvanında menkul değerler veya menkul kıymetler ibaresi şarttır."
+            "cozum": "Soru #501 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 521
           },
           {
-            "id": 627,
-            "soruMetni": "Soru 2 [Deneme 6 - Yatırım Kuruluşları Genel]: Kısmi yetkili aracı kurumlar hangi faaliyeti yürütemez?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #502): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "Halka arz aracılığı"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 2 Açıklaması: Portföy aracılığı sadece geniş yetkili kurumlarca yapılır."
+            "cozum": "Soru #502 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 522
           },
           {
-            "id": 628,
-            "soruMetni": "Soru 3 [Deneme 6 - Yatırım Kuruluşları Genel]: Aracı kurum genel müdür ve genel müdür yardımcılarının mesleki tecrübe şartı en az kaç yıldır?",
-            "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 3 Açıklaması: Genel müdür ve yardımcıları için en az 7 yıl tecrübe aranır."
-          },
-          {
-            "id": 629,
-            "soruMetni": "Soru 4 [Deneme 6 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde (Forex) ilk pozisyon açılışında maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 4 Açıklaması: İlk açılışta azami kaldıraç 10:1'dir."
-          },
-          {
-            "id": 630,
-            "soruMetni": "Soru 5 [Deneme 6 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde asgari başlangıç teminatı tutarı kaç TL'dir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 5 Açıklaması: Başlangıç teminatı asgari 50.000 TL'dir."
-          },
-          {
-            "id": 631,
-            "soruMetni": "Soru 6 [Deneme 6 - Yatırım Kuruluşları Genel]: Ses ve telefon kayıtlarının yasal saklama süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #503): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
               "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 6 Açıklaması: Ses kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #503 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 523
           },
           {
-            "id": 632,
-            "soruMetni": "Soru 7 [Deneme 6 - Yatırım Kuruluşları Genel]: Müşterinin mali durumu bilgisi hangi test kapsamında sorulur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #504): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Doğrulama",
-              "D": "Genel Test",
-              "E": "Risk Testi"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 7 Açıklaması: Mali durum Yerindelik Testinde sorulur."
+            "cozum": "Soru #504 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 524
           },
           {
-            "id": 633,
-            "soruMetni": "Soru 8 [Deneme 6 - Yatırım Kuruluşları Genel]: Tezgahüstü (OTC) işlemlerde emir formu yerine hangi form düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #505): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 8 Açıklaması: İşlem Talimat Formu düzenlenir."
+            "cozum": "Soru #505 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 525
           },
           {
-            "id": 634,
-            "soruMetni": "Soru 9 [Deneme 6 - Yatırım Kuruluşları Genel]: BYF katılma payları kredili işlemlerde yüzde kaç özkaynak kabul edilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #506): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #506 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 526
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #507): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #507 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 527
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #508): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 9 Açıklaması: BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #508 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 528
           },
           {
-            "id": 635,
-            "soruMetni": "Soru 10 [Deneme 6 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ihtisas personeli sayılamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #509): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 10 Açıklaması: İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #509 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 529
           },
           {
-            "id": 636,
-            "soruMetni": "Soru 11 [Deneme 6 - Yatırım Kuruluşları Genel]: Genel saklama faaliyeti izni olan bir yatırım kuruluşu ile ilgili hangisi doğrudur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #510): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Diğer yatırım kuruluşlarına da saklama hizmeti verebilir",
-              "B": "Sadece kendi müşterisine bakar",
-              "C": "Borsada işlem yapamaz",
-              "D": "Banka olmak zorundadır",
-              "E": "Kredili işlem yapamaz"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 11 Açıklaması: Genel saklama yetkilisi diğer kurumlara saklama hizmeti verebilir."
+            "dogruCevap": "B",
+            "cozum": "Soru #510 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 530
           },
           {
-            "id": 637,
-            "soruMetni": "Soru 12 [Deneme 6 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ana yatırım hizmetidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #511): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "Servet yönetimi",
-              "C": "Finansman danışmanlığı",
-              "D": "Araştırma raporu sunma",
-              "E": "Kasa kiralama"
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 12 Açıklaması: Portföy aracılığı ana yatırım hizmetidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #511 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 531
           },
           {
-            "id": 638,
-            "soruMetni": "Soru 13 [Deneme 6 - Yatırım Kuruluşları Genel]: Kitle fonlamasında kimlik doğrulama bilgileri nereye iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #512): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
             "secenekler": {
-              "A": "MKK",
-              "B": "Takasbank",
-              "C": "SPK",
-              "D": "Borsa İstanbul",
-              "E": "TCMB"
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 13 Açıklaması: MKK'ya iletilir."
+            "cozum": "Soru #512 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 532
           },
           {
-            "id": 639,
-            "soruMetni": "Soru 14 [Deneme 6 - Yatırım Kuruluşları Genel]: Açığa satış işlemi tanımı aşağıdakilerden hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #513): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Sahip olunmayan sermaye piyasası araçlarının satılması",
-              "B": "Peşin alım yapılması",
-              "C": "Temettü tahsili",
-              "D": "Tahvil ihracı",
-              "E": "Repo işlemi"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 14 Açıklaması: Sahip olunmayan varlıkların satışı açığa satıştır."
+            "cozum": "Soru #513 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 533
           },
           {
-            "id": 640,
-            "soruMetni": "Soru 15 [Deneme 6 - Yatırım Kuruluşları Genel]: Aracı kurum teminatlandırma politikasını kim yürütür ve günceller?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #514): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "Risk Yönetim Birimi",
-              "B": "Genel Kurul",
-              "C": "Müfettiş",
-              "D": "Bursa Temsilcisi",
-              "E": "Müşteri Temsilcisi"
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 15 Açıklaması: Risk yönetim birimi yürütür."
+            "cozum": "Soru #514 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 534
           },
           {
-            "id": 641,
-            "soruMetni": "Soru 16 [Deneme 6 - Yatırım Kuruluşları Genel]: Müşteri şikayetleri kayıtlarında aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #515): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
             "secenekler": {
-              "A": "Şikayete konu mevzuat maddesi gerekçesi",
-              "B": "Şikayetçi adı soyadı",
-              "C": "Şikayet tarihi",
-              "D": "İşlem özeti",
-              "E": "Şikayet konusu"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 16 Açıklaması: Mevzuat maddesi gerekçesi zorunlu değildir."
+            "dogruCevap": "C",
+            "cozum": "Soru #515 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 535
           },
           {
-            "id": 642,
-            "soruMetni": "Soru 17 [Deneme 6 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde zarar neticesinde teminat 50.000 TL altına düşerse ne olur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #516): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
-              "A": "Mevcut pozisyonlarla işlemlere devam edilebilir ancak yeni pozisyon açılamaz",
-              "B": "Hesap derhal kapatılır",
-              "C": "Tüm pozisyonlar resen kapatılır",
-              "D": "Hapis cezası verilir",
-              "E": "Ceza kesilir"
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 17 Açıklaması: Mevcut pozisyonlarla işlemlere devam edilebilir."
+            "dogruCevap": "D",
+            "cozum": "Soru #516 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 536
           },
           {
-            "id": 643,
-            "soruMetni": "Soru 18 [Deneme 6 - Yatırım Kuruluşları Genel]: Geniş yetkili aracı kurumlar ticaret unvanlarında hangisini kullanabilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #517): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yatırım menkul değerler / Yatırım menkul kıymetler",
-              "B": "Mevduat bankası",
-              "C": "Katılım bankası",
-              "D": "Sigorta acentesi",
-              "E": "Kredi kurumu"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 18 Açıklaması: Geniş yetkililer bu ibareyi kullanabilir."
+            "cozum": "Soru #517 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 537
           },
           {
-            "id": 644,
-            "soruMetni": "Soru 19 [Deneme 6 - Yatırım Kuruluşları Genel]: Girişim sermayesi yatırım ortaklıklarında portföy aracılığı yapan kurum hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #518): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "Geniş yetkili aracı kurumlar",
-              "B": "Limited şirketler",
-              "C": "Kuyumcular",
-              "D": "Döviz büroları",
-              "E": "Sigorta acenteleri"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 19 Açıklaması: Geniş yetkili aracı kurumlar bu işlemleri yürütür."
+            "cozum": "Soru #518 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 538
           },
           {
-            "id": 645,
-            "soruMetni": "Soru 20 [Deneme 6 - Yatırım Kuruluşları Genel]: Müşteriyi tanıma kuralı aşağıdakilerden hangisinin kapsamındadır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #519): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "Müşteri ilişkileri operasyonel süreci ve Suç gelirlerinin aklanmasının önlenmesi",
-              "B": "Genel etik ilke",
-              "C": "Muhasebe standardı",
-              "D": "Bilanço kalemi",
-              "E": "Borsa kuralı"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 20 Açıklaması: Müşteriyi tanıma operasyonel süreçtir."
+            "cozum": "Soru #519 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 539
           },
           {
-            "id": 646,
-            "soruMetni": "Soru 21 [Deneme 6 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi yan hizmettir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #520): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
             "secenekler": {
-              "A": "Sermaye piyasası araçlarının müşteriler adına saklanması ve yönetimi",
-              "B": "İşlem aracılığı",
-              "C": "Portföy aracılığı",
-              "D": "Bireysel portföy yöneticiliği",
-              "E": "Borsa işletimi"
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 21 Açıklaması: Saklama ve yönetim yan hizmettir."
+            "cozum": "Soru #520 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 540
           },
           {
-            "id": 647,
-            "soruMetni": "Soru 22 [Deneme 6 - Yatırım Kuruluşları Genel]: Yatırım kuruluşu çalışanlarında dürüstlük ve tarafsızlık neyi ifade eder?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #521): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "Tüm müşterilere adil ve tarafsız davranmayı",
-              "B": "Komisyon artırmayı",
-              "C": "Sadece büyük müşteriye bakmayı",
-              "D": "Garanti getiri vermeyi",
-              "E": "Kendi portföyünü öncellemeyi"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 22 Açıklaması: Tüm müşterilere adil davranmayı ifade eder."
+            "cozum": "Soru #521 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 541
           },
           {
-            "id": 648,
-            "soruMetni": "Soru 23 [Deneme 6 - Yatırım Kuruluşları Genel]: Sermaye piyasasında garanti getiri taahhüt etmek nasıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #522): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Kesinlikle yasaktır ve mevzuata aykırıdır",
-              "B": "Serbesttir",
-              "C": "Yazılı olursa serbesttir",
-              "D": "Sadece bankalara serbesttir",
-              "E": "SPK izniyle serbesttir"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 23 Açıklaması: Garanti getiri vaat etmek kesinlikle yasaktır."
+            "cozum": "Soru #522 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 542
           },
           {
-            "id": 649,
-            "soruMetni": "Soru 24 [Deneme 6 - Yatırım Kuruluşları Genel]: Yatırım danışmanlığı çerçeve sözleşmesi imzalanmadan önce hangi test yapılmalıdır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #523): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Tespiti",
-              "D": "Bilanço Testi",
-              "E": "Gelir Testi"
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 24 Açıklaması: Yatırım danışmanlığı öncesinde Yerindelik Testi yapılır."
+            "dogruCevap": "C",
+            "cozum": "Soru #523 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 543
           },
           {
-            "id": 650,
-            "soruMetni": "Soru 25 [Deneme 6 - Yatırım Kuruluşları Genel]: Aracı kurumlar ne zaman faaliyet izni iptali riskiyle karşılaşır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #524): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Sermaye yeterliliği yükümlülüklerini verilen sürede yerine getirmediklerinde",
-              "B": "Kâr ettiklerinde",
-              "C": "Eleman aldıklarında",
-              "D": "Şube açtıklarında",
-              "E": "İzahname yayımladıklarında"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 25 Açıklaması: Sermaye eksikliğini gidermeyen kurumların izinleri iptal edilebilir."
+            "cozum": "Soru #524 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 544
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #525): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
+            "secenekler": {
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #525 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 545
           }
         ]
       },
       {
         "testId": 33,
         "testAdi": "Deneme 7: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
         "sorular": [
           {
-            "id": 651,
-            "soruMetni": "Soru 1 [Deneme 7 - Yatırım Kuruluşları Genel]: Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin yer alması zorunludur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #526): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Menkul değerler / menkul kıymetler",
-              "B": "Sigorta",
-              "C": "Faktoring",
-              "D": "Mevduat",
-              "E": "Kredi"
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 1 Açıklaması: Ticaret unvanında menkul değerler veya menkul kıymetler ibaresi şarttır."
+            "cozum": "Soru #526 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 546
           },
           {
-            "id": 652,
-            "soruMetni": "Soru 2 [Deneme 7 - Yatırım Kuruluşları Genel]: Kısmi yetkili aracı kurumlar hangi faaliyeti yürütemez?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #527): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "Halka arz aracılığı"
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 2 Açıklaması: Portföy aracılığı sadece geniş yetkili kurumlarca yapılır."
+            "cozum": "Soru #527 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 547
           },
           {
-            "id": 653,
-            "soruMetni": "Soru 3 [Deneme 7 - Yatırım Kuruluşları Genel]: Aracı kurum genel müdür ve genel müdür yardımcılarının mesleki tecrübe şartı en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #528): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
+              "E": "%100"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #528 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 548
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #529): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
+            "secenekler": {
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #529 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 549
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #530): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
+            "secenekler": {
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #530 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 550
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #531): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
+            "secenekler": {
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #531 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 551
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #532): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
+            "secenekler": {
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #532 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 552
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #533): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
+            "secenekler": {
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #533 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 553
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #534): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #534 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 554
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #535): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 3 Açıklaması: Genel müdür ve yardımcıları için en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #535 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 555
           },
           {
-            "id": 654,
-            "soruMetni": "Soru 4 [Deneme 7 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde (Forex) ilk pozisyon açılışında maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 4 Açıklaması: İlk açılışta azami kaldıraç 10:1'dir."
-          },
-          {
-            "id": 655,
-            "soruMetni": "Soru 5 [Deneme 7 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde asgari başlangıç teminatı tutarı kaç TL'dir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 5 Açıklaması: Başlangıç teminatı asgari 50.000 TL'dir."
-          },
-          {
-            "id": 656,
-            "soruMetni": "Soru 6 [Deneme 7 - Yatırım Kuruluşları Genel]: Ses ve telefon kayıtlarının yasal saklama süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #536): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
               "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 6 Açıklaması: Ses kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #536 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 556
           },
           {
-            "id": 657,
-            "soruMetni": "Soru 7 [Deneme 7 - Yatırım Kuruluşları Genel]: Müşterinin mali durumu bilgisi hangi test kapsamında sorulur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #537): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Doğrulama",
-              "D": "Genel Test",
-              "E": "Risk Testi"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 7 Açıklaması: Mali durum Yerindelik Testinde sorulur."
+            "cozum": "Soru #537 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 557
           },
           {
-            "id": 658,
-            "soruMetni": "Soru 8 [Deneme 7 - Yatırım Kuruluşları Genel]: Tezgahüstü (OTC) işlemlerde emir formu yerine hangi form düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #538): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 8 Açıklaması: İşlem Talimat Formu düzenlenir."
+            "cozum": "Soru #538 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 558
           },
           {
-            "id": 659,
-            "soruMetni": "Soru 9 [Deneme 7 - Yatırım Kuruluşları Genel]: BYF katılma payları kredili işlemlerde yüzde kaç özkaynak kabul edilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #539): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #539 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 559
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #540): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #540 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 560
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #541): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #541 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 561
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #542): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #542 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 562
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #543): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #543 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 563
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #544): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
+            "secenekler": {
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #544 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 564
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #545): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
+            "secenekler": {
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #545 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 565
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #546): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #546 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 566
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #547): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #547 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 567
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #548): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 9 Açıklaması: BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #548 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 568
           },
           {
-            "id": 660,
-            "soruMetni": "Soru 10 [Deneme 7 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ihtisas personeli sayılamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #549): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 10 Açıklaması: İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #549 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 569
           },
           {
-            "id": 661,
-            "soruMetni": "Soru 11 [Deneme 7 - Yatırım Kuruluşları Genel]: Genel saklama faaliyeti izni olan bir yatırım kuruluşu ile ilgili hangisi doğrudur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #550): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Diğer yatırım kuruluşlarına da saklama hizmeti verebilir",
-              "B": "Sadece kendi müşterisine bakar",
-              "C": "Borsada işlem yapamaz",
-              "D": "Banka olmak zorundadır",
-              "E": "Kredili işlem yapamaz"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 11 Açıklaması: Genel saklama yetkilisi diğer kurumlara saklama hizmeti verebilir."
-          },
-          {
-            "id": 662,
-            "soruMetni": "Soru 12 [Deneme 7 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ana yatırım hizmetidir?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "Servet yönetimi",
-              "C": "Finansman danışmanlığı",
-              "D": "Araştırma raporu sunma",
-              "E": "Kasa kiralama"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 12 Açıklaması: Portföy aracılığı ana yatırım hizmetidir."
-          },
-          {
-            "id": 663,
-            "soruMetni": "Soru 13 [Deneme 7 - Yatırım Kuruluşları Genel]: Kitle fonlamasında kimlik doğrulama bilgileri nereye iletilir?",
-            "secenekler": {
-              "A": "MKK",
-              "B": "Takasbank",
-              "C": "SPK",
-              "D": "Borsa İstanbul",
-              "E": "TCMB"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 13 Açıklaması: MKK'ya iletilir."
-          },
-          {
-            "id": 664,
-            "soruMetni": "Soru 14 [Deneme 7 - Yatırım Kuruluşları Genel]: Açığa satış işlemi tanımı aşağıdakilerden hangisidir?",
-            "secenekler": {
-              "A": "Sahip olunmayan sermaye piyasası araçlarının satılması",
-              "B": "Peşin alım yapılması",
-              "C": "Temettü tahsili",
-              "D": "Tahvil ihracı",
-              "E": "Repo işlemi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 14 Açıklaması: Sahip olunmayan varlıkların satışı açığa satıştır."
-          },
-          {
-            "id": 665,
-            "soruMetni": "Soru 15 [Deneme 7 - Yatırım Kuruluşları Genel]: Aracı kurum teminatlandırma politikasını kim yürütür ve günceller?",
-            "secenekler": {
-              "A": "Risk Yönetim Birimi",
-              "B": "Genel Kurul",
-              "C": "Müfettiş",
-              "D": "Bursa Temsilcisi",
-              "E": "Müşteri Temsilcisi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 15 Açıklaması: Risk yönetim birimi yürütür."
-          },
-          {
-            "id": 666,
-            "soruMetni": "Soru 16 [Deneme 7 - Yatırım Kuruluşları Genel]: Müşteri şikayetleri kayıtlarında aşağıdakilerden hangisinin bulunması zorunlu değildir?",
-            "secenekler": {
-              "A": "Şikayete konu mevzuat maddesi gerekçesi",
-              "B": "Şikayetçi adı soyadı",
-              "C": "Şikayet tarihi",
-              "D": "İşlem özeti",
-              "E": "Şikayet konusu"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 16 Açıklaması: Mevzuat maddesi gerekçesi zorunlu değildir."
-          },
-          {
-            "id": 667,
-            "soruMetni": "Soru 17 [Deneme 7 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde zarar neticesinde teminat 50.000 TL altına düşerse ne olur?",
-            "secenekler": {
-              "A": "Mevcut pozisyonlarla işlemlere devam edilebilir ancak yeni pozisyon açılamaz",
-              "B": "Hesap derhal kapatılır",
-              "C": "Tüm pozisyonlar resen kapatılır",
-              "D": "Hapis cezası verilir",
-              "E": "Ceza kesilir"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 17 Açıklaması: Mevcut pozisyonlarla işlemlere devam edilebilir."
-          },
-          {
-            "id": 668,
-            "soruMetni": "Soru 18 [Deneme 7 - Yatırım Kuruluşları Genel]: Geniş yetkili aracı kurumlar ticaret unvanlarında hangisini kullanabilir?",
-            "secenekler": {
-              "A": "Yatırım menkul değerler / Yatırım menkul kıymetler",
-              "B": "Mevduat bankası",
-              "C": "Katılım bankası",
-              "D": "Sigorta acentesi",
-              "E": "Kredi kurumu"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 18 Açıklaması: Geniş yetkililer bu ibareyi kullanabilir."
-          },
-          {
-            "id": 669,
-            "soruMetni": "Soru 19 [Deneme 7 - Yatırım Kuruluşları Genel]: Girişim sermayesi yatırım ortaklıklarında portföy aracılığı yapan kurum hangisidir?",
-            "secenekler": {
-              "A": "Geniş yetkili aracı kurumlar",
-              "B": "Limited şirketler",
-              "C": "Kuyumcular",
-              "D": "Döviz büroları",
-              "E": "Sigorta acenteleri"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 19 Açıklaması: Geniş yetkili aracı kurumlar bu işlemleri yürütür."
-          },
-          {
-            "id": 670,
-            "soruMetni": "Soru 20 [Deneme 7 - Yatırım Kuruluşları Genel]: Müşteriyi tanıma kuralı aşağıdakilerden hangisinin kapsamındadır?",
-            "secenekler": {
-              "A": "Müşteri ilişkileri operasyonel süreci ve Suç gelirlerinin aklanmasının önlenmesi",
-              "B": "Genel etik ilke",
-              "C": "Muhasebe standardı",
-              "D": "Bilanço kalemi",
-              "E": "Borsa kuralı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 20 Açıklaması: Müşteriyi tanıma operasyonel süreçtir."
-          },
-          {
-            "id": 671,
-            "soruMetni": "Soru 21 [Deneme 7 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi yan hizmettir?",
-            "secenekler": {
-              "A": "Sermaye piyasası araçlarının müşteriler adına saklanması ve yönetimi",
-              "B": "İşlem aracılığı",
-              "C": "Portföy aracılığı",
-              "D": "Bireysel portföy yöneticiliği",
-              "E": "Borsa işletimi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 21 Açıklaması: Saklama ve yönetim yan hizmettir."
-          },
-          {
-            "id": 672,
-            "soruMetni": "Soru 22 [Deneme 7 - Yatırım Kuruluşları Genel]: Yatırım kuruluşu çalışanlarında dürüstlük ve tarafsızlık neyi ifade eder?",
-            "secenekler": {
-              "A": "Tüm müşterilere adil ve tarafsız davranmayı",
-              "B": "Komisyon artırmayı",
-              "C": "Sadece büyük müşteriye bakmayı",
-              "D": "Garanti getiri vermeyi",
-              "E": "Kendi portföyünü öncellemeyi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 22 Açıklaması: Tüm müşterilere adil davranmayı ifade eder."
-          },
-          {
-            "id": 673,
-            "soruMetni": "Soru 23 [Deneme 7 - Yatırım Kuruluşları Genel]: Sermaye piyasasında garanti getiri taahhüt etmek nasıldır?",
-            "secenekler": {
-              "A": "Kesinlikle yasaktır ve mevzuata aykırıdır",
-              "B": "Serbesttir",
-              "C": "Yazılı olursa serbesttir",
-              "D": "Sadece bankalara serbesttir",
-              "E": "SPK izniyle serbesttir"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 23 Açıklaması: Garanti getiri vaat etmek kesinlikle yasaktır."
-          },
-          {
-            "id": 674,
-            "soruMetni": "Soru 24 [Deneme 7 - Yatırım Kuruluşları Genel]: Yatırım danışmanlığı çerçeve sözleşmesi imzalanmadan önce hangi test yapılmalıdır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Tespiti",
-              "D": "Bilanço Testi",
-              "E": "Gelir Testi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 24 Açıklaması: Yatırım danışmanlığı öncesinde Yerindelik Testi yapılır."
-          },
-          {
-            "id": 675,
-            "soruMetni": "Soru 25 [Deneme 7 - Yatırım Kuruluşları Genel]: Aracı kurumlar ne zaman faaliyet izni iptali riskiyle karşılaşır?",
-            "secenekler": {
-              "A": "Sermaye yeterliliği yükümlülüklerini verilen sürede yerine getirmediklerinde",
-              "B": "Kâr ettiklerinde",
-              "C": "Eleman aldıklarında",
-              "D": "Şube açtıklarında",
-              "E": "İzahname yayımladıklarında"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 25 Açıklaması: Sermaye eksikliğini gidermeyen kurumların izinleri iptal edilebilir."
+            "dogruCevap": "B",
+            "cozum": "Soru #550 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 570
           }
         ]
       },
       {
         "testId": 34,
         "testAdi": "Deneme 8: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
         "sorular": [
           {
-            "id": 676,
-            "soruMetni": "Soru 1 [Deneme 8 - Yatırım Kuruluşları Genel]: Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin yer alması zorunludur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #551): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "Menkul değerler / menkul kıymetler",
-              "B": "Sigorta",
-              "C": "Faktoring",
-              "D": "Mevduat",
-              "E": "Kredi"
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 1 Açıklaması: Ticaret unvanında menkul değerler veya menkul kıymetler ibaresi şarttır."
+            "dogruCevap": "C",
+            "cozum": "Soru #551 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 571
           },
           {
-            "id": 677,
-            "soruMetni": "Soru 2 [Deneme 8 - Yatırım Kuruluşları Genel]: Kısmi yetkili aracı kurumlar hangi faaliyeti yürütemez?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #552): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "Halka arz aracılığı"
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 2 Açıklaması: Portföy aracılığı sadece geniş yetkili kurumlarca yapılır."
+            "cozum": "Soru #552 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 572
           },
           {
-            "id": 678,
-            "soruMetni": "Soru 3 [Deneme 8 - Yatırım Kuruluşları Genel]: Aracı kurum genel müdür ve genel müdür yardımcılarının mesleki tecrübe şartı en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #553): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #553 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 573
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #554): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
+            "secenekler": {
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #554 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 574
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #555): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
               "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 3 Açıklaması: Genel müdür ve yardımcıları için en az 7 yıl tecrübe aranır."
+            "dogruCevap": "C",
+            "cozum": "Soru #555 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 575
           },
           {
-            "id": 679,
-            "soruMetni": "Soru 4 [Deneme 8 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde (Forex) ilk pozisyon açılışında maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 4 Açıklaması: İlk açılışta azami kaldıraç 10:1'dir."
-          },
-          {
-            "id": 680,
-            "soruMetni": "Soru 5 [Deneme 8 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde asgari başlangıç teminatı tutarı kaç TL'dir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 5 Açıklaması: Başlangıç teminatı asgari 50.000 TL'dir."
-          },
-          {
-            "id": 681,
-            "soruMetni": "Soru 6 [Deneme 8 - Yatırım Kuruluşları Genel]: Ses ve telefon kayıtlarının yasal saklama süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #556): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
               "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 6 Açıklaması: Ses kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #556 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 576
           },
           {
-            "id": 682,
-            "soruMetni": "Soru 7 [Deneme 8 - Yatırım Kuruluşları Genel]: Müşterinin mali durumu bilgisi hangi test kapsamında sorulur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #557): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Doğrulama",
-              "D": "Genel Test",
-              "E": "Risk Testi"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 7 Açıklaması: Mali durum Yerindelik Testinde sorulur."
+            "cozum": "Soru #557 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 577
           },
           {
-            "id": 683,
-            "soruMetni": "Soru 8 [Deneme 8 - Yatırım Kuruluşları Genel]: Tezgahüstü (OTC) işlemlerde emir formu yerine hangi form düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #558): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 8 Açıklaması: İşlem Talimat Formu düzenlenir."
+            "cozum": "Soru #558 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 578
           },
           {
-            "id": 684,
-            "soruMetni": "Soru 9 [Deneme 8 - Yatırım Kuruluşları Genel]: BYF katılma payları kredili işlemlerde yüzde kaç özkaynak kabul edilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #559): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #559 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 579
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #560): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #560 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 580
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #561): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #561 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 581
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #562): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #562 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 582
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #563): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #563 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 583
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #564): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
+            "secenekler": {
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #564 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 584
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #565): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
+            "secenekler": {
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #565 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 585
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #566): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #566 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 586
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #567): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #567 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 587
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #568): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 9 Açıklaması: BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #568 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 588
           },
           {
-            "id": 685,
-            "soruMetni": "Soru 10 [Deneme 8 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ihtisas personeli sayılamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #569): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 10 Açıklaması: İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #569 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 589
           },
           {
-            "id": 686,
-            "soruMetni": "Soru 11 [Deneme 8 - Yatırım Kuruluşları Genel]: Genel saklama faaliyeti izni olan bir yatırım kuruluşu ile ilgili hangisi doğrudur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #570): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Diğer yatırım kuruluşlarına da saklama hizmeti verebilir",
-              "B": "Sadece kendi müşterisine bakar",
-              "C": "Borsada işlem yapamaz",
-              "D": "Banka olmak zorundadır",
-              "E": "Kredili işlem yapamaz"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 11 Açıklaması: Genel saklama yetkilisi diğer kurumlara saklama hizmeti verebilir."
+            "dogruCevap": "B",
+            "cozum": "Soru #570 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 590
           },
           {
-            "id": 687,
-            "soruMetni": "Soru 12 [Deneme 8 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ana yatırım hizmetidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #571): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "Servet yönetimi",
-              "C": "Finansman danışmanlığı",
-              "D": "Araştırma raporu sunma",
-              "E": "Kasa kiralama"
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 12 Açıklaması: Portföy aracılığı ana yatırım hizmetidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #571 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 591
           },
           {
-            "id": 688,
-            "soruMetni": "Soru 13 [Deneme 8 - Yatırım Kuruluşları Genel]: Kitle fonlamasında kimlik doğrulama bilgileri nereye iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #572): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
             "secenekler": {
-              "A": "MKK",
-              "B": "Takasbank",
-              "C": "SPK",
-              "D": "Borsa İstanbul",
-              "E": "TCMB"
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 13 Açıklaması: MKK'ya iletilir."
+            "cozum": "Soru #572 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 592
           },
           {
-            "id": 689,
-            "soruMetni": "Soru 14 [Deneme 8 - Yatırım Kuruluşları Genel]: Açığa satış işlemi tanımı aşağıdakilerden hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #573): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Sahip olunmayan sermaye piyasası araçlarının satılması",
-              "B": "Peşin alım yapılması",
-              "C": "Temettü tahsili",
-              "D": "Tahvil ihracı",
-              "E": "Repo işlemi"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 14 Açıklaması: Sahip olunmayan varlıkların satışı açığa satıştır."
+            "cozum": "Soru #573 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 593
           },
           {
-            "id": 690,
-            "soruMetni": "Soru 15 [Deneme 8 - Yatırım Kuruluşları Genel]: Aracı kurum teminatlandırma politikasını kim yürütür ve günceller?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #574): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "Risk Yönetim Birimi",
-              "B": "Genel Kurul",
-              "C": "Müfettiş",
-              "D": "Bursa Temsilcisi",
-              "E": "Müşteri Temsilcisi"
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 15 Açıklaması: Risk yönetim birimi yürütür."
+            "cozum": "Soru #574 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 594
           },
           {
-            "id": 691,
-            "soruMetni": "Soru 16 [Deneme 8 - Yatırım Kuruluşları Genel]: Müşteri şikayetleri kayıtlarında aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #575): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
             "secenekler": {
-              "A": "Şikayete konu mevzuat maddesi gerekçesi",
-              "B": "Şikayetçi adı soyadı",
-              "C": "Şikayet tarihi",
-              "D": "İşlem özeti",
-              "E": "Şikayet konusu"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 16 Açıklaması: Mevzuat maddesi gerekçesi zorunlu değildir."
-          },
-          {
-            "id": 692,
-            "soruMetni": "Soru 17 [Deneme 8 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde zarar neticesinde teminat 50.000 TL altına düşerse ne olur?",
-            "secenekler": {
-              "A": "Mevcut pozisyonlarla işlemlere devam edilebilir ancak yeni pozisyon açılamaz",
-              "B": "Hesap derhal kapatılır",
-              "C": "Tüm pozisyonlar resen kapatılır",
-              "D": "Hapis cezası verilir",
-              "E": "Ceza kesilir"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 17 Açıklaması: Mevcut pozisyonlarla işlemlere devam edilebilir."
-          },
-          {
-            "id": 693,
-            "soruMetni": "Soru 18 [Deneme 8 - Yatırım Kuruluşları Genel]: Geniş yetkili aracı kurumlar ticaret unvanlarında hangisini kullanabilir?",
-            "secenekler": {
-              "A": "Yatırım menkul değerler / Yatırım menkul kıymetler",
-              "B": "Mevduat bankası",
-              "C": "Katılım bankası",
-              "D": "Sigorta acentesi",
-              "E": "Kredi kurumu"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 18 Açıklaması: Geniş yetkililer bu ibareyi kullanabilir."
-          },
-          {
-            "id": 694,
-            "soruMetni": "Soru 19 [Deneme 8 - Yatırım Kuruluşları Genel]: Girişim sermayesi yatırım ortaklıklarında portföy aracılığı yapan kurum hangisidir?",
-            "secenekler": {
-              "A": "Geniş yetkili aracı kurumlar",
-              "B": "Limited şirketler",
-              "C": "Kuyumcular",
-              "D": "Döviz büroları",
-              "E": "Sigorta acenteleri"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 19 Açıklaması: Geniş yetkili aracı kurumlar bu işlemleri yürütür."
-          },
-          {
-            "id": 695,
-            "soruMetni": "Soru 20 [Deneme 8 - Yatırım Kuruluşları Genel]: Müşteriyi tanıma kuralı aşağıdakilerden hangisinin kapsamındadır?",
-            "secenekler": {
-              "A": "Müşteri ilişkileri operasyonel süreci ve Suç gelirlerinin aklanmasının önlenmesi",
-              "B": "Genel etik ilke",
-              "C": "Muhasebe standardı",
-              "D": "Bilanço kalemi",
-              "E": "Borsa kuralı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 20 Açıklaması: Müşteriyi tanıma operasyonel süreçtir."
-          },
-          {
-            "id": 696,
-            "soruMetni": "Soru 21 [Deneme 8 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi yan hizmettir?",
-            "secenekler": {
-              "A": "Sermaye piyasası araçlarının müşteriler adına saklanması ve yönetimi",
-              "B": "İşlem aracılığı",
-              "C": "Portföy aracılığı",
-              "D": "Bireysel portföy yöneticiliği",
-              "E": "Borsa işletimi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 21 Açıklaması: Saklama ve yönetim yan hizmettir."
-          },
-          {
-            "id": 697,
-            "soruMetni": "Soru 22 [Deneme 8 - Yatırım Kuruluşları Genel]: Yatırım kuruluşu çalışanlarında dürüstlük ve tarafsızlık neyi ifade eder?",
-            "secenekler": {
-              "A": "Tüm müşterilere adil ve tarafsız davranmayı",
-              "B": "Komisyon artırmayı",
-              "C": "Sadece büyük müşteriye bakmayı",
-              "D": "Garanti getiri vermeyi",
-              "E": "Kendi portföyünü öncellemeyi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 22 Açıklaması: Tüm müşterilere adil davranmayı ifade eder."
-          },
-          {
-            "id": 698,
-            "soruMetni": "Soru 23 [Deneme 8 - Yatırım Kuruluşları Genel]: Sermaye piyasasında garanti getiri taahhüt etmek nasıldır?",
-            "secenekler": {
-              "A": "Kesinlikle yasaktır ve mevzuata aykırıdır",
-              "B": "Serbesttir",
-              "C": "Yazılı olursa serbesttir",
-              "D": "Sadece bankalara serbesttir",
-              "E": "SPK izniyle serbesttir"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 23 Açıklaması: Garanti getiri vaat etmek kesinlikle yasaktır."
-          },
-          {
-            "id": 699,
-            "soruMetni": "Soru 24 [Deneme 8 - Yatırım Kuruluşları Genel]: Yatırım danışmanlığı çerçeve sözleşmesi imzalanmadan önce hangi test yapılmalıdır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Tespiti",
-              "D": "Bilanço Testi",
-              "E": "Gelir Testi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 24 Açıklaması: Yatırım danışmanlığı öncesinde Yerindelik Testi yapılır."
-          },
-          {
-            "id": 700,
-            "soruMetni": "Soru 25 [Deneme 8 - Yatırım Kuruluşları Genel]: Aracı kurumlar ne zaman faaliyet izni iptali riskiyle karşılaşır?",
-            "secenekler": {
-              "A": "Sermaye yeterliliği yükümlülüklerini verilen sürede yerine getirmediklerinde",
-              "B": "Kâr ettiklerinde",
-              "C": "Eleman aldıklarında",
-              "D": "Şube açtıklarında",
-              "E": "İzahname yayımladıklarında"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 25 Açıklaması: Sermaye eksikliğini gidermeyen kurumların izinleri iptal edilebilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #575 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 595
           }
         ]
       },
       {
         "testId": 35,
         "testAdi": "Deneme 9: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
         "sorular": [
           {
-            "id": 701,
-            "soruMetni": "Soru 1 [Deneme 9 - Yatırım Kuruluşları Genel]: Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin yer alması zorunludur?",
-            "secenekler": {
-              "A": "Menkul değerler / menkul kıymetler",
-              "B": "Sigorta",
-              "C": "Faktoring",
-              "D": "Mevduat",
-              "E": "Kredi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 1 Açıklaması: Ticaret unvanında menkul değerler veya menkul kıymetler ibaresi şarttır."
-          },
-          {
-            "id": 702,
-            "soruMetni": "Soru 2 [Deneme 9 - Yatırım Kuruluşları Genel]: Kısmi yetkili aracı kurumlar hangi faaliyeti yürütemez?",
-            "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "Halka arz aracılığı"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 2 Açıklaması: Portföy aracılığı sadece geniş yetkili kurumlarca yapılır."
-          },
-          {
-            "id": 703,
-            "soruMetni": "Soru 3 [Deneme 9 - Yatırım Kuruluşları Genel]: Aracı kurum genel müdür ve genel müdür yardımcılarının mesleki tecrübe şartı en az kaç yıldır?",
-            "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 3 Açıklaması: Genel müdür ve yardımcıları için en az 7 yıl tecrübe aranır."
-          },
-          {
-            "id": 704,
-            "soruMetni": "Soru 4 [Deneme 9 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde (Forex) ilk pozisyon açılışında maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 4 Açıklaması: İlk açılışta azami kaldıraç 10:1'dir."
-          },
-          {
-            "id": 705,
-            "soruMetni": "Soru 5 [Deneme 9 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde asgari başlangıç teminatı tutarı kaç TL'dir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 5 Açıklaması: Başlangıç teminatı asgari 50.000 TL'dir."
-          },
-          {
-            "id": 706,
-            "soruMetni": "Soru 6 [Deneme 9 - Yatırım Kuruluşları Genel]: Ses ve telefon kayıtlarının yasal saklama süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #576): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
               "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 6 Açıklaması: Ses kayıtları 3 yıl saklanır."
+            "dogruCevap": "D",
+            "cozum": "Soru #576 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 596
           },
           {
-            "id": 707,
-            "soruMetni": "Soru 7 [Deneme 9 - Yatırım Kuruluşları Genel]: Müşterinin mali durumu bilgisi hangi test kapsamında sorulur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #577): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Doğrulama",
-              "D": "Genel Test",
-              "E": "Risk Testi"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 7 Açıklaması: Mali durum Yerindelik Testinde sorulur."
+            "cozum": "Soru #577 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 597
           },
           {
-            "id": 708,
-            "soruMetni": "Soru 8 [Deneme 9 - Yatırım Kuruluşları Genel]: Tezgahüstü (OTC) işlemlerde emir formu yerine hangi form düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #578): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 8 Açıklaması: İşlem Talimat Formu düzenlenir."
+            "cozum": "Soru #578 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 598
           },
           {
-            "id": 709,
-            "soruMetni": "Soru 9 [Deneme 9 - Yatırım Kuruluşları Genel]: BYF katılma payları kredili işlemlerde yüzde kaç özkaynak kabul edilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #579): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #579 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 599
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #580): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
+            "secenekler": {
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #580 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 600
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #581): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #581 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 601
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #582): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
+            "secenekler": {
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #582 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 602
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #583): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #583 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 603
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #584): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
+            "secenekler": {
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #584 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 604
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #585): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
+            "secenekler": {
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #585 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 605
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #586): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #586 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 606
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #587): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #587 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 607
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #588): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 9 Açıklaması: BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #588 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 608
           },
           {
-            "id": 710,
-            "soruMetni": "Soru 10 [Deneme 9 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ihtisas personeli sayılamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #589): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 10 Açıklaması: İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #589 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 609
           },
           {
-            "id": 711,
-            "soruMetni": "Soru 11 [Deneme 9 - Yatırım Kuruluşları Genel]: Genel saklama faaliyeti izni olan bir yatırım kuruluşu ile ilgili hangisi doğrudur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #590): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Diğer yatırım kuruluşlarına da saklama hizmeti verebilir",
-              "B": "Sadece kendi müşterisine bakar",
-              "C": "Borsada işlem yapamaz",
-              "D": "Banka olmak zorundadır",
-              "E": "Kredili işlem yapamaz"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 11 Açıklaması: Genel saklama yetkilisi diğer kurumlara saklama hizmeti verebilir."
+            "dogruCevap": "B",
+            "cozum": "Soru #590 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 610
           },
           {
-            "id": 712,
-            "soruMetni": "Soru 12 [Deneme 9 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ana yatırım hizmetidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #591): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "Servet yönetimi",
-              "C": "Finansman danışmanlığı",
-              "D": "Araştırma raporu sunma",
-              "E": "Kasa kiralama"
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 12 Açıklaması: Portföy aracılığı ana yatırım hizmetidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #591 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 611
           },
           {
-            "id": 713,
-            "soruMetni": "Soru 13 [Deneme 9 - Yatırım Kuruluşları Genel]: Kitle fonlamasında kimlik doğrulama bilgileri nereye iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #592): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
             "secenekler": {
-              "A": "MKK",
-              "B": "Takasbank",
-              "C": "SPK",
-              "D": "Borsa İstanbul",
-              "E": "TCMB"
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 13 Açıklaması: MKK'ya iletilir."
+            "cozum": "Soru #592 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 612
           },
           {
-            "id": 714,
-            "soruMetni": "Soru 14 [Deneme 9 - Yatırım Kuruluşları Genel]: Açığa satış işlemi tanımı aşağıdakilerden hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #593): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Sahip olunmayan sermaye piyasası araçlarının satılması",
-              "B": "Peşin alım yapılması",
-              "C": "Temettü tahsili",
-              "D": "Tahvil ihracı",
-              "E": "Repo işlemi"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 14 Açıklaması: Sahip olunmayan varlıkların satışı açığa satıştır."
+            "cozum": "Soru #593 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 613
           },
           {
-            "id": 715,
-            "soruMetni": "Soru 15 [Deneme 9 - Yatırım Kuruluşları Genel]: Aracı kurum teminatlandırma politikasını kim yürütür ve günceller?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #594): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "Risk Yönetim Birimi",
-              "B": "Genel Kurul",
-              "C": "Müfettiş",
-              "D": "Bursa Temsilcisi",
-              "E": "Müşteri Temsilcisi"
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 15 Açıklaması: Risk yönetim birimi yürütür."
+            "cozum": "Soru #594 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 614
           },
           {
-            "id": 716,
-            "soruMetni": "Soru 16 [Deneme 9 - Yatırım Kuruluşları Genel]: Müşteri şikayetleri kayıtlarında aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #595): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
             "secenekler": {
-              "A": "Şikayete konu mevzuat maddesi gerekçesi",
-              "B": "Şikayetçi adı soyadı",
-              "C": "Şikayet tarihi",
-              "D": "İşlem özeti",
-              "E": "Şikayet konusu"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 16 Açıklaması: Mevzuat maddesi gerekçesi zorunlu değildir."
+            "dogruCevap": "C",
+            "cozum": "Soru #595 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 615
           },
           {
-            "id": 717,
-            "soruMetni": "Soru 17 [Deneme 9 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde zarar neticesinde teminat 50.000 TL altına düşerse ne olur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #596): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
-              "A": "Mevcut pozisyonlarla işlemlere devam edilebilir ancak yeni pozisyon açılamaz",
-              "B": "Hesap derhal kapatılır",
-              "C": "Tüm pozisyonlar resen kapatılır",
-              "D": "Hapis cezası verilir",
-              "E": "Ceza kesilir"
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 17 Açıklaması: Mevcut pozisyonlarla işlemlere devam edilebilir."
+            "dogruCevap": "D",
+            "cozum": "Soru #596 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 616
           },
           {
-            "id": 718,
-            "soruMetni": "Soru 18 [Deneme 9 - Yatırım Kuruluşları Genel]: Geniş yetkili aracı kurumlar ticaret unvanlarında hangisini kullanabilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #597): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yatırım menkul değerler / Yatırım menkul kıymetler",
-              "B": "Mevduat bankası",
-              "C": "Katılım bankası",
-              "D": "Sigorta acentesi",
-              "E": "Kredi kurumu"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 18 Açıklaması: Geniş yetkililer bu ibareyi kullanabilir."
+            "cozum": "Soru #597 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 617
           },
           {
-            "id": 719,
-            "soruMetni": "Soru 19 [Deneme 9 - Yatırım Kuruluşları Genel]: Girişim sermayesi yatırım ortaklıklarında portföy aracılığı yapan kurum hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #598): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "Geniş yetkili aracı kurumlar",
-              "B": "Limited şirketler",
-              "C": "Kuyumcular",
-              "D": "Döviz büroları",
-              "E": "Sigorta acenteleri"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 19 Açıklaması: Geniş yetkili aracı kurumlar bu işlemleri yürütür."
+            "cozum": "Soru #598 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 618
           },
           {
-            "id": 720,
-            "soruMetni": "Soru 20 [Deneme 9 - Yatırım Kuruluşları Genel]: Müşteriyi tanıma kuralı aşağıdakilerden hangisinin kapsamındadır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #599): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "Müşteri ilişkileri operasyonel süreci ve Suç gelirlerinin aklanmasının önlenmesi",
-              "B": "Genel etik ilke",
-              "C": "Muhasebe standardı",
-              "D": "Bilanço kalemi",
-              "E": "Borsa kuralı"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 20 Açıklaması: Müşteriyi tanıma operasyonel süreçtir."
+            "cozum": "Soru #599 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 619
           },
           {
-            "id": 721,
-            "soruMetni": "Soru 21 [Deneme 9 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi yan hizmettir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #600): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
             "secenekler": {
-              "A": "Sermaye piyasası araçlarının müşteriler adına saklanması ve yönetimi",
-              "B": "İşlem aracılığı",
-              "C": "Portföy aracılığı",
-              "D": "Bireysel portföy yöneticiliği",
-              "E": "Borsa işletimi"
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 21 Açıklaması: Saklama ve yönetim yan hizmettir."
-          },
-          {
-            "id": 722,
-            "soruMetni": "Soru 22 [Deneme 9 - Yatırım Kuruluşları Genel]: Yatırım kuruluşu çalışanlarında dürüstlük ve tarafsızlık neyi ifade eder?",
-            "secenekler": {
-              "A": "Tüm müşterilere adil ve tarafsız davranmayı",
-              "B": "Komisyon artırmayı",
-              "C": "Sadece büyük müşteriye bakmayı",
-              "D": "Garanti getiri vermeyi",
-              "E": "Kendi portföyünü öncellemeyi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 22 Açıklaması: Tüm müşterilere adil davranmayı ifade eder."
-          },
-          {
-            "id": 723,
-            "soruMetni": "Soru 23 [Deneme 9 - Yatırım Kuruluşları Genel]: Sermaye piyasasında garanti getiri taahhüt etmek nasıldır?",
-            "secenekler": {
-              "A": "Kesinlikle yasaktır ve mevzuata aykırıdır",
-              "B": "Serbesttir",
-              "C": "Yazılı olursa serbesttir",
-              "D": "Sadece bankalara serbesttir",
-              "E": "SPK izniyle serbesttir"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 23 Açıklaması: Garanti getiri vaat etmek kesinlikle yasaktır."
-          },
-          {
-            "id": 724,
-            "soruMetni": "Soru 24 [Deneme 9 - Yatırım Kuruluşları Genel]: Yatırım danışmanlığı çerçeve sözleşmesi imzalanmadan önce hangi test yapılmalıdır?",
-            "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Tespiti",
-              "D": "Bilanço Testi",
-              "E": "Gelir Testi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 24 Açıklaması: Yatırım danışmanlığı öncesinde Yerindelik Testi yapılır."
-          },
-          {
-            "id": 725,
-            "soruMetni": "Soru 25 [Deneme 9 - Yatırım Kuruluşları Genel]: Aracı kurumlar ne zaman faaliyet izni iptali riskiyle karşılaşır?",
-            "secenekler": {
-              "A": "Sermaye yeterliliği yükümlülüklerini verilen sürede yerine getirmediklerinde",
-              "B": "Kâr ettiklerinde",
-              "C": "Eleman aldıklarında",
-              "D": "Şube açtıklarında",
-              "E": "İzahname yayımladıklarında"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 25 Açıklaması: Sermaye eksikliğini gidermeyen kurumların izinleri iptal edilebilir."
+            "cozum": "Soru #600 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 620
           }
         ]
       },
       {
         "testId": 36,
         "testAdi": "Deneme 10: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
         "sorular": [
           {
-            "id": 726,
-            "soruMetni": "Soru 1 [Deneme 10 - Yatırım Kuruluşları Genel]: Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin yer alması zorunludur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #601): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "Menkul değerler / menkul kıymetler",
-              "B": "Sigorta",
-              "C": "Faktoring",
-              "D": "Mevduat",
-              "E": "Kredi"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 1 Açıklaması: Ticaret unvanında menkul değerler veya menkul kıymetler ibaresi şarttır."
+            "cozum": "Soru #601 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 621
           },
           {
-            "id": 727,
-            "soruMetni": "Soru 2 [Deneme 10 - Yatırım Kuruluşları Genel]: Kısmi yetkili aracı kurumlar hangi faaliyeti yürütemez?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #602): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "İşlem aracılığı",
-              "C": "Sınırlı saklama",
-              "D": "Yatırım danışmanlığı",
-              "E": "Halka arz aracılığı"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 2 Açıklaması: Portföy aracılığı sadece geniş yetkili kurumlarca yapılır."
+            "cozum": "Soru #602 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 622
           },
           {
-            "id": 728,
-            "soruMetni": "Soru 3 [Deneme 10 - Yatırım Kuruluşları Genel]: Aracı kurum genel müdür ve genel müdür yardımcılarının mesleki tecrübe şartı en az kaç yıldır?",
-            "secenekler": {
-              "A": "7 Yıl",
-              "B": "5 Yıl",
-              "C": "3 Yıl",
-              "D": "10 Yıl",
-              "E": "2 Yıl"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 3 Açıklaması: Genel müdür ve yardımcıları için en az 7 yıl tecrübe aranır."
-          },
-          {
-            "id": 729,
-            "soruMetni": "Soru 4 [Deneme 10 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde (Forex) ilk pozisyon açılışında maksimum kaldıraç oranı kaçtır?",
-            "secenekler": {
-              "A": "10:1",
-              "B": "50:1",
-              "C": "100:1",
-              "D": "20:1",
-              "E": "5:1"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 4 Açıklaması: İlk açılışta azami kaldıraç 10:1'dir."
-          },
-          {
-            "id": 730,
-            "soruMetni": "Soru 5 [Deneme 10 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde asgari başlangıç teminatı tutarı kaç TL'dir?",
-            "secenekler": {
-              "A": "50.000 TL",
-              "B": "10.000 TL",
-              "C": "100.000 TL",
-              "D": "25.000 TL",
-              "E": "5.000 TL"
-            },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 5 Açıklaması: Başlangıç teminatı asgari 50.000 TL'dir."
-          },
-          {
-            "id": 731,
-            "soruMetni": "Soru 6 [Deneme 10 - Yatırım Kuruluşları Genel]: Ses ve telefon kayıtlarının yasal saklama süresi en az kaç yıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #603): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
               "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
               "D": "10 Yıl",
               "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 6 Açıklaması: Ses kayıtları 3 yıl saklanır."
+            "dogruCevap": "C",
+            "cozum": "Soru #603 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 623
           },
           {
-            "id": 732,
-            "soruMetni": "Soru 7 [Deneme 10 - Yatırım Kuruluşları Genel]: Müşterinin mali durumu bilgisi hangi test kapsamında sorulur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #604): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Doğrulama",
-              "D": "Genel Test",
-              "E": "Risk Testi"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 7 Açıklaması: Mali durum Yerindelik Testinde sorulur."
+            "cozum": "Soru #604 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 624
           },
           {
-            "id": 733,
-            "soruMetni": "Soru 8 [Deneme 10 - Yatırım Kuruluşları Genel]: Tezgahüstü (OTC) işlemlerde emir formu yerine hangi form düzenlenir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #605): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
             "secenekler": {
-              "A": "İşlem Talimat Formu",
-              "B": "Seans Formu",
-              "C": "Bilanço",
-              "D": "Dekont",
-              "E": "Borsa Sözleşmesi"
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 8 Açıklaması: İşlem Talimat Formu düzenlenir."
+            "cozum": "Soru #605 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 625
           },
           {
-            "id": 734,
-            "soruMetni": "Soru 9 [Deneme 10 - Yatırım Kuruluşları Genel]: BYF katılma payları kredili işlemlerde yüzde kaç özkaynak kabul edilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #606): Aracı kurumların şube açması durumunda SPK'ya bildirim ve izin süreciyle ilgili hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "%90",
-              "B": "%75",
-              "C": "%60",
-              "D": "%50",
+              "A": "SPK'dan izin alınması veya belirlenen şartlara göre bildirim yapılması şarttır.",
+              "B": "Şube açmak tamamen bildirimsiz yapılır.",
+              "C": "Şube açmak için sadece belediye ruhsatı yeterlidir.",
+              "D": "Yurt dışında şube açmak yasaktır.",
+              "E": "Sadece yılda 1 şube açılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #606 Açıklaması: Aracı kurumların yurt içinde ve yurt dışında şube açması SPK düzenlemelerine ve izin/bildirim esaslarına tabidir.",
+            "id": 626
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #607): Aracı kurumların irtibat bürolarında aşağıdakilerden hangisinin yapılması KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Müşteri namına nakit veya menkul kıymet kabul etmek / teslim almak",
+              "B": "Müşterilere hizmetler hakkında bilgi vermek",
+              "C": "Müşteri emirlerini merkeze iletmek",
+              "D": "Çerçeve sözleşme taslaklarını sunmak",
+              "E": "Brosür dağıtmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #607 Açıklaması: İrtibat bürolarında kesinlikle nakit ve menkul kıymet kabul edilemez, vezne açılamaz.",
+            "id": 627
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #608): Aracı kurum nezdinde 'Kredili Menkul Kıymet İşlemi' yapabilmek için başlangıç özkaynak oranı en az yüzde kaç olmalıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%35",
+              "C": "%50",
+              "D": "%75",
               "E": "%100"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 9 Açıklaması: BYF katılma payları %90 oranında özkaynak kabul edilir."
+            "dogruCevap": "C",
+            "cozum": "Soru #608 Açıklaması: Kredili menkul kıymet alım işlemlerinde müşterinin yatırması gereken başlangıç özkaynak oranı en az %50'dir.",
+            "id": 628
           },
           {
-            "id": 735,
-            "soruMetni": "Soru 10 [Deneme 10 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ihtisas personeli sayılamaz?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #609): Kredili işlemlerde özkaynak koruma oranı yüzde kaça düştüğünde aracı kurum müşteriden özkaynak tamamlama çağrısı talep eder?",
             "secenekler": {
-              "A": "İç kontrol personeli",
-              "B": "Müşteri temsilcisi",
-              "C": "Borsa temsilcisi",
-              "D": "Araştırma uzmanı",
-              "E": "Kurumsal finansman uzmanı"
+              "A": "%10",
+              "B": "%20",
+              "C": "%35",
+              "D": "%50",
+              "E": "%60"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 10 Açıklaması: İç kontrol elemanı iç sistemler personelidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #609 Açıklaması: Özkaynak oranı %35'in altına düştüğünde müşteriye özkaynak tamamlama çağrısı (margin call) yapılır.",
+            "id": 629
           },
           {
-            "id": 736,
-            "soruMetni": "Soru 11 [Deneme 10 - Yatırım Kuruluşları Genel]: Genel saklama faaliyeti izni olan bir yatırım kuruluşu ile ilgili hangisi doğrudur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #610): Kaldıraçlı işlemlerde (Forex) Türkiye'de müşteriler için uygulanabilecek azami kaldıraç oranı nedir?",
             "secenekler": {
-              "A": "Diğer yatırım kuruluşlarına da saklama hizmeti verebilir",
-              "B": "Sadece kendi müşterisine bakar",
-              "C": "Borsada işlem yapamaz",
-              "D": "Banka olmak zorundadır",
-              "E": "Kredili işlem yapamaz"
+              "A": "5:1",
+              "B": "10:1",
+              "C": "20:1",
+              "D": "50:1",
+              "E": "100:1"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 11 Açıklaması: Genel saklama yetkilisi diğer kurumlara saklama hizmeti verebilir."
+            "dogruCevap": "B",
+            "cozum": "Soru #610 Açıklaması: SPK düzenlemeleri uyarınca kaldıraçlı işlemlerde kaldıraç oranı azami 10:1 olarak sınırlandırılmıştır.",
+            "id": 630
           },
           {
-            "id": 737,
-            "soruMetni": "Soru 12 [Deneme 10 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi ana yatırım hizmetidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #611): Kaldıraçlı işlemlere (Forex) başlayabilmek için yatırılması gereken başlangıç asgari teminat tutarı ne kadardır?",
             "secenekler": {
-              "A": "Portföy aracılığı",
-              "B": "Servet yönetimi",
-              "C": "Finansman danışmanlığı",
-              "D": "Araştırma raporu sunma",
-              "E": "Kasa kiralama"
+              "A": "10.000 TL",
+              "B": "25.000 TL",
+              "C": "50.000 TL",
+              "D": "100.000 TL",
+              "E": "250.000 TL"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 12 Açıklaması: Portföy aracılığı ana yatırım hizmetidir."
+            "dogruCevap": "C",
+            "cozum": "Soru #611 Açıklaması: Kaldıraçlı işlemlere başlayabilmek için müşterinin hesabında başlangıçta en az 50.000 TL veya muadili döviz teminat bulunmalıdır.",
+            "id": 631
           },
           {
-            "id": 738,
-            "soruMetni": "Soru 13 [Deneme 10 - Yatırım Kuruluşları Genel]: Kitle fonlamasında kimlik doğrulama bilgileri nereye iletilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #612): Yatırım danışmanlığı faaliyetinde müşterilere genel tavsiye sunulması ile bireysel tavsiye sunulması arasındaki temel fark nedir?",
             "secenekler": {
-              "A": "MKK",
-              "B": "Takasbank",
-              "C": "SPK",
-              "D": "Borsa İstanbul",
-              "E": "TCMB"
+              "A": "Bireysel tavsiyede kişinin mali durumu, risk ve getiri tercihleri dikkate alınarak Yerindelik Testi yapılır.",
+              "B": "Genel tavsiyede müşteri adı yazılır.",
+              "C": "Bireysel tavsiye herkese açık yayımlanır.",
+              "D": "Genel tavsiye sadece kâğıt üzerinde verilir.",
+              "E": "Hiçbir fark yoktur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 13 Açıklaması: MKK'ya iletilir."
+            "cozum": "Soru #612 Açıklaması: Bireysel yatırım danışmanlığında müşteriye özel analiz yapılarak Yerindelik Testi uygulanır.",
+            "id": 632
           },
           {
-            "id": 739,
-            "soruMetni": "Soru 14 [Deneme 10 - Yatırım Kuruluşları Genel]: Açığa satış işlemi tanımı aşağıdakilerden hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #613): Uygunluk Testi (Suitability Test) hangi yatırım hizmetlerinde uygulanması zorunlu olan testtir?",
             "secenekler": {
-              "A": "Sahip olunmayan sermaye piyasası araçlarının satılması",
-              "B": "Peşin alım yapılması",
-              "C": "Temettü tahsili",
-              "D": "Tahvil ihracı",
-              "E": "Repo işlemi"
+              "A": "Alım satım aracılığı ve emir iletimi hizmetlerinde",
+              "B": "Sadece gayrimenkul satışında",
+              "C": "Yalnızca kredili işlemlerde",
+              "D": "Şirket birleşme danışmanlığında",
+              "E": "Banka mevduat hesabında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 14 Açıklaması: Sahip olunmayan varlıkların satışı açığa satıştır."
+            "cozum": "Soru #613 Açıklaması: Uygunluk testi müşterinin alım satıma konu ürün hakkındaki bilgi ve tecrübesini ölçmek için alım satım aracılığında yapılır.",
+            "id": 633
           },
           {
-            "id": 740,
-            "soruMetni": "Soru 15 [Deneme 10 - Yatırım Kuruluşları Genel]: Aracı kurum teminatlandırma politikasını kim yürütür ve günceller?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #614): Yerindelik Testi (Appropriateness Test) aşağıdaki hangi hizmet sunulmadan önce ZORUNLU olarak yapılır?",
             "secenekler": {
-              "A": "Risk Yönetim Birimi",
-              "B": "Genel Kurul",
-              "C": "Müfettiş",
-              "D": "Bursa Temsilcisi",
-              "E": "Müşteri Temsilcisi"
+              "A": "Bireysel Portföy Yöneticiliği ve Bireysel Yatırım Danışmanlığı",
+              "B": "Sadece döviz alım satımı",
+              "C": "Sadece hisse senedi saklaması",
+              "D": "Şirket kurma danışmanlığı",
+              "E": "Müşteri adres teyidi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 15 Açıklaması: Risk yönetim birimi yürütür."
+            "cozum": "Soru #614 Açıklaması: Yerindelik testi, bireysel portföy yönetimi ve yatırım danışmanlığı hizmetlerinde müşterinin mali durumu ve amaçlarını belirlemek için yapılır.",
+            "id": 634
           },
           {
-            "id": 741,
-            "soruMetni": "Soru 16 [Deneme 10 - Yatırım Kuruluşları Genel]: Müşteri şikayetleri kayıtlarında aşağıdakilerden hangisinin bulunması zorunlu değildir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #615): Aracı kurumlar nezdinde müşteri emri ileşiminde telefon ses kayıtlarının saklanması gereken en az yasal süre kaç yıldır?",
             "secenekler": {
-              "A": "Şikayete konu mevzuat maddesi gerekçesi",
-              "B": "Şikayetçi adı soyadı",
-              "C": "Şikayet tarihi",
-              "D": "İşlem özeti",
-              "E": "Şikayet konusu"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 16 Açıklaması: Mevzuat maddesi gerekçesi zorunlu değildir."
+            "dogruCevap": "C",
+            "cozum": "Soru #615 Açıklaması: Müşteri emirlerine ilişkin telefon ses kayıtlarının en az 3 yıl süreyle saklanması zorunludur.",
+            "id": 635
           },
           {
-            "id": 742,
-            "soruMetni": "Soru 17 [Deneme 10 - Yatırım Kuruluşları Genel]: Kaldıraçlı işlemlerde zarar neticesinde teminat 50.000 TL altına düşerse ne olur?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #616): Aracı kurumların müşteri sözleşmeleri ve diğer yazılı kayıt ve belgelerini saklama yasal süresi en az kaç yıldır?",
             "secenekler": {
-              "A": "Mevcut pozisyonlarla işlemlere devam edilebilir ancak yeni pozisyon açılamaz",
-              "B": "Hesap derhal kapatılır",
-              "C": "Tüm pozisyonlar resen kapatılır",
-              "D": "Hapis cezası verilir",
-              "E": "Ceza kesilir"
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 17 Açıklaması: Mevcut pozisyonlarla işlemlere devam edilebilir."
+            "dogruCevap": "D",
+            "cozum": "Soru #616 Açıklaması: Yazılı sözleşmeler, hesap ekstreleri ve muhasebe belgeleri en az 10 yıl süreyle saklanmak zorundadır.",
+            "id": 636
           },
           {
-            "id": 743,
-            "soruMetni": "Soru 18 [Deneme 10 - Yatırım Kuruluşları Genel]: Geniş yetkili aracı kurumlar ticaret unvanlarında hangisini kullanabilir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #617): Profesyonel Müşteri tanımına giren kuruluşlar için hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yatırım menkul değerler / Yatırım menkul kıymetler",
-              "B": "Mevduat bankası",
-              "C": "Katılım bankası",
-              "D": "Sigorta acentesi",
-              "E": "Kredi kurumu"
+              "A": "Bankalar, aracı kurumlar, portföy yönetim şirketleri ve sigorta şirketleri kendiliğinden profesyonel müşteridir.",
+              "B": "Profesyonel müşterilere uygunluk testi yapılması zorunludur.",
+              "C": "Profesyonel müşteriler bireysel yatırımcı sayılır.",
+              "D": "Profesyonel müşterilere risk bildirim formu verilemez.",
+              "E": "Hiçbiri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 18 Açıklaması: Geniş yetkililer bu ibareyi kullanabilir."
+            "cozum": "Soru #617 Açıklaması: Finansal kuruluşlar (bankalar, aracı kurumlar, fonlar) kanun gereği profesyonel müşteri kabul edilir.",
+            "id": 637
           },
           {
-            "id": 744,
-            "soruMetni": "Soru 19 [Deneme 10 - Yatırım Kuruluşları Genel]: Girişim sermayesi yatırım ortaklıklarında portföy aracılığı yapan kurum hangisidir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #618): Açığa satış işlemlerinde uygulanan 'Yukarı Adım Kuralı' (Uptick Rule) ne anlama gelir?",
             "secenekler": {
-              "A": "Geniş yetkili aracı kurumlar",
-              "B": "Limited şirketler",
-              "C": "Kuyumcular",
-              "D": "Döviz büroları",
-              "E": "Sigorta acenteleri"
+              "A": "Açığa satış emrinin en son gerçekleşen işlem fiyatından daha yüksek bir fiyatla girilmesi zorunluluğu",
+              "B": "Fiyatın düşerken satılması",
+              "C": "Satışın iptal edilmesi",
+              "D": "Alım emri verilmesi",
+              "E": "Hisse devrinin durması"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 19 Açıklaması: Geniş yetkili aracı kurumlar bu işlemleri yürütür."
+            "cozum": "Soru #618 Açıklaması: Yukarı adım kuralında açığa satış işlemi en son gerçekleşen fiyattan daha yüksek bir fiyattan verilebilir.",
+            "id": 638
           },
           {
-            "id": 745,
-            "soruMetni": "Soru 20 [Deneme 10 - Yatırım Kuruluşları Genel]: Müşteriyi tanıma kuralı aşağıdakilerden hangisinin kapsamındadır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #619): Halka arza aracılıkta aracı kurumun satılamayan payların tamamını kendi portföyüne satın almayı taahhüt etmesine ne ad verilir?",
             "secenekler": {
-              "A": "Müşteri ilişkileri operasyonel süreci ve Suç gelirlerinin aklanmasının önlenmesi",
-              "B": "Genel etik ilke",
-              "C": "Muhasebe standardı",
-              "D": "Bilanço kalemi",
-              "E": "Borsa kuralı"
+              "A": "Bakaya Yüklenimi (Tümünü Yüklenim)",
+              "B": "En İyi Gayret Aracılığı",
+              "C": "Kısmi Yüklenim",
+              "D": "Satış Garantisi Yokluğu",
+              "E": "İskontolu Aracılık"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 20 Açıklaması: Müşteriyi tanıma operasyonel süreçtir."
+            "cozum": "Soru #619 Açıklaması: Satılamayan payların tamamının aracı kurum tarafından satın alınması bakaya yüklenimidir.",
+            "id": 639
           },
           {
-            "id": 746,
-            "soruMetni": "Soru 21 [Deneme 10 - Yatırım Kuruluşları Genel]: Aşağıdakilerden hangisi yan hizmettir?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #620): Halka arza aracılıkta aracı kurumun satılmayan paylar için herhangi bir satın alma taahhüdünde bulunmaksızın çaba göstermesine ne ad verilir?",
             "secenekler": {
-              "A": "Sermaye piyasası araçlarının müşteriler adına saklanması ve yönetimi",
-              "B": "İşlem aracılığı",
-              "C": "Portföy aracılığı",
-              "D": "Bireysel portföy yöneticiliği",
-              "E": "Borsa işletimi"
+              "A": "En İyi Gayret Aracılığı",
+              "B": "Tam Yüklenim",
+              "C": "Bakaya Yüklenimi",
+              "D": "Primli Satış",
+              "E": "Garantili İhraç"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 21 Açıklaması: Saklama ve yönetim yan hizmettir."
+            "cozum": "Soru #620 Açıklaması: Satılamayan payları satın alma taahhüdü olmaksızın satışa çaba gösterilmesine en iyi gayret aracılığı denir.",
+            "id": 640
           },
           {
-            "id": 747,
-            "soruMetni": "Soru 22 [Deneme 10 - Yatırım Kuruluşları Genel]: Yatırım kuruluşu çalışanlarında dürüstlük ve tarafsızlık neyi ifade eder?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #621): Aracı kurumların ticaret unvanlarında aşağıdakilerden hangisinin bulunması ZORUNLUDUR?",
             "secenekler": {
-              "A": "Tüm müşterilere adil ve tarafsız davranmayı",
-              "B": "Komisyon artırmayı",
-              "C": "Sadece büyük müşteriye bakmayı",
-              "D": "Garanti getiri vermeyi",
-              "E": "Kendi portföyünü öncellemeyi"
+              "A": "Yatırım Menkul Değerler veya Aracı Kurum ibaresi",
+              "B": "Bankacılık A.Ş. ibaresi",
+              "C": "Sigorta A.Ş. ibaresi",
+              "D": "Holding ibaresi",
+              "E": "Kredi Kurumu ibaresi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 22 Açıklaması: Tüm müşterilere adil davranmayı ifade eder."
+            "cozum": "Soru #621 Açıklaması: Aracı kurumların ticaret unvanlarında faaliyet konularını gösterecek şekilde ibarelerin bulunması zorunludur.",
+            "id": 641
           },
           {
-            "id": 748,
-            "soruMetni": "Soru 23 [Deneme 10 - Yatırım Kuruluşları Genel]: Sermaye piyasasında garanti getiri taahhüt etmek nasıldır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #622): Genel saklama yetkisine sahip bir yatırım kuruluşu müşterilerine ait sermaye piyasası araçlarını nerede saklamakla yükümlüdür?",
             "secenekler": {
-              "A": "Kesinlikle yasaktır ve mevzuata aykırıdır",
-              "B": "Serbesttir",
-              "C": "Yazılı olursa serbesttir",
-              "D": "Sadece bankalara serbesttir",
-              "E": "SPK izniyle serbesttir"
+              "A": "MKK ve Takasbank nezdindeki müşteri hesaplarında",
+              "B": "Şirket kasasında fiziki olarak",
+              "C": "Genel müdürün özel banka hesabında",
+              "D": "Şirket merkezinin deposunda",
+              "E": "Ticaret gazetesinde ilan ederek"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 23 Açıklaması: Garanti getiri vaat etmek kesinlikle yasaktır."
+            "cozum": "Soru #622 Açıklaması: Müşteri varlıkları MKK ve saklama kuruluşları nezdinde hak sahipleri bazında izlenir ve saklanır.",
+            "id": 642
           },
           {
-            "id": 749,
-            "soruMetni": "Soru 24 [Deneme 10 - Yatırım Kuruluşları Genel]: Yatırım danışmanlığı çerçeve sözleşmesi imzalanmadan önce hangi test yapılmalıdır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #623): Aracı kurum genel müdürlerinin finansal piyasalar alanında en az kaç yıllık mesleki tecrübeye sahip olması yasal bir zorunluluktur?",
             "secenekler": {
-              "A": "Yerindelik Testi",
-              "B": "Uygunluk Testi",
-              "C": "Kimlik Tespiti",
-              "D": "Bilanço Testi",
-              "E": "Gelir Testi"
+              "A": "3 Yıl",
+              "B": "5 Yıl",
+              "C": "7 Yıl",
+              "D": "10 Yıl",
+              "E": "15 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 24 Açıklaması: Yatırım danışmanlığı öncesinde Yerindelik Testi yapılır."
+            "dogruCevap": "C",
+            "cozum": "Soru #623 Açıklaması: Aracı kurum genel müdürlerinin 4 yıllık yükseköğrenim mezunu olması ve finansal piyasalarda en az 7 yıllık mesleki tecrübeye sahip bulunması şarttır.",
+            "id": 643
           },
           {
-            "id": 750,
-            "soruMetni": "Soru 25 [Deneme 10 - Yatırım Kuruluşları Genel]: Aracı kurumlar ne zaman faaliyet izni iptali riskiyle karşılaşır?",
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #624): Geniş yetkili aracı kurumlar aşağıdaki yatırım hizmet ve faaliyetlerinden hangisini YAPABİLİR?",
             "secenekler": {
-              "A": "Sermaye yeterliliği yükümlülüklerini verilen sürede yerine getirmediklerinde",
-              "B": "Kâr ettiklerinde",
-              "C": "Eleman aldıklarında",
-              "D": "Şube açtıklarında",
-              "E": "İzahname yayımladıklarında"
+              "A": "Portföy aracılığı, halka arza yüklenimde bulunarak aracılık ve saklama hizmeti",
+              "B": "Mevduat toplama",
+              "C": "Ticari kredi verme",
+              "D": "Kripto varlık madenciliği",
+              "E": "Gayrimenkul ticareti"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 25 Açıklaması: Sermaye eksikliğini gidermeyen kurumların izinleri iptal edilebilir."
+            "cozum": "Soru #624 Açıklaması: Geniş yetkili aracı kurumlar tüm temel yatırım hizmet ve faaliyetlerini yürütmeye yetkilidir.",
+            "id": 644
+          },
+          {
+            "soruMetni": "Yatırım Kuruluşları Mevzuatı (Sorular Paketi #625): Dar yetkili aracı kurumların yapmaya yetkili olduğu temel faaliyet hangisidir?",
+            "secenekler": {
+              "A": "Emir iletimine aracılık",
+              "B": "Kendi nam ve hesabına taahhütte bulunarak portföy aracılığı yapmak",
+              "C": "Genel saklama hizmeti vermek",
+              "D": "Kaldıraçlı işlem (Forex) yaptırmak",
+              "E": "Türev araçlarda piyasa yapıcılık"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #625 Açıklaması: Dar yetkili aracı kurumlar sadece emir iletimine aracılık ve işlem aracılığı faaliyetlerinde bulunabilir.",
+            "id": 645
           }
         ]
       }
