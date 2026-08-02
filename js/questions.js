@@ -2,15 +2,64 @@
  * ============================================================================
  * SPL (Sermaye Piyasası Lisanslama) SORU VERİTABANI (questions.js)
  * ============================================================================
- * Modül Lisans Seviyeleri (duzeyler) Eklendi:
- * duzey1, duzey2, duzey3, turev, gayrimenkul
+ * Resmi SPK Modül Kodları & Sınav Konuları Tam Liste:
+ * 1001: Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (Düzey 1)
+ * 1002: Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (Düzey 2, 3, Türev)
+ * 1003: Sermaye Piyasası Araçları 1 (Düzey 1, 2, 3, Türev)
+ * 1004: Sermaye Piyasası Araçları 2 (Düzey 2, 3, Türev)
+ * 1005: Yatırım Kuruluşları (Düzey 1, 2, 3, Türev)
+ * 1006: Finansal Piyasalar (Düzey 2, 3, Türev)
+ * 1007: Finansal Yönetim ve Mali Analiz (Düzey 2, 3)
+ * 1008: Genel Ekonomi (Düzey 3)
+ * 1009: Temel Finans Matematiği ve Değerleme Yöntemleri (Düzey 3, Türev)
+ * 1010: Ticaret Hukuku (Düzey 2, 3)
+ * 1011: Türev Araçlar, Piyasalar ve Risk Yönetimi (Türev Araçlar)
+ * 1012: Takas, Saklama ve Operasyon İşlemleri (Düzey 1, 2, 3)
+ * 1013: Kurumlarda ve Sermaye Piyasasında Vergilendirme (Düzey 3, Türev)
+ * 1016: Muhasebe ve Finansal Raporlama (Düzey 2, 3)
  * ============================================================================
  */
 
 const splVeritabani = [
   {
-    "dersAdi": "1002 - Geniş Kapsamlı Sermaye Piyasası Mevzuatı",
-    "kategori": "SPK Modül Kodu: 1002 | SPL Düzey 2 - 3 - Türev - Derecelendirme",
+    "code": "1001",
+    "dersAdi": "1001 - Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları",
+    "kategori": "SPK Modül Kodu: 1001 | SPL Düzey 1 Lisansı",
+    "duzeyler": [
+      "duzey1"
+    ],
+    "aciklama": "6362 sayılı SPK Kanunu temel esasları, Sermaye Piyasası Kurumları ve TSPB Meslek Kuralları.",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları Temel Esaslar",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "1001 - Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
+              "B": "Sadece mevduat bankaları işlem yapabilir",
+              "C": "Garanti getiri vaat etmek serbesttir",
+              "D": "Tüm işlemler gizli yürütülür",
+              "E": "Tebliğler bakanlıkça çıkarılır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "1002",
+    "dersAdi": "1002 - Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları",
+    "kategori": "SPK Modül Kodu: 1002 | SPL Düzey 2, Düzey 3, Türev Araçlar Lisansı",
+    "duzeyler": [
+      "duzey2",
+      "duzey3",
+      "turev"
+    ],
     "aciklama": "6362 sayılı SPK Kanunu, Özel Durumlar, Kurumsal Yönetim, Yatırım Fonları, GYO, MKK ve TSPB Etik İlkeleri (25 Konu Testi + 1 Çıkmış Sorular Paketi + 10 Genel Deneme - Toplam 770 Soru).",
     "testler": [
       {
@@ -10239,16 +10288,83 @@ const splVeritabani = [
           }
         ]
       }
+    ]
+  },
+  {
+    "code": "1003",
+    "dersAdi": "1003 - Sermaye Piyasası Araçları 1",
+    "kategori": "SPK Modül Kodu: 1003 | SPL Düzey 1, Düzey 2, Düzey 3, Türev Araçlar Lisansı",
+    "duzeyler": [
+      "duzey1",
+      "duzey2",
+      "duzey3",
+      "turev"
     ],
+    "aciklama": "Paylar (Hisse Senetleri), Varantlar, Depo Sertifikaları ve Temel Sermaye Piyasası Araçları İhraç Esasları.",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: Sermaye Piyasası Araçları 1 Temel Esaslar",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "1003 - Sermaye Piyasası Araçları 1 kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
+              "B": "Sadece mevduat bankaları işlem yapabilir",
+              "C": "Garanti getiri vaat etmek serbesttir",
+              "D": "Tüm işlemler gizli yürütülür",
+              "E": "Tebliğler bakanlıkça çıkarılır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "1004",
+    "dersAdi": "1004 - Sermaye Piyasası Araçları 2",
+    "kategori": "SPK Modül Kodu: 1004 | SPL Düzey 2, Düzey 3, Türev Araçlar Lisansı",
     "duzeyler": [
       "duzey2",
       "duzey3",
       "turev"
+    ],
+    "aciklama": "Borçlanma Araçları (Devlet Tahvili, Hazine Bonosu, Özel Sektör Tahvili), Eurobondlar, Kira Sertifikaları (Sukuk), Varlık ve İpotek Teminatlı Menkul Kıymetler.",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: Sermaye Piyasası Araçları 2 Temel Esaslar",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "1004 - Sermaye Piyasası Araçları 2 kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
+              "B": "Sadece mevduat bankaları işlem yapabilir",
+              "C": "Garanti getiri vaat etmek serbesttir",
+              "D": "Tüm işlemler gizli yürütülür",
+              "E": "Tebliğler bakanlıkça çıkarılır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
+          }
+        ]
+      }
     ]
   },
   {
+    "code": "1005",
     "dersAdi": "1005 - Yatırım Kuruluşları",
-    "kategori": "SPK Modül Kodu: 1005 | SPL Düzey 2 - 3 - Türev Araçlar Lisansı",
+    "kategori": "SPK Modül Kodu: 1005 | SPL Düzey 1, Düzey 2, Düzey 3, Türev Araçlar Lisansı",
+    "duzeyler": [
+      "duzey1",
+      "duzey2",
+      "duzey3",
+      "turev"
+    ],
     "aciklama": "Yatırım Hizmetleri Tebliği (III-37.1), Yatırım Kuruluşları Kuruluş Tebliği (III-39.1), Kaldıraçlı İşlemler, Kitle Fonlaması, Müşteri Hakları (25 Konu Testi + 1 Çıkmış Sorular Paketi + 10 Deneme - Toplam 770 Soru).",
     "testler": [
       {
@@ -20477,334 +20593,285 @@ const splVeritabani = [
           }
         ]
       }
-    ],
+    ]
+  },
+  {
+    "code": "1006",
+    "dersAdi": "1006 - Finansal Piyasalar",
+    "kategori": "SPK Modül Kodu: 1006 | SPL Düzey 2, Düzey 3, Türev Araçlar Lisansı",
     "duzeyler": [
       "duzey2",
       "duzey3",
       "turev"
-    ]
-  },
-  {
-    "dersAdi": "1006 - Türev Araçlar, Piyasalar ve Risk Yönetimi",
-    "kategori": "SPK Modül Kodu: 1006 | SPL Düzey 3 - Türev Araçlar Lisansı (Zorunlu Modül)",
-    "aciklama": "VİOP İşleyişi, Futures, Forward, Opsiyon Sözleşmeleri (Call/Put), Greeks (Delta, Gamma, Vega), Swap Sözleşmeleri, Hedging (Korunma), Arbitraj ve Risk Yönetimi.",
+    ],
+    "aciklama": "Para Piyasaları, Sermaye Piyasaları, Borsa İstanbul Pazarları, Para Politikası Araçları ve TCMB Uygulamaları.",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: Türev Araçlar Temelleri ve VİOP İşleyiş Esasları",
+        "testAdi": "Test 1: Finansal Piyasalar Temel Esaslar",
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Vadeli işlem (Futures) sözleşmesinde uzun (long) pozisyon alan bir yatırımcının piyasa beklentisi aşağıdakilerden hangisidir?",
+            "soruMetni": "1006 - Finansal Piyasalar kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Dayanak varlık fiyatının yükselmesi",
-              "B": "Dayanak varlık fiyatının düşmesi",
-              "C": "Faiz oranlarının sabit kalması",
-              "D": "Piyasa volatilitesinin sıfırlanması",
-              "E": "Dolar kuru ile altının eşitlenmesi"
+              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
+              "B": "Sadece mevduat bankaları işlem yapabilir",
+              "C": "Garanti getiri vaat etmek serbesttir",
+              "D": "Tüm işlemler gizli yürütülür",
+              "E": "Tebliğler bakanlıkça çıkarılır"
             },
             "dogruCevap": "A",
-            "cozum": "Uzun (long) pozisyon alan taraf, gelecekte dayanak varlığı belirli bir fiyattan satın alma yükümlülüğüne girer ve fiyatların YÜKSELMESİNİ bekler."
-          },
-          {
-            "id": 2,
-            "soruMetni": "Opsiyon sözleşmelerinde alıcıya belirli bir vadede dayanak varlığı alma hakkı veren opsiyon türü hangisidir?",
-            "secenekler": {
-              "A": "Call (Alım) Opsiyonu",
-              "B": "Put (Satım) Opsiyonu",
-              "C": "Swap Sözleşmesi",
-              "D": "Cap Sözleşmesi",
-              "E": "Forward Sözleşmesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Alım (Call) opsiyonu alıcısına dayanak varlığı belirli bir kullanım fiyatından satın alma hakkı verir."
-          },
-          {
-            "id": 3,
-            "soruMetni": "Opsiyon fiyatının dayanak varlık fiyatındaki değişime duyarlılığını ölçen Yunan harfi (Greeks) hangisidir?",
-            "secenekler": {
-              "A": "Delta",
-              "B": "Gamma",
-              "C": "Vega",
-              "D": "Theta",
-              "E": "Rho"
-            },
-            "dogruCevap": "A",
-            "cozum": "Delta, dayanak varlık fiyatındaki 1 birimlik değişimin opsiyon priminde meydana getirdiği değişimi ölçer."
-          },
-          {
-            "id": 4,
-            "soruMetni": "VİOP'ta sürdürme teminatı seviyesinin altına düşen hesaplara ne tür bir çağrı yapılır?",
-            "secenekler": {
-              "A": "Teminat Tamamlama Çağrısı (Margin Call)",
-              "B": "Tasfiye Çağrısı",
-              "C": "Nakit Temerrüt Çağrısı",
-              "D": "İhtarname",
-              "E": "Haciz Bildirimi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Hesap özkaynağı sürdürme teminatının altına düştüğünde Takasbank tarafından Teminat Tamamlama Çağrısı (Margin Call) yapılır."
-          },
-          {
-            "id": 5,
-            "soruMetni": "Faiz oranlarının değişmesi riskine karşı sabit faizli borcu değişken faizli borç ile değiştiren türev sözleşme hangisidir?",
-            "secenekler": {
-              "A": "Faiz Swapı (Interest Rate Swap)",
-              "B": "Forward Pay Sözleşmesi",
-              "C": "Put Opsiyonu",
-              "D": "Varant",
-              "E": "Depo Sertifikası"
-            },
-            "dogruCevap": "A",
-            "cozum": "Faiz swapı (IRS), nakit akışlarındaki sabit-değişken faiz ödemelerinin takas edildiği türev sözleşmedir."
-          }
-        ]
-      },
-      {
-        "testId": 2,
-        "testAdi": "Test 2: Opsiyon Stratejileri, Varantlar ve Hedging Stratejileri",
-        "sorular": [
-          {
-            "id": 1,
-            "soruMetni": "Portföyündeki hisse senetlerinin değer kaybetmesinden korunmak (Hedging) isteyen bir yatırımcı VİOP'ta nasıl pozisyon almalıdır?",
-            "secenekler": {
-              "A": "Endeks vadelilerinde Kısa (Short) pozisyon almalıdır",
-              "B": "Endeks vadelilerinde Uzun (Long) pozisyon almalıdır",
-              "C": "Call opsiyonu satın almalıdır",
-              "D": "Dolar vadelisinde Uzun pozisyon almalıdır",
-              "E": "Hiçbir işlem yapmamalıdır"
-            },
-            "dogruCevap": "A",
-            "cozum": "Mevcut hisse senedi portföyünün değer kaybı riskine karşı VİOP'ta Kısa (Short) pozisyon açılarak risk hedeflenir."
+            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
           }
         ]
       }
+    ]
+  },
+  {
+    "code": "1007",
+    "dersAdi": "1007 - Finansal Yönetim ve Mali Analiz",
+    "kategori": "SPK Modül Kodu: 1007 | SPL Düzey 2, Düzey 3 Lisansı",
+    "duzeyler": [
+      "duzey2",
+      "duzey3"
     ],
+    "aciklama": "Finansal Tablolar Analizi, Oran (Rasyo) Analizi, Çalışma Sermayesi Yönetimi, WACC ve İndirgenmiş Nakit Akımları (İNA).",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: Finansal Yönetim ve Mali Analiz Temel Esaslar",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "1007 - Finansal Yönetim ve Mali Analiz kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
+              "B": "Sadece mevduat bankaları işlem yapabilir",
+              "C": "Garanti getiri vaat etmek serbesttir",
+              "D": "Tüm işlemler gizli yürütülür",
+              "E": "Tebliğler bakanlıkça çıkarılır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "1008",
+    "dersAdi": "1008 - Genel Ekonomi",
+    "kategori": "SPK Modül Kodu: 1008 | SPL Düzey 3 Lisansı",
+    "duzeyler": [
+      "duzey3"
+    ],
+    "aciklama": "Mikroekonomi, Makroekonomi, Enflasyon, İstihdam, Büyüme, Uluslararası Ticaret ve Döviz Kuru Piyasaları.",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: Genel Ekonomi Temel Esaslar",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "1008 - Genel Ekonomi kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
+              "B": "Sadece mevduat bankaları işlem yapabilir",
+              "C": "Garanti getiri vaat etmek serbesttir",
+              "D": "Tüm işlemler gizli yürütülür",
+              "E": "Tebliğler bakanlıkça çıkarılır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "code": "1009",
+    "dersAdi": "1009 - Temel Finans Matematiği ve Değerleme Yöntemleri",
+    "kategori": "SPK Modül Kodu: 1009 | SPL Düzey 3, Türev Araçlar Lisansı",
     "duzeyler": [
       "duzey3",
       "turev"
-    ]
-  },
-  {
-    "dersAdi": "1003 - Finansal Yönetim ve Analiz",
-    "kategori": "SPK Modül Kodu: 1003 | SPL Düzey 2 - 3 (Zorunlu Modül)",
-    "aciklama": "Finansal Tablolar Analizi, Oran (Rasyo) Analizi, Çalışma Sermayesi Yönetimi, Sermaye Maliyeti (WACC), İndirgenmiş Nakit Akımları (İNA/DCF) ve Net Bugünkü Değer (NBD).",
+    ],
+    "aciklama": "Paranın Zaman Değeri, Bileşik Faiz, Anüite, Tahvil Değerleme, Süre (Duration), Convexity ve Hisse Senedi Değerleme Modelleri.",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: Finansal Tablolar Analizi ve Likidite Oranları",
+        "testAdi": "Test 1: Temel Finans Matematiği ve Değerleme Yöntemleri Temel Esaslar",
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar oranı aşağıdakilerden hangisini verir?",
+            "soruMetni": "1009 - Temel Finans Matematiği ve Değerleme Yöntemleri kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Cari Oran",
-              "B": "Likidite (Asit-Test) Oranı",
-              "C": "Nakit Oran",
-              "D": "Kaldıraç Oranı",
-              "E": "Stok Devir Hızı"
+              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
+              "B": "Sadece mevduat bankaları işlem yapabilir",
+              "C": "Garanti getiri vaat etmek serbesttir",
+              "D": "Tüm işlemler gizli yürütülür",
+              "E": "Tebliğler bakanlıkça çıkarılır"
             },
             "dogruCevap": "A",
-            "cozum": "Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar formülü ile hesaplanır."
-          },
-          {
-            "id": 2,
-            "soruMetni": "Likidite (Asit-Test) Oranı hesaplanırken Dönen Varlıklardan aşağıdakilerden hangisi düşülür?",
-            "secenekler": {
-              "A": "Stoklar",
-              "B": "Kasa",
-              "C": "Bankalar",
-              "D": "Ticari Alacaklar",
-              "E": "Geçici Yatırımlar"
-            },
-            "dogruCevap": "A",
-            "cozum": "Likidite Oranı = (Dönen Varlıklar - Stoklar) / Kısa Vadeli Yabancı Kaynaklar formülüdür."
+            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
           }
         ]
       }
-    ],
+    ]
+  },
+  {
+    "code": "1010",
+    "dersAdi": "1010 - Ticaret Hukuku",
+    "kategori": "SPK Modül Kodu: 1010 | SPL Düzey 2, Düzey 3 Lisansı",
     "duzeyler": [
       "duzey2",
       "duzey3"
-    ]
-  },
-  {
-    "dersAdi": "1004 - Sermaye Piyasası Araçları 1 ve 2",
-    "kategori": "SPK Modül Kodu: 1004 | SPL Düzey 2 - 3 (Zorunlu Modül)",
-    "aciklama": "Paylar (Hisse Senetleri), Devlet Tahvili, Hazine Bonosu, Özel Sektör Borçlanma Araçları, Eurobondlar, Kira Sertifikaları (Sukuk), Varlık ve İpotek Teminatlı Menkul Kıymetler.",
+    ],
+    "aciklama": "6102 sayılı Türk Ticaret Kanunu, Anonim Şirketler Hukuku, Genel Kurul, Yönetim Kurulu, Kıymetli Evrak Hukuku.",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: Paylar ve Borçlanma Araçları İhraç Esasları",
+        "testAdi": "Test 1: Ticaret Hukuku Temel Esaslar",
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Hazine tarafından vadesi 1 yıldan kısa (364 güne kadar) olarak ihraç edilen iç borçlanma senedine ne ad verilir?",
+            "soruMetni": "1010 - Ticaret Hukuku kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Hazine Bonosu",
-              "B": "Devlet Tahvili",
-              "C": "Eurobond",
-              "D": "Kira Sertifikası",
-              "E": "Finansman Bonosu"
+              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
+              "B": "Sadece mevduat bankaları işlem yapabilir",
+              "C": "Garanti getiri vaat etmek serbesttir",
+              "D": "Tüm işlemler gizli yürütülür",
+              "E": "Tebliğler bakanlıkça çıkarılır"
             },
             "dogruCevap": "A",
-            "cozum": "Vadesi 1 yıldan (365 gün) kısa olan DİBS'ler Hazine Bonosu; 1 yıl ve daha uzun olanlar Devlet Tahvilidir."
+            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
           }
         ]
       }
-    ],
+    ]
+  },
+  {
+    "code": "1011",
+    "dersAdi": "1011 - Türev Araçlar, Piyasalar ve Risk Yönetimi",
+    "kategori": "SPK Modül Kodu: 1011 | SPL Türev Araçlar Lisansı (Zorunlu Modül)",
     "duzeyler": [
-      "duzey2",
-      "duzey3"
-    ]
-  },
-  {
-    "dersAdi": "1001 - Sermaye Piyasası Mevzuatı ve Genel Esaslar",
-    "kategori": "SPK Modül Kodu: 1001 | SPL Düzey 1 - 2 - 3 (Temel Modül)",
-    "aciklama": "6362 sayılı Sermaye Piyasası Kanunu, Kurul Organları, Sermaye Piyasası Kurumları, İhraççılar ve TSPB Meslek İlkeleri.",
+      "turev"
+    ],
+    "aciklama": "VİOP İşleyişi, Futures, Forward, Opsiyon Sözleşmeleri (Call/Put), Greeks (Delta, Gamma, Vega), Swap Sözleşmeleri, Hedging ve Arbitraj.",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: 6362 Sayılı SPK Kanunu Temelleri",
+        "testAdi": "Test 1: Türev Araçlar, Piyasalar ve Risk Yönetimi Temel Esaslar",
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Sermaye Piyasası Kurulu (SPK) üyeleri kim tarafından atanır?",
+            "soruMetni": "1011 - Türev Araçlar, Piyasalar ve Risk Yönetimi kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Cumhurbaşkanı",
-              "B": "TBMM Başkanı",
-              "C": "Hazine ve Maliye Bakanı",
-              "D": "Borsa İstanbul Başkanı",
-              "E": "TCMB Başkanı"
+              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
+              "B": "Sadece mevduat bankaları işlem yapabilir",
+              "C": "Garanti getiri vaat etmek serbesttir",
+              "D": "Tüm işlemler gizli yürütülür",
+              "E": "Tebliğler bakanlıkça çıkarılır"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Başkanı ve Kurul Üyeleri Cumhurbaşkanı tarafından atanır."
+            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
           }
         ]
       }
-    ],
+    ]
+  },
+  {
+    "code": "1012",
+    "dersAdi": "1012 - Takas, Saklama ve Operasyon İşlemleri",
+    "kategori": "SPK Modül Kodu: 1012 | SPL Düzey 1, Düzey 2, Düzey 3 Lisansı",
     "duzeyler": [
       "duzey1",
       "duzey2",
       "duzey3"
-    ]
-  },
-  {
-    "dersAdi": "1007 - Müşteri İlişkileri ve İletişim",
-    "kategori": "SPK Modül Kodu: 1007 | SPL Düzey 3 - Türev Araçlar Lisansı (Zorunlu Modül)",
-    "aciklama": "Müşteri Davranışları, Finansal İletişim Teknikleri, Müşteri Şikayet Yönetimi, İkna ve Hizmet Kalitesi Standartları.",
+    ],
+    "aciklama": "Merkezi Kayıt Kuruluşu (MKK) Kaydi Sistemi, Takasbank İşlemleri, Hak Kullanımı (Bedelli/Bedelsiz, Temettü) ve Saklama Operasyonları.",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: Müşteri İlişkileri Yönetimi ve İletişim Teknikleri",
+        "testAdi": "Test 1: Takas, Saklama ve Operasyon İşlemleri Temel Esaslar",
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Yatırım kuruluşlarında müşteri temsilcisinin müşteri ile iletişiminde ilk adım hangisidir?",
+            "soruMetni": "1012 - Takas, Saklama ve Operasyon İşlemleri kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Müşteri ihtiyaç ve risk profilini doğru analiz etmek",
-              "B": "Hemen ürün satışı yapmak",
-              "C": "Kendi portföyünü önermek",
-              "D": "Garanti getiri vaat etmek",
-              "E": "Sözleşmeyi okutmadan imzalatmak"
+              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
+              "B": "Sadece mevduat bankaları işlem yapabilir",
+              "C": "Garanti getiri vaat etmek serbesttir",
+              "D": "Tüm işlemler gizli yürütülür",
+              "E": "Tebliğler bakanlıkça çıkarılır"
             },
             "dogruCevap": "A",
-            "cozum": "Başarılı ve etik finansal iletişimde ilk adım müşterinin ihtiyaç, tecrübe ve risk profilinin doğru analiz edilmesidir."
+            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
           }
         ]
       }
-    ],
+    ]
+  },
+  {
+    "code": "1013",
+    "dersAdi": "1013 - Kurumlarda ve Sermaye Piyasasında Vergilendirme",
+    "kategori": "SPK Modül Kodu: 1013 | SPL Düzey 3, Türev Araçlar Lisansı",
     "duzeyler": [
       "duzey3",
       "turev"
-    ]
-  },
-  {
-    "dersAdi": "1008 - Muhasebe, Finansal Raporlama ve Standartlar",
-    "kategori": "SPK Modül Kodu: 1008 | SPL Düzey 3 (Zorunlu Modül)",
-    "aciklama": "TMS/TFRS Standartları, Bilanço, Gelir Tablosu, Özkaynak Değişim Tablosu, Nakit Akış Tablosu ve Dipnot Esasları.",
+    ],
+    "aciklama": "Gelir Vergisi Kanunu Geçici 67. Madde, Stopaj Uygulamaları, Kurumlar Vergisi, BSMV, Damga Vergisi ve Çifte Vergilendirmeyi Önleme Anlaşmaları.",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: TMS / TFRS ve Finansal Tablolar",
+        "testAdi": "Test 1: Kurumlarda ve Sermaye Piyasasında Vergilendirme Temel Esaslar",
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "İşletmenin belirli bir tarihteki varlıklarını, borçlarını ve özkaynaklarını gösteren finansal tablo hangisidir?",
+            "soruMetni": "1013 - Kurumlarda ve Sermaye Piyasasında Vergilendirme kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Bilanço (Finansal Durum Tablosu)",
-              "B": "Gelir Tablosu",
-              "C": "Nakit Akış Tablosu",
-              "D": "Mizan",
-              "E": "Satışların Maliyeti Tablosu"
+              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
+              "B": "Sadece mevduat bankaları işlem yapabilir",
+              "C": "Garanti getiri vaat etmek serbesttir",
+              "D": "Tüm işlemler gizli yürütülür",
+              "E": "Tebliğler bakanlıkça çıkarılır"
             },
             "dogruCevap": "A",
-            "cozum": "Bilanço belirli bir andaki varlık, borç ve özkaynak dengesini gösteren statik tablodur."
+            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
           }
         ]
       }
-    ],
+    ]
+  },
+  {
+    "code": "1016",
+    "dersAdi": "1016 - Muhasebe ve Finansal Raporlama",
+    "kategori": "SPK Modül Kodu: 1016 | SPL Düzey 2, Düzey 3 Lisansı",
     "duzeyler": [
+      "duzey2",
       "duzey3"
-    ]
-  },
-  {
-    "dersAdi": "1009 - Saklama Hizmetleri ve Operasyonlar",
-    "kategori": "SPK Modül Kodu: 1009 | SPL Düzey 3 (Zorunlu Modül)",
-    "aciklama": "Merkezi Kayıt Kuruluşu (MKK) Kaydi Sistem, Takasbank İşlemleri, Hak Kullanımı (Bedelli/Bedelsiz, Temettü) ve Saklama Operasyonları.",
+    ],
+    "aciklama": "TMS/TFRS Standartları, Bilanço, Gelir Tablosu, Nakit Akış Tablosu, Özkaynak Değişim Tablosu ve Dipnot Esasları.",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: MKK ve Takasbank Operasyon Esasları",
+        "testAdi": "Test 1: Muhasebe ve Finansal Raporlama Temel Esaslar",
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Türkiye'de sermaye piyasası araçlarının kaydi olarak izlendiği merkezi saklama kuruluşu hangisidir?",
+            "soruMetni": "1016 - Muhasebe ve Finansal Raporlama kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu (MKK)",
-              "B": "Takasbank",
-              "C": "Borsa İstanbul",
-              "D": "SPK",
-              "E": "TCMB"
+              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
+              "B": "Sadece mevduat bankaları işlem yapabilir",
+              "C": "Garanti getiri vaat etmek serbesttir",
+              "D": "Tüm işlemler gizli yürütülür",
+              "E": "Tebliğler bakanlıkça çıkarılır"
             },
             "dogruCevap": "A",
-            "cozum": "Paylar ve borçlanma araçları MKK nezdinde hak sahipleri bazında kayden izlenir."
+            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
           }
         ]
       }
-    ],
-    "duzeyler": [
-      "duzey3"
-    ]
-  },
-  {
-    "dersAdi": "1010 - Gayrimenkul Değerleme Esasları",
-    "kategori": "SPK Modül Kodu: 1010 | SPL Düzey 3 - Gayrimenkul Değerleme Lisansı",
-    "aciklama": "Emsal Karşılaştırma Yaklaşımı, Maliyet Yaklaşımı, Gelir İndirgeme Yaklaşımı, Tapu Mevzuatı ve Değerleme Raporlama Standartları.",
-    "testler": [
-      {
-        "testId": 1,
-        "testAdi": "Test 1: Değerleme Yöntemleri ve Tapu Mevzuatı",
-        "sorular": [
-          {
-            "id": 1,
-            "soruMetni": "Piyasada alım-satımı sık yapılan konut ve arsa değerlemesinde en çok tercih edilen güvenilir değerleme yöntemi hangisidir?",
-            "secenekler": {
-              "A": "Emsal Karşılaştırma Yaklaşımı",
-              "B": "Maliyet Yaklaşımı",
-              "C": "Gelir İndirgeme Yaklaşımı",
-              "D": "Rant Yöntemi",
-              "E": "Tasfiye Değeri Yöntemi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Emsal karşılaştırma yaklaşımı, benzer gayrimenkullerin piyasa satış fiyatlarının kıyaslanmasına dayanır ve konut/arsa değerlemesinde en güvenilir yöntemdir."
-          }
-        ]
-      }
-    ],
-    "duzeyler": [
-      "duzey3",
-      "gayrimenkul"
     ]
   }
 ];
