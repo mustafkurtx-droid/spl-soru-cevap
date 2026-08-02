@@ -42,44 +42,7 @@
   
   <!-- Custom Stylesheet -->
   <link rel="stylesheet" href="css/styles.css">
-  <script>
-    window.selectedLevels = [];
-    window.filterLevel = function(lvl, btnEl) {
-      if (!window.selectedLevels) window.selectedLevels = [];
-      if (lvl === 'all') {
-        window.selectedLevels = [];
-      } else {
-        var idx = window.selectedLevels.indexOf(lvl);
-        if (idx > -1) {
-          window.selectedLevels.splice(idx, 1);
-        } else {
-          window.selectedLevels.push(lvl);
-        }
-      }
 
-      var buttons = document.querySelectorAll('.level-filter-btn');
-      buttons.forEach(function(b) {
-        var bLvl = b.getAttribute('data-level');
-        if (bLvl === 'all') {
-          if (window.selectedLevels.length === 0) {
-            b.className = 'level-filter-btn active px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all shadow-md bg-sky-500 text-white border border-sky-500 cursor-pointer select-none';
-          } else {
-            b.className = 'level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 cursor-pointer select-none';
-          }
-        } else {
-          if (window.selectedLevels.indexOf(bLvl) > -1) {
-            b.className = 'level-filter-btn active px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all shadow-md bg-sky-500 text-white border border-sky-500 flex items-center gap-1.5 cursor-pointer scale-105 select-none';
-          } else {
-            b.className = 'level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer select-none';
-          }
-        }
-      });
-
-      if (window.appRenderCourseView) {
-        window.appRenderCourseView();
-      }
-    };
-  </script>
 </head>
 <body class="flex flex-col min-h-screen">
 
@@ -166,28 +129,28 @@
         </div>
       </div>
 
-                        <!-- Level Multi-Select Filter Bar -->
-      <div id="level-filter-bar" class="relative z-20 flex flex-wrap items-center gap-2 mb-6 p-3 rounded-2xl bg-slate-100/80 dark:bg-slate-800/80 border border-slate-200/80 dark:border-slate-700/80 shadow-xs">
+      <!-- Level Multi-Select Filter Bar -->
+      <div id="level-filter-bar" class="flex flex-wrap items-center gap-2 mb-6 p-3 rounded-2xl bg-slate-100/80 dark:bg-slate-800/80 border border-slate-200/80 dark:border-slate-700/80 shadow-xs">
         <span class="text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 mr-1 flex items-center gap-1.5 select-none">
           <i class="fa-solid fa-filter text-sky-500"></i> LİSANS SEVİYESİ:
         </span>
-        <button type="button" onclick="window.filterLevel('all', this)" data-level="all" class="level-filter-btn active px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all shadow-md bg-sky-500 text-white border border-sky-500 cursor-pointer select-none">
+        <button type="button" data-level="all" class="level-filter-btn active px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all shadow-md bg-sky-500 text-white border border-sky-500 cursor-pointer">
           Tüm Dersler
         </button>
-        <button type="button" onclick="window.filterLevel('duzey1', this)" data-level="duzey1" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer select-none">
-          <span class="w-2.5 h-2.5 rounded-full bg-blue-500 pointer-events-none"></span> Düzey 1
+        <button type="button" data-level="duzey1" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer">
+          <span class="w-2.5 h-2.5 rounded-full bg-blue-500 pointer-events-none"></span><span class="pointer-events-none">Düzey 1</span>
         </button>
-        <button type="button" onclick="window.filterLevel('duzey2', this)" data-level="duzey2" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer select-none">
-          <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 pointer-events-none"></span> Düzey 2
+        <button type="button" data-level="duzey2" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer">
+          <span class="w-2.5 h-2.5 rounded-full bg-emerald-500 pointer-events-none"></span><span class="pointer-events-none">Düzey 2</span>
         </button>
-        <button type="button" onclick="window.filterLevel('duzey3', this)" data-level="duzey3" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer select-none">
-          <span class="w-2.5 h-2.5 rounded-full bg-purple-500 pointer-events-none"></span> Düzey 3
+        <button type="button" data-level="duzey3" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer">
+          <span class="w-2.5 h-2.5 rounded-full bg-purple-500 pointer-events-none"></span><span class="pointer-events-none">Düzey 3</span>
         </button>
-        <button type="button" onclick="window.filterLevel('turev', this)" data-level="turev" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer select-none">
-          <span class="w-2.5 h-2.5 rounded-full bg-amber-500 pointer-events-none"></span> Türev Araçlar
+        <button type="button" data-level="turev" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer">
+          <span class="w-2.5 h-2.5 rounded-full bg-amber-500 pointer-events-none"></span><span class="pointer-events-none">Türev Araçlar</span>
         </button>
-        <button type="button" onclick="window.filterLevel('gayrimenkul', this)" data-level="gayrimenkul" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer select-none">
-          <span class="w-2.5 h-2.5 rounded-full bg-rose-500 pointer-events-none"></span> Gayrimenkul Değerleme
+        <button type="button" data-level="gayrimenkul" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer">
+          <span class="w-2.5 h-2.5 rounded-full bg-rose-500 pointer-events-none"></span><span class="pointer-events-none">Gayrimenkul Değerleme</span>
         </button>
       </div>
 
@@ -510,7 +473,7 @@
   </footer>
 
   <!-- JAVASCRIPT FILES -->
-  <script src="js/questions.js?v=20260802_16"></script>
-  <script src="js/app.js?v=20260802_16"></script>
+  <script src="js/questions.js?v=20260802_17"></script>
+  <script src="js/app.js?v=20260802_17"></script>
 </body>
 </html>
