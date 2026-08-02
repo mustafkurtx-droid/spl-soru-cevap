@@ -2,9 +2,7 @@
  * ============================================================================
  * SPL (Sermaye Piyasası Lisanslama) SORU VERİTABANI (questions.js)
  * ============================================================================
- * SPK Resmi Modül Kodları Eklendi:
- * 1002 - Geniş Kapsamlı Sermaye Piyasası Mevzuatı
- * 1005 - Yatırım Kuruluşları
+ * Tüm SPL Düzey 3 ve Türev Araçlar Lisansı Modülleri Tam Liste (Modül 1001 - 1010)
  * ============================================================================
  */
 
@@ -10243,110 +10241,6 @@ const splVeritabani = [
     ]
   },
   {
-    "dersAdi": "Sermaye Piyasası Mevzuatı",
-    "kategori": "Lisanslama Düzey 1 - 2 - 3",
-    "aciklama": "6362 sayılı Sermaye Piyasası Kanunu, Kurul düzenlemeleri ve ilgili mevzuat.",
-    "testler": [
-      {
-        "testId": 1,
-        "testAdi": "Test 1: Kurumlar ve Genel Esaslar",
-        "sorular": [
-          {
-            "id": 1,
-            "soruMetni": "Aşağıdakilerden hangisi 6362 sayılı Sermaye Piyasası Kanunu'na göre sermaye piyasası kurumlarından biri değildir?",
-            "secenekler": {
-              "A": "Aracı Kurumlar",
-              "B": "Portföy Yönetim Şirketleri",
-              "C": "Kuyumcular ve Döviz Büroları",
-              "D": "Yatırım Ortaklıkları",
-              "E": "Borsa İstanbul"
-            },
-            "dogruCevap": "C",
-            "cozum": "Kuyumcular ve döviz büroları Hazine ve Maliye Bakanlığı düzenlemelerine tabi olup 6362 sayılı Sermaye Piyasası Kanunu kapsamında sermaye piyasası kurumu sayılmazlar."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "dersAdi": "Finansal Yönetim ve Analiz",
-    "kategori": "Lisanslama Düzey 2 - 3",
-    "aciklama": "Finansal tablolar analizi, rasyolar, sermaye maliyeti ve yatırım kararları.",
-    "testler": [
-      {
-        "testId": 1,
-        "testAdi": "Test 1: Finansal Tablolar ve Oran Analizi",
-        "sorular": [
-          {
-            "id": 1,
-            "soruMetni": "Cari Oran formülü aşağıdakilerden hangisidir?",
-            "secenekler": {
-              "A": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar",
-              "B": "Duran Varlıklar / Özkaynaklar",
-              "C": "Stoklar / Dönem Net Kârı",
-              "D": "Net Satışlar / Toplam Varlıklar",
-              "E": "Özkaynaklar / Toplam Borçlar"
-            },
-            "dogruCevap": "A",
-            "cozum": "Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "dersAdi": "Gayrimenkul Değerleme Esasları",
-    "kategori": "Gayrimenkul Değerleme Lisansı",
-    "aciklama": "Gayrimenkul değerleme yöntemleri, tapu ve kadastro mevzuatı, imar hukuku.",
-    "testler": [
-      {
-        "testId": 1,
-        "testAdi": "Test 1: Değerleme Yaklaşımları",
-        "sorular": [
-          {
-            "id": 1,
-            "soruMetni": "Gayrimenkul değerlemesinde 'Emsal Karşılaştırma Yaklaşımı' en çok hangi durum türünde güvenilir sonuç verir?",
-            "secenekler": {
-              "A": "Piyasada benzer nitelikte yeterli sayıda alım-satım verisi bulunduğunda",
-              "B": "Hiç emsal bulunmayan özel nitelikli yapılarda",
-              "C": "Baraj ve köprü değerlemesinde",
-              "D": "Tarihi eser niteliğindeki binalarda",
-              "E": "Tamamlanmamış altyapı projelerinde"
-            },
-            "dogruCevap": "A",
-            "cozum": "Emsal karşılaştırma yöntemi, aktif ve şeffaf bir gayrimenkul piyasasında yeterli sayıda benzer satış emsali olduğunda en güvenilir yöntemdir."
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "dersAdi": "Türev Araçlar, Piyasalar ve Risk Yönetimi",
-    "kategori": "Türev Araçlar Lisansı",
-    "aciklama": "Vadeli işlem sözleşmeleri (Futures), Opsiyonlar, Swaplar ve risk korunma stratejileri.",
-    "testler": [
-      {
-        "testId": 1,
-        "testAdi": "Test 1: Futures ve Opsiyon Temelleri",
-        "sorular": [
-          {
-            "id": 1,
-            "soruMetni": "Vadeli işlem (Futures) sözleşmesinde uzun (long) pozisyon alan bir yatırımcının beklentisi nedir?",
-            "secenekler": {
-              "A": "Dayanak varlık fiyatının yükselmesi",
-              "B": "Dayanak varlık fiyatının düşmesi",
-              "C": "Faiz oranlarının sabit kalması",
-              "D": "Piyasa volatilitesinin sıfırlanması",
-              "E": "Şirketin temettü ödememesi"
-            },
-            "dogruCevap": "A",
-            "cozum": "Futures sözleşmesinde alım tarafı (long pozisyon), dayanak varlığın gelecekteki fiyatının artacağı beklentisiyle pozisyon açar."
-          }
-        ]
-      }
-    ]
-  },
-  {
     "dersAdi": "1005 - Yatırım Kuruluşları",
     "kategori": "SPK Modül Kodu: 1005 | SPL Düzey 2 - 3 - Türev Araçlar Lisansı",
     "aciklama": "Yatırım Hizmetleri Tebliği (III-37.1), Yatırım Kuruluşları Kuruluş Tebliği (III-39.1), Kaldıraçlı İşlemler, Kitle Fonlaması, Müşteri Hakları (25 Konu Testi + 1 Çıkmış Sorular Paketi + 10 Deneme - Toplam 770 Soru).",
@@ -20574,6 +20468,298 @@ const splVeritabani = [
             },
             "dogruCevap": "A",
             "cozum": "Deneme 10 Soru 25 Açıklaması: Sermaye eksikliğini gidermeyen kurumların izinleri iptal edilebilir."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dersAdi": "1006 - Türev Araçlar, Piyasalar ve Risk Yönetimi",
+    "kategori": "SPK Modül Kodu: 1006 | SPL Düzey 3 - Türev Araçlar Lisansı (Zorunlu Modül)",
+    "aciklama": "VİOP İşleyişi, Futures, Forward, Opsiyon Sözleşmeleri (Call/Put), Greeks (Delta, Gamma, Vega), Swap Sözleşmeleri, Hedging (Korunma), Arbitraj ve Risk Yönetimi.",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: Türev Araçlar Temelleri ve VİOP İşleyiş Esasları",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Vadeli işlem (Futures) sözleşmesinde uzun (long) pozisyon alan bir yatırımcının piyasa beklentisi aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Dayanak varlık fiyatının yükselmesi",
+              "B": "Dayanak varlık fiyatının düşmesi",
+              "C": "Faiz oranlarının sabit kalması",
+              "D": "Piyasa volatilitesinin sıfırlanması",
+              "E": "Dolar kuru ile altının eşitlenmesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Uzun (long) pozisyon alan taraf, gelecekte dayanak varlığı belirli bir fiyattan satın alma yükümlülüğüne girer ve fiyatların YÜKSELMESİNİ bekler."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Opsiyon sözleşmelerinde alıcıya belirli bir vadede dayanak varlığı alma hakkı veren opsiyon türü hangisidir?",
+            "secenekler": {
+              "A": "Call (Alım) Opsiyonu",
+              "B": "Put (Satım) Opsiyonu",
+              "C": "Swap Sözleşmesi",
+              "D": "Cap Sözleşmesi",
+              "E": "Forward Sözleşmesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Alım (Call) opsiyonu alıcısına dayanak varlığı belirli bir kullanım fiyatından satın alma hakkı verir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Opsiyon fiyatının dayanak varlık fiyatındaki değişime duyarlılığını ölçen Yunan harfi (Greeks) hangisidir?",
+            "secenekler": {
+              "A": "Delta",
+              "B": "Gamma",
+              "C": "Vega",
+              "D": "Theta",
+              "E": "Rho"
+            },
+            "dogruCevap": "A",
+            "cozum": "Delta, dayanak varlık fiyatındaki 1 birimlik değişimin opsiyon priminde meydana getirdiği değişimi ölçer."
+          },
+          {
+            "id": 4,
+            "soruMetni": "VİOP'ta sürdürme teminatı seviyesinin altına düşen hesaplara ne tür bir çağrı yapılır?",
+            "secenekler": {
+              "A": "Teminat Tamamlama Çağrısı (Margin Call)",
+              "B": "Tasfiye Çağrısı",
+              "C": "Nakit Temerrüt Çağrısı",
+              "D": "İhtarname",
+              "E": "Haciz Bildirimi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Hesap özkaynağı sürdürme teminatının altına düştüğünde Takasbank tarafından Teminat Tamamlama Çağrısı (Margin Call) yapılır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Faiz oranlarının değişmesi riskine karşı sabit faizli borcu değişken faizli borç ile değiştiren türev sözleşme hangisidir?",
+            "secenekler": {
+              "A": "Faiz Swapı (Interest Rate Swap)",
+              "B": "Forward Pay Sözleşmesi",
+              "C": "Put Opsiyonu",
+              "D": "Varant",
+              "E": "Depo Sertifikası"
+            },
+            "dogruCevap": "A",
+            "cozum": "Faiz swapı (IRS), nakit akışlarındaki sabit-değişken faiz ödemelerinin takas edildiği türev sözleşmedir."
+          }
+        ]
+      },
+      {
+        "testId": 2,
+        "testAdi": "Test 2: Opsiyon Stratejileri, Varantlar ve Hedging Stratejileri",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Portföyündeki hisse senetlerinin değer kaybetmesinden korunmak (Hedging) isteyen bir yatırımcı VİOP'ta nasıl pozisyon almalıdır?",
+            "secenekler": {
+              "A": "Endeks vadelilerinde Kısa (Short) pozisyon almalıdır",
+              "B": "Endeks vadelilerinde Uzun (Long) pozisyon almalıdır",
+              "C": "Call opsiyonu satın almalıdır",
+              "D": "Dolar vadelisinde Uzun pozisyon almalıdır",
+              "E": "Hiçbir işlem yapmamalıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Mevcut hisse senedi portföyünün değer kaybı riskine karşı VİOP'ta Kısa (Short) pozisyon açılarak risk hedeflenir."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dersAdi": "1003 - Finansal Yönetim ve Analiz",
+    "kategori": "SPK Modül Kodu: 1003 | SPL Düzey 2 - 3 (Zorunlu Modül)",
+    "aciklama": "Finansal Tablolar Analizi, Oran (Rasyo) Analizi, Çalışma Sermayesi Yönetimi, Sermaye Maliyeti (WACC), İndirgenmiş Nakit Akımları (İNA/DCF) ve Net Bugünkü Değer (NBD).",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: Finansal Tablolar Analizi ve Likidite Oranları",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar oranı aşağıdakilerden hangisini verir?",
+            "secenekler": {
+              "A": "Cari Oran",
+              "B": "Likidite (Asit-Test) Oranı",
+              "C": "Nakit Oran",
+              "D": "Kaldıraç Oranı",
+              "E": "Stok Devir Hızı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Cari Oran = Dönen Varlıklar / Kısa Vadeli Yabancı Kaynaklar formülü ile hesaplanır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Likidite (Asit-Test) Oranı hesaplanırken Dönen Varlıklardan aşağıdakilerden hangisi düşülür?",
+            "secenekler": {
+              "A": "Stoklar",
+              "B": "Kasa",
+              "C": "Bankalar",
+              "D": "Ticari Alacaklar",
+              "E": "Geçici Yatırımlar"
+            },
+            "dogruCevap": "A",
+            "cozum": "Likidite Oranı = (Dönen Varlıklar - Stoklar) / Kısa Vadeli Yabancı Kaynaklar formülüdür."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dersAdi": "1004 - Sermaye Piyasası Araçları 1 ve 2",
+    "kategori": "SPK Modül Kodu: 1004 | SPL Düzey 2 - 3 (Zorunlu Modül)",
+    "aciklama": "Paylar (Hisse Senetleri), Devlet Tahvili, Hazine Bonosu, Özel Sektör Borçlanma Araçları, Eurobondlar, Kira Sertifikaları (Sukuk), Varlık ve İpotek Teminatlı Menkul Kıymetler.",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: Paylar ve Borçlanma Araçları İhraç Esasları",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Hazine tarafından vadesi 1 yıldan kısa (364 güne kadar) olarak ihraç edilen iç borçlanma senedine ne ad verilir?",
+            "secenekler": {
+              "A": "Hazine Bonosu",
+              "B": "Devlet Tahvili",
+              "C": "Eurobond",
+              "D": "Kira Sertifikası",
+              "E": "Finansman Bonosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Vadesi 1 yıldan (365 gün) kısa olan DİBS'ler Hazine Bonosu; 1 yıl ve daha uzun olanlar Devlet Tahvilidir."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dersAdi": "1001 - Sermaye Piyasası Mevzuatı ve Genel Esaslar",
+    "kategori": "SPK Modül Kodu: 1001 | SPL Düzey 1 - 2 - 3 (Temel Modül)",
+    "aciklama": "6362 sayılı Sermaye Piyasası Kanunu, Kurul Organları, Sermaye Piyasası Kurumları, İhraççılar ve TSPB Meslek İlkeleri.",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: 6362 Sayılı SPK Kanunu Temelleri",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Sermaye Piyasası Kurulu (SPK) üyeleri kim tarafından atanır?",
+            "secenekler": {
+              "A": "Cumhurbaşkanı",
+              "B": "TBMM Başkanı",
+              "C": "Hazine ve Maliye Bakanı",
+              "D": "Borsa İstanbul Başkanı",
+              "E": "TCMB Başkanı"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPK Başkanı ve Kurul Üyeleri Cumhurbaşkanı tarafından atanır."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dersAdi": "1007 - Müşteri İlişkileri ve İletişim",
+    "kategori": "SPK Modül Kodu: 1007 | SPL Düzey 3 - Türev Araçlar Lisansı (Zorunlu Modül)",
+    "aciklama": "Müşteri Davranışları, Finansal İletişim Teknikleri, Müşteri Şikayet Yönetimi, İkna ve Hizmet Kalitesi Standartları.",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: Müşteri İlişkileri Yönetimi ve İletişim Teknikleri",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Yatırım kuruluşlarında müşteri temsilcisinin müşteri ile iletişiminde ilk adım hangisidir?",
+            "secenekler": {
+              "A": "Müşteri ihtiyaç ve risk profilini doğru analiz etmek",
+              "B": "Hemen ürün satışı yapmak",
+              "C": "Kendi portföyünü önermek",
+              "D": "Garanti getiri vaat etmek",
+              "E": "Sözleşmeyi okutmadan imzalatmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Başarılı ve etik finansal iletişimde ilk adım müşterinin ihtiyaç, tecrübe ve risk profilinin doğru analiz edilmesidir."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dersAdi": "1008 - Muhasebe, Finansal Raporlama ve Standartlar",
+    "kategori": "SPK Modül Kodu: 1008 | SPL Düzey 3 (Zorunlu Modül)",
+    "aciklama": "TMS/TFRS Standartları, Bilanço, Gelir Tablosu, Özkaynak Değişim Tablosu, Nakit Akış Tablosu ve Dipnot Esasları.",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: TMS / TFRS ve Finansal Tablolar",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "İşletmenin belirli bir tarihteki varlıklarını, borçlarını ve özkaynaklarını gösteren finansal tablo hangisidir?",
+            "secenekler": {
+              "A": "Bilanço (Finansal Durum Tablosu)",
+              "B": "Gelir Tablosu",
+              "C": "Nakit Akış Tablosu",
+              "D": "Mizan",
+              "E": "Satışların Maliyeti Tablosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Bilanço belirli bir andaki varlık, borç ve özkaynak dengesini gösteren statik tablodur."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dersAdi": "1009 - Saklama Hizmetleri ve Operasyonlar",
+    "kategori": "SPK Modül Kodu: 1009 | SPL Düzey 3 (Zorunlu Modül)",
+    "aciklama": "Merkezi Kayıt Kuruluşu (MKK) Kaydi Sistem, Takasbank İşlemleri, Hak Kullanımı (Bedelli/Bedelsiz, Temettü) ve Saklama Operasyonları.",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: MKK ve Takasbank Operasyon Esasları",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Türkiye'de sermaye piyasası araçlarının kaydi olarak izlendiği merkezi saklama kuruluşu hangisidir?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu (MKK)",
+              "B": "Takasbank",
+              "C": "Borsa İstanbul",
+              "D": "SPK",
+              "E": "TCMB"
+            },
+            "dogruCevap": "A",
+            "cozum": "Paylar ve borçlanma araçları MKK nezdinde hak sahipleri bazında kayden izlenir."
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "dersAdi": "1010 - Gayrimenkul Değerleme Esasları",
+    "kategori": "SPK Modül Kodu: 1010 | SPL Düzey 3 - Gayrimenkul Değerleme Lisansı",
+    "aciklama": "Emsal Karşılaştırma Yaklaşımı, Maliyet Yaklaşımı, Gelir İndirgeme Yaklaşımı, Tapu Mevzuatı ve Değerleme Raporlama Standartları.",
+    "testler": [
+      {
+        "testId": 1,
+        "testAdi": "Test 1: Değerleme Yöntemleri ve Tapu Mevzuatı",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Piyasada alım-satımı sık yapılan konut ve arsa değerlemesinde en çok tercih edilen güvenilir değerleme yöntemi hangisidir?",
+            "secenekler": {
+              "A": "Emsal Karşılaştırma Yaklaşımı",
+              "B": "Maliyet Yaklaşımı",
+              "C": "Gelir İndirgeme Yaklaşımı",
+              "D": "Rant Yöntemi",
+              "E": "Tasfiye Değeri Yöntemi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Emsal karşılaştırma yaklaşımı, benzer gayrimenkullerin piyasa satış fiyatlarının kıyaslanmasına dayanır ve konut/arsa değerlemesinde en güvenilir yöntemdir."
           }
         ]
       }
