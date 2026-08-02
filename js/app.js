@@ -21,8 +21,27 @@
     bookmarks: [],                  // [ questionId, ... ]
     testCompleted: false,
     resultsFilter: 'all',           // 'all', 'wrong', 'empty'
+    selectedLevels: [],             // [ 'duzey1', 'duzey2', 'duzey3', 'turev', 'gayrimenkul' ]
     storageKey: 'spl_quiz_progress_v1'
   };
+
+  // KÜRESEL LİSANS FİLTRELEME FONKSİYONU
+  window.filterLevel = function(lvl) {
+    if (!state.selectedLevels) state.selectedLevels = [];
+    if (lvl === 'all') {
+      state.selectedLevels = [];
+    } else {
+      const idx = state.selectedLevels.indexOf(lvl);
+      if (idx > -1) {
+        state.selectedLevels.splice(idx, 1);
+      } else {
+        state.selectedLevels.push(lvl);
+      }
+    }
+    updateLevelFilterUI();
+    renderCourseView();
+  };
+
 
   // --- LOCALSTORAGE YÖNETİMİ ---
   function getProgressData() {
