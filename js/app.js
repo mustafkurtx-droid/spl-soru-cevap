@@ -104,12 +104,12 @@
     return null;
   }
 
-    function updateLevelFilterUI() {
+  function updateLevelFilterUI() {
     document.querySelectorAll('.level-filter-btn').forEach(btn => {
       const lvl = btn.getAttribute('data-level');
       if (lvl === 'all') {
         if (state.selectedLevels.length === 0) {
-          btn.className = 'level-filter-btn active px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all shadow-md bg-sky-500 text-white border border-sky-500 cursor-pointer';
+          btn.className = 'level-filter-btn active px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all shadow-xs bg-sky-500 text-white border border-sky-500 cursor-pointer';
         } else {
           btn.className = 'level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 cursor-pointer';
         }
@@ -680,7 +680,7 @@
     };
     document.getElementById('res-back-to-tests-btn').onclick = () => renderTestView(state.selectedCourseIndex);
 
-        // Level Multi-Select Filter Buttons (Event Delegation)
+    // Level Multi-Select Filter Buttons (Event Delegation)
     const levelFilterBar = document.getElementById('level-filter-bar');
     if (levelFilterBar) {
       levelFilterBar.onclick = (e) => {
@@ -701,4 +701,138 @@
         updateLevelFilterUI();
         renderCourseView();
       };
-    })();
+    }
+
+    // Search Input Event
+    const searchInput = document.getElementById('course-search-input');
+    if (searchInput) {
+      searchInput.oninput = () => {
+        if (state.currentView === 'course-view') renderCourseView();
+      };
+    }
+
+    // Theme Toggle Event
+    const themeBtn = document.getElementById('theme-toggle-btn');
+    themeBtn.onclick = () => {
+      document.documentElement.classList.toggle('dark');
+      const isDark = document.documentElement.classList.contains('dark');
+      localStorage.setItem('spl_theme', isDark ? 'dark' : 'light');
+    };
+
+    // Saved Theme Load
+    const savedTheme = localStorage.getItem('spl_theme');
+    if (savedTheme === 'light') {
+      document.documentElement.classList.remove('dark');
+    }
+
+    // Reset Progress Event
+    document.getElementById('reset-progress-btn').onclick = () => resetAllProgress();
+
+    // Quiz Modes Toggle
+    document.getElementById('mode-instant-btn').onclick = () => {
+      state.examMode = 'instant';
+      updateModeButtonsState();
+      renderQuizView();
+    };
+    document.getElementById('mode-exam-btn').onclick = () => {
+      state.examMode = 'exam';
+      updateModeButtonsState();
+      renderQuizView();
+    };
+
+    // Quiz View Type Toggle
+    document.getElementById('view-single-btn').onclick = () => {
+      state.viewType = 'single';
+      updateViewButtonsState();
+      renderQuizView();
+    };
+    document.getElementById('view-list-btn').onclick = () => {
+      state.viewType = 'list';
+      updateViewButtonsState();
+      renderQuizView();
+    };
+
+    // Previous / Next Buttons
+    document.getElementById('prev-question-btn').onclick = () => {
+      if (state.currentQuestionIndex > 0) {
+        state.currentQuestionIndex--;
+        renderQuizView();
+      }
+    };
+    document.getElementById('next-question-btn').onclick = () => {
+      const test = getTestData(state.selectedCourseIndex, state.selectedTestId);
+      if (test && state.currentQuestionIndex < test.sorular.length - 1) {
+        state.currentQuestionIndex++;
+        renderQuizView();
+      }
+    };
+
+    // Finish Test Button
+    document.getElementById('finish-test-btn').onclick = () => {
+      if (confirm('Testi bitirmek ve sonuçları görmek istediğinize emin misiniz?')) {
+        evaluateAndFinishTest();
+      }
+    };
+
+    // Retry Test Button
+    document.getElementById('retry-test-btn').onclick = () => {
+      startQuiz(state.selectedCourseIndex, state.selectedTestId);
+    };
+
+    // Toggle Palette Sidebar on Mobile
+    document.getElementById('toggle-palette-btn').onclick = () => {
+      const sidebar = document.getElementById('palette-sidebar');
+      sidebar.classList.toggle('hidden');
+    };
+
+    // Bookmark Toggle
+    document.getElementById('bookmark-btn').onclick = () => {
+      const test = getTestData(state.selectedCourseIndex, state.selectedTestId);
+      if (!test) return;
+      const qId = test.sorular[state.currentQuestionIndex].id;
+      const idx = state.bookmarks.indexOf(qId);
+      if (idx > -1) {
+        state.bookmarks.splice(idx, 1);
+      } else {
+        state.bookmarks.push(qId);
+      }
+      renderQuizView();
+    };
+
+    // Results Review Filters
+    document.getElementById('res-filter-all').onclick = (e) => {
+      state.resultsFilter = 'all';
+      updateResultFilterButtons(e.target);
+      const test = getTestData(state.selectedCourseIndex, state.selectedTestId);
+      renderResultsReviewList(test.sorular);
+    };
+    document.getElementById('res-filter-wrong').onclick = (e) => {
+      state.resultsFilter = 'wrong';
+      updateResultFilterButtons(e.target);
+      const test = getTestData(state.selectedCourseIndex, state.selectedTestId);
+      renderResultsReviewList(test.sorular);
+    };
+    document.getElementById('res-filter-empty').onclick = (e) => {
+      state.resultsFilter = 'empty';
+      updateResultFilterButtons(e.target);
+      const test = getTestData(state.selectedCourseIndex, state.selectedTestId);
+      renderResultsReviewList(test.sorular);
+    };
+  }
+
+  function updateResultFilterButtons(activeBtn) {
+    const parent = activeBtn.parentElement;
+    parent.querySelectorAll('button').forEach(btn => {
+      btn.className = 'px-3.5 py-1.5 rounded-lg text-slate-600 dark:text-slate-300 hover:text-slate-900 transition';
+    });
+    activeBtn.className = 'px-3.5 py-1.5 rounded-lg bg-sky-500 text-white transition font-bold';
+  }
+
+  // --- UYGULAMA BAŞLATICI (INITIALIZER) ---
+  document.addEventListener('DOMContentLoaded', () => {
+    initEvents();
+    updateGlobalHeaderStats();
+    renderCourseView();
+  });
+
+})();
