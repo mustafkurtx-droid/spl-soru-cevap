@@ -104,6 +104,22 @@
     return null;
   }
 
+  window.filterLevel = function(lvl) {
+    if (!state.selectedLevels) state.selectedLevels = [];
+    if (lvl === 'all') {
+      state.selectedLevels = [];
+    } else {
+      const idx = state.selectedLevels.indexOf(lvl);
+      if (idx > -1) {
+        state.selectedLevels.splice(idx, 1);
+      } else {
+        state.selectedLevels.push(lvl);
+      }
+    }
+    updateLevelFilterUI();
+    renderCourseView();
+  };
+
   function updateLevelFilterUI() {
     document.querySelectorAll('.level-filter-btn').forEach(btn => {
       const lvl = btn.getAttribute('data-level');
