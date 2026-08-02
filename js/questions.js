@@ -1405,7 +1405,7 @@ const splVeritabani = [
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.1) uyarınca, GYO'ların portföy değerinin en az yüzde kaçının gayrimenkullerden, gayrimenkul projelerinden ve gayrimenkule dayalı haklardan oluşması zorunludur?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.1) uyarınca, Gayrimenkul Yatırım Ortaklıklarının portföy değerinin en az yüzde kaçının gayrimenkullerden, gayrimenkul projelerinden ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
               "A": "%50",
               "B": "%70",
@@ -1414,11 +1414,11 @@ const splVeritabani = [
               "E": "%60"
             },
             "dogruCevap": "B",
-            "cozum": "III-48.1 sayılı Tebliğ m. 24 uyarınca GYO portföy değerinin en az %70'inin gayrimenkuller, gayrimenkule dayalı haklar ve gayrimenkul projelerinden oluşması zorunludur."
+            "cozum": "III-48.1 sayılı Tebliğ m. 24 uyarınca Gayrimenkul Yatırım Ortaklığı portföy değerinin en az %70'inin gayrimenkuller, gayrimenkule dayalı haklar ve gayrimenkul projelerinden oluşması zorunludur."
           },
           {
             "id": 2,
-            "soruMetni": "III-48.1 sayılı Tebliğ uyarınca, Gayrimenkul Yatırım Ortaklıkları (GYO) hakkında aşağıdakilerden hangisi YASAKTIR / yapılamaz?",
+            "soruMetni": "III-48.1 sayılı Tebliğ uyarınca, Gayrimenkul Yatırım Ortaklıkları (Gayrimenkul Yatırım Ortaklığı) hakkında aşağıdakilerden hangisi YASAKTIR / yapılamaz?",
             "secenekler": {
               "A": "Borsada işlem gören sermaye piyasası araçlarına yatırım yapmak",
               "B": "Katılım ve mevduat hesaplarında nakit değerlendirmek",
@@ -1427,11 +1427,11 @@ const splVeritabani = [
               "E": "Sürekli olarak gayrimenkul alım-satımı komisyonculuğu ve inşaat taahhüt işleri yapmak"
             },
             "dogruCevap": "E",
-            "cozum": "GYO'lar inşaat taahhüt işleri yapamazlar, kendi personeli ve iş makineleriyle inşaat yapamaz ve gayrimenkul alım satım komisyonculuğu yürütemezler."
+            "cozum": "Gayrimenkul Yatırım Ortaklıkları inşaat taahhüt işleri yapamazlar, kendi personeli ve iş makineleriyle inşaat yapamaz ve gayrimenkul alım satım komisyonculuğu yürütemezler."
           },
           {
             "id": 3,
-            "soruMetni": "GYO Tebliği (III-48.1) uyarınca, bir GYO'nun alabileceği kısa ve uzun vadeli kredilerin (borçlanma tutarı) toplamı hesap dönemi sonundaki özkaynaklarının en fazla kaç katı olabilir?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklığı Tebliği (III-48.1) uyarınca, bir Gayrimenkul Yatırım Ortaklığının alabileceği kısa ve uzun vadeli kredilerin (borçlanma tutarı) toplamı hesap dönemi sonundaki özkaynaklarının en fazla kaç katı olabilir?",
             "secenekler": {
               "A": "10 Katı",
               "B": "5 Katı",
@@ -1440,11 +1440,11 @@ const splVeritabani = [
               "E": "2 Katı"
             },
             "dogruCevap": "B",
-            "cozum": "Tebliğ m. 31 uyarınca GYO'ların kullanabilecekleri toplam kredi tutarı son bilançodaki özkaynaklarının 5 katını aşamaz."
+            "cozum": "Tebliğ m. 31 uyarınca Gayrimenkul Yatırım Ortaklıklarının kullanabilecekleri toplam kredi tutarı son bilançodaki özkaynaklarının 5 katını aşamaz."
           },
           {
             "id": 4,
-            "soruMetni": "GYO portföyünde yer alan veya portföye alınacak olan gayrimenkullerin değerlemesinin SPK listesinde yer alan gayrimenkul değerleme kuruluşlarına yaptırılması zorunluluğuyla ilgili aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklığı portföyünde yer alan veya portföye alınacak olan gayrimenkullerin değerlemesinin SPK listesinde yer alan gayrimenkul değerleme kuruluşlarına yaptırılması zorunluluğuyla ilgili aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Portföye giren her bir gayrimenkul için alım veya satım öncesinde ve ayrıca her takvim yılı sonunda değerleme yaptırılması zorunludur.",
               "B": "Değerleme raporları KAP'ta yayımlanmaz.",
@@ -1457,7 +1457,7 @@ const splVeritabani = [
           },
           {
             "id": 5,
-            "soruMetni": "GYO Tebliği uyarınca, halka açılmak üzere kurulan veya dönüşen GYO'ların ödenmiş sermayelerinin en az yüzde kaçını belirlenen süre içinde halka arz etmeleri zorunludur?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklığı Tebliği uyarınca, halka açılmak üzere kurulan veya dönüşen Gayrimenkul Yatırım Ortaklıklarının ödenmiş sermayelerinin en az yüzde kaçını belirlenen süre içinde halka arz etmeleri zorunludur?",
             "secenekler": {
               "A": "%18",
               "B": "%45",
@@ -1466,11 +1466,11 @@ const splVeritabani = [
               "E": "%30"
             },
             "dogruCevap": "D",
-            "cozum": "Tebliğ m. 11 uyarınca GYO'ların çıkarılmış sermayelerinin en az %25'inin halka arz edilmesi zorunludur."
+            "cozum": "Tebliğ m. 11 uyarınca Gayrimenkul Yatırım Ortaklıklarının çıkarılmış sermayelerinin en az %25'inin halka arz edilmesi zorunludur."
           },
           {
             "id": 6,
-            "soruMetni": "GYO'ların portföylerindeki varlıkların ve gayrimenkul tapu belgelerinin emniyeti için hangi kuruluş nezdinde portföy saklama hizmeti alınması ZORUNLUDUR?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarının portföylerindeki varlıkların ve gayrimenkul tapu belgelerinin emniyeti için hangi kuruluş nezdinde portföy saklama hizmeti alınması ZORUNLUDUR?",
             "secenekler": {
               "A": "Tapu ve Kadastro Genel Müdürlüğü Bölge Kiralama Bürosu",
               "B": "Ticaret Odası",
@@ -1479,11 +1479,11 @@ const splVeritabani = [
               "E": "Şirket Avukatının Şahsi Kasası"
             },
             "dogruCevap": "C",
-            "cozum": "Tebliğ m. 36 uyarınca GYO varlıkları ve hakları yetkili portföy saklayıcısı nezdinde saklanır ve izlenir."
+            "cozum": "Tebliğ m. 36 uyarınca Gayrimenkul Yatırım Ortaklığı varlıkları ve hakları yetkili portföy saklayıcısı nezdinde saklanır ve izlenir."
           },
           {
             "id": 7,
-            "soruMetni": "Bir GYO'nun tek bir projeye veya gayrimenkule yapabileceği yatırım tutarı, toplam portföy değerinin en fazla yüzde kaçını oluşturabilir?",
+            "soruMetni": "Bir Gayrimenkul Yatırım Ortaklığının tek bir projeye veya gayrimenkule yapabileceği yatırım tutarı, toplam portföy değerinin en fazla yüzde kaçını oluşturabilir?",
             "secenekler": {
               "A": "%30 ile sınırlıdır.",
               "B": "Tek projeye yatırım yapılması tamamen yasaktır.",
@@ -1492,24 +1492,24 @@ const splVeritabani = [
               "E": "Sınırlama yoktur (Tamamı tek projeye yatırılabilir ancak kısıtlama özel hallerde değerlendirilir)."
             },
             "dogruCevap": "E",
-            "cozum": "Tebliğde genel GYO'lar için tek bir projeye yatırım oranında bir azami üst sınır kısıtlaması konulmamıştır (müteahhitlik yasağı saklıdır)."
+            "cozum": "Tebliğde genel Gayrimenkul Yatırım Ortaklıkları için tek bir projeye yatırım oranında bir azami üst sınır kısıtlaması konulmamıştır (müteahhitlik yasağı saklıdır)."
           },
           {
             "id": 8,
-            "soruMetni": "Altyapı gayrimenkullerine ve projelerine yatırım yapmak üzere münhasıran kurulan GYO türüne ne ad verilir?",
+            "soruMetni": "Altyapı gayrimenkullerine ve projelerine yatırım yapmak üzere münhasıran kurulan Gayrimenkul Yatırım Ortaklığı türüne ne ad verilir?",
             "secenekler": {
-              "A": "Katılım GYO",
-              "B": "Girişim Sermayesi GYO",
+              "A": "Katılım Gayrimenkul Yatırım Ortaklığı",
+              "B": "Girişim Sermayesi Gayrimenkul Yatırım Ortaklığı",
               "C": "Münhasıran Altyapı Gayrimenkul Yatırım Ortaklığı",
-              "D": "Serbest GYO",
-              "E": "Sektörel MKYO"
+              "D": "Serbest Gayrimenkul Yatırım Ortaklığı",
+              "E": "Sektörel Menkul Kıymet Yatırım Ortaklığı"
             },
             "dogruCevap": "C",
-            "cozum": "Altyapı yatırım ve hizmetlerine yatırım yapan GYO'lar 'Altyapı GYO' olarak özel düzenlemeye tabidir."
+            "cozum": "Altyapı yatırım ve hizmetlerine yatırım yapan Gayrimenkul Yatırım Ortaklıkları 'Altyapı Gayrimenkul Yatırım Ortaklığı' olarak özel düzenlemeye tabidir."
           },
           {
             "id": 9,
-            "soruMetni": "GYO Tebliği uyarınca, GYO portföyündeki gayrimenkuller üzerinde üçüncü kişiler lehine ipotek veya rehin tesis edilmesine ilişkin kısıtlama hangisidir?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklığı Tebliği uyarınca, Gayrimenkul Yatırım Ortaklığı portföyündeki gayrimenkuller üzerinde üçüncü kişiler lehine ipotek veya rehin tesis edilmesine ilişkin kısıtlama hangisidir?",
             "secenekler": {
               "A": "Portföydeki varlıklar üzerinde yalnızca portföye gayrimenkul alımının veya finansmanının temini amacıyla sınırlı olarak ipotek tesis edilebilir.",
               "B": "İpotek konulması tamamen yasaktır.",
@@ -1518,11 +1518,11 @@ const splVeritabani = [
               "E": "Sadece şirket ortaklarının şahsi borçlarına ipotek verilir."
             },
             "dogruCevap": "A",
-            "cozum": "Tebliğ m. 30 uyarınca GYO varlıkları üzerinde sadece kendi gayrimenkul alımı veya proje finansmanı amacıyla ipotek/rehin tesis edilebilir; 3. kişiler lehine garanti verilemez."
+            "cozum": "Tebliğ m. 30 uyarınca Gayrimenkul Yatırım Ortaklığı varlıkları üzerinde sadece kendi gayrimenkul alımı veya proje finansmanı amacıyla ipotek/rehin tesis edilebilir; 3. kişiler lehine garanti verilemez."
           },
           {
             "id": 10,
-            "soruMetni": "GYO'ların portföy sınırlamalarına aykırılık oluşması durumunda (örneğin gayrimenkul oranının %70'in altına düşmesi), SPK tarafından aykırılığın giderilmesi için verilen uyum süresi azami kaç aydır?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarının portföy sınırlamalarına aykırılık oluşması durumunda (örneğin gayrimenkul oranının %70'in altına düşmesi), SPK tarafından aykırılığın giderilmesi için verilen uyum süresi azami kaç aydır?",
             "secenekler": {
               "A": "6 Ay",
               "B": "12 Ay",
@@ -1535,20 +1535,20 @@ const splVeritabani = [
           },
           {
             "id": 11,
-            "soruMetni": "Halka açık bir GYO'nun kâr payı (temettü) dağıtım politikasına ilişkin SPK tebliğ esasları uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "Halka açık bir Gayrimenkul Yatırım Ortaklığının kâr payı (temettü) dağıtım politikasına ilişkin SPK tebliğ esasları uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Kârın tamamı devlete vergi olarak ödenir.",
-              "B": "GYO'lar kâr dağıtım politikalarını Genel Kurul onayına sunar ve internet sitesinde açıklar.",
-              "C": "GYO'ların kâr dağıtması kanunen yasaktır.",
+              "B": "Gayrimenkul Yatırım Ortaklıkları kâr dağıtım politikalarını Genel Kurul onayına sunar ve internet sitesinde açıklar.",
+              "C": "Gayrimenkul Yatırım Ortaklıklarının kâr dağıtması kanunen yasaktır.",
               "D": "Dağıtım sadece hisse senedi olarak yapılır.",
               "E": "Kâr dağıtımı yapılmaz."
             },
             "dogruCevap": "B",
-            "cozum": "GYO'lar kâr dağıtım ilkelerini belirleyerek Genel Kurulda ortakların onayına sunmakla yükümlüdür."
+            "cozum": "Gayrimenkul Yatırım Ortaklıkları kâr dağıtım ilkelerini belirleyerek Genel Kurulda ortakların onayına sunmakla yükümlüdür."
           },
           {
             "id": 12,
-            "soruMetni": "GYO'ların teminat, kefalet ve ipotek verilmesine ilişkin sınırlamalara aykırı hareket etmeleri halinde sorumluluk kimlere aittir?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarının teminat, kefalet ve ipotek verilmesine ilişkin sınırlamalara aykırı hareket etmeleri halinde sorumluluk kimlere aittir?",
             "secenekler": {
               "A": "MKK çalışanları",
               "B": "İşlemde kararı ve imzası bulunan Yönetim Kurulu Üyeleri",
@@ -1561,7 +1561,7 @@ const splVeritabani = [
           },
           {
             "id": 13,
-            "soruMetni": "GYO Tebliği uyarınca, henüz tamamlanmamış veya projelendirilmemiş olan arsa ve arazilerin GYO portföyündeki oranı en fazla yüzde kaç olabilir?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklığı Tebliği uyarınca, henüz tamamlanmamış veya projelendirilmemiş olan arsa ve arazilerin Gayrimenkul Yatırım Ortaklığı portföyündeki oranı en fazla yüzde kaç olabilir?",
             "secenekler": {
               "A": "%20",
               "B": "%10",
@@ -1574,7 +1574,7 @@ const splVeritabani = [
           },
           {
             "id": 14,
-            "soruMetni": "GYO'ların yabancı para cinsinden gayrimenkul yatırımı veya yurt dışı gayrimenkul yatırımı yapma sınır eşiği portföy değerinin en fazla yüzde kaçıdır?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarının yabancı para cinsinden gayrimenkul yatırımı veya yurt dışı gayrimenkul yatırımı yapma sınır eşiği portföy değerinin en fazla yüzde kaçıdır?",
             "secenekler": {
               "A": "%25",
               "B": "%90",
@@ -1583,24 +1583,24 @@ const splVeritabani = [
               "E": "%10"
             },
             "dogruCevap": "D",
-            "cozum": "Tebliğ m. 24 uyarınca GYO'ların yurt dışında bulunan gayrimenkullere ve gayrimenkul şirketlerine yapacağı yatırım oranı portföyün %49'unu aşamaz."
+            "cozum": "Tebliğ m. 24 uyarınca Gayrimenkul Yatırım Ortaklıklarının yurt dışında bulunan gayrimenkullere ve gayrimenkul şirketlerine yapacağı yatırım oranı portföyün %49'unu aşamaz."
           },
           {
             "id": 15,
-            "soruMetni": "Aşağıdakilerden hangisi GYO'ların esas sözleşmesinde bulunması zorunlu olan hususlardan biri DEĞİLDİR?",
+            "soruMetni": "Aşağıdakilerden hangisi Gayrimenkul Yatırım Ortaklıklarının esas sözleşmesinde bulunması zorunlu olan hususlardan biri DEĞİLDİR?",
             "secenekler": {
               "A": "Yönetim kurulu üye sayısı ve seçim şartları",
               "B": "Sermaye ve payların türü",
               "C": "Şirketin tüm çalışanlarının sendika üyesi olma zorunluluğu",
               "D": "Kayıtlı sermaye tavanı tutarı",
-              "E": "Faaliyet konusunun GYO tebliğine uygunluğu"
+              "E": "Faaliyet konusunun Gayrimenkul Yatırım Ortaklığı tebliğine uygunluğu"
             },
             "dogruCevap": "C",
-            "cozum": "Çalışanların sendika üyeliği gibi hususlar esas sözleşmenin zorunlu GYO unsuru değildir."
+            "cozum": "Çalışanların sendika üyeliği gibi hususlar esas sözleşmenin zorunlu Gayrimenkul Yatırım Ortaklığı unsuru değildir."
           },
           {
             "id": 16,
-            "soruMetni": "GYO Tebliği uyarınca, GYO portföyündeki bir gayrimenkulün ekspertiz (değerleme) değerinin altında bir fiyatla satılabilmesi için ne yapılması gerekir?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklığı Tebliği uyarınca, Gayrimenkul Yatırım Ortaklığı portföyündeki bir gayrimenkulün ekspertiz (değerleme) değerinin altında bir fiyatla satılabilmesi için ne yapılması gerekir?",
             "secenekler": {
               "A": "Satış işlemi yapılamaz.",
               "B": "Tapu harcı iptal edilir.",
@@ -1613,7 +1613,7 @@ const splVeritabani = [
           },
           {
             "id": 17,
-            "soruMetni": "GYO'ların tasfiye edilmesi veya GYO statüsünden çıkması durumunda SPK'ya başvuru şartıyla ilgili aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarının tasfiye edilmesi veya Gayrimenkul Yatırım Ortaklığı statüsünden çıkması durumunda SPK'ya başvuru şartıyla ilgili aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Esas sözleşme değişikliği için SPK'dan uygun görüş alınması zorunludur.",
               "B": "Tasfiye işlemi sadece mahkeme kararıyla durdurulabilir.",
@@ -1622,11 +1622,11 @@ const splVeritabani = [
               "E": "Dönüşüm imkânı bulunmamaktadır."
             },
             "dogruCevap": "A",
-            "cozum": "GYO statüsünden çıkış veya dönüşüm esas sözleşme değişikliği niteliğinde olup SPK uygun görüşüne tabidir."
+            "cozum": "Gayrimenkul Yatırım Ortaklığı statüsünden çıkış veya dönüşüm esas sözleşme değişikliği niteliğinde olup SPK uygun görüşüne tabidir."
           },
           {
             "id": 18,
-            "soruMetni": "GYO Tebliği uyarınca, ortaklığın sermayesini temsil eden payların devriyle ilgili aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklığı Tebliği uyarınca, ortaklığın sermayesini temsil eden payların devriyle ilgili aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Devir işlemleri sadece noterden yapılır.",
               "B": "Borsadaki payların satışı yasaktır.",
@@ -1639,20 +1639,20 @@ const splVeritabani = [
           },
           {
             "id": 19,
-            "soruMetni": "GYO'ların yıllık faaliyet raporlarında Kurumsal Yönetim Uyum Raporunun yer alması ZORUNLU mudur?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarının yıllık faaliyet raporlarında Kurumsal Yönetim Uyum Raporunun yer alması ZORUNLU mudur?",
             "secenekler": {
               "A": "Sadece ortaklar isterse yazılır.",
-              "B": "Hayır, GYO'lar kurumsal yönetimden muaftır.",
+              "B": "Hayır, Gayrimenkul Yatırım Ortaklıkları kurumsal yönetimden muaftır.",
               "C": "Sadece 10 yılda bir eklenir.",
               "D": "İsteğe bağlıdır.",
               "E": "Evet, kurumsal yönetim ilke kararlarına uyum ve açıklama raporu faaliyet raporunda yer almalıdır."
             },
             "dogruCevap": "E",
-            "cozum": "Halka açık tüm GYO'lar Kurumsal Yönetim İlkelerine uymak ve faaliyet raporunda uyum raporu yayımlamakla yükümlüdür."
+            "cozum": "Halka açık tüm Gayrimenkul Yatırım Ortaklıkları Kurumsal Yönetim İlkelerine uymak ve faaliyet raporunda uyum raporu yayımlamakla yükümlüdür."
           },
           {
             "id": 20,
-            "soruMetni": "GYO'ların iş yapacağı bağımsız değerleme kuruluşunun seçimi kim tarafından yapılır?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarının iş yapacağı bağımsız değerleme kuruluşunun seçimi kim tarafından yapılır?",
             "secenekler": {
               "A": "Genel Müdür tarafından şifahen seçilir.",
               "B": "Belediye tarafından atanır.",
@@ -1672,7 +1672,7 @@ const splVeritabani = [
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.5) uyarınca, MKYO'ların temel faaliyet konusu aşağıdakilerden hangisidir?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.5) uyarınca, Menkul Kıymet Yatırım Ortaklıklarının temel faaliyet konusu aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "İthalat ve ihracat yapmak",
               "B": "Mevduat toplamak ve kredi vermek",
@@ -1681,11 +1681,11 @@ const splVeritabani = [
               "E": "Sermaye piyasası araçları ile kıymetli madenlerden oluşan portföyü işletmek"
             },
             "dogruCevap": "E",
-            "cozum": "III-48.5 m. 4 uyarınca MKYO'ların faaliyet konusu sermaye piyasası araçları, ters repo, nakit ve kıymetli maden portföyünü kolektif olarak işletmektir."
+            "cozum": "III-48.5 m. 4 uyarınca Menkul Kıymet Yatırım Ortaklıklarının faaliyet konusu sermaye piyasası araçları, ters repo, nakit ve kıymetli maden portföyünü kolektif olarak işletmektir."
           },
           {
             "id": 2,
-            "soruMetni": "MKYO Tebliği (III-48.5) uyarınca, MKYO'ların tek bir ihraççı ortaklığın sermaye piyasası araçlarına yatırabileceği tutar portföy değerinin en fazla yüzde kaçı olabilir?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklığı Tebliği (III-48.5) uyarınca, Menkul Kıymet Yatırım Ortaklıklarının tek bir ihraççı ortaklığın sermaye piyasası araçlarına yatırabileceği tutar portföy değerinin en fazla yüzde kaçı olabilir?",
             "secenekler": {
               "A": "%5",
               "B": "%10",
@@ -1694,11 +1694,11 @@ const splVeritabani = [
               "E": "%40"
             },
             "dogruCevap": "C",
-            "cozum": "Tebliğ m. 22 uyarınca MKYO'lar tek bir ortaklığın ihraç ettiği sermaye piyasası araçlarına portföy değerinin en fazla %15'ini yatırabilir."
+            "cozum": "Tebliğ m. 22 uyarınca Menkul Kıymet Yatırım Ortaklıkları tek bir ortaklığın ihraç ettiği sermaye piyasası araçlarına portföy değerinin en fazla %15'ini yatırabilir."
           },
           {
             "id": 3,
-            "soruMetni": "MKYO Tebliği uyarınca, MKYO'ların tek bir bankada değerlendirebileceği mevduat veya katılım hesabı tutarı portföy değerinin azami yüzde kaçıdır?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklığı Tebliği uyarınca, Menkul Kıymet Yatırım Ortaklıklarının tek bir bankada değerlendirebileceği mevduat veya katılım hesabı tutarı portföy değerinin azami yüzde kaçıdır?",
             "secenekler": {
               "A": "%8",
               "B": "%12",
@@ -1711,7 +1711,7 @@ const splVeritabani = [
           },
           {
             "id": 4,
-            "soruMetni": "MKYO'ların kredi almak suretiyle borçlanabilecekleri tutarın azami sınırı hesap dönemindeki özkaynaklarının yüzde kaçını aşamaz?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarının kredi almak suretiyle borçlanabilecekleri tutarın azami sınırı hesap dönemindeki özkaynaklarının yüzde kaçını aşamaz?",
             "secenekler": {
               "A": "%100",
               "B": "%5",
@@ -1720,11 +1720,11 @@ const splVeritabani = [
               "E": "%50"
             },
             "dogruCevap": "C",
-            "cozum": "Tebliğ m. 25 uyarınca MKYO'ların alabileceği kredilerin toplamı özkaynaklarının %20'sini aşamaz."
+            "cozum": "Tebliğ m. 25 uyarınca Menkul Kıymet Yatırım Ortaklıklarının alabileceği kredilerin toplamı özkaynaklarının %20'sini aşamaz."
           },
           {
             "id": 5,
-            "soruMetni": "MKYO'ların portföy değerini ve net aktif değerini hesaplama ve ilan etme sıklığı aşağıdakilerden hangisidir?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarının portföy değerini ve net aktif değerini hesaplama ve ilan etme sıklığı aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Hesaplama yapılmaz.",
               "B": "Ayda bir kez hesaplanır.",
@@ -1733,11 +1733,11 @@ const splVeritabani = [
               "E": "Her iş günü (günlük olarak) hesaplanır ve ilan edilir."
             },
             "dogruCevap": "E",
-            "cozum": "Tebliğ m. 28 uyarınca MKYO'lar her iş günü itibariyle portföy değerini ve birim pay değerini hesaplamakla yükümlüdür."
+            "cozum": "Tebliğ m. 28 uyarınca Menkul Kıymet Yatırım Ortaklıkları her iş günü itibariyle portföy değerini ve birim pay değerini hesaplamakla yükümlüdür."
           },
           {
             "id": 6,
-            "soruMetni": "III-48.5 sayılı Tebliğ uyarınca, MKYO'ların çıkarılmış sermayelerinin en az yüzde kaçını belirlenen süre içinde halka arz etmeleri zorunludur?",
+            "soruMetni": "III-48.5 sayılı Tebliğ uyarınca, Menkul Kıymet Yatırım Ortaklıklarının çıkarılmış sermayelerinin en az yüzde kaçını belirlenen süre içinde halka arz etmeleri zorunludur?",
             "secenekler": {
               "A": "%14",
               "B": "%22",
@@ -1746,11 +1746,11 @@ const splVeritabani = [
               "E": "%38"
             },
             "dogruCevap": "D",
-            "cozum": "Tebliğ m. 11 uyarınca MKYO'ların çıkarılmış sermayelerinin en az %25'inin halka arz edilmesi zorunludur."
+            "cozum": "Tebliğ m. 11 uyarınca Menkul Kıymet Yatırım Ortaklıklarının çıkarılmış sermayelerinin en az %25'inin halka arz edilmesi zorunludur."
           },
           {
             "id": 7,
-            "soruMetni": "MKYO'ların portföylerine alabilecekleri sermaye piyasası araçlarının alım satımlarının nerede yapılması ZORUNLUDUR?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarının portföylerine alabilecekleri sermaye piyasası araçlarının alım satımlarının nerede yapılması ZORUNLUDUR?",
             "secenekler": {
               "A": "Borsa kanalından yapılması zorunludur (Yatırım fonu katılma payları hariç).",
               "B": "Tezgahüstü serbest piyasadan yapılır.",
@@ -1763,7 +1763,7 @@ const splVeritabani = [
           },
           {
             "id": 8,
-            "soruMetni": "Aşağıdakilerden hangisi MKYO'ların yapamayacağı iş ve işlemlerden biridir?",
+            "soruMetni": "Aşağıdakilerden hangisi Menkul Kıymet Yatırım Ortaklıklarının yapamayacağı iş ve işlemlerden biridir?",
             "secenekler": {
               "A": "BİST payları almak",
               "B": "Açığa satış yapmak, ödünç menkul kıymet almak ve vermek hariç portföyünü teminat göstermek",
@@ -1772,11 +1772,11 @@ const splVeritabani = [
               "E": "Ters repo yapmak"
             },
             "dogruCevap": "B",
-            "cozum": "MKYO'lar mevzuatta izin verilen haller dışında portföylerindeki varlıkları teminat gösteremez veya rehnedemezler."
+            "cozum": "Menkul Kıymet Yatırım Ortaklıkları mevzuatta izin verilen haller dışında portföylerindeki varlıkları teminat gösteremez veya rehnedemezler."
           },
           {
             "id": 9,
-            "soruMetni": "MKYO'ların portföy yönetim hizmetini dışarıdan bir Portföy Yönetim Şirketinden (PYŞ) alması durumunda imzalanan sözleşmeye ne ad verilir?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarının portföy yönetim hizmetini dışarıdan bir Portföy Yönetim Şirketinden (Portföy Yönetim Şirketi) alması durumunda imzalanan sözleşmeye ne ad verilir?",
             "secenekler": {
               "A": "Acentelik Sözleşmesi",
               "B": "Gizlilik Sözleşmesi",
@@ -1785,11 +1785,11 @@ const splVeritabani = [
               "E": "Portföy Yönetim Sözleşmesi"
             },
             "dogruCevap": "E",
-            "cozum": "MKYO'lar portföylerini bir PYŞ'ye yönetdirebilir ve bu kapsamda Portföy Yönetim Sözleşmesi akdedilir."
+            "cozum": "Menkul Kıymet Yatırım Ortaklıkları portföylerini bir Portföy Yönetim Şirketine yönetdirebilir ve bu kapsamda Portföy Yönetim Sözleşmesi akdedilir."
           },
           {
             "id": 10,
-            "soruMetni": "MKYO'ların sermaye artırımlarında rüçhan haklarının kısıtlanması veya primli pay ihracı yapılması kimin onayına tabidir?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarının sermaye artırımlarında rüçhan haklarının kısıtlanması veya primli pay ihracı yapılması kimin onayına tabidir?",
             "secenekler": {
               "A": "Sadece Şirket Genel Müdürünün kararı",
               "B": "SPK Onayı ve Genel Kurul Kararı",
@@ -1802,7 +1802,7 @@ const splVeritabani = [
           },
           {
             "id": 11,
-            "soruMetni": "MKYO'ların halka arz edilen paylarının borsa pazarında işlem görmesi zorunlu olan borsa işleticisi kimdir?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarının halka arz edilen paylarının borsa pazarında işlem görmesi zorunlu olan borsa işleticisi kimdir?",
             "secenekler": {
               "A": "Borsa İstanbul A.Ş.",
               "B": "Nasdaq",
@@ -1811,11 +1811,11 @@ const splVeritabani = [
               "E": "Tokyo Borsası"
             },
             "dogruCevap": "A",
-            "cozum": "Türkiye'de kurulan MKYO paylarının Borsa İstanbul nezdinde kote olması ve işlem görmesi şarttır."
+            "cozum": "Türkiye'de kurulan Menkul Kıymet Yatırım Ortaklığı paylarının Borsa İstanbul nezdinde kote olması ve işlem görmesi şarttır."
           },
           {
             "id": 12,
-            "soruMetni": "MKYO portföyündeki varlıkların saklanması hangi kuruluş nezdinde müşteri/ortaklık bazında yürütülür?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklığı portföyündeki varlıkların saklanması hangi kuruluş nezdinde müşteri/ortaklık bazında yürütülür?",
             "secenekler": {
               "A": "İçişleri Bakanlığı",
               "B": "Şirket Yönetim Kurulu Başkanının Kasası",
@@ -1824,11 +1824,11 @@ const splVeritabani = [
               "E": "İl Emniyet Müdürlüğü"
             },
             "dogruCevap": "D",
-            "cozum": "Tebliğ uyarınca MKYO portföy varlıkları yetkili portföy saklayıcısı nezdinde tutulur."
+            "cozum": "Tebliğ uyarınca Menkul Kıymet Yatırım Ortaklığı portföy varlıkları yetkili portföy saklayıcısı nezdinde tutulur."
           },
           {
             "id": 13,
-            "soruMetni": "MKYO'ların portföy değerine ilişkin oran sınırlamalarını ihlal etmesi durumunda SPK'nın uyum için tanıdığı süre azami kaç aydır?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarının portföy değerine ilişkin oran sınırlamalarını ihlal etmesi durumunda SPK'nın uyum için tanıdığı süre azami kaç aydır?",
             "secenekler": {
               "A": "1 Yıl",
               "B": "9 Ay",
@@ -1841,7 +1841,7 @@ const splVeritabani = [
           },
           {
             "id": 14,
-            "soruMetni": "Aşağıdakilerden hangisi MKYO'ların kurucuları ve ortaklarında aranan şartlardan biri DEĞİLDİR?",
+            "soruMetni": "Aşağıdakilerden hangisi Menkul Kıymet Yatırım Ortaklıklarının kurucuları ve ortaklarında aranan şartlardan biri DEĞİLDİR?",
             "secenekler": {
               "A": "Tasfiyeye tabi tutulan kurumlarda kontrol sahibi olmaması",
               "B": "Müflis olmaması ve mali güce sahip olması",
@@ -1854,7 +1854,7 @@ const splVeritabani = [
           },
           {
             "id": 15,
-            "soruMetni": "MKYO'ların hazırlayacakları finansal tabloların bağımsız denetimi hangi periyotlarda zorunludur?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarının hazırlayacakları finansal tabloların bağımsız denetimi hangi periyotlarda zorunludur?",
             "secenekler": {
               "A": "6 aylık ara dönem ve yıllık dönemlerde bağımsız denetim zorunludur.",
               "B": "Sadece 10 yılda bir yapılır.",
@@ -1863,11 +1863,11 @@ const splVeritabani = [
               "E": "İsteğe bağlıdır."
             },
             "dogruCevap": "A",
-            "cozum": "MKYO'lar 6 aylık ve 12 aylık finansal tablolarını bağımsız denetimden geçirmekle yükümlüdür."
+            "cozum": "Menkul Kıymet Yatırım Ortaklıkları 6 aylık ve 12 aylık finansal tablolarını bağımsız denetimden geçirmekle yükümlüdür."
           },
           {
             "id": 16,
-            "soruMetni": "MKYO'ların tasfiye kararı alması veya başka bir şirkete dönüşmesi durumunda SPK onayının alınması ZORUNLU mudur?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarının tasfiye kararı alması veya başka bir şirkete dönüşmesi durumunda SPK onayının alınması ZORUNLU mudur?",
             "secenekler": {
               "A": "Borsa kararı yeterlidir.",
               "B": "Sadece belediyeye bildirilir.",
@@ -1880,7 +1880,7 @@ const splVeritabani = [
           },
           {
             "id": 17,
-            "soruMetni": "MKYO'larda yönetim kurulunda yer alan üyelerin çoğunluğunun hangi niteliklere sahip olması şarttır?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklığı'larda yönetim kurulunda yer alan üyelerin çoğunluğunun hangi niteliklere sahip olması şarttır?",
             "secenekler": {
               "A": "Şirket çalışanı olmaması",
               "B": "Sadece yabancı uyruklu olması",
@@ -1893,7 +1893,7 @@ const splVeritabani = [
           },
           {
             "id": 18,
-            "soruMetni": "MKYO portföyündeki varlıkların değerlemesinde borsada işlem gören paylar için hangi fiyat esas alınır?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklığı portföyündeki varlıkların değerlemesinde borsada işlem gören paylar için hangi fiyat esas alınır?",
             "secenekler": {
               "A": "Gelecek yıl tahmini fiyatı",
               "B": "Değerleme günündeki borsa kapanış veya ağırlıklı ortalama fiyatı",
@@ -1906,7 +1906,7 @@ const splVeritabani = [
           },
           {
             "id": 19,
-            "soruMetni": "MKYO'ların yıllık net dağıtılabilir kârlarının ortaklara dağıtılması hususunda kararı veren organ hangisidir?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarının yıllık net dağıtılabilir kârlarının ortaklara dağıtılması hususunda kararı veren organ hangisidir?",
             "secenekler": {
               "A": "Borsa Direktörü",
               "B": "Genel Kurul",
@@ -1919,7 +1919,7 @@ const splVeritabani = [
           },
           {
             "id": 20,
-            "soruMetni": "MKYO'ların bilançolarında yer alan yedek akçelerin kullanımı TTK ve SPK hükümleri uyarınca nereye tabidir?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarının bilançolarında yer alan yedek akçelerin kullanımı TTK ve SPK hükümleri uyarınca nereye tabidir?",
             "secenekler": {
               "A": "Kanuni yedek akçeler ayrıldıktan sonra kalan kısım Genel Kurul kararıyla dağıtılabilir veya sermayeye eklenebilir.",
               "B": "Sadece yönetim kuruluna prim dağıtılır.",
@@ -1939,7 +1939,7 @@ const splVeritabani = [
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca, PYŞ'lerin ana faaliyet konusu aşağıdakilerden hangisidir?",
+            "soruMetni": "Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca, Portföy Yönetim Şirketlerinin ana faaliyet konusu aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Gayrimenkul müteahhitliği",
               "B": "Sigorta acenteliği",
@@ -1948,11 +1948,11 @@ const splVeritabani = [
               "E": "Döviz bürosu işletmeciliği"
             },
             "dogruCevap": "C",
-            "cozum": "III-55.1 m. 4 uyarınca PYŞ'lerin ana faaliyeti yatırım fonları ve yatırım ortaklıklarının portföylerinin yönetilmesidir (Kolektif Portföy Yöneticiliği)."
+            "cozum": "III-55.1 m. 4 uyarınca Portföy Yönetim Şirketlerinin ana faaliyeti yatırım fonları ve yatırım ortaklıklarının portföylerinin yönetilmesidir (Kolektif Portföy Yöneticiliği)."
           },
           {
             "id": 2,
-            "soruMetni": "III-55.1 sayılı Tebliğ uyarınca, PYŞ'lerin ana faaliyet konusuna ek olarak sunabileceği yan hizmetler (yan faaliyetler) arasında aşağıdakilerden hangisi YER ALIR?",
+            "soruMetni": "III-55.1 sayılı Tebliğ uyarınca, Portföy Yönetim Şirketlerinin ana faaliyet konusuna ek olarak sunabileceği yan hizmetler (yan faaliyetler) arasında aşağıdakilerden hangisi YER ALIR?",
             "secenekler": {
               "A": "Bireysel portföy yöneticiliği, yatırım danışmanlığı ve katılma payı alım satımına aracılık",
               "B": "Factoring işlemleri",
@@ -1961,11 +1961,11 @@ const splVeritabani = [
               "E": "Mali müşavirlik bürosu işletme"
             },
             "dogruCevap": "A",
-            "cozum": "PYŞ'ler kolektif portföy yöneticiliğinin yanı sıra bireysel portföy yöneticiliği ve yatırım danışmanlığı hizmeti de verebilirler."
+            "cozum": "Portföy Yönetim Şirketleri kolektif portföy yöneticiliğinin yanı sıra bireysel portföy yöneticiliği ve yatırım danışmanlığı hizmeti de verebilirler."
           },
           {
             "id": 3,
-            "soruMetni": "PYŞ Tebliği uyarınca, portföy yönetim şirketinde görev yapacak portföy yöneticilerinin haiz olması gereken mesleki lisans belgesi aşağıdakilerden hangisidir?",
+            "soruMetni": "Portföy Yönetim Şirketi Tebliği uyarınca, portföy yönetim şirketinde görev yapacak portföy yöneticilerinin haiz olması gereken mesleki lisans belgesi aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Türev Araçlar Lisansı",
               "B": "Kredi Derecelendirme Lisansı",
@@ -1978,20 +1978,20 @@ const splVeritabani = [
           },
           {
             "id": 4,
-            "soruMetni": "PYŞ'lerin yönettikleri portföylerdeki varlıkları kendi özvarlıklarından ayırma prensibiyle ilgili aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "Portföy Yönetim Şirketlerinin yönettikleri portföylerdeki varlıkları kendi özvarlıklarından ayırma prensibiyle ilgili aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Fon ve müşterilere ait varlıklar PYŞ'nin malvarlığından ayrıdır; PYŞ borçları nedeniyle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
-              "B": "Müşteri varlıkları PYŞ bilançosunda gösterilir.",
-              "C": "PYŞ iflas ederse müşteri parası yok olur.",
+              "A": "Fon ve müşterilere ait varlıklar Portföy Yönetim Şirketinin malvarlığından ayrıdır; Portföy Yönetim Şirketi borçları nedeniyle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Müşteri varlıkları Portföy Yönetim Şirketi bilançosunda gösterilir.",
+              "C": "Portföy Yönetim Şirketi iflas ederse müşteri parası yok olur.",
               "D": "Müşteri varlıkları ortakların kişisel hesabına aktarılır.",
-              "E": "PYŞ borçları için müşteri varlıklarına el konulabilir."
+              "E": "Portföy Yönetim Şirketi borçları için müşteri varlıklarına el konulabilir."
             },
             "dogruCevap": "A",
             "cozum": "SPKn m. 56 uyarınca yönetilen portföyler tamamen bağımsız olup şirket borçları nedeniyle haczedilemez."
           },
           {
             "id": 5,
-            "soruMetni": "PYŞ'lerin kuruluş ve faaliyet izni alabilmesi için SPK tarafından belirlenen asgari ödenmiş sermaye yükümlülüğünün ne şekilde ödenmesi şarttır?",
+            "soruMetni": "Portföy Yönetim Şirketlerinin kuruluş ve faaliyet izni alabilmesi için SPK tarafından belirlenen asgari ödenmiş sermaye yükümlülüğünün ne şekilde ödenmesi şarttır?",
             "secenekler": {
               "A": "Senet karşılığı ödenmesi",
               "B": "10 yıl sonra ödenmesi",
@@ -2000,14 +2000,14 @@ const splVeritabani = [
               "E": "Nakit olarak ve her türlü muvazaadan arı olarak ödenmesi"
             },
             "dogruCevap": "E",
-            "cozum": "PYŞ başlangıç sermayesinin tamamının nakden ve muvazaasız ödenmiş olması zorunludur."
+            "cozum": "Portföy Yönetim Şirketi başlangıç sermayesinin tamamının nakden ve muvazaasız ödenmiş olması zorunludur."
           },
           {
             "id": 6,
-            "soruMetni": "PYŞ nezdinde iç denetim, risk yönetim ve denetim sistemlerinin kurulması kimin sorumluluğundadır?",
+            "soruMetni": "Portföy Yönetim Şirketi nezdinde iç denetim, risk yönetim ve denetim sistemlerinin kurulması kimin sorumluluğundadır?",
             "secenekler": {
               "A": "Dışarıdaki güvenlik firması",
-              "B": "PYŞ Yönetim Kurulu",
+              "B": "Portföy Yönetim Şirketi Yönetim Kurulu",
               "C": "Stajyer çalışanlar",
               "D": "Borsa İstanbul",
               "E": "Portföy Saklayıcısı Kurum"
@@ -2017,20 +2017,20 @@ const splVeritabani = [
           },
           {
             "id": 7,
-            "soruMetni": "PYŞ'lerin yönettikleri portföyler için aracı kurumlara ödedikleri komisyon ve giderlerle ilgili aşağıdakilerden hangisi YASAKTIR?",
+            "soruMetni": "Portföy Yönetim Şirketlerinin yönettikleri portföyler için aracı kurumlara ödedikleri komisyon ve giderlerle ilgili aşağıdakilerden hangisi YASAKTIR?",
             "secenekler": {
               "A": "Saklama ücreti ödenmesi",
               "B": "Makul düzeyde borsa komisyonu ödenmesi",
-              "C": "Portföy işlemlerinden dolayı PYŞ yöneticilerine veya şirket lehine örtülü komisyon, iskonto ve menfaat sağlanması",
+              "C": "Portföy işlemlerinden dolayı Portföy Yönetim Şirketi yöneticilerine veya şirket lehine örtülü komisyon, iskonto ve menfaat sağlanması",
               "D": "İzahnamede yazan kurallara uyulması",
               "E": "Takas masraflarının karşılanması"
             },
             "dogruCevap": "C",
-            "cozum": "Tebliğ m. 27 uyarınca PYŞ'ler yaptıkları işlemlerden dolayı kendi lehlerine komisyon ve iskonto sağlayamazlar."
+            "cozum": "Tebliğ m. 27 uyarınca Portföy Yönetim Şirketleri yaptıkları işlemlerden dolayı kendi lehlerine komisyon ve iskonto sağlayamazlar."
           },
           {
             "id": 8,
-            "soruMetni": "Aşağıdakilerden hangisi PYŞ yönetim kurulu üyelerinde aranan şartlardan biridir?",
+            "soruMetni": "Aşağıdakilerden hangisi Portföy Yönetim Şirketi yönetim kurulu üyelerinde aranan şartlardan biridir?",
             "secenekler": {
               "A": "En az 80 yaşında olması",
               "B": "Sadece yabancı dilde eğitim almış olması",
@@ -2043,12 +2043,12 @@ const splVeritabani = [
           },
           {
             "id": 9,
-            "soruMetni": "PYŞ'lerin kurabileceği Girişim Sermayesi Portföy Yönetim Şirketi veya Gayrimenkul Portföy Yönetim Şirketi gibi münhasıran kurulan şirket türlerinde asgari sermaye şartı nasıl uygulanır?",
+            "soruMetni": "Portföy Yönetim Şirketlerinin kurabileceği Girişim Sermayesi Portföy Yönetim Şirketi veya Gayrimenkul Portföy Yönetim Şirketi gibi münhasıran kurulan şirket türlerinde asgari sermaye şartı nasıl uygulanır?",
             "secenekler": {
               "A": "Sermaye şartı aranmaz.",
               "B": "Sermaye Hazinece karşılanır.",
               "C": "Sadece Euro cinsinden ödenir.",
-              "D": "Münhasıran GSYF veya GYF yöneten şirketler için indirimli asgari sermaye şartı uygulanır.",
+              "D": "Münhasıran Girişim Sermayesi Yatırım Fonu veya Gayrimenkul Yatırım Fonu yöneten şirketler için indirimli asgari sermaye şartı uygulanır.",
               "E": "Sermaye 10 katına çıkarılır."
             },
             "dogruCevap": "D",
@@ -2056,7 +2056,7 @@ const splVeritabani = [
           },
           {
             "id": 10,
-            "soruMetni": "PYŞ'lerin müşteri portföylerini yönetirken müşterinin risk ve getiri tercihlerini tespit etmek amacıyla uyguladıkları test hangisidir?",
+            "soruMetni": "Portföy Yönetim Şirketlerinin müşteri portföylerini yönetirken müşterinin risk ve getiri tercihlerini tespit etmek amacıyla uyguladıkları test hangisidir?",
             "secenekler": {
               "A": "Kişilik Envanteri Testi",
               "B": "IQ Testi",
@@ -2069,20 +2069,20 @@ const splVeritabani = [
           },
           {
             "id": 11,
-            "soruMetni": "PYŞ'nin faaliyet izninin SPK tarafından iptal edilmesi durumunda yönetilen fonlara ne olur?",
+            "soruMetni": "Portföy Yönetim Şirketinin faaliyet izninin SPK tarafından iptal edilmesi durumunda yönetilen fonlara ne olur?",
             "secenekler": {
-              "A": "Fonların yönetimi SPK tarafından başka bir PYŞ'ye devredilir veya fonlar tasfiye edilir.",
+              "A": "Fonların yönetimi SPK tarafından başka bir Portföy Yönetim Şirketine devredilir veya fonlar tasfiye edilir.",
               "B": "Fonlar yok sayılır.",
               "C": "Fon parası devlet hazinesine kalır.",
               "D": "İşlemler süresiz durur.",
               "E": "Fonlar şirket ortaklarına dağıtılır."
             },
             "dogruCevap": "A",
-            "cozum": "Tebliğ m. 35 uyarınca izin iptalinde yatırımların korunması için fonlar başka bir yetkili PYŞ'ye devredilir."
+            "cozum": "Tebliğ m. 35 uyarınca izin iptalinde yatırımların korunması için fonlar başka bir yetkili Portföy Yönetim Şirketine devredilir."
           },
           {
             "id": 12,
-            "soruMetni": "PYŞ'lerin özkaynaklarının SPK tarafından belirlenen özkaynak yeterliliği sınırının altına düşmesi halinde ne kadar süre verilir?",
+            "soruMetni": "Portföy Yönetim Şirketlerinin özkaynaklarının SPK tarafından belirlenen özkaynak yeterliliği sınırının altına düşmesi halinde ne kadar süre verilir?",
             "secenekler": {
               "A": "SPK tarafından belirlenen süre içinde (genellikle 3 ay) özkaynak açığının kapatılması istenir.",
               "B": "Derhal mahkemeye verilir.",
@@ -2095,7 +2095,7 @@ const splVeritabani = [
           },
           {
             "id": 13,
-            "soruMetni": "PYŞ'lerin reklam ve ilanlarında yatırımcılara garanti kâr veya getiri taahhüdünde bulunması yasak mıdır?",
+            "soruMetni": "Portföy Yönetim Şirketlerinin reklam ve ilanlarında yatırımcılara garanti kâr veya getiri taahhüdünde bulunması yasak mıdır?",
             "secenekler": {
               "A": "Hayır, istenilen getiri garanti edilebilir.",
               "B": "Sadece sözlü garanti verilebilir.",
@@ -2108,7 +2108,7 @@ const splVeritabani = [
           },
           {
             "id": 14,
-            "soruMetni": "PYŞ genel müdürünün mesleki tecrübe şartı en az kaç yıl olmalıdır?",
+            "soruMetni": "Portföy Yönetim Şirketi genel müdürünün mesleki tecrübe şartı en az kaç yıl olmalıdır?",
             "secenekler": {
               "A": "Sadece üniversite mezunu olması yeterlidir",
               "B": "Finansal piyasalar alanında en az 7 yıl tecrübeli olması",
@@ -2117,11 +2117,11 @@ const splVeritabani = [
               "E": "20 yıl tecrübe"
             },
             "dogruCevap": "B",
-            "cozum": "PYŞ genel müdürlerinin sermaye piyasalarında en az 7 yıllık mesleki tecrübeye sahip olması şarttır."
+            "cozum": "Portföy Yönetim Şirketi genel müdürlerinin sermaye piyasalarında en az 7 yıllık mesleki tecrübeye sahip olması şarttır."
           },
           {
             "id": 15,
-            "soruMetni": "PYŞ nezdinde çalışan bir portföy yöneticisinin kendi adına veya yakınları adına yaptığı şahsi menkul kıymet işlemlerini şirkete bildirme süresi nedir?",
+            "soruMetni": "Portföy Yönetim Şirketi nezdinde çalışan bir portföy yöneticisinin kendi adına veya yakınları adına yaptığı şahsi menkul kıymet işlemlerini şirkete bildirme süresi nedir?",
             "secenekler": {
               "A": "Bildirim yapılması yasaktır.",
               "B": "Sadece gazete ilanı verilir.",
@@ -2134,7 +2134,7 @@ const splVeritabani = [
           },
           {
             "id": 16,
-            "soruMetni": "PYŞ'lerin şube açması veya yurt dışında temsilcilik kurması kimin iznine tabidir?",
+            "soruMetni": "Portföy Yönetim Şirketlerinin şube açması veya yurt dışında temsilcilik kurması kimin iznine tabidir?",
             "secenekler": {
               "A": "İçişleri Bakanlığı",
               "B": "Sermaye Piyasası Kurulu (SPK)",
@@ -2147,7 +2147,7 @@ const splVeritabani = [
           },
           {
             "id": 17,
-            "soruMetni": "PYŞ tarafından yönetilen fonların varlıklarının bağımsız portföy saklayıcısı nezdinde saklanması yükümlülüğü hangi ilkenin gereğidir?",
+            "soruMetni": "Portföy Yönetim Şirketi tarafından yönetilen fonların varlıklarının bağımsız portföy saklayıcısı nezdinde saklanması yükümlülüğü hangi ilkenin gereğidir?",
             "secenekler": {
               "A": "Kâr Artırma İlkesi",
               "B": "Malvarlığının Korunması ve Çıkar Çatışmalarının Önlenmesi İlkesi",
@@ -2160,7 +2160,7 @@ const splVeritabani = [
           },
           {
             "id": 18,
-            "soruMetni": "PYŞ ortaklık yapısındaki pay devirlerinde hangi oranların aşılması SPK iznine tabidir?",
+            "soruMetni": "Portföy Yönetim Şirketi ortaklık yapısındaki pay devirlerinde hangi oranların aşılması SPK iznine tabidir?",
             "secenekler": {
               "A": "Pay devri tamamen yasaktır.",
               "B": "%1'lik pay devri",
@@ -2173,7 +2173,7 @@ const splVeritabani = [
           },
           {
             "id": 19,
-            "soruMetni": "PYŞ'lerin kendi özvarlıklarını (şirket sermayesini) değerlendirebilecekleri alanlar hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "Portföy Yönetim Şirketlerinin kendi özvarlıklarını (şirket sermayesini) değerlendirebilecekleri alanlar hakkında aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Özvarlıklarıyla yüksek riskli gayrimenkul spekülasyonu yaparlar.",
               "B": "Kendi paralarını harcayamazlar.",
@@ -2186,7 +2186,7 @@ const splVeritabani = [
           },
           {
             "id": 20,
-            "soruMetni": "PYŞ'lerin müşterileriyle imzaladıkları Bireysel Portföy Yönetim Sözleşmelerini ve işlem kayıtlarını saklama yükümlülüğü süresi en az kaç yıldır?",
+            "soruMetni": "Portföy Yönetim Şirketlerinin müşterileriyle imzaladıkları Bireysel Portföy Yönetim Sözleşmelerini ve işlem kayıtlarını saklama yükümlülüğü süresi en az kaç yıldır?",
             "secenekler": {
               "A": "20 Yıl",
               "B": "5 Yıl",
@@ -2486,7 +2486,7 @@ const splVeritabani = [
           },
           {
             "id": 2,
-            "soruMetni": "Gayrimenkul Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.2) uyarınca, GYF portföy değerinin en az yüzde kaçının gayrimenkul yatırımlarından oluşması zorunludur?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.2) uyarınca, Gayrimenkul Yatırım Fonu portföy değerinin en az yüzde kaçının gayrimenkul yatırımlarından oluşması zorunludur?",
             "secenekler": {
               "A": "%80",
               "B": "%75",
@@ -2495,11 +2495,11 @@ const splVeritabani = [
               "E": "%30"
             },
             "dogruCevap": "A",
-            "cozum": "III-52.2 m. 18 uyarınca GYF portföyünün en az %80'i gayrimenkul ve gayrimenkul haklarından oluşmalıdır."
+            "cozum": "III-52.2 m. 18 uyarınca Gayrimenkul Yatırım Fonu portföyünün en az %80'i gayrimenkul ve gayrimenkul haklarından oluşmalıdır."
           },
           {
             "id": 3,
-            "soruMetni": "Girişim Sermayesi Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.3) uyarınca, GSYF portföyünün en az yüzde kaçının girişim şirketlerine yatırılması zorunludur?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.3) uyarınca, Girişim Sermayesi Yatırım Fonu portföyünün en az yüzde kaçının girişim şirketlerine yatırılması zorunludur?",
             "secenekler": {
               "A": "%95",
               "B": "%25",
@@ -2508,11 +2508,11 @@ const splVeritabani = [
               "E": "%80"
             },
             "dogruCevap": "E",
-            "cozum": "III-52.3 m. 19 uyarınca GSYF portföyünün en az %80'i girişim sermayesi yatırımlarından oluşmak zorundadır."
+            "cozum": "III-52.3 m. 19 uyarınca Girişim Sermayesi Yatırım Fonu portföyünün en az %80'i girişim sermayesi yatırımlarından oluşmak zorundadır."
           },
           {
             "id": 4,
-            "soruMetni": "Borsa Yatırım Fonları Tebliği (III-52.4) uyarınca, BYF'lerin temel amacı ve yapısı aşağıdakilerden hangisidir?",
+            "soruMetni": "Borsa Yatırım Fonları Tebliği (III-52.4) uyarınca, Borsa Yatırım Fonlarının temel amacı ve yapısı aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Sigorta poliçesi kesmek",
               "B": "Gayrimenkul alıp satmak",
@@ -2521,11 +2521,11 @@ const splVeritabani = [
               "E": "Mevduat faizi vermek"
             },
             "dogruCevap": "C",
-            "cozum": "BYF'ler bir endeksi takip eder ve katılma payları Borsa İstanbul'da hisse senedi gibi alınıp satılır."
+            "cozum": "Borsa Yatırım Fonları bir endeksi takip eder ve katılma payları Borsa İstanbul'da hisse senedi gibi alınıp satılır."
           },
           {
             "id": 5,
-            "soruMetni": "Borsa Yatırım Fonunun (BYF) portföy değerinin en az yüzde kaçı devamlı olarak takip edilen endeks kapsamındaki varlıklardan oluşmalıdır?",
+            "soruMetni": "Borsa Yatırım Fonunun (Borsa Yatırım Fonu) portföy değerinin en az yüzde kaçı devamlı olarak takip edilen endeks kapsamındaki varlıklardan oluşmalıdır?",
             "secenekler": {
               "A": "%35",
               "B": "%55",
@@ -2534,11 +2534,11 @@ const splVeritabani = [
               "E": "%80"
             },
             "dogruCevap": "E",
-            "cozum": "BYF Tebliği m. 5 uyarınca fon portföyünün en az %80'inin takip edilen endeks bileşenlerinden oluşması şarttır."
+            "cozum": "Borsa Yatırım Fonu Tebliği m. 5 uyarınca fon portföyünün en az %80'inin takip edilen endeks bileşenlerinden oluşması şarttır."
           },
           {
             "id": 6,
-            "soruMetni": "Gayrimenkul Yatırım Fonları (GYF) ve Girişim Sermayesi Yatırım Fonları (GSYF) tüzel kişiliğe haiz midir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonları (Gayrimenkul Yatırım Fonu) ve Girişim Sermayesi Yatırım Fonları (Girişim Sermayesi Yatırım Fonu) tüzel kişiliğe haiz midir?",
             "secenekler": {
               "A": "Kamu iktisadi teşekkülüdürler.",
               "B": "Tüzel kişilikleri yoktur; ancak tapu tescil, ticaret sicil ve banka işlemlerinde tüzel kişiliği haiz addolunurlar.",
@@ -2547,24 +2547,24 @@ const splVeritabani = [
               "E": "Tam tüzel kişiliği haiz anonim şirkettirler."
             },
             "dogruCevap": "B",
-            "cozum": "SPKn m. 54 uyarınca GYF ve GSYF fonları sınırlı olarak tüzel kişiliği haiz addolunur ve tapuda kendi adlarına tescil yapabilirler."
+            "cozum": "SPKn m. 54 uyarınca Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu fonları sınırlı olarak tüzel kişiliği haiz addolunur ve tapuda kendi adlarına tescil yapabilirler."
           },
           {
             "id": 7,
-            "soruMetni": "GYF ve GSYF katılma payları halka arz edilerek genel yatırımcılara satılabilir mi?",
+            "soruMetni": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilerek genel yatırımcılara satılabilir mi?",
             "secenekler": {
               "A": "Sadece şirket kurucusu satın alabilir.",
               "B": "Halka arz zorunludur.",
               "C": "Evet, tüm halka arz edilir.",
               "D": "Sadece yabancılara satılır.",
-              "E": "Hayır, GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcılara satılır."
+              "E": "Hayır, Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilemez; sadece Nitelikli Yatırımcılara satılır."
             },
             "dogruCevap": "E",
-            "cozum": "GYF ve GSYF katılma payları nitelikli yatırımcılara ihraç edilmek üzere kurulur, halka arz edilemez."
+            "cozum": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları nitelikli yatırımcılara ihraç edilmek üzere kurulur, halka arz edilemez."
           },
           {
             "id": 8,
-            "soruMetni": "Borsa Yatırım Fonlarında (BYF) piyasa yapıcı aracı kurumların görevi nedir?",
+            "soruMetni": "Borsa Yatırım Fonlarında (Borsa Yatırım Fonu) piyasa yapıcı aracı kurumların görevi nedir?",
             "secenekler": {
               "A": "SPK denetimini yapmak",
               "B": "Fon tasfiyesini başlatmak",
@@ -2573,11 +2573,11 @@ const splVeritabani = [
               "E": "Fon tüzüğünü değiştirmek"
             },
             "dogruCevap": "D",
-            "cozum": "BYF'lerde piyasa yapıcılar borsa pazarında sürekli kotasyon vererek fon fiyatının net varlık değerine yakın seyretmesini sağlar."
+            "cozum": "Borsa Yatırım Fonu'lerde piyasa yapıcılar borsa pazarında sürekli kotasyon vererek fon fiyatının net varlık değerine yakın seyretmesini sağlar."
           },
           {
             "id": 9,
-            "soruMetni": "Gayrimenkul Yatırım Fonlarının (GYF) portföylerindeki gayrimenkullerin değerlemesi ne zaman yaptırılır?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının (Gayrimenkul Yatırım Fonu) portföylerindeki gayrimenkullerin değerlemesi ne zaman yaptırılır?",
             "secenekler": {
               "A": "Her takvim yılı sonu itibariyle ve alım/satım işlemlerinden önce yetkili değerleme kuruluşuna yaptırılır.",
               "B": "10 yılda bir yaptırılır.",
@@ -2586,11 +2586,11 @@ const splVeritabani = [
               "E": "Sadece fon kurulurken yaptırılır."
             },
             "dogruCevap": "A",
-            "cozum": "GYF Tebliği m. 23 uyarınca her takvim yılı sonunda bağımsız ekspertiz raporu alınması zorunludur."
+            "cozum": "Gayrimenkul Yatırım Fonu Tebliği m. 23 uyarınca her takvim yılı sonunda bağımsız ekspertiz raporu alınması zorunludur."
           },
           {
             "id": 10,
-            "soruMetni": "GSYF'lerin portföylerindeki girişim şirketlerine yapabilecekleri yatırım şekilleri arasında aşağıdakilerden hangisi YER ALIR?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının portföylerindeki girişim şirketlerine yapabilecekleri yatırım şekilleri arasında aşağıdakilerden hangisi YER ALIR?",
             "secenekler": {
               "A": "Şirket çalışanlarına ikramiye dağıtmak",
               "B": "Girişim şirketlerinin paylarını satın almak, sermaye artırımlarına katılmak veya borç/özkaynak karması finansman sağlamak",
@@ -2599,11 +2599,11 @@ const splVeritabani = [
               "E": "Girişim şirketlerini faizle tefecilik yoluyla borçlandırmak"
             },
             "dogruCevap": "B",
-            "cozum": "GSYF'ler girişim şirketlerine sermaye koyarak, ortak olarak veya borç finansmanı vererek destek olurlar."
+            "cozum": "Girişim Sermayesi Yatırım Fonları girişim şirketlerine sermaye koyarak, ortak olarak veya borç finansmanı vererek destek olurlar."
           },
           {
             "id": 11,
-            "soruMetni": "GYF ve GSYF'lerin kurulabilmesi ve katılma paylarının ihracı için asgari portföy büyüklüğünün ne kadar süre içinde sağlanması zorunludur?",
+            "soruMetni": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonlarının kurulabilmesi ve katılma paylarının ihracı için asgari portföy büyüklüğünün ne kadar süre içinde sağlanması zorunludur?",
             "secenekler": {
               "A": "Satışa başlandığı tarihi takip eden en geç 1 yıl içinde asgari tutara ulaşması şarttır.",
               "B": "10 yıl içinde",
@@ -2638,7 +2638,7 @@ const splVeritabani = [
               "E": "Takasbank Güvenlik Amirliği"
             },
             "dogruCevap": "D",
-            "cozum": "BYF'lerde yetkili aracı kurumlar endeks sepeti karşılığında fon payı yaratılması ve fona iade edilmesi işlemlerini yürütür."
+            "cozum": "Borsa Yatırım Fonu'lerde yetkili aracı kurumlar endeks sepeti karşılığında fon payı yaratılması ve fona iade edilmesi işlemlerini yürütür."
           },
           {
             "id": 14,
@@ -2655,7 +2655,7 @@ const splVeritabani = [
           },
           {
             "id": 15,
-            "soruMetni": "GYF ve GSYF saklama hizmetini yürütmekle yetkili kılınan bağımsız kuruluş hangisidir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu saklama hizmetini yürütmekle yetkili kılınan bağımsız kuruluş hangisidir?",
             "secenekler": {
               "A": "Şehir Valiliği",
               "B": "Fon Kurucusunun Genel Müdürü",
@@ -2668,33 +2668,33 @@ const splVeritabani = [
           },
           {
             "id": 16,
-            "soruMetni": "GYF'lerin inşaat işleri ve müteahhitlik faaliyetleri yapması mevzuat uyarınca serbest midir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının inşaat işleri ve müteahhitlik faaliyetleri yapması mevzuat uyarınca serbest midir?",
             "secenekler": {
               "A": "İstediği gibi inşaat şirketi kurabilirler.",
               "B": "Sadece yurt dışında müteahhitlik yapabilirler.",
-              "C": "Hayır, GYF'ler inşaat taahhüt işleri yapamazlar; projeleri bağımsız müteahhitlere yaptırmak zorundadırlar.",
+              "C": "Hayır, Gayrimenkul Yatırım Fonları inşaat taahhüt işleri yapamazlar; projeleri bağımsız müteahhitlere yaptırmak zorundadırlar.",
               "D": "Belediye izin verirse yaparlar.",
               "E": "Evet, öz kaynaklarıyla inşaat yapabilirler."
             },
             "dogruCevap": "C",
-            "cozum": "GYF'ler doğrudan inşaat yapamazlar, inşaat işlerini yüklenici müteahhit firmalara devretmek zorundadırlar."
+            "cozum": "Gayrimenkul Yatırım Fonları doğrudan inşaat yapamazlar, inşaat işlerini yüklenici müteahhit firmalara devretmek zorundadırlar."
           },
           {
             "id": 17,
-            "soruMetni": "GSYF'lerin portföylerindeki girişim şirketlerinin yönetiminde yer alma hakları var mıdır?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının portföylerindeki girişim şirketlerinin yönetiminde yer alma hakları var mıdır?",
             "secenekler": {
               "A": "Sadece genel kurulda dinleyici olabilirler.",
               "B": "Sadece oy hakkı olmayan pay alırlar.",
-              "C": "Evet, GSYF'ler girişim şirketlerinin yönetim kuruluna üye verebilir ve yönetimine katılabilirler.",
+              "C": "Evet, Girişim Sermayesi Yatırım Fonları girişim şirketlerinin yönetim kuruluna üye verebilir ve yönetimine katılabilirler.",
               "D": "Yönetim hakkı devlete geçer.",
               "E": "Hayır, yönetime katılmaları yasaktır."
             },
             "dogruCevap": "C",
-            "cozum": "GSYF'ler girişim şirketlerinin gelişimi için yönetim kurullarında temsil edilme ve danışmanlık sağlama yetkisine sahiptir."
+            "cozum": "Girişim Sermayesi Yatırım Fonları girişim şirketlerinin gelişimi için yönetim kurullarında temsil edilme ve danışmanlık sağlama yetkisine sahiptir."
           },
           {
             "id": 18,
-            "soruMetni": "BYF katılma paylarının borsa pazarında oluşan fiyatı ile fon net varlık değeri arasında fark oluşması halinde kim müdahale eder?",
+            "soruMetni": "Borsa Yatırım Fonu katılma paylarının borsa pazarında oluşan fiyatı ile fon net varlık değeri arasında fark oluşması halinde kim müdahale eder?",
             "secenekler": {
               "A": "Farkı devlet öder.",
               "B": "Borsa Başkanı borsayı kapatır.",
@@ -2707,7 +2707,7 @@ const splVeritabani = [
           },
           {
             "id": 19,
-            "soruMetni": "GYF ve GSYF bilgilendirme dokümanlarında esaslarının belirtilmesi şartıyla katılımcılara farklı haklar sağlayan pay grupları oluşturulabilir mi?",
+            "soruMetni": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu bilgilendirme dokümanlarında esaslarının belirtilmesi şartıyla katılımcılara farklı haklar sağlayan pay grupları oluşturulabilir mi?",
             "secenekler": {
               "A": "Sadece 10 yıl sonra oluşturulur.",
               "B": "Evet, bilgilendirme dokümanlarında belirtilmek kaydıyla aynı fonda farklı pay grupları oluşturulabilir.",
@@ -2740,7 +2740,7 @@ const splVeritabani = [
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Borsa Yatırım Fonlarına İlişkin Esaslar Tebliği uyarınca, Borsa Yatırım Fonlarının (BYF) temel ayırt edici özelliği aşağıdakilerden hangisidir?",
+            "soruMetni": "Borsa Yatırım Fonlarına İlişkin Esaslar Tebliği uyarınca, Borsa Yatırım Fonlarının (Borsa Yatırım Fonu) temel ayırt edici özelliği aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Yönetim kurulunun bağımsız üyelerden oluşma zorunluluğunun olmaması",
               "B": "Takip edilen bir endeksin performansını yansıtmak amacıyla kurulması ve katılma paylarının borsada hisse senedi gibi işlem görmesi",
@@ -2749,7 +2749,7 @@ const splVeritabani = [
               "E": "Tüzel kişiliğinin şirket şeklinde tescil edilmesi"
             },
             "dogruCevap": "B",
-            "cozum": "BYF'ler bir endeksi takip eder ve katılma payları Borsa İstanbul nezdinde borsa seans süresince hisse senedi gibi alınıp satılır."
+            "cozum": "Borsa Yatırım Fonları bir endeksi takip eder ve katılma payları Borsa İstanbul nezdinde borsa seans süresince hisse senedi gibi alınıp satılır."
           },
           {
             "id": 2,
@@ -2762,11 +2762,11 @@ const splVeritabani = [
               "E": "Küçük yatırımcı ile belediye arasında yapılır."
             },
             "dogruCevap": "A",
-            "cozum": "BYF'lerde ayni yaratım ve iade işlemleri yetkili aracı kurumlar üzerinden endeks varlık sepeti teslimiyle gerçekleştirilir."
+            "cozum": "Borsa Yatırım Fonu'lerde ayni yaratım ve iade işlemleri yetkili aracı kurumlar üzerinden endeks varlık sepeti teslimiyle gerçekleştirilir."
           },
           {
             "id": 3,
-            "soruMetni": "BYF portföyünün devamlı olarak en az yüzde kaçının takip edilen endeks kapsamındaki sermaye piyasası araçlarından oluşması zorunludur?",
+            "soruMetni": "Borsa Yatırım Fonu portföyünün devamlı olarak en az yüzde kaçının takip edilen endeks kapsamındaki sermaye piyasası araçlarından oluşması zorunludur?",
             "secenekler": {
               "A": "%65",
               "B": "%95",
@@ -2775,7 +2775,7 @@ const splVeritabani = [
               "E": "%80"
             },
             "dogruCevap": "E",
-            "cozum": "BYF Tebliği m. 5 uyarınca fon portföy değerinin en az %80'i devamlı olarak takip edilen endeks bileşenlerinden oluşur."
+            "cozum": "Borsa Yatırım Fonu Tebliği m. 5 uyarınca fon portföy değerinin en az %80'i devamlı olarak takip edilen endeks bileşenlerinden oluşur."
           },
           {
             "id": 4,
@@ -2792,7 +2792,7 @@ const splVeritabani = [
           },
           {
             "id": 5,
-            "soruMetni": "BYF'lerin takip edeceği endeksin taşıması gereken temel nitelikler arasında aşağıdakilerden hangisi YER ALIR?",
+            "soruMetni": "Borsa Yatırım Fonlarının takip edeceği endeksin taşıması gereken temel nitelikler arasında aşağıdakilerden hangisi YER ALIR?",
             "secenekler": {
               "A": "Endeksin sadece yılda bir kez hesaplanması",
               "B": "Endeksin tek bir şahsın gizli kararlarına göre değişmesi",
@@ -2801,11 +2801,11 @@ const splVeritabani = [
               "E": "Endeksin hesaplanmasının yasaklanmış olması"
             },
             "dogruCevap": "C",
-            "cozum": "BYF endeksleri şeffaf, bağımsız kurallara göre hesaplanan ve kamuoyuna açık endeksler olmak zorundadır."
+            "cozum": "Borsa Yatırım Fonu endeksleri şeffaf, bağımsız kurallara göre hesaplanan ve kamuoyuna açık endeksler olmak zorundadır."
           },
           {
             "id": 6,
-            "soruMetni": "BYF katılma paylarının borsa pazarındaki fiyatı ile Fon Net Varlık Değeri (FNVD) arasındaki sapmaları önlemek amacıyla uygulanan mekanizma hangisidir?",
+            "soruMetni": "Borsa Yatırım Fonu katılma paylarının borsa pazarındaki fiyatı ile Fon Net Varlık Değeri (FNVD) arasındaki sapmaları önlemek amacıyla uygulanan mekanizma hangisidir?",
             "secenekler": {
               "A": "Borsa İşlemlerini 1 Yıl Durdurma",
               "B": "Vergi Muafiyeti İptali",
@@ -2818,7 +2818,7 @@ const splVeritabani = [
           },
           {
             "id": 7,
-            "soruMetni": "BYF'lerin izahname ve bilgilendirme dokümanlarının kamuya açıklanma ortamı aşağıdakilerden hangisidir?",
+            "soruMetni": "Borsa Yatırım Fonlarının izahname ve bilgilendirme dokümanlarının kamuya açıklanma ortamı aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Belediye bülteni",
               "B": "Kamuyu Aydınlatma Platformu (KAP) ve kurucunun internet sitesi",
@@ -2827,11 +2827,11 @@ const splVeritabani = [
               "E": "Televizyon reklam kuşağı"
             },
             "dogruCevap": "B",
-            "cozum": "BYF izahnamesi, yatırımcı bilgi formu ve günlük fiyata ilişkin gösterge net varlık değerleri KAP'ta açıklanır."
+            "cozum": "Borsa Yatırım Fonu izahnamesi, yatırımcı bilgi formu ve günlük fiyata ilişkin gösterge net varlık değerleri KAP'ta açıklanır."
           },
           {
             "id": 8,
-            "soruMetni": "BYF'lerde 'Gösterge Net Varlık Değeri' (iNAV) seans süresince hangi sıklıkla hesaplanır ve ilan edilir?",
+            "soruMetni": "Borsa Yatırım Fonu'lerde 'Gösterge Net Varlık Değeri' (iNAV) seans süresince hangi sıklıkla hesaplanır ve ilan edilir?",
             "secenekler": {
               "A": "Ayda bir kez seans kapanışından sonra",
               "B": "Yılda bir kez bilanço döneminde",
@@ -2844,7 +2844,7 @@ const splVeritabani = [
           },
           {
             "id": 9,
-            "soruMetni": "BYF portföyünden borsa dışı türev araçlara veya tezgahüstü sözleşmelere yatırım yapılması durumunda karşı taraf riski kısıtlaması nedir?",
+            "soruMetni": "Borsa Yatırım Fonu portföyünden borsa dışı türev araçlara veya tezgahüstü sözleşmelere yatırım yapılması durumunda karşı taraf riski kısıtlaması nedir?",
             "secenekler": {
               "A": "Kısıtlama sadece bankalara uygulanır.",
               "B": "Karşı taraf riski kabul edilmez, borsa kapatılır.",
@@ -2866,11 +2866,11 @@ const splVeritabani = [
               "E": "Sadece devlet kurumlarınca satın alınır."
             },
             "dogruCevap": "A",
-            "cozum": "Kaldıraçlı ve ters BYF'ler endeksin günlük performansının katını veya ters yönünü takip eden özel fonlardır."
+            "cozum": "Kaldıraçlı ve ters Borsa Yatırım Fonları endeksin günlük performansının katını veya ters yönünü takip eden özel fonlardır."
           },
           {
             "id": 11,
-            "soruMetni": "BYF'lerin unvanında hangi ibarenin bulunması mevzuat gereğince ZORUNLUDUR?",
+            "soruMetni": "Borsa Yatırım Fonlarının unvanında hangi ibarenin bulunması mevzuat gereğince ZORUNLUDUR?",
             "secenekler": {
               "A": "'Sigorta Acenteliği'",
               "B": "'Mevduat Bankası'",
@@ -2879,11 +2879,11 @@ const splVeritabani = [
               "E": "'Döviz Bürosu'"
             },
             "dogruCevap": "C",
-            "cozum": "BYF unvanında fonun türü olan 'Borsa Yatırım Fonu' ve referans alınan endeks ismi yer almak zorundadır."
+            "cozum": "Borsa Yatırım Fonu unvanında fonun türü olan 'Borsa Yatırım Fonu' ve referans alınan endeks ismi yer almak zorundadır."
           },
           {
             "id": 12,
-            "soruMetni": "BYF katılma paylarının borsa pazarında alım satımı sırasında ödenen işlem komisyonları ve kuralları hangi kurumun esaslarına tabidir?",
+            "soruMetni": "Borsa Yatırım Fonu katılma paylarının borsa pazarında alım satımı sırasında ödenen işlem komisyonları ve kuralları hangi kurumun esaslarına tabidir?",
             "secenekler": {
               "A": "Sanayi Odasına",
               "B": "Tüketici Mahkemesine",
@@ -2892,11 +2892,11 @@ const splVeritabani = [
               "E": "Borsa İstanbul A.Ş. ve ilgili aracı kurum düzenlemelerine"
             },
             "dogruCevap": "E",
-            "cozum": "Borsadaki tüm işlemler gibi BYF pay alım satımları da Borsa İstanbul borsa payı ve aracı kurum komisyon tarifelerine tabidir."
+            "cozum": "Borsadaki tüm işlemler gibi Borsa Yatırım Fonu pay alım satımları da Borsa İstanbul borsa payı ve aracı kurum komisyon tarifelerine tabidir."
           },
           {
             "id": 13,
-            "soruMetni": "BYF portföyündeki varlıkların saklanması kimin denetiminde ve sorumluluğunda yürütülür?",
+            "soruMetni": "Borsa Yatırım Fonu portföyündeki varlıkların saklanması kimin denetiminde ve sorumluluğunda yürütülür?",
             "secenekler": {
               "A": "Noter Katibi",
               "B": "Belediye Başkanı",
@@ -2905,11 +2905,11 @@ const splVeritabani = [
               "E": "Portföy Saklayıcısı Kurum (Takasbank / Yetkili Saklama Bankaları)"
             },
             "dogruCevap": "E",
-            "cozum": "BYF varlıkları yetkili portföy saklayıcısı nezdinde saklanır."
+            "cozum": "Borsa Yatırım Fonu varlıkları yetkili portföy saklayıcısı nezdinde saklanır."
           },
           {
             "id": 14,
-            "soruMetni": "BYF'lerin hesap dönemi sonu yıllık finansal raporlarının bağımsız denetimden geçme ve yayımlanma süresi kaç gündür?",
+            "soruMetni": "Borsa Yatırım Fonlarının hesap dönemi sonu yıllık finansal raporlarının bağımsız denetimden geçme ve yayımlanma süresi kaç gündür?",
             "secenekler": {
               "A": "Hesap dönemini takip eden en geç 60 gün içinde",
               "B": "Bağımsız denetim yapılmaz",
@@ -2918,11 +2918,11 @@ const splVeritabani = [
               "E": "120 gün içinde"
             },
             "dogruCevap": "A",
-            "cozum": "Yatırım fonlarında olduğu gibi BYF yıllık bağımsız denetim raporları 60 gün içinde KAP'ta açıklanır."
+            "cozum": "Yatırım fonlarında olduğu gibi Borsa Yatırım Fonu yıllık bağımsız denetim raporları 60 gün içinde KAP'ta açıklanır."
           },
           {
             "id": 15,
-            "soruMetni": "BYF'lerin tasfiye olunması durumunda borsa kotesindeki katılma payları ne olur?",
+            "soruMetni": "Borsa Yatırım Fonlarının tasfiye olunması durumunda borsa kotesindeki katılma payları ne olur?",
             "secenekler": {
               "A": "Paylar şirketin kurucusuna bedelsiz devredilir.",
               "B": "Borsa kotundan çıkarılır, borsa işlemleri durdurulur ve tasfiye bakiyesi nakden pay sahiplerine dağıtılır.",
@@ -2931,11 +2931,11 @@ const splVeritabani = [
               "E": "Paylar süresiz olarak borsada işlem görmeye devam eder."
             },
             "dogruCevap": "B",
-            "cozum": "Tasfiye kararı alınan BYF'nin borsa kotasyonuna son verilir ve bakiye nakden katılımcılara iade edilir."
+            "cozum": "Tasfiye kararı alınan Borsa Yatırım Fonunun borsa kotasyonuna son verilir ve bakiye nakden katılımcılara iade edilir."
           },
           {
             "id": 16,
-            "soruMetni": "Fiziki Altın veya Kıymetli Maden Takip Eden BYF'lerde portföyde tutulan kıymetli madenlerin saklandığı borsa piyasası hangisidir?",
+            "soruMetni": "Fiziki Altın veya Kıymetli Maden Takip Eden Borsa Yatırım Fonu'lerde portföyde tutulan kıymetli madenlerin saklandığı borsa piyasası hangisidir?",
             "secenekler": {
               "A": "Ziraat Odası Deposu",
               "B": "Şirket Merkezindeki Çelik Kasa",
@@ -2944,11 +2944,11 @@ const splVeritabani = [
               "E": "Liman Antreposu"
             },
             "dogruCevap": "C",
-            "cozum": "Altın ve kıymetli maden BYF'lerinin dayanak altınları Borsa İstanbul KMKTP tonozlarında saklanır."
+            "cozum": "Altın ve kıymetli maden Borsa Yatırım Fonu'lerinin dayanak altınları Borsa İstanbul KMKTP tonozlarında saklanır."
           },
           {
             "id": 17,
-            "soruMetni": "BYF kurucusunun fon yönetim yetkisini başka bir Portföy Yönetim Şirketine (PYŞ) devretmesi kimin onayına tabidir?",
+            "soruMetni": "Borsa Yatırım Fonu kurucusunun fon yönetim yetkisini başka bir Portföy Yönetim Şirketine (Portföy Yönetim Şirketi) devretmesi kimin onayına tabidir?",
             "secenekler": {
               "A": "Sanayi Odası",
               "B": "Sermaye Piyasası Kurulu (SPK)",
@@ -2961,7 +2961,7 @@ const splVeritabani = [
           },
           {
             "id": 18,
-            "soruMetni": "BYF'lerin katılma payı ihracında tavan pay sayısı sınırı var mıdır?",
+            "soruMetni": "Borsa Yatırım Fonlarının katılma payı ihracında tavan pay sayısı sınırı var mıdır?",
             "secenekler": {
               "A": "İzahnamede ihraç tavanı belirlenir; tavan aşıldığında SPK'ya tavan artırımı başvurusu yapılır.",
               "B": "Tavan belirlemek yasaktır.",
@@ -2974,7 +2974,7 @@ const splVeritabani = [
           },
           {
             "id": 19,
-            "soruMetni": "BYF'lerin yıllık fon işletim gideri kesintisi oranı nerede ilan edilir?",
+            "soruMetni": "Borsa Yatırım Fonlarının yıllık fon işletim gideri kesintisi oranı nerede ilan edilir?",
             "secenekler": {
               "A": "Gizli tutulur.",
               "B": "Sadece borsa kapandıktan sonra söylenir.",
@@ -3007,7 +3007,7 @@ const splVeritabani = [
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Gayrimenkul Yatırım Fonlarına İlişkin Esaslar Tebliği uyarınca, GYF'lerin portföy değerinin en az yüzde kaçının gayrimenkul yatırımlarından oluşması ZORUNLUDUR?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarına İlişkin Esaslar Tebliği uyarınca, Gayrimenkul Yatırım Fonlarının portföy değerinin en az yüzde kaçının gayrimenkul yatırımlarından oluşması ZORUNLUDUR?",
             "secenekler": {
               "A": "%80",
               "B": "%38",
@@ -3016,11 +3016,11 @@ const splVeritabani = [
               "E": "%58"
             },
             "dogruCevap": "A",
-            "cozum": "GYF Tebliği m. 18 uyarınca fon toplam değerinin en az %80'i gayrimenkul ve gayrimenkule dayalı haklardan oluşmak zorundadır."
+            "cozum": "Gayrimenkul Yatırım Fonu Tebliği m. 18 uyarınca fon toplam değerinin en az %80'i gayrimenkul ve gayrimenkule dayalı haklardan oluşmak zorundadır."
           },
           {
             "id": 2,
-            "soruMetni": "Gayrimenkul Yatırım Fonları (GYF) katılma payları kimlere ihraç edilip satılabilir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonları (Gayrimenkul Yatırım Fonu) katılma payları kimlere ihraç edilip satılabilir?",
             "secenekler": {
               "A": "Hiç kimseye satılamaz",
               "B": "Sadece yabancı fonlara",
@@ -3029,24 +3029,24 @@ const splVeritabani = [
               "E": "Tüm halka açık genel yatırımcılara"
             },
             "dogruCevap": "C",
-            "cozum": "GYF katılma payları halka arz edilmeksizin yalnızca Nitelikli Yatırımcılara satılabilir."
+            "cozum": "Gayrimenkul Yatırım Fonu katılma payları halka arz edilmeksizin yalnızca Nitelikli Yatırımcılara satılabilir."
           },
           {
             "id": 3,
-            "soruMetni": "GYF'lerin doğrudan inşaat yapması veya müteahhitlik taahhüdü altına girmesi serbest midir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının doğrudan inşaat yapması veya müteahhitlik taahhüdü altına girmesi serbest midir?",
             "secenekler": {
               "A": "Sadece yurt dışında müteahhitlik yaparlar.",
-              "B": "Hayır, GYF'ler kendi personeliyle inşaat yapamazlar; projeleri yüklenici müteahhit firmalara yaptırmak zorundadırlar.",
+              "B": "Hayır, Gayrimenkul Yatırım Fonları kendi personeliyle inşaat yapamazlar; projeleri yüklenici müteahhit firmalara yaptırmak zorundadırlar.",
               "C": "Evet, inşaat şirketi olarak çalışırlar.",
               "D": "Sadece konut inşaatı yapabilirler.",
               "E": "İnşaat yapmaları tamamen serbesttir."
             },
             "dogruCevap": "B",
-            "cozum": "GYF'ler müteahhitlik yapamaz, gayrimenkul projelerinin inşaatını bağımsız 3. taraf yüklenicilere yaptırmakla yükümlüdür."
+            "cozum": "Gayrimenkul Yatırım Fonları müteahhitlik yapamaz, gayrimenkul projelerinin inşaatını bağımsız 3. taraf yüklenicilere yaptırmakla yükümlüdür."
           },
           {
             "id": 4,
-            "soruMetni": "GYF portföyüne alınacak gayrimenkullerin değerlemesi için yetkili gayrimenkul değerleme kuruluşundan ekspertiz raporu alınma zamanı hangisidir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonu portföyüne alınacak gayrimenkullerin değerlemesi için yetkili gayrimenkul değerleme kuruluşundan ekspertiz raporu alınma zamanı hangisidir?",
             "secenekler": {
               "A": "Değerleme raporu alınmaz",
               "B": "Sadece fon tasfiye edilirken",
@@ -3055,24 +3055,24 @@ const splVeritabani = [
               "E": "10 yılda bir"
             },
             "dogruCevap": "C",
-            "cozum": "GYF Tebliği m. 23 uyarınca alım-satımlarda ve her yıl sonu itibariyle yetkili gayrimenkul değerleme raporu alınır."
+            "cozum": "Gayrimenkul Yatırım Fonu Tebliği m. 23 uyarınca alım-satımlarda ve her yıl sonu itibariyle yetkili gayrimenkul değerleme raporu alınır."
           },
           {
             "id": 5,
-            "soruMetni": "GYF'lerin süreli mi yoksa süresiz mi kurulabileceği hususunda aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının süreli mi yoksa süresiz mi kurulabileceği hususunda aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Süre kararı belediyece verilir.",
               "B": "En fazla 3 aylık kurulurlar.",
               "C": "Sadece 1 yıllığına kurulabilirler.",
               "D": "Sadece süresiz olmak zorundadırlar.",
-              "E": "GYF'ler süreli veya süresiz olarak kurulabilirler."
+              "E": "Gayrimenkul Yatırım Fonları süreli veya süresiz olarak kurulabilirler."
             },
             "dogruCevap": "E",
-            "cozum": "Fon bilgilendirme dokümanlarında yer almak şartıyla GYF'ler süreli veya süresiz kurulabilir."
+            "cozum": "Fon bilgilendirme dokümanlarında yer almak şartıyla Gayrimenkul Yatırım Fonları süreli veya süresiz kurulabilir."
           },
           {
             "id": 6,
-            "soruMetni": "GYF'lerin katılım payı satışına başlandığı tarihi takip eden en geç ne kadar süre içinde asgari portföy büyüklüğü şartına ulaşması zorunludur?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının katılım payı satışına başlandığı tarihi takip eden en geç ne kadar süre içinde asgari portföy büyüklüğü şartına ulaşması zorunludur?",
             "secenekler": {
               "A": "10 yıl içinde",
               "B": "5 yıl içinde",
@@ -3081,24 +3081,24 @@ const splVeritabani = [
               "E": "1 ay içinde"
             },
             "dogruCevap": "C",
-            "cozum": "GYF'ler katılım payı satış başlangıcından itibaren 1 yıl içinde yasal asgari portföy büyüklüğüne ulaşmalıdır."
+            "cozum": "Gayrimenkul Yatırım Fonları katılım payı satış başlangıcından itibaren 1 yıl içinde yasal asgari portföy büyüklüğüne ulaşmalıdır."
           },
           {
             "id": 7,
-            "soruMetni": "GYF portföyünde bulunan gayrimenkullerin tapuda tescili kimin adına yapılır?",
+            "soruMetni": "Gayrimenkul Yatırım Fonu portföyünde bulunan gayrimenkullerin tapuda tescili kimin adına yapılır?",
             "secenekler": {
               "A": "Şirket müdürünün şahsi adına",
               "B": "Tapuya tescil edilmez",
               "C": "SPK Başkanının adına",
               "D": "Belediye adına",
-              "E": "Fonun kendi tüzel kişiliği haiz addolunan adı nezdinde (GYF adına tapuya tescil edilir)."
+              "E": "Fonun kendi tüzel kişiliği haiz addolunan adı nezdinde (Gayrimenkul Yatırım Fonu adına tapuya tescil edilir)."
             },
             "dogruCevap": "E",
-            "cozum": "SPKn m. 54 uyarınca GYF'ler tapu tescilinde sınırlı tüzel kişiliği haiz addolunur ve fon adına tapu tescili yapılır."
+            "cozum": "SPKn m. 54 uyarınca Gayrimenkul Yatırım Fonları tapu tescilinde sınırlı tüzel kişiliği haiz addolunur ve fon adına tapu tescili yapılır."
           },
           {
             "id": 8,
-            "soruMetni": "GYF'lerin borçlanma (kredi kullanma) sınırı fon toplam değerinin en fazla yüzde kaçı ile sınırlıdır?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının borçlanma (kredi kullanma) sınırı fon toplam değerinin en fazla yüzde kaçı ile sınırlıdır?",
             "secenekler": {
               "A": "%100'ünü aşamaz.",
               "B": "%10'unu aşamaz.",
@@ -3107,11 +3107,11 @@ const splVeritabani = [
               "E": "Borçlanma yapılması tamamen yasaktır."
             },
             "dogruCevap": "D",
-            "cozum": "Tebliğ m. 20 uyarınca GYF'lerin alabileceği krediler fon toplam değerinin %50'sini geçemez."
+            "cozum": "Tebliğ m. 20 uyarınca Gayrimenkul Yatırım Fonlarının alabileceği krediler fon toplam değerinin %50'sini geçemez."
           },
           {
             "id": 9,
-            "soruMetni": "GYF bilgilendirme dokümanlarında (İhraç Belgesi ve Yatırımcı Bilgi Formu) yer alması zorunlu ana unsurlar hangileridir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonu bilgilendirme dokümanlarında (İhraç Belgesi ve Yatırımcı Bilgi Formu) yer alması zorunlu ana unsurlar hangileridir?",
             "secenekler": {
               "A": "Sadece banka hesap numarası",
               "B": "Şehir haritası",
@@ -3124,7 +3124,7 @@ const splVeritabani = [
           },
           {
             "id": 10,
-            "soruMetni": "GYF portföyünden elde edilen kârın veya iradın katılma payı sahiplerine dağıtılması kuralı nedir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonu portföyünden elde edilen kârın veya iradın katılma payı sahiplerine dağıtılması kuralı nedir?",
             "secenekler": {
               "A": "Fon bilgilendirme dokümanlarında belirtilen esaslar çerçevesinde nakden veya yeni pay verilerek dağıtılabilir.",
               "B": "Dağıtım kararı mahkemece verilir.",
@@ -3133,11 +3133,11 @@ const splVeritabani = [
               "E": "Kârın tamamı fon yöneticisine prim verilir."
             },
             "dogruCevap": "A",
-            "cozum": "GYF kâr payı dağıtım esasları İhraç Belgesinde düzenlenir ve yatırımcılara ödenir."
+            "cozum": "Gayrimenkul Yatırım Fonu kâr payı dağıtım esasları İhraç Belgesinde düzenlenir ve yatırımcılara ödenir."
           },
           {
             "id": 11,
-            "soruMetni": "GYF'lerin portföy saklama hizmetini yürüten yetkili saklayıcı kurum kimdir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının portföy saklama hizmetini yürüten yetkili saklayıcı kurum kimdir?",
             "secenekler": {
               "A": "Şehir Müzesi",
               "B": "Emniyet Kasası",
@@ -3146,11 +3146,11 @@ const splVeritabani = [
               "E": "Fon Yöneticisinin Şahsi Kasası"
             },
             "dogruCevap": "D",
-            "cozum": "GYF tapu hakları ve nakit varlıkları yetkili portföy saklayıcısı nezdinde izlenir."
+            "cozum": "Gayrimenkul Yatırım Fonu tapu hakları ve nakit varlıkları yetkili portföy saklayıcısı nezdinde izlenir."
           },
           {
             "id": 12,
-            "soruMetni": "GYF portföyüne alınan arsa ve araziler üzerinde inşaat projesinin başlatılması için gerekli resmi belge nedir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonu portföyüne alınan arsa ve araziler üzerinde inşaat projesinin başlatılması için gerekli resmi belge nedir?",
             "secenekler": {
               "A": "Sadece mimar çizimi",
               "B": "Elektrik faturası",
@@ -3163,7 +3163,7 @@ const splVeritabani = [
           },
           {
             "id": 13,
-            "soruMetni": "GYF'lerin portföylerinde bulunan gayrimenkulleri üçüncü kişilere kiraya vermesi durumunda kira sözleşmelerinin süresi ve şartları nasıl belirlenir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının portföylerinde bulunan gayrimenkulleri üçüncü kişilere kiraya vermesi durumunda kira sözleşmelerinin süresi ve şartları nasıl belirlenir?",
             "secenekler": {
               "A": "Kira verilemez.",
               "B": "Piyasa emsallerine uygun olarak ve basiretli tacir ilkelerine göre portföy yöneticisi tarafından belirlenir.",
@@ -3176,7 +3176,7 @@ const splVeritabani = [
           },
           {
             "id": 14,
-            "soruMetni": "GYF'lerin portföylerindeki varlıkları teminat göstermeleri veya üzerlerinde rehin tesis etmeleri hangi durumda mümkündür?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının portföylerindeki varlıkları teminat göstermeleri veya üzerlerinde rehin tesis etmeleri hangi durumda mümkündür?",
             "secenekler": {
               "A": "Yalnızca fon adına kredi kullanımı veya gayrimenkul alımının finansmanı amacıyla teminat gösterilebilir.",
               "B": "Sadece yabancı bankalara verilir.",
@@ -3185,11 +3185,11 @@ const splVeritabani = [
               "E": "Şirket yöneticisinin kişisel borcu için gösterilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "GYF varlıkları sadece fonun kendi finansman ihtiyacı için rehnedilebilir; 3. şahıslara teminat verilemez."
+            "cozum": "Gayrimenkul Yatırım Fonu varlıkları sadece fonun kendi finansman ihtiyacı için rehnedilebilir; 3. şahıslara teminat verilemez."
           },
           {
             "id": 15,
-            "soruMetni": "GYF'lerin portföy oranlarında oluşan geçici uyumsuzluklarda SPK'nın verdiği düzeltme süresi azami kaç aydır?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının portföy oranlarında oluşan geçici uyumsuzluklarda SPK'nın verdiği düzeltme süresi azami kaç aydır?",
             "secenekler": {
               "A": "1 Ay",
               "B": "6 Ay",
@@ -3198,11 +3198,11 @@ const splVeritabani = [
               "E": "Süre verilmez"
             },
             "dogruCevap": "B",
-            "cozum": "GYF Tebliği uyarınca portföy oran uyumsuzluklarında SPK ihlalin giderilmesi için 6 aya kadar süre verebilir."
+            "cozum": "Gayrimenkul Yatırım Fonu Tebliği uyarınca portföy oran uyumsuzluklarında SPK ihlalin giderilmesi için 6 aya kadar süre verebilir."
           },
           {
             "id": 16,
-            "soruMetni": "GYF katılma payı sahipleri fon yönetiminde söz sahibi midir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonu katılma payı sahipleri fon yönetiminde söz sahibi midir?",
             "secenekler": {
               "A": "Katılımcıların hiçbir hakkı yoktur.",
               "B": "Fon yönetimi Kurucu/Portföy Yöneticisine aittir; ancak Yatırımcıları Koruma Kararları çerçevesinde Bilgilendirme ve Kar Kurullarına katılabilirler.",
@@ -3215,7 +3215,7 @@ const splVeritabani = [
           },
           {
             "id": 17,
-            "soruMetni": "GYF'lerin yıllık finansal tablolarının bağımsız denetimi zorunlu mudur?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının yıllık finansal tablolarının bağımsız denetimi zorunlu mudur?",
             "secenekler": {
               "A": "Evet, her yıl sonu itibariyle bağımsız denetim yapılması ve KAP'ta yayımlanması zorunludur.",
               "B": "Sadece 10 yılda bir yapılır.",
@@ -3224,11 +3224,11 @@ const splVeritabani = [
               "E": "Hayır, denetim yapılmaz."
             },
             "dogruCevap": "A",
-            "cozum": "GYF yıllık bilançoları bağımsız denetimden geçmek zorundadır."
+            "cozum": "Gayrimenkul Yatırım Fonu yıllık bilançoları bağımsız denetimden geçmek zorundadır."
           },
           {
             "id": 18,
-            "soruMetni": "GYF tasfiye sürecine girdiğinde fon portföyündeki gayrimenkuller nasıl nakde çevrilir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonu tasfiye sürecine girdiğinde fon portföyündeki gayrimenkuller nasıl nakde çevrilir?",
             "secenekler": {
               "A": "Gayrimenkuller yakılır.",
               "B": "Satış yapılması yasaktır.",
@@ -3241,7 +3241,7 @@ const splVeritabani = [
           },
           {
             "id": 19,
-            "soruMetni": "GYF'lerin isim veya strateji değişiklikleri yapabilmesi için hangi belgenin değiştirilmesi gerekir?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının isim veya strateji değişiklikleri yapabilmesi için hangi belgenin değiştirilmesi gerekir?",
             "secenekler": {
               "A": "Değişiklik yapılamaz.",
               "B": "Sadece gazete ilanı verilir.",
@@ -3254,7 +3254,7 @@ const splVeritabani = [
           },
           {
             "id": 20,
-            "soruMetni": "GYF'lerin aynı fon içinde farklı yatırımcı gruplarına farklı haklar tanıyan pay grupları oluşturması mümkün müdür?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının aynı fon içinde farklı yatırımcı gruplarına farklı haklar tanıyan pay grupları oluşturması mümkün müdür?",
             "secenekler": {
               "A": "Pay grubu suçtur.",
               "B": "Sadece kamu kurumlarına pay grubu verilir.",
@@ -3274,7 +3274,7 @@ const splVeritabani = [
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Girişim Sermayesi Yatırım Fonlarına İlişkin Esaslar Tebliği uyarınca, GSYF portföy değerinin en az yüzde kaçının girişim sermayesi yatırımlarından oluşması ZORUNLUDUR?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarına İlişkin Esaslar Tebliği uyarınca, Girişim Sermayesi Yatırım Fonu portföy değerinin en az yüzde kaçının girişim sermayesi yatırımlarından oluşması ZORUNLUDUR?",
             "secenekler": {
               "A": "%12",
               "B": "%68",
@@ -3283,11 +3283,11 @@ const splVeritabani = [
               "E": "%80"
             },
             "dogruCevap": "E",
-            "cozum": "GSYF Tebliği m. 19 uyarınca fon toplam değerinin en az %80'i girişim sermayesi yatırımlarından oluşur."
+            "cozum": "Girişim Sermayesi Yatırım Fonu Tebliği m. 19 uyarınca fon toplam değerinin en az %80'i girişim sermayesi yatırımlarından oluşur."
           },
           {
             "id": 2,
-            "soruMetni": "GSYF'lerin katılma payları kimlere pazarlanabilir ve ihraç edilebilir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının katılma payları kimlere pazarlanabilir ve ihraç edilebilir?",
             "secenekler": {
               "A": "Tüm halka açık halka arz ile satılır.",
               "B": "Yalnızca Nitelikli Yatırımcılara satılabilir.",
@@ -3296,11 +3296,11 @@ const splVeritabani = [
               "E": "Satış yapılması yasaktır."
             },
             "dogruCevap": "B",
-            "cozum": "GSYF katılma payları halka arz edilmeksizin sadece Nitelikli Yatırımcılara satılabilir."
+            "cozum": "Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilmeksizin sadece Nitelikli Yatırımcılara satılabilir."
           },
           {
             "id": 3,
-            "soruMetni": "GSYF'lerin yatırım yapabileceği 'Girişim Şirketi' vasfını taşıyan kurumlar hangileridir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının yatırım yapabileceği 'Girişim Şirketi' vasfını taşıyan kurumlar hangileridir?",
             "secenekler": {
               "A": "Türkiye'de kurulu veya gelişme potansiyeli bulunan, halka açık olmayan veya BİAŞ Gelişen İşletmeler Piyasası'nda (GİP) işlem gören anonim ve limited şirketler",
               "B": "Tasfiye halindeki müflis şirketler",
@@ -3309,11 +3309,11 @@ const splVeritabani = [
               "E": "Yabancı devlet hazineleri"
             },
             "dogruCevap": "A",
-            "cozum": "GSYF'ler kurulma, büyüme aşamasındaki veya teknoloji hamlesi yapan girişim şirketlerine yatırım yaparlar."
+            "cozum": "Girişim Sermayesi Yatırım Fonları kurulma, büyüme aşamasındaki veya teknoloji hamlesi yapan girişim şirketlerine yatırım yaparlar."
           },
           {
             "id": 4,
-            "soruMetni": "GSYF'lerin girişim şirketlerine yapabileceği sermaye takviyesi ve yatırımları arasında aşağıdakilerden hangisi YER ALIR?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının girişim şirketlerine yapabileceği sermaye takviyesi ve yatırımları arasında aşağıdakilerden hangisi YER ALIR?",
             "secenekler": {
               "A": "Şirket mallarını haczetmek",
               "B": "Şirkete faizle tefecilik parası vermek",
@@ -3322,11 +3322,11 @@ const splVeritabani = [
               "E": "Sadece hediye çeki vermek"
             },
             "dogruCevap": "D",
-            "cozum": "GSYF doğrudan pay alımı, sermaye artırımı ve melez finansman yöntemleriyle yatırım yapar."
+            "cozum": "Girişim Sermayesi Yatırım Fonu doğrudan pay alımı, sermaye artırımı ve melez finansman yöntemleriyle yatırım yapar."
           },
           {
             "id": 5,
-            "soruMetni": "GSYF'lerin katılım payı satış başlangıcından itibaren asgari portföy büyüklüğü tutarına ulaşma süresi azami ne kadardır?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının katılım payı satış başlangıcından itibaren asgari portföy büyüklüğü tutarına ulaşma süresi azami ne kadardır?",
             "secenekler": {
               "A": "5 Yıl",
               "B": "10 Yıl",
@@ -3335,24 +3335,24 @@ const splVeritabani = [
               "E": "3 Yıl"
             },
             "dogruCevap": "D",
-            "cozum": "GSYF'ler satış başlama tarihinden itibaren 1 yıl içinde yasal asgari fon büyüklüğünü yakalamak zorundadır."
+            "cozum": "Girişim Sermayesi Yatırım Fonları satış başlama tarihinden itibaren 1 yıl içinde yasal asgari fon büyüklüğünü yakalamak zorundadır."
           },
           {
             "id": 6,
-            "soruMetni": "GSYF'lerin yatırım yaptıkları girişim şirketlerinin yönetim kurulunda temsil edilme ve danışmanlık sağlama hakları var mıdır?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının yatırım yaptıkları girişim şirketlerinin yönetim kurulunda temsil edilme ve danışmanlık sağlama hakları var mıdır?",
             "secenekler": {
               "A": "Yönetim yetkisi sadece devlete aittir.",
               "B": "Hayır, yönetime katılmaları yasaktır.",
               "C": "Sadece dinleyici olunabilir.",
               "D": "Temsilci verilmesi suçtur.",
-              "E": "Evet, GSYF'ler girişim şirketlerinin yönetim kuruluna üye verebilir ve stratejik danışmanlık yapabilirler."
+              "E": "Evet, Girişim Sermayesi Yatırım Fonları girişim şirketlerinin yönetim kuruluna üye verebilir ve stratejik danışmanlık yapabilirler."
             },
             "dogruCevap": "E",
-            "cozum": "GSYF'ler yatırım yaptıkları şirketlerin kurumsal gelişimi için yönetime üye atayabilir."
+            "cozum": "Girişim Sermayesi Yatırım Fonları yatırım yaptıkları şirketlerin kurumsal gelişimi için yönetime üye atayabilir."
           },
           {
             "id": 7,
-            "soruMetni": "GSYF'lerin borçlanma sınırı (kredi kullanımı) fon toplam değerinin en fazla yüzde kaçı olabilir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının borçlanma sınırı (kredi kullanımı) fon toplam değerinin en fazla yüzde kaçı olabilir?",
             "secenekler": {
               "A": "%80",
               "B": "%100",
@@ -3361,11 +3361,11 @@ const splVeritabani = [
               "E": "%10"
             },
             "dogruCevap": "D",
-            "cozum": "GSYF kredi borçlanma sınırı fon toplam değerinin %50'si ile sınırlandırılmıştır."
+            "cozum": "Girişim Sermayesi Yatırım Fonu kredi borçlanma sınırı fon toplam değerinin %50'si ile sınırlandırılmıştır."
           },
           {
             "id": 8,
-            "soruMetni": "GSYF'lerin yatırımlarını yurt dışında kurulu girişim şirketlerine yapabilme sınır eşiği portföy değerinin en fazla yüzde kaçıdır?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının yatırımlarını yurt dışında kurulu girişim şirketlerine yapabilme sınır eşiği portföy değerinin en fazla yüzde kaçıdır?",
             "secenekler": {
               "A": "%75",
               "B": "%90",
@@ -3374,11 +3374,11 @@ const splVeritabani = [
               "E": "%15 (Veya ilgili ihraç belgesi kuralı uyarınca belirlenen sınır)"
             },
             "dogruCevap": "E",
-            "cozum": "GSYF'lerin yurt dışı girişim şirketlerine yapacağı yatırımlar mevzuattaki sınır kısıtlamalarına tabidir."
+            "cozum": "Girişim Sermayesi Yatırım Fonlarının yurt dışı girişim şirketlerine yapacağı yatırımlar mevzuattaki sınır kısıtlamalarına tabidir."
           },
           {
             "id": 9,
-            "soruMetni": "GSYF saklama hizmetleri hangi kuruluş tarafından yürütülür?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonu saklama hizmetleri hangi kuruluş tarafından yürütülür?",
             "secenekler": {
               "A": "SPK tarafından yetkilendirilmiş Portföy Saklayıcısı Kurum (Takasbank / Yetkili Bankalar)",
               "B": "Belediye kasası",
@@ -3387,11 +3387,11 @@ const splVeritabani = [
               "E": "Noterlik"
             },
             "dogruCevap": "A",
-            "cozum": "GSYF payları ve varlıkları yetkili portföy saklayıcısı nezdinde saklanır."
+            "cozum": "Girişim Sermayesi Yatırım Fonu payları ve varlıkları yetkili portföy saklayıcısı nezdinde saklanır."
           },
           {
             "id": 10,
-            "soruMetni": "GSYF'lerin fon süresi sonunda gerçekleşen çıkış (Exit) yöntemleri arasında aşağıdakilerden hangisi YER ALIR?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının fon süresi sonunda gerçekleşen çıkış (Exit) yöntemleri arasında aşağıdakilerden hangisi YER ALIR?",
             "secenekler": {
               "A": "Şirket fabrikasının ateşe verilmesi",
               "B": "Şirketin devlete bağışlanması",
@@ -3400,11 +3400,11 @@ const splVeritabani = [
               "E": "Payların yok edilmesi"
             },
             "dogruCevap": "C",
-            "cozum": "GSYF çıkış stratejileri: Halka arz (IPO), stratejik satış veya kurucuya satış şeklinde gerçekleşir."
+            "cozum": "Girişim Sermayesi Yatırım Fonu çıkış stratejileri: Halka arz (IPO), stratejik satış veya kurucuya satış şeklinde gerçekleşir."
           },
           {
             "id": 11,
-            "soruMetni": "GSYF'lerin yatırım Komitesi (Yatırım Karar Organı) üyelerinin nitelikleri hususunda aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının yatırım Komitesi (Yatırım Karar Organı) üyelerinin nitelikleri hususunda aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Komite kurulması yasaktır.",
               "B": "Yatırım komitesi üyelerinin girişim sermayesi ve finans alanında gerekli tecrübe ve ehliyete sahip olması şarttır.",
@@ -3417,7 +3417,7 @@ const splVeritabani = [
           },
           {
             "id": 12,
-            "soruMetni": "GSYF ihraç belgesinde değişiklik yapılması kimin onayına tabidir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonu ihraç belgesinde değişiklik yapılması kimin onayına tabidir?",
             "secenekler": {
               "A": "Emniyet Müdürü",
               "B": "Sermaye Piyasası Kurulu (SPK)",
@@ -3430,7 +3430,7 @@ const splVeritabani = [
           },
           {
             "id": 13,
-            "soruMetni": "GSYF'lerin portföy değerleme esasları çerçevesinde halka açık olmayan girişim şirketlerinin payları nasıl değerlenir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının portföy değerleme esasları çerçevesinde halka açık olmayan girişim şirketlerinin payları nasıl değerlenir?",
             "secenekler": {
               "A": "Değerleme yapılmaz",
               "B": "Nominal değer üzerinden sabit tutularak",
@@ -3443,7 +3443,7 @@ const splVeritabani = [
           },
           {
             "id": 14,
-            "soruMetni": "GSYF'lerin fon toplam gider oranı kısıtlamaları ve kesintileri nerede yayımlanır?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının fon toplam gider oranı kısıtlamaları ve kesintileri nerede yayımlanır?",
             "secenekler": {
               "A": "Gizli tutulur.",
               "B": "Sadece Maliye dairesine verilir.",
@@ -3456,7 +3456,7 @@ const splVeritabani = [
           },
           {
             "id": 15,
-            "soruMetni": "GSYF'lerin süresi dolduğunda fonun tasfiyesi nasıl gerçekleştirilir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının süresi dolduğunda fonun tasfiyesi nasıl gerçekleştirilir?",
             "secenekler": {
               "A": "Tasfiye kararı alınamaz.",
               "B": "Tasfiye parası devlete devredilir.",
@@ -3469,7 +3469,7 @@ const splVeritabani = [
           },
           {
             "id": 16,
-            "soruMetni": "GSYF'lerin tek bir girişim şirketine yapabileceği yatırım tutarı fon toplam değerinin azami yüzde kaçını oluşturabilir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının tek bir girişim şirketine yapabileceği yatırım tutarı fon toplam değerinin azami yüzde kaçını oluşturabilir?",
             "secenekler": {
               "A": "Sadece %5 yatırılabilir.",
               "B": "İhraç belgesinde belirtilmek kaydıyla serbestçe belirlenebilir (Nitelikli yatırımcı fonu esnekliği).",
@@ -3478,11 +3478,11 @@ const splVeritabani = [
               "E": "%100 tek şirkete yatırılamaz."
             },
             "dogruCevap": "B",
-            "cozum": "GSYF'lerde bilgilendirme dokümanlarında yazmak şartıyla esnek portföy dağılımı mümkündür."
+            "cozum": "Girişim Sermayesi Yatırım Fonu'lerde bilgilendirme dokümanlarında yazmak şartıyla esnek portföy dağılımı mümkündür."
           },
           {
             "id": 17,
-            "soruMetni": "GSYF'lerin yıllık bağımsız denetim raporlarının yayımlanma süresi kaç gündür?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının yıllık bağımsız denetim raporlarının yayımlanma süresi kaç gündür?",
             "secenekler": {
               "A": "Hesap dönemini takip eden 60 gün içinde KAP'ta yayımlanır.",
               "B": "120 gün",
@@ -3491,15 +3491,15 @@ const splVeritabani = [
               "E": "180 gün"
             },
             "dogruCevap": "A",
-            "cozum": "GSYF yıllık denetim raporları 60 gün içinde yayımlanır."
+            "cozum": "Girişim Sermayesi Yatırım Fonu yıllık denetim raporları 60 gün içinde yayımlanır."
           },
           {
             "id": 18,
-            "soruMetni": "GSYF'lerin katılma payı alım satımlarında TEFAS platformunda işlem görme zorunluluğu var mıdır?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının katılma payı alım satımlarında TEFAS platformunda işlem görme zorunluluğu var mıdır?",
             "secenekler": {
               "A": "TEFAS kullanımı yasaktır.",
               "B": "Sadece yabancılar TEFAS kullanır.",
-              "C": "Hayır, GSYF'ler nitelikli yatırımcı fonu olduğundan TEFAS'ta işlem görme zorunluluğu yoktur (İsteğe bağlıdır).",
+              "C": "Hayır, Girişim Sermayesi Yatırım Fonları nitelikli yatırımcı fonu olduğundan TEFAS'ta işlem görme zorunluluğu yoktur (İsteğe bağlıdır).",
               "D": "TEFAS sistemi kapatılmıştır.",
               "E": "Evet, TEFAS zorunludur."
             },
@@ -3508,7 +3508,7 @@ const splVeritabani = [
           },
           {
             "id": 19,
-            "soruMetni": "GSYF'lerde performans ücreti (Taşıma Hakkı / Carried Interest) alınması mümkün müdür?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonu'lerde performans ücreti (Taşıma Hakkı / Carried Interest) alınması mümkün müdür?",
             "secenekler": {
               "A": "Hayır, performans ücreti KESİNLİKLE YASAKTIR.",
               "B": "Sadece şirket çalışanlarına verilir.",
@@ -3521,7 +3521,7 @@ const splVeritabani = [
           },
           {
             "id": 20,
-            "soruMetni": "GSYF'lerin portföylerindeki girişim şirketlerine borç finansmanı sağlaması durumunda vadeli borç sınırları tebliğ hükümlerine tabi midir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarının portföylerindeki girişim şirketlerine borç finansmanı sağlaması durumunda vadeli borç sınırları tebliğ hükümlerine tabi midir?",
             "secenekler": {
               "A": "Evet, borç finansmanı tebliğde belirlenmiş olan oran ve esaslar çerçevesinde sağlanabilir.",
               "B": "Borç sadece döviz olarak verilir.",
@@ -3541,7 +3541,7 @@ const splVeritabani = [
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.3) uyarınca, GSYO'ların temel kuruluş amacı ve yapısı aşağıdakilerden hangisidir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.3) uyarınca, Girişim Sermayesi Yatırım Ortaklıklarının temel kuruluş amacı ve yapısı aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Doğrudan gayrimenkul kiralayan şirket yapısı",
               "B": "Bankacılık ve mevduat toplama kurumu",
@@ -3550,11 +3550,11 @@ const splVeritabani = [
               "E": "Girişim şirketlerine yatırım yapmak üzere kayıtlı sermaye şeklinde kurulan anonim ortaklık yapısı"
             },
             "dogruCevap": "E",
-            "cozum": "GSYO'lar girişim sermayesi yatırımları yapmak amacıyla kurulan kayıtlı sermayeli anonim ortaklıklardır."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklıkları girişim sermayesi yatırımları yapmak amacıyla kurulan kayıtlı sermayeli anonim ortaklıklardır."
           },
           {
             "id": 2,
-            "soruMetni": "GSYO Tebliği (III-48.3) uyarınca, GSYO'ların portföy değerinin en az yüzde kaçının girişim sermayesi yatırımlarından oluşması ZORUNLUDUR?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklığı Tebliği (III-48.3) uyarınca, Girişim Sermayesi Yatırım Ortaklıklarının portföy değerinin en az yüzde kaçının girişim sermayesi yatırımlarından oluşması ZORUNLUDUR?",
             "secenekler": {
               "A": "%90",
               "B": "%10",
@@ -3563,11 +3563,11 @@ const splVeritabani = [
               "E": "%25"
             },
             "dogruCevap": "C",
-            "cozum": "III-48.3 m. 22 uyarınca GSYO portföy değerinin en az %51'inin girişim sermayesi yatırımlarından oluşması zorunludur."
+            "cozum": "III-48.3 m. 22 uyarınca Girişim Sermayesi Yatırım Ortaklığı portföy değerinin en az %51'inin girişim sermayesi yatırımlarından oluşması zorunludur."
           },
           {
             "id": 3,
-            "soruMetni": "GSYO'ların yapabileceği faaliyetler arasında aşağıdakilerden hangisi YER ALIR?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının yapabileceği faaliyetler arasında aşağıdakilerden hangisi YER ALIR?",
             "secenekler": {
               "A": "Tefecilik yapmak",
               "B": "Sürekli olarak gayrimenkul komisyonculuğu yapmak",
@@ -3576,11 +3576,11 @@ const splVeritabani = [
               "E": "İnşaat taahhüt işleri yapmak"
             },
             "dogruCevap": "D",
-            "cozum": "GSYO'lar girişim şirketlerine yönetim desteği, danışmanlık verebilir ve GİP piyasa danışmanlığı hizmeti sunabilirler."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklıkları girişim şirketlerine yönetim desteği, danışmanlık verebilir ve GİP piyasa danışmanlığı hizmeti sunabilirler."
           },
           {
             "id": 4,
-            "soruMetni": "GSYO'ların halka açılmak veya halka arz edilmek üzere SPK'ya başvurmaları için belirlenen çıkarılmış sermaye halka açıklık oranı en az yüzde kaçtır?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının halka açılmak veya halka arz edilmek üzere SPK'ya başvurmaları için belirlenen çıkarılmış sermaye halka açıklık oranı en az yüzde kaçtır?",
             "secenekler": {
               "A": "%25",
               "B": "%50",
@@ -3589,11 +3589,11 @@ const splVeritabani = [
               "E": "%35"
             },
             "dogruCevap": "A",
-            "cozum": "GSYO'ların çıkarılmış sermayelerinin en az %25'ini halka arz etmeleri veya nitelikli yatırımcılara satmaları şarttır."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklıklarının çıkarılmış sermayelerinin en az %25'ini halka arz etmeleri veya nitelikli yatırımcılara satmaları şarttır."
           },
           {
             "id": 5,
-            "soruMetni": "GSYO Tebliği uyarınca, GSYO'ların borçlanma sınırı (kredi kullanımı) özkaynaklarının en fazla kaç katı olabilir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklığı Tebliği uyarınca, Girişim Sermayesi Yatırım Ortaklıklarının borçlanma sınırı (kredi kullanımı) özkaynaklarının en fazla kaç katı olabilir?",
             "secenekler": {
               "A": "Borçlanma yapamazlar",
               "B": "Özkaynaklarının 3 Katı",
@@ -3602,11 +3602,11 @@ const splVeritabani = [
               "E": "1 Katı"
             },
             "dogruCevap": "B",
-            "cozum": "Tebliğ m. 28 uyarınca GSYO borçlanma sınırı özkaynaklarının 3 katı ile sınırlandırılmıştır."
+            "cozum": "Tebliğ m. 28 uyarınca Girişim Sermayesi Yatırım Ortaklığı borçlanma sınırı özkaynaklarının 3 katı ile sınırlandırılmıştır."
           },
           {
             "id": 6,
-            "soruMetni": "GSYO'ların yapamayacağı iş ve işlemler arasında aşağıdakilerden hangisi YER ALIR?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının yapamayacağı iş ve işlemler arasında aşağıdakilerden hangisi YER ALIR?",
             "secenekler": {
               "A": "Girişim şirketine sermaye aktarmak",
               "B": "GİP piyasasında danışmanlık yapmak",
@@ -3615,11 +3615,11 @@ const splVeritabani = [
               "E": "Borsadaki sermaye piyasası araçlarına yatırım yapmak"
             },
             "dogruCevap": "C",
-            "cozum": "GSYO'lar inşaat taahhüt işleri yapamaz, doğrudan ticari işletme işletemezler."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklıkları inşaat taahhüt işleri yapamaz, doğrudan ticari işletme işletemezler."
           },
           {
             "id": 7,
-            "soruMetni": "GSYO'ların yurt dışında kurulu girişim şirketlerine yatırım yapma sınırı portföy değerinin en fazla yüzde kaçı olabilir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının yurt dışında kurulu girişim şirketlerine yatırım yapma sınırı portföy değerinin en fazla yüzde kaçı olabilir?",
             "secenekler": {
               "A": "%15",
               "B": "%0 (Yasak)",
@@ -3628,11 +3628,11 @@ const splVeritabani = [
               "E": "%80"
             },
             "dogruCevap": "A",
-            "cozum": "Tebliğ m. 22 uyarınca GSYO'ların yurt dışı girişim şirketlerine yapabileceği yatırım portföyün %15'ini geçemez."
+            "cozum": "Tebliğ m. 22 uyarınca Girişim Sermayesi Yatırım Ortaklıklarının yurt dışı girişim şirketlerine yapabileceği yatırım portföyün %15'ini geçemez."
           },
           {
             "id": 8,
-            "soruMetni": "GSYO'ların portföy saklama hizmetini hangi yetkili kurum nezdinde yürütmeleri zorunludur?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının portföy saklama hizmetini hangi yetkili kurum nezdinde yürütmeleri zorunludur?",
             "secenekler": {
               "A": "Ticaret Odası",
               "B": "Şirket Avukatının Şahsi Kasası",
@@ -3641,11 +3641,11 @@ const splVeritabani = [
               "E": "SPK tarafından yetkilendirilmiş bir Portföy Saklayıcısı Kurum (Takasbank / Yetkili Saklama Bankaları)"
             },
             "dogruCevap": "E",
-            "cozum": "GSYO portföy varlıkları yetkili portföy saklayıcısı nezdinde saklanır."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklığı portföy varlıkları yetkili portföy saklayıcısı nezdinde saklanır."
           },
           {
             "id": 9,
-            "soruMetni": "GSYO'ların kurucu ortaklarında aranan dürüstlük ve mali güç şartları çerçevesinde aşağıdakilerden hangisi ZORUNLUDUR?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının kurucu ortaklarında aranan dürüstlük ve mali güç şartları çerçevesinde aşağıdakilerden hangisi ZORUNLUDUR?",
             "secenekler": {
               "A": "Sadece yabancı dilde eğitim alması",
               "B": "Diplomat olması",
@@ -3654,11 +3654,11 @@ const splVeritabani = [
               "E": "Müflis olmaması, sermaye piyasası suçlarından hüküm giymemiş olması ve mali güce sahip olması"
             },
             "dogruCevap": "E",
-            "cozum": "GSYO kurucularının dürüstlük, mesleki itibar ve müflis olmama şartlarını taşıması esastır."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklığı kurucularının dürüstlük, mesleki itibar ve müflis olmama şartlarını taşıması esastır."
           },
           {
             "id": 10,
-            "soruMetni": "GSYO'ların portföy sınırlaması aykırılıklarında (örneğin girişim oranının %51'in altına düşmesi) SPK'nın tanıdığı uyum süresi azami kaç aydır?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının portföy sınırlaması aykırılıklarında (örneğin girişim oranının %51'in altına düşmesi) SPK'nın tanıdığı uyum süresi azami kaç aydır?",
             "secenekler": {
               "A": "10 Yıl",
               "B": "Süre verilmez",
@@ -3667,11 +3667,11 @@ const splVeritabani = [
               "E": "5 Yıl"
             },
             "dogruCevap": "D",
-            "cozum": "GSYO portföy uyumsuzluklarında ihlalin giderilmesi için SPK 1 yıl süre verebilir."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklığı portföy uyumsuzluklarında ihlalin giderilmesi için SPK 1 yıl süre verebilir."
           },
           {
             "id": 11,
-            "soruMetni": "GSYO'ların girişim şirketlerindeki yatırım paylarını satarak çıkış yapması (Exit) hangi yöntemlerle gerçekleşebilir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının girişim şirketlerindeki yatırım paylarını satarak çıkış yapması (Exit) hangi yöntemlerle gerçekleşebilir?",
             "secenekler": {
               "A": "Şirketi ateşe vermek",
               "B": "Payları yok etmek",
@@ -3684,7 +3684,7 @@ const splVeritabani = [
           },
           {
             "id": 12,
-            "soruMetni": "GSYO'ların sermaye artırımlarında rüçhan haklarının kısıtlanması kararı kim tarafından alınabilir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının sermaye artırımlarında rüçhan haklarının kısıtlanması kararı kim tarafından alınabilir?",
             "secenekler": {
               "A": "Belediye Meclisi",
               "B": "Genel Kurul veya Esas Sözleşmede Yetki Verilmişse Yönetim Kurulu",
@@ -3693,11 +3693,11 @@ const splVeritabani = [
               "E": "Vergi Dairesi"
             },
             "dogruCevap": "B",
-            "cozum": "Kayıtlı sermayeli GSYO'larda esas sözleşme yetkisiyle YK rüçhan haklarını kısıtlayabilir."
+            "cozum": "Kayıtlı sermayeli Girişim Sermayesi Yatırım Ortaklığı'larda esas sözleşme yetkisiyle YK rüçhan haklarını kısıtlayabilir."
           },
           {
             "id": 13,
-            "soruMetni": "GSYO'ların portföylerindeki halka açık olmayan girişim şirketlerinin değerlemesi ne zaman ve kime yaptırılır?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının portföylerindeki halka açık olmayan girişim şirketlerinin değerlemesi ne zaman ve kime yaptırılır?",
             "secenekler": {
               "A": "Sadece şirket kurucusu değerler.",
               "B": "Her yıl sonu itibariyle yetkili bağımsız gayrimenkul/finansal değerleme kuruluşlarına yaptırılır.",
@@ -3710,7 +3710,7 @@ const splVeritabani = [
           },
           {
             "id": 14,
-            "soruMetni": "GSYO'ların kâr dağıtım politikalarına ilişkin kararı alan organ hangisidir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının kâr dağıtım politikalarına ilişkin kararı alan organ hangisidir?",
             "secenekler": {
               "A": "Milli Piyango Şube Müdürü",
               "B": "Portföy Yöneticisi",
@@ -3723,7 +3723,7 @@ const splVeritabani = [
           },
           {
             "id": 15,
-            "soruMetni": "GSYO'ların unvanında hangi ibarenin bulunması mevzuat gereğince ZORUNLUDUR?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının unvanında hangi ibarenin bulunması mevzuat gereğince ZORUNLUDUR?",
             "secenekler": {
               "A": "'Girişim Sermayesi Yatırım Ortaklığı' ibaresi",
               "B": "'Döviz Bürosu'",
@@ -3732,24 +3732,24 @@ const splVeritabani = [
               "E": "'Mevduat Bankası'"
             },
             "dogruCevap": "A",
-            "cozum": "GSYO ticaret unvanında 'Girişim Sermayesi Yatırım Ortaklığı' ibaresini taşımak zorundadır."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklığı ticaret unvanında 'Girişim Sermayesi Yatırım Ortaklığı' ibaresini taşımak zorundadır."
           },
           {
             "id": 16,
-            "soruMetni": "GSYO'ların faaliyet izinlerinin SPK tarafından iptal edilmesi halinde ortaklığın durumu ne olur?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının faaliyet izinlerinin SPK tarafından iptal edilmesi halinde ortaklığın durumu ne olur?",
             "secenekler": {
               "A": "İşlemler süresiz durur.",
-              "B": "GSYO statüsünü kaybeder ve esas sözleşmesini değiştirerek statıden çıkmak veya tasfiye olmak zorundadır.",
+              "B": "Girişim Sermayesi Yatırım Ortaklığı statüsünü kaybeder ve esas sözleşmesini değiştirerek statıden çıkmak veya tasfiye olmak zorundadır.",
               "C": "Şirket binası kapatılır.",
               "D": "Ortaklara hapis cezası verilir.",
               "E": "Şirket devlete devredilir."
             },
             "dogruCevap": "B",
-            "cozum": "İzin iptalinde GSYO unvanı ve statüsü değiştirilir veya tasfiye sürecine girilir."
+            "cozum": "İzin iptalinde Girişim Sermayesi Yatırım Ortaklığı unvanı ve statüsü değiştirilir veya tasfiye sürecine girilir."
           },
           {
             "id": 17,
-            "soruMetni": "GSYO'ların yıllık ve 6 aylık finansal tablolarının bağımsız denetimden geçmesi ZORUNLU mudur?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının yıllık ve 6 aylık finansal tablolarının bağımsız denetimden geçmesi ZORUNLU mudur?",
             "secenekler": {
               "A": "Evet, 6 aylık ve yıllık finansal tablolar bağımsız denetimden geçer ve KAP'ta ilan edilir.",
               "B": "Hayır, denetim yapılmaz.",
@@ -3758,11 +3758,11 @@ const splVeritabani = [
               "E": "Sadece vergi dairesi denetler."
             },
             "dogruCevap": "A",
-            "cozum": "Halka açık GSYO'lar periyodik finansal denetim geçirmek zorundadır."
+            "cozum": "Halka açık Girişim Sermayesi Yatırım Ortaklıkları periyodik finansal denetim geçirmek zorundadır."
           },
           {
             "id": 18,
-            "soruMetni": "GSYO'ların üçüncü kişiler lehine kefalet veya garanti vermesine ilişkin kısıtlama hangisidir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının üçüncü kişiler lehine kefalet veya garanti vermesine ilişkin kısıtlama hangisidir?",
             "secenekler": {
               "A": "Kefalet verilmesi tamamen yasaktır.",
               "B": "Kefalet kararı muhtardan alınır.",
@@ -3771,11 +3771,11 @@ const splVeritabani = [
               "E": "Sadece yabancı şirketlere kefil olunur."
             },
             "dogruCevap": "D",
-            "cozum": "GSYO'lar sadece kendi girişim şirketlerinin borçlarına teminat verebilir."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklıkları sadece kendi girişim şirketlerinin borçlarına teminat verebilir."
           },
           {
             "id": 19,
-            "soruMetni": "GSYO yönetim kurulu üyelerinin en az kaçının bağımsız üye olması şarttır?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklığı yönetim kurulu üyelerinin en az kaçının bağımsız üye olması şarttır?",
             "secenekler": {
               "A": "Sadece 1 üye seçilir.",
               "B": "Tüm üyeler bağımsız olmalıdır.",
@@ -3784,11 +3784,11 @@ const splVeritabani = [
               "E": "Bağımsız üye gerekmez."
             },
             "dogruCevap": "C",
-            "cozum": "Halka açık GSYO'larda Kurumsal Yönetim İlkeleri gereği bağımsız üye kuralı uygulanır."
+            "cozum": "Halka açık Girişim Sermayesi Yatırım Ortaklığı'larda Kurumsal Yönetim İlkeleri gereği bağımsız üye kuralı uygulanır."
           },
           {
             "id": 20,
-            "soruMetni": "GSYO'ların kamuya yapacakları özel durum açıklamaları hangi platform üzerinden duyurulur?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının kamuya yapacakları özel durum açıklamaları hangi platform üzerinden duyurulur?",
             "secenekler": {
               "A": "Televizyon kanalları",
               "B": "Posta yoluyla",
@@ -4674,7 +4674,7 @@ const splVeritabani = [
           },
           {
             "id": 6,
-            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.1) uyarınca, GYO portföy değerinin en az yüzde kaçının gayrimenkullerden oluşması zorunludur?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.1) uyarınca, Gayrimenkul Yatırım Ortaklığı portföy değerinin en az yüzde kaçının gayrimenkullerden oluşması zorunludur?",
             "secenekler": {
               "A": "%30",
               "B": "%50",
@@ -4683,11 +4683,11 @@ const splVeritabani = [
               "E": "%80"
             },
             "dogruCevap": "D",
-            "cozum": "GYO portföy değerinin en az %70'inin gayrimenkul ve gayrimenkule dayalı haklardan oluşması şarttır."
+            "cozum": "Gayrimenkul Yatırım Ortaklığı portföy değerinin en az %70'inin gayrimenkul ve gayrimenkule dayalı haklardan oluşması şarttır."
           },
           {
             "id": 7,
-            "soruMetni": "Menkul Kıymet Yatırım Ortaklıkları (MKYO) Tebliği uyarınca, MKYO'ların borçlanma sınırı özkaynaklarının en fazla yüzde kaçı ile sınırlıdır?",
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıkları (Menkul Kıymet Yatırım Ortaklığı) Tebliği uyarınca, Menkul Kıymet Yatırım Ortaklıklarının borçlanma sınırı özkaynaklarının en fazla yüzde kaçı ile sınırlıdır?",
             "secenekler": {
               "A": "%20",
               "B": "%5",
@@ -4696,11 +4696,11 @@ const splVeritabani = [
               "E": "%50"
             },
             "dogruCevap": "A",
-            "cozum": "MKYO alabileceği kredi borçlanması tutarı özkaynaklarının %20'sini aşamaz."
+            "cozum": "Menkul Kıymet Yatırım Ortaklığı alabileceği kredi borçlanması tutarı özkaynaklarının %20'sini aşamaz."
           },
           {
             "id": 8,
-            "soruMetni": "Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca, bir PYŞ genel müdürünün finansal piyasalarda en az kaç yıllık mesleki tecrübeye sahip olması şarttır?",
+            "soruMetni": "Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca, bir Portföy Yönetim Şirketi genel müdürünün finansal piyasalarda en az kaç yıllık mesleki tecrübeye sahip olması şarttır?",
             "secenekler": {
               "A": "Tecrübe şartı yoktur",
               "B": "7 Yıl",
@@ -4709,7 +4709,7 @@ const splVeritabani = [
               "E": "3 Yıl"
             },
             "dogruCevap": "B",
-            "cozum": "PYŞ genel müdürünün sermaye piyasası alanında en az 7 yıllık mesleki tecrübesi bulunmalıdır."
+            "cozum": "Portföy Yönetim Şirketi genel müdürünün sermaye piyasası alanında en az 7 yıllık mesleki tecrübesi bulunmalıdır."
           },
           {
             "id": 9,
@@ -4739,7 +4739,7 @@ const splVeritabani = [
           },
           {
             "id": 11,
-            "soruMetni": "Borsa Yatırım Fonlarında (BYF) katılma paylarının borsadaki piyasa fiyatı ile net varlık değeri arasındaki sapmayı önleyen mekanizma hangisidir?",
+            "soruMetni": "Borsa Yatırım Fonlarında (Borsa Yatırım Fonu) katılma paylarının borsadaki piyasa fiyatı ile net varlık değeri arasındaki sapmayı önleyen mekanizma hangisidir?",
             "secenekler": {
               "A": "Borsayı süresiz kapatma kararı",
               "B": "Piyasa Yapıcı Aracı Kurumlar aracılığıyla Ayni Yaratma ve İade (Arbitraj) mekanizması",
@@ -4752,7 +4752,7 @@ const splVeritabani = [
           },
           {
             "id": 12,
-            "soruMetni": "Gayrimenkul Yatırım Fonlarının (GYF) portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkul haklarından oluşması zorunludur?",
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının (Gayrimenkul Yatırım Fonu) portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkul haklarından oluşması zorunludur?",
             "secenekler": {
               "A": "%35",
               "B": "%55",
@@ -4761,24 +4761,24 @@ const splVeritabani = [
               "E": "%70"
             },
             "dogruCevap": "D",
-            "cozum": "GYF Tebliği m. 18 uyarınca fon portföyünün en az %80'i gayrimenkul yatırımlarından oluşur."
+            "cozum": "Gayrimenkul Yatırım Fonu Tebliği m. 18 uyarınca fon portföyünün en az %80'i gayrimenkul yatırımlarından oluşur."
           },
           {
             "id": 13,
-            "soruMetni": "Girişim Sermayesi Yatırım Fonları (GSYF) portföyündeki girişim şirketlerinin yönetimine katılma hakkına haiz midir?",
+            "soruMetni": "Girişim Sermayesi Yatırım Fonları (Girişim Sermayesi Yatırım Fonu) portföyündeki girişim şirketlerinin yönetimine katılma hakkına haiz midir?",
             "secenekler": {
               "A": "Temsilci atamak suçtur.",
               "B": "Hayır, yönetime katılmaları yasaktır.",
-              "C": "Evet, GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye atayabilir ve danışmanlık verebilirler.",
+              "C": "Evet, Girişim Sermayesi Yatırım Fonları girişim şirketlerinin yönetim kuruluna temsilci üye atayabilir ve danışmanlık verebilirler.",
               "D": "Sadece dinleyici olabilirler.",
               "E": "Yönetim hakkı sadece devlete aittir."
             },
             "dogruCevap": "C",
-            "cozum": "GSYF'ler girişim şirketlerinin kurumsal gelişimi için yönetim kurullarında temsil edilirler."
+            "cozum": "Girişim Sermayesi Yatırım Fonları girişim şirketlerinin kurumsal gelişimi için yönetim kurullarında temsil edilirler."
           },
           {
             "id": 14,
-            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının (GSYO) portföy değerinin en az yüzde kaçının girişim sermayesi yatırımlarından oluşması şarttır?",
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının (Girişim Sermayesi Yatırım Ortaklığı) portföy değerinin en az yüzde kaçının girişim sermayesi yatırımlarından oluşması şarttır?",
             "secenekler": {
               "A": "%90",
               "B": "%51",
@@ -4787,7 +4787,7 @@ const splVeritabani = [
               "E": "%75"
             },
             "dogruCevap": "B",
-            "cozum": "GSYO Tebliği m. 22 uyarınca portföyün en az %51'i girişim sermayesi yatırımlarından oluşur."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklığı Tebliği m. 22 uyarınca portföyün en az %51'i girişim sermayesi yatırımlarından oluşur."
           },
           {
             "id": 15,
@@ -4869,7 +4869,7 @@ const splVeritabani = [
           },
           {
             "id": 21,
-            "soruMetni": "GYO'ların alabileceği kredi borçlanma tutarı toplamı özkaynaklarının azami kaç katı ile sınırlıdır?",
+            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarının alabileceği kredi borçlanma tutarı toplamı özkaynaklarının azami kaç katı ile sınırlıdır?",
             "secenekler": {
               "A": "1 Katı",
               "B": "10 Katı",
@@ -4878,7 +4878,7 @@ const splVeritabani = [
               "E": "Özkaynaklarının 5 Katı"
             },
             "dogruCevap": "E",
-            "cozum": "GYO toplam kredi borçlanması özkaynaklarının 5 katını geçemez."
+            "cozum": "Gayrimenkul Yatırım Ortaklığı toplam kredi borçlanması özkaynaklarının 5 katını geçemez."
           },
           {
             "id": 22,
@@ -4908,16 +4908,16 @@ const splVeritabani = [
           },
           {
             "id": 24,
-            "soruMetni": "GYF ve GSYF katılma payları halka arz edilerek genel yatırımcılara satılabilir mi?",
+            "soruMetni": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilerek genel yatırımcılara satılabilir mi?",
             "secenekler": {
               "A": "Sadece yabancılara satılır.",
               "B": "Halka arz yapılması zorunludur.",
               "C": "Evet, tüm halka arz edilir.",
-              "D": "Hayır, GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcılara satılır.",
+              "D": "Hayır, Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilemez; sadece Nitelikli Yatırımcılara satılır.",
               "E": "Sadece şirket kurucusu alabilir."
             },
             "dogruCevap": "D",
-            "cozum": "GYF ve GSYF payları halka arz edilemez, sadece Nitelikli Yatırımcılara ihraç edilir."
+            "cozum": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu payları halka arz edilemez, sadece Nitelikli Yatırımcılara ihraç edilir."
           },
           {
             "id": 25,
@@ -5006,29 +5006,29 @@ const splVeritabani = [
           },
           {
             "id": 6,
-            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #6: GYO Portföyündeki Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #6: Gayrimenkul Yatırım Ortaklığı Portföyündeki Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Portföy oranı her gün değişir. (Deneme #2 Özel Seçeneği)",
               "B": "Portföy oranı %5 ile sınırlıdır. (Deneme #2 Özel Seçeneği)",
               "C": "Portföyün %100'ü mevduat olmalıdır. (Deneme #2 Özel Seçeneği)",
               "D": "Gayrimenkul alınması yasaktır. (Deneme #2 Özel Seçeneği)",
-              "E": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+              "E": "Gayrimenkul Yatırım Ortaklığı portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
             },
             "dogruCevap": "E",
-            "cozum": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+            "cozum": "Gayrimenkul Yatırım Ortaklığı portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
           },
           {
             "id": 7,
-            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #7: MKYO Borçlanma Limiti hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #7: Menkul Kıymet Yatırım Ortaklığı Borçlanma Limiti hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Borç sadece dövizle alınır. (Deneme #2 Özel Seçeneği)",
-              "B": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler.",
+              "B": "Menkul Kıymet Yatırım Ortaklıkları özkaynaklarının en fazla %20'si kadar kredi alabilirler.",
               "C": "Özkaynakların 100 katı kredi alınır. (Deneme #2 Özel Seçeneği)",
               "D": "Borçlanma tutarı sınırsızdır. (Deneme #2 Özel Seçeneği)",
               "E": "Borçlanma yapılması tamamen yasaktır. (Deneme #2 Özel Seçeneği)"
             },
             "dogruCevap": "B",
-            "cozum": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler."
+            "cozum": "Menkul Kıymet Yatırım Ortaklıkları özkaynaklarının en fazla %20'si kadar kredi alabilirler."
           },
           {
             "id": 8,
@@ -5037,11 +5037,11 @@ const splVeritabani = [
               "A": "Sadece ilkokul mezuniyeti yeterlidir. (Deneme #2 Özel Seçeneği)",
               "B": "Tecrübe şartı aranmaz. (Deneme #2 Özel Seçeneği)",
               "C": "En az 40 yıl tecrübe şarttır. (Deneme #2 Özel Seçeneği)",
-              "D": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır.",
+              "D": "Portföy Yönetim Şirketi genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır.",
               "E": "Genel müdür atanması yasaktır. (Deneme #2 Özel Seçeneği)"
             },
             "dogruCevap": "D",
-            "cozum": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır."
+            "cozum": "Portföy Yönetim Şirketi genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır."
           },
           {
             "id": 9,
@@ -5084,42 +5084,42 @@ const splVeritabani = [
           },
           {
             "id": 12,
-            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #12: GYF Portföy Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #12: Gayrimenkul Yatırım Fonu Portföy Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Oran kararı belediyece verilir. (Deneme #2 Özel Seçeneği)",
               "B": "Portföye gayrimenkul alınamaz. (Deneme #2 Özel Seçeneği)",
-              "C": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur.",
+              "C": "Gayrimenkul Yatırım Fonu portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur.",
               "D": "Portföy oranı %2 ile sınırlıdır. (Deneme #2 Özel Seçeneği)",
               "E": "Portföyün tamamı türev araçtır. (Deneme #2 Özel Seçeneği)"
             },
             "dogruCevap": "C",
-            "cozum": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
+            "cozum": "Gayrimenkul Yatırım Fonu portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
           },
           {
             "id": 13,
-            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #13: GSYF Yönetim Kurulunda Temsil Yetkisi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #13: Girişim Sermayesi Yatırım Fonu Yönetim Kurulunda Temsil Yetkisi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Temsilci atanması suçtur. (Deneme #2 Özel Seçeneği)",
-              "B": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir.",
+              "B": "Girişim Sermayesi Yatırım Fonları girişim şirketlerinin yönetim kuruluna temsilci üye verebilir.",
               "C": "Yönetime katılmaları yasaktır. (Deneme #2 Özel Seçeneği)",
               "D": "Yönetim yetkisi devlete geçer. (Deneme #2 Özel Seçeneği)",
               "E": "Sadece dinleyici olunur. (Deneme #2 Özel Seçeneği)"
             },
             "dogruCevap": "B",
-            "cozum": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
+            "cozum": "Girişim Sermayesi Yatırım Fonları girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
           },
           {
             "id": 14,
-            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #14: GSYO Girişim Yatırımı Alt Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #14: Girişim Sermayesi Yatırım Ortaklığı Girişim Yatırımı Alt Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Oran her ay sıfırlanır. (Deneme #2 Özel Seçeneği)",
               "B": "Portföy oranı %100 altın olmalıdır. (Deneme #2 Özel Seçeneği)",
               "C": "Girişim yatırımı yapılması yasaktır. (Deneme #2 Özel Seçeneği)",
-              "D": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur.",
+              "D": "Girişim Sermayesi Yatırım Ortaklığı portföy değerinin en az %51'i girişim yatırımlarından oluşur.",
               "E": "Portföy oranı %1'dir. (Deneme #2 Özel Seçeneği)"
             },
             "dogruCevap": "D",
-            "cozum": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklığı portföy değerinin en az %51'i girişim yatırımlarından oluşur."
           },
           {
             "id": 15,
@@ -5201,16 +5201,16 @@ const splVeritabani = [
           },
           {
             "id": 21,
-            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #21: GYO Toplam Borçlanma Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #21: Gayrimenkul Yatırım Ortaklığı Toplam Borçlanma Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Borçlanma sınırı 100 kattır. (Deneme #2 Özel Seçeneği)",
               "B": "Borç tutarı sabittir. (Deneme #2 Özel Seçeneği)",
               "C": "Borç sadece altın cinsindendir. (Deneme #2 Özel Seçeneği)",
-              "D": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz.",
+              "D": "Gayrimenkul Yatırım Ortaklıklarının alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz.",
               "E": "Kredi alınması tamamen yasaktır. (Deneme #2 Özel Seçeneği)"
             },
             "dogruCevap": "D",
-            "cozum": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz."
+            "cozum": "Gayrimenkul Yatırım Ortaklıklarının alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz."
           },
           {
             "id": 22,
@@ -5240,16 +5240,16 @@ const splVeritabani = [
           },
           {
             "id": 24,
-            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #24: GYF ve GSYF Katılma Payı İhraç Esası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #24: Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu Katılma Payı İhraç Esası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Tüm halka açık arz edilir. (Deneme #2 Özel Seçeneği)",
               "B": "Satış izni muhtardan alınır. (Deneme #2 Özel Seçeneği)",
               "C": "Sadece yabancılara satılır. (Deneme #2 Özel Seçeneği)",
               "D": "Satış yapılması yasaktır. (Deneme #2 Özel Seçeneği)",
-              "E": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
+              "E": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
             },
             "dogruCevap": "E",
-            "cozum": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
+            "cozum": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
           },
           {
             "id": 25,
@@ -5338,42 +5338,42 @@ const splVeritabani = [
           },
           {
             "id": 6,
-            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #6: GYO Portföyündeki Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #6: Gayrimenkul Yatırım Ortaklığı Portföyündeki Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Portföy oranı her gün değişir. (Deneme #3 Özel Seçeneği)",
               "B": "Gayrimenkul alınması yasaktır. (Deneme #3 Özel Seçeneği)",
               "C": "Portföyün %100'ü mevduat olmalıdır. (Deneme #3 Özel Seçeneği)",
               "D": "Portföy oranı %5 ile sınırlıdır. (Deneme #3 Özel Seçeneği)",
-              "E": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+              "E": "Gayrimenkul Yatırım Ortaklığı portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
             },
             "dogruCevap": "E",
-            "cozum": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+            "cozum": "Gayrimenkul Yatırım Ortaklığı portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
           },
           {
             "id": 7,
-            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #7: MKYO Borçlanma Limiti hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #7: Menkul Kıymet Yatırım Ortaklığı Borçlanma Limiti hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Borçlanma yapılması tamamen yasaktır. (Deneme #3 Özel Seçeneği)",
               "B": "Borç sadece dövizle alınır. (Deneme #3 Özel Seçeneği)",
               "C": "Özkaynakların 100 katı kredi alınır. (Deneme #3 Özel Seçeneği)",
               "D": "Borçlanma tutarı sınırsızdır. (Deneme #3 Özel Seçeneği)",
-              "E": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler."
+              "E": "Menkul Kıymet Yatırım Ortaklıkları özkaynaklarının en fazla %20'si kadar kredi alabilirler."
             },
             "dogruCevap": "E",
-            "cozum": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler."
+            "cozum": "Menkul Kıymet Yatırım Ortaklıkları özkaynaklarının en fazla %20'si kadar kredi alabilirler."
           },
           {
             "id": 8,
             "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #8: Portföy Yönetim Şirketi Genel Müdür Şartı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Genel müdür atanması yasaktır. (Deneme #3 Özel Seçeneği)",
-              "B": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır.",
+              "B": "Portföy Yönetim Şirketi genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır.",
               "C": "Sadece ilkokul mezuniyeti yeterlidir. (Deneme #3 Özel Seçeneği)",
               "D": "Tecrübe şartı aranmaz. (Deneme #3 Özel Seçeneği)",
               "E": "En az 40 yıl tecrübe şarttır. (Deneme #3 Özel Seçeneği)"
             },
             "dogruCevap": "B",
-            "cozum": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır."
+            "cozum": "Portföy Yönetim Şirketi genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır."
           },
           {
             "id": 9,
@@ -5416,42 +5416,42 @@ const splVeritabani = [
           },
           {
             "id": 12,
-            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #12: GYF Portföy Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #12: Gayrimenkul Yatırım Fonu Portföy Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur.",
+              "A": "Gayrimenkul Yatırım Fonu portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur.",
               "B": "Oran kararı belediyece verilir. (Deneme #3 Özel Seçeneği)",
               "C": "Portföye gayrimenkul alınamaz. (Deneme #3 Özel Seçeneği)",
               "D": "Portföy oranı %2 ile sınırlıdır. (Deneme #3 Özel Seçeneği)",
               "E": "Portföyün tamamı türev araçtır. (Deneme #3 Özel Seçeneği)"
             },
             "dogruCevap": "A",
-            "cozum": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
+            "cozum": "Gayrimenkul Yatırım Fonu portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
           },
           {
             "id": 13,
-            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #13: GSYF Yönetim Kurulunda Temsil Yetkisi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #13: Girişim Sermayesi Yatırım Fonu Yönetim Kurulunda Temsil Yetkisi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir.",
+              "A": "Girişim Sermayesi Yatırım Fonları girişim şirketlerinin yönetim kuruluna temsilci üye verebilir.",
               "B": "Yönetime katılmaları yasaktır. (Deneme #3 Özel Seçeneği)",
               "C": "Yönetim yetkisi devlete geçer. (Deneme #3 Özel Seçeneği)",
               "D": "Sadece dinleyici olunur. (Deneme #3 Özel Seçeneği)",
               "E": "Temsilci atanması suçtur. (Deneme #3 Özel Seçeneği)"
             },
             "dogruCevap": "A",
-            "cozum": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
+            "cozum": "Girişim Sermayesi Yatırım Fonları girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
           },
           {
             "id": 14,
-            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #14: GSYO Girişim Yatırımı Alt Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #14: Girişim Sermayesi Yatırım Ortaklığı Girişim Yatırımı Alt Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Oran her ay sıfırlanır. (Deneme #3 Özel Seçeneği)",
               "B": "Portföy oranı %100 altın olmalıdır. (Deneme #3 Özel Seçeneği)",
               "C": "Portföy oranı %1'dir. (Deneme #3 Özel Seçeneği)",
               "D": "Girişim yatırımı yapılması yasaktır. (Deneme #3 Özel Seçeneği)",
-              "E": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur."
+              "E": "Girişim Sermayesi Yatırım Ortaklığı portföy değerinin en az %51'i girişim yatırımlarından oluşur."
             },
             "dogruCevap": "E",
-            "cozum": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklığı portföy değerinin en az %51'i girişim yatırımlarından oluşur."
           },
           {
             "id": 15,
@@ -5533,16 +5533,16 @@ const splVeritabani = [
           },
           {
             "id": 21,
-            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #21: GYO Toplam Borçlanma Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #21: Gayrimenkul Yatırım Ortaklığı Toplam Borçlanma Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Borç tutarı sabittir. (Deneme #3 Özel Seçeneği)",
               "B": "Borçlanma sınırı 100 kattır. (Deneme #3 Özel Seçeneği)",
               "C": "Kredi alınması tamamen yasaktır. (Deneme #3 Özel Seçeneği)",
-              "D": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz.",
+              "D": "Gayrimenkul Yatırım Ortaklıklarının alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz.",
               "E": "Borç sadece altın cinsindendir. (Deneme #3 Özel Seçeneği)"
             },
             "dogruCevap": "D",
-            "cozum": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz."
+            "cozum": "Gayrimenkul Yatırım Ortaklıklarının alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz."
           },
           {
             "id": 22,
@@ -5572,16 +5572,16 @@ const splVeritabani = [
           },
           {
             "id": 24,
-            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #24: GYF ve GSYF Katılma Payı İhraç Esası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #24: Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu Katılma Payı İhraç Esası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Satış yapılması yasaktır. (Deneme #3 Özel Seçeneği)",
               "B": "Satış izni muhtardan alınır. (Deneme #3 Özel Seçeneği)",
               "C": "Tüm halka açık arz edilir. (Deneme #3 Özel Seçeneği)",
               "D": "Sadece yabancılara satılır. (Deneme #3 Özel Seçeneği)",
-              "E": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
+              "E": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
             },
             "dogruCevap": "E",
-            "cozum": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
+            "cozum": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
           },
           {
             "id": 25,
@@ -5670,29 +5670,29 @@ const splVeritabani = [
           },
           {
             "id": 6,
-            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #6: GYO Portföyündeki Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #6: Gayrimenkul Yatırım Ortaklığı Portföyündeki Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Portföy oranı her gün değişir. (Deneme #4 Özel Seçeneği)",
               "B": "Portföy oranı %5 ile sınırlıdır. (Deneme #4 Özel Seçeneği)",
               "C": "Gayrimenkul alınması yasaktır. (Deneme #4 Özel Seçeneği)",
               "D": "Portföyün %100'ü mevduat olmalıdır. (Deneme #4 Özel Seçeneği)",
-              "E": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+              "E": "Gayrimenkul Yatırım Ortaklığı portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
             },
             "dogruCevap": "E",
-            "cozum": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+            "cozum": "Gayrimenkul Yatırım Ortaklığı portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
           },
           {
             "id": 7,
-            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #7: MKYO Borçlanma Limiti hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #7: Menkul Kıymet Yatırım Ortaklığı Borçlanma Limiti hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler.",
+              "A": "Menkul Kıymet Yatırım Ortaklıkları özkaynaklarının en fazla %20'si kadar kredi alabilirler.",
               "B": "Borçlanma yapılması tamamen yasaktır. (Deneme #4 Özel Seçeneği)",
               "C": "Borçlanma tutarı sınırsızdır. (Deneme #4 Özel Seçeneği)",
               "D": "Özkaynakların 100 katı kredi alınır. (Deneme #4 Özel Seçeneği)",
               "E": "Borç sadece dövizle alınır. (Deneme #4 Özel Seçeneği)"
             },
             "dogruCevap": "A",
-            "cozum": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler."
+            "cozum": "Menkul Kıymet Yatırım Ortaklıkları özkaynaklarının en fazla %20'si kadar kredi alabilirler."
           },
           {
             "id": 8,
@@ -5700,12 +5700,12 @@ const splVeritabani = [
             "secenekler": {
               "A": "Genel müdür atanması yasaktır. (Deneme #4 Özel Seçeneği)",
               "B": "Sadece ilkokul mezuniyeti yeterlidir. (Deneme #4 Özel Seçeneği)",
-              "C": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır.",
+              "C": "Portföy Yönetim Şirketi genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır.",
               "D": "En az 40 yıl tecrübe şarttır. (Deneme #4 Özel Seçeneği)",
               "E": "Tecrübe şartı aranmaz. (Deneme #4 Özel Seçeneği)"
             },
             "dogruCevap": "C",
-            "cozum": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır."
+            "cozum": "Portföy Yönetim Şirketi genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır."
           },
           {
             "id": 9,
@@ -5748,42 +5748,42 @@ const splVeritabani = [
           },
           {
             "id": 12,
-            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #12: GYF Portföy Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #12: Gayrimenkul Yatırım Fonu Portföy Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Oran kararı belediyece verilir. (Deneme #4 Özel Seçeneği)",
               "B": "Portföy oranı %2 ile sınırlıdır. (Deneme #4 Özel Seçeneği)",
               "C": "Portföyün tamamı türev araçtır. (Deneme #4 Özel Seçeneği)",
-              "D": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur.",
+              "D": "Gayrimenkul Yatırım Fonu portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur.",
               "E": "Portföye gayrimenkul alınamaz. (Deneme #4 Özel Seçeneği)"
             },
             "dogruCevap": "D",
-            "cozum": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
+            "cozum": "Gayrimenkul Yatırım Fonu portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
           },
           {
             "id": 13,
-            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #13: GSYF Yönetim Kurulunda Temsil Yetkisi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #13: Girişim Sermayesi Yatırım Fonu Yönetim Kurulunda Temsil Yetkisi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Yönetime katılmaları yasaktır. (Deneme #4 Özel Seçeneği)",
               "B": "Sadece dinleyici olunur. (Deneme #4 Özel Seçeneği)",
               "C": "Yönetim yetkisi devlete geçer. (Deneme #4 Özel Seçeneği)",
               "D": "Temsilci atanması suçtur. (Deneme #4 Özel Seçeneği)",
-              "E": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
+              "E": "Girişim Sermayesi Yatırım Fonları girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
             },
             "dogruCevap": "E",
-            "cozum": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
+            "cozum": "Girişim Sermayesi Yatırım Fonları girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
           },
           {
             "id": 14,
-            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #14: GSYO Girişim Yatırımı Alt Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #14: Girişim Sermayesi Yatırım Ortaklığı Girişim Yatırımı Alt Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur.",
+              "A": "Girişim Sermayesi Yatırım Ortaklığı portföy değerinin en az %51'i girişim yatırımlarından oluşur.",
               "B": "Girişim yatırımı yapılması yasaktır. (Deneme #4 Özel Seçeneği)",
               "C": "Oran her ay sıfırlanır. (Deneme #4 Özel Seçeneği)",
               "D": "Portföy oranı %1'dir. (Deneme #4 Özel Seçeneği)",
               "E": "Portföy oranı %100 altın olmalıdır. (Deneme #4 Özel Seçeneği)"
             },
             "dogruCevap": "A",
-            "cozum": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklığı portföy değerinin en az %51'i girişim yatırımlarından oluşur."
           },
           {
             "id": 15,
@@ -5865,16 +5865,16 @@ const splVeritabani = [
           },
           {
             "id": 21,
-            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #21: GYO Toplam Borçlanma Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #21: Gayrimenkul Yatırım Ortaklığı Toplam Borçlanma Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Borçlanma sınırı 100 kattır. (Deneme #4 Özel Seçeneği)",
               "B": "Kredi alınması tamamen yasaktır. (Deneme #4 Özel Seçeneği)",
               "C": "Borç tutarı sabittir. (Deneme #4 Özel Seçeneği)",
-              "D": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz.",
+              "D": "Gayrimenkul Yatırım Ortaklıklarının alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz.",
               "E": "Borç sadece altın cinsindendir. (Deneme #4 Özel Seçeneği)"
             },
             "dogruCevap": "D",
-            "cozum": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz."
+            "cozum": "Gayrimenkul Yatırım Ortaklıklarının alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz."
           },
           {
             "id": 22,
@@ -5904,16 +5904,16 @@ const splVeritabani = [
           },
           {
             "id": 24,
-            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #24: GYF ve GSYF Katılma Payı İhraç Esası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #24: Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu Katılma Payı İhraç Esası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Sadece yabancılara satılır. (Deneme #4 Özel Seçeneği)",
               "B": "Tüm halka açık arz edilir. (Deneme #4 Özel Seçeneği)",
-              "C": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır.",
+              "C": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır.",
               "D": "Satış yapılması yasaktır. (Deneme #4 Özel Seçeneği)",
               "E": "Satış izni muhtardan alınır. (Deneme #4 Özel Seçeneği)"
             },
             "dogruCevap": "C",
-            "cozum": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
+            "cozum": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
           },
           {
             "id": 25,
@@ -6002,42 +6002,42 @@ const splVeritabani = [
           },
           {
             "id": 6,
-            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #6: GYO Portföyündeki Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #6: Gayrimenkul Yatırım Ortaklığı Portföyündeki Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur.",
+              "A": "Gayrimenkul Yatırım Ortaklığı portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur.",
               "B": "Portföyün %100'ü mevduat olmalıdır. (Deneme #5 Özel Seçeneği)",
               "C": "Gayrimenkul alınması yasaktır. (Deneme #5 Özel Seçeneği)",
               "D": "Portföy oranı her gün değişir. (Deneme #5 Özel Seçeneği)",
               "E": "Portföy oranı %5 ile sınırlıdır. (Deneme #5 Özel Seçeneği)"
             },
             "dogruCevap": "A",
-            "cozum": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+            "cozum": "Gayrimenkul Yatırım Ortaklığı portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
           },
           {
             "id": 7,
-            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #7: MKYO Borçlanma Limiti hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #7: Menkul Kıymet Yatırım Ortaklığı Borçlanma Limiti hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Borçlanma tutarı sınırsızdır. (Deneme #5 Özel Seçeneği)",
               "B": "Borçlanma yapılması tamamen yasaktır. (Deneme #5 Özel Seçeneği)",
               "C": "Özkaynakların 100 katı kredi alınır. (Deneme #5 Özel Seçeneği)",
-              "D": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler.",
+              "D": "Menkul Kıymet Yatırım Ortaklıkları özkaynaklarının en fazla %20'si kadar kredi alabilirler.",
               "E": "Borç sadece dövizle alınır. (Deneme #5 Özel Seçeneği)"
             },
             "dogruCevap": "D",
-            "cozum": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler."
+            "cozum": "Menkul Kıymet Yatırım Ortaklıkları özkaynaklarının en fazla %20'si kadar kredi alabilirler."
           },
           {
             "id": 8,
             "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #8: Portföy Yönetim Şirketi Genel Müdür Şartı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır.",
+              "A": "Portföy Yönetim Şirketi genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır.",
               "B": "Sadece ilkokul mezuniyeti yeterlidir. (Deneme #5 Özel Seçeneği)",
               "C": "Tecrübe şartı aranmaz. (Deneme #5 Özel Seçeneği)",
               "D": "Genel müdür atanması yasaktır. (Deneme #5 Özel Seçeneği)",
               "E": "En az 40 yıl tecrübe şarttır. (Deneme #5 Özel Seçeneği)"
             },
             "dogruCevap": "A",
-            "cozum": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır."
+            "cozum": "Portföy Yönetim Şirketi genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır."
           },
           {
             "id": 9,
@@ -6080,42 +6080,42 @@ const splVeritabani = [
           },
           {
             "id": 12,
-            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #12: GYF Portföy Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #12: Gayrimenkul Yatırım Fonu Portföy Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Portföyün tamamı türev araçtır. (Deneme #5 Özel Seçeneği)",
               "B": "Portföye gayrimenkul alınamaz. (Deneme #5 Özel Seçeneği)",
               "C": "Oran kararı belediyece verilir. (Deneme #5 Özel Seçeneği)",
               "D": "Portföy oranı %2 ile sınırlıdır. (Deneme #5 Özel Seçeneği)",
-              "E": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
+              "E": "Gayrimenkul Yatırım Fonu portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
             },
             "dogruCevap": "E",
-            "cozum": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
+            "cozum": "Gayrimenkul Yatırım Fonu portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
           },
           {
             "id": 13,
-            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #13: GSYF Yönetim Kurulunda Temsil Yetkisi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #13: Girişim Sermayesi Yatırım Fonu Yönetim Kurulunda Temsil Yetkisi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Yönetime katılmaları yasaktır. (Deneme #5 Özel Seçeneği)",
               "B": "Yönetim yetkisi devlete geçer. (Deneme #5 Özel Seçeneği)",
               "C": "Sadece dinleyici olunur. (Deneme #5 Özel Seçeneği)",
-              "D": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir.",
+              "D": "Girişim Sermayesi Yatırım Fonları girişim şirketlerinin yönetim kuruluna temsilci üye verebilir.",
               "E": "Temsilci atanması suçtur. (Deneme #5 Özel Seçeneği)"
             },
             "dogruCevap": "D",
-            "cozum": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
+            "cozum": "Girişim Sermayesi Yatırım Fonları girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
           },
           {
             "id": 14,
-            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #14: GSYO Girişim Yatırımı Alt Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #14: Girişim Sermayesi Yatırım Ortaklığı Girişim Yatırımı Alt Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Girişim yatırımı yapılması yasaktır. (Deneme #5 Özel Seçeneği)",
               "B": "Oran her ay sıfırlanır. (Deneme #5 Özel Seçeneği)",
               "C": "Portföy oranı %1'dir. (Deneme #5 Özel Seçeneği)",
               "D": "Portföy oranı %100 altın olmalıdır. (Deneme #5 Özel Seçeneği)",
-              "E": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur."
+              "E": "Girişim Sermayesi Yatırım Ortaklığı portföy değerinin en az %51'i girişim yatırımlarından oluşur."
             },
             "dogruCevap": "E",
-            "cozum": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur."
+            "cozum": "Girişim Sermayesi Yatırım Ortaklığı portföy değerinin en az %51'i girişim yatırımlarından oluşur."
           },
           {
             "id": 15,
@@ -6197,16 +6197,16 @@ const splVeritabani = [
           },
           {
             "id": 21,
-            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #21: GYO Toplam Borçlanma Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #21: Gayrimenkul Yatırım Ortaklığı Toplam Borçlanma Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Borç tutarı sabittir. (Deneme #5 Özel Seçeneği)",
               "B": "Borç sadece altın cinsindendir. (Deneme #5 Özel Seçeneği)",
-              "C": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz.",
+              "C": "Gayrimenkul Yatırım Ortaklıklarının alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz.",
               "D": "Kredi alınması tamamen yasaktır. (Deneme #5 Özel Seçeneği)",
               "E": "Borçlanma sınırı 100 kattır. (Deneme #5 Özel Seçeneği)"
             },
             "dogruCevap": "C",
-            "cozum": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz."
+            "cozum": "Gayrimenkul Yatırım Ortaklıklarının alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz."
           },
           {
             "id": 22,
@@ -6236,16 +6236,16 @@ const splVeritabani = [
           },
           {
             "id": 24,
-            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #24: GYF ve GSYF Katılma Payı İhraç Esası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #24: Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu Katılma Payı İhraç Esası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Sadece yabancılara satılır. (Deneme #5 Özel Seçeneği)",
               "B": "Satış yapılması yasaktır. (Deneme #5 Özel Seçeneği)",
               "C": "Tüm halka açık arz edilir. (Deneme #5 Özel Seçeneği)",
-              "D": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır.",
+              "D": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır.",
               "E": "Satış izni muhtardan alınır. (Deneme #5 Özel Seçeneği)"
             },
             "dogruCevap": "D",
-            "cozum": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
+            "cozum": "Gayrimenkul Yatırım Fonu ve Girişim Sermayesi Yatırım Fonu katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
           },
           {
             "id": 25,
@@ -6475,7 +6475,7 @@ const splVeritabani = [
             "soruMetni": "Kira Sertifikaları Tebliği (III-61.1) uyarınca aşağıdakilerden hangisi tarafından Varlık Kiralama Şirketi (VKŞ) kurulamaz?",
             "secenekler": {
               "A": "Gayrimenkul Yatırım Fonları",
-              "B": "Payları borsada işlem gören Gayrimenkul Yatırım Ortaklıkları (GYO)",
+              "B": "Payları borsada işlem gören Gayrimenkul Yatırım Ortaklıkları (Gayrimenkul Yatırım Ortaklığı)",
               "C": "Portföy aracılığı yapan aracı kurumlar",
               "D": "İpotek finansmanı kuruluşları",
               "E": "Bankalar"
@@ -6753,7 +6753,9 @@ const splVeritabani = [
               "D": "Tüketici faydası"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_2",
@@ -6765,7 +6767,9 @@ const splVeritabani = [
               "D": "Malın fiyatının azalması"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_3",
@@ -6777,7 +6781,9 @@ const splVeritabani = [
               "D": "Negatif eğimlidirler"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_4",
@@ -6789,7 +6795,9 @@ const splVeritabani = [
               "D": "Malların üretim miktarları"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_5",
@@ -6801,7 +6809,9 @@ const splVeritabani = [
               "D": "Azalan marjinal ikame oranı"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_6",
@@ -6813,7 +6823,9 @@ const splVeritabani = [
               "D": "Dikey eksene paralel bir eğridir"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_7",
@@ -6825,7 +6837,9 @@ const splVeritabani = [
               "D": "Ölçeğe göre artan verim vardır"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_8",
@@ -6837,7 +6851,9 @@ const splVeritabani = [
               "D": "40"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_9",
@@ -6849,7 +6865,9 @@ const splVeritabani = [
               "D": "Homojenlik"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_10",
@@ -6861,7 +6879,9 @@ const splVeritabani = [
               "D": "Gelirin artması"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_11",
@@ -6873,7 +6893,9 @@ const splVeritabani = [
               "D": "-5/3"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_12",
@@ -6885,7 +6907,9 @@ const splVeritabani = [
               "D": "Marjinal fayda minimum seviyesindedir"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_13",
@@ -6897,7 +6921,9 @@ const splVeritabani = [
               "D": "Kırmızı et-beyaz et"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_14",
@@ -6909,7 +6935,9 @@ const splVeritabani = [
               "D": "Emek-ücret"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_15",
@@ -6921,7 +6949,9 @@ const splVeritabani = [
               "D": "Üretim faktörleri eksik üretim yapmaktadır"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_16",
@@ -6933,7 +6963,9 @@ const splVeritabani = [
               "D": "Malın denge fiyatı yükselir"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t1_17",
@@ -6945,7 +6977,9 @@ const splVeritabani = [
               "D": "Arz eğrisi değişmez"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           }
         ]
       },
@@ -6964,7 +6998,9 @@ const splVeritabani = [
               "D": "Talep eğrisi tam inelastiktir"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_2",
@@ -6976,7 +7012,9 @@ const splVeritabani = [
               "D": "Üretici ve tüketicilerin fiyat üzerinde kontrolleri yoktur"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_3",
@@ -6988,7 +7026,9 @@ const splVeritabani = [
               "D": "Üretilen malın yakın ikamesi vardır"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_4",
@@ -7000,7 +7040,9 @@ const splVeritabani = [
               "D": "Monopol ve tam rekabet piyasasının özelliklerini taşır"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_5",
@@ -7012,7 +7054,9 @@ const splVeritabani = [
               "D": "Anlaşma yapan firmalar tröst oluşturur"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_6",
@@ -7024,7 +7068,9 @@ const splVeritabani = [
               "D": "1"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_7",
@@ -7036,7 +7082,9 @@ const splVeritabani = [
               "D": "Eş Ürün Eğrisi – Eş Maliyet Doğrusu"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_8",
@@ -7048,7 +7096,9 @@ const splVeritabani = [
               "D": "Bütçe Doğrusu – Kayıtsızlık Eğrisi"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_9",
@@ -7060,7 +7110,9 @@ const splVeritabani = [
               "D": "Marjinal Maliyet"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_10",
@@ -7072,7 +7124,9 @@ const splVeritabani = [
               "D": "+1"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_11",
@@ -7084,7 +7138,9 @@ const splVeritabani = [
               "D": "Y malının fiyatı azaldığında X malına olan talep artacağından X ve Y malları ikame mallardır."
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_12",
@@ -7096,7 +7152,9 @@ const splVeritabani = [
               "D": "Değişim aracı olma"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_13",
@@ -7108,7 +7166,9 @@ const splVeritabani = [
               "D": "Dayanıklı olmalıdır"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_14",
@@ -7120,7 +7180,9 @@ const splVeritabani = [
               "D": "Lorenz Kanunu"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_15",
@@ -7132,7 +7194,9 @@ const splVeritabani = [
               "D": "Yalnız I"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_16",
@@ -7144,7 +7208,9 @@ const splVeritabani = [
               "D": "Cambridge Yaklaşımı’na göre servet tutma isteği para talebini etkilemektedir"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t2_17",
@@ -7156,7 +7222,9 @@ const splVeritabani = [
               "D": "Marshall ve Pigou tarafından geliştirilmiştir"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           }
         ]
       },
@@ -7175,7 +7243,9 @@ const splVeritabani = [
               "D": "Beşerî sermaye para talebini etkilemez"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_2",
@@ -7187,7 +7257,9 @@ const splVeritabani = [
               "D": "Yerli paranın değerini korumak"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_3",
@@ -7199,7 +7271,9 @@ const splVeritabani = [
               "D": "Para politikası"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_4",
@@ -7211,7 +7285,9 @@ const splVeritabani = [
               "D": "Reeskont oranı"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_5",
@@ -7223,7 +7299,9 @@ const splVeritabani = [
               "D": "Yüksek enflasyon varsa daraltıcı para politikaları uygulanır"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_6",
@@ -7235,7 +7313,9 @@ const splVeritabani = [
               "D": "Para talebi faiz oranlarının ve gelirin negatif bir fonksiyonudur"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_7",
@@ -7247,7 +7327,9 @@ const splVeritabani = [
               "D": "Enflasyon arttıkça nominal faiz oranı da artar"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_8",
@@ -7259,7 +7341,9 @@ const splVeritabani = [
               "D": "Bağımsızlık için amaç bağımsızlığı şarttır"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_9",
@@ -7271,7 +7355,9 @@ const splVeritabani = [
               "D": "Repo yapan fon arz edendir."
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_10",
@@ -7283,7 +7369,9 @@ const splVeritabani = [
               "D": "Fiyatlar genel düzeyi aşağı ve yukarı yönlü esnektir."
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_11",
@@ -7295,7 +7383,9 @@ const splVeritabani = [
               "D": "Kısa dönemde para arzındaki değişiklikler birebir fiyatlara yansır"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_12",
@@ -7307,7 +7397,9 @@ const splVeritabani = [
               "D": "Enflasyon halinde genişletici maliye politikaları uygulanmalıdır"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_13",
@@ -7319,7 +7411,9 @@ const splVeritabani = [
               "D": "Tüm piyasalarda tam rekabet piyasası koşulları geçerlidir"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_14",
@@ -7331,7 +7425,9 @@ const splVeritabani = [
               "D": "Para kısa dönemde nötrdür"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_15",
@@ -7343,7 +7439,9 @@ const splVeritabani = [
               "D": "Devletin ekonomiye müdahalesi gereklidir"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_16",
@@ -7355,7 +7453,9 @@ const splVeritabani = [
               "D": "Faiz oranları azalır"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t3_17",
@@ -7367,7 +7467,9 @@ const splVeritabani = [
               "D": "IS eğrisi sola kayar"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           }
         ]
       },
@@ -7386,7 +7488,9 @@ const splVeritabani = [
               "D": "400"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_2",
@@ -7398,7 +7502,9 @@ const splVeritabani = [
               "D": "Yeni Klasik Yaklaşım"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_3",
@@ -7410,7 +7516,9 @@ const splVeritabani = [
               "D": "Ekonomik Büyüme ve Kalkınma"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_4",
@@ -7422,7 +7530,9 @@ const splVeritabani = [
               "D": "IS eğrisi mal piyasalarında dengeyi sağlayan gelir-faiz haddi bileşimlerinin geometrik yeridir."
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_5",
@@ -7434,7 +7544,9 @@ const splVeritabani = [
               "D": "Marjinal tüketim eğiliminin artması haracama çarpanını arttırır"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_6",
@@ -7446,7 +7558,9 @@ const splVeritabani = [
               "D": "Nüfus yapısı"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_7",
@@ -7458,7 +7572,9 @@ const splVeritabani = [
               "D": "Sübvansiyonlar"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_8",
@@ -7470,7 +7586,9 @@ const splVeritabani = [
               "D": "Transfer harcamaları"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_9",
@@ -7482,7 +7600,9 @@ const splVeritabani = [
               "D": "İç dengeyi bozucu etkileri bulunmaktadır"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_10",
@@ -7494,7 +7614,9 @@ const splVeritabani = [
               "D": "Dış Alem Net Faktör Gelirleri"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_11",
@@ -7506,7 +7628,9 @@ const splVeritabani = [
               "D": "Potansiyel GSYH"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_12",
@@ -7518,7 +7642,9 @@ const splVeritabani = [
               "D": "Ürün kalitesindeki gelişmeler"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_13",
@@ -7530,7 +7656,9 @@ const splVeritabani = [
               "D": "Beklenti ve tahminler"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_14",
@@ -7542,7 +7670,9 @@ const splVeritabani = [
               "D": "Hiperenflasyon"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_15",
@@ -7554,7 +7684,9 @@ const splVeritabani = [
               "D": "Arz şokları"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_16",
@@ -7566,7 +7698,9 @@ const splVeritabani = [
               "D": "Friksiyonel İşsizlik"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t4_17",
@@ -7578,7 +7712,9 @@ const splVeritabani = [
               "D": "Gini katsayısı 1’e yaklaştıkça gelir eşitsizliği artar"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           }
         ]
       },
@@ -7597,7 +7733,9 @@ const splVeritabani = [
               "D": "Konjonktürel işsizlik"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_2",
@@ -7609,7 +7747,9 @@ const splVeritabani = [
               "D": "Genellikle savaş ve doğal afet zamanlarındaki politikalardan kaynaklanır"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_3",
@@ -7621,7 +7761,9 @@ const splVeritabani = [
               "D": "Satın alma gücünde düşüş"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_4",
@@ -7633,7 +7775,9 @@ const splVeritabani = [
               "D": "Serbest rezervler"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_5",
@@ -7645,7 +7789,9 @@ const splVeritabani = [
               "D": "İşsizlikteki artış"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_6",
@@ -7657,7 +7803,9 @@ const splVeritabani = [
               "D": "Döviz Kuru Hesabı"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_7",
@@ -7669,7 +7817,9 @@ const splVeritabani = [
               "D": "Reel Kur"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_8",
@@ -7681,7 +7831,9 @@ const splVeritabani = [
               "D": "Döviz Kuru Bandı Sistemi"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_9",
@@ -7693,7 +7845,9 @@ const splVeritabani = [
               "D": "Ödemeler dengesinde devlet müdahalesine gerek kalmaz"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_10",
@@ -7705,7 +7859,9 @@ const splVeritabani = [
               "D": "Döviz Kuru Bandı"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_11",
@@ -7717,7 +7873,9 @@ const splVeritabani = [
               "D": "Açık piyasa işlemleri"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_12",
@@ -7729,7 +7887,9 @@ const splVeritabani = [
               "D": "Para politikaları etkindir"
             },
             "dogruCevap": "D",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_13",
@@ -7741,7 +7901,9 @@ const splVeritabani = [
               "D": "Genişletici para politikası uygulanırsa yabancı para değer kazanır"
             },
             "dogruCevap": "C",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_14",
@@ -7753,7 +7915,9 @@ const splVeritabani = [
               "D": "Özel Sektör"
             },
             "dogruCevap": "E",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_15",
@@ -7765,7 +7929,9 @@ const splVeritabani = [
               "D": "İhracat"
             },
             "dogruCevap": "B",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           },
           {
             "id": "1008_t5_16",
@@ -7777,7 +7943,9 @@ const splVeritabani = [
               "D": "ABD’nin hem sermaye yoğun hem de emek yoğun mal ithal etmesi"
             },
             "dogruCevap": "A",
-            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır.",
+            "soruMetni": "",
+            "cozum": ""
           }
         ]
       }
