@@ -2,8 +2,8 @@
  * ============================================================================
  * SPL (Sermaye Piyasası Lisanslama) SORU VERİTABANI (questions.js)
  * ============================================================================
- * Sıralama Düzenlendi:
- * Test 1 - 25: Sıralı Konu Testleri
+ * %100 Kusursuz Sıralama:
+ * Test 1 - 25: Konu Konu Sıralı Konu Testleri
  * Test 26: Görsellerdeki Çıkmış Sorular Özel Paketi (20 Soru)
  * Deneme 1 - 10 (Test 27 - 36): Genel Deneme Sınavları (25'er Soru)
  * ============================================================================
@@ -10620,7 +10620,7 @@ const splVeritabani = [
       },
       {
         "testId": 2,
-        "testAdi": "Test 2: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları",
+        "testAdi": "Test 2: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)",
         "sorular": [
           {
             "id": 21,
@@ -10886,7 +10886,7 @@ const splVeritabani = [
       },
       {
         "testId": 3,
-        "testAdi": "Test 3: Aracı Kurum Türleri (Geniş, Kısmi, Dar Yetkili)",
+        "testAdi": "Test 3: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları",
         "sorular": [
           {
             "id": 41,
@@ -11152,7 +11152,7 @@ const splVeritabani = [
       },
       {
         "testId": 4,
-        "testAdi": "Test 4: Ticaret Unvanı ve Şube/İrtibat Bürosu Açma Esasları",
+        "testAdi": "Test 4: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı",
         "sorular": [
           {
             "id": 61,
@@ -11418,7 +11418,7 @@ const splVeritabani = [
       },
       {
         "testId": 5,
-        "testAdi": "Test 5: Temel Yatırım Hizmetleri - İşlem ve Portföy Aracılığı",
+        "testAdi": "Test 5: Halka Arza Aracılık ve Yüklenim Faaliyetleri",
         "sorular": [
           {
             "id": 81,
@@ -11684,7 +11684,7 @@ const splVeritabani = [
       },
       {
         "testId": 6,
-        "testAdi": "Test 6: Halka Arza Aracılık ve Yüklenim Faaliyetleri",
+        "testAdi": "Test 6: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı",
         "sorular": [
           {
             "id": 101,
@@ -11950,7 +11950,7 @@ const splVeritabani = [
       },
       {
         "testId": 7,
-        "testAdi": "Test 7: Bireysel Portföy Yöneticiliği ve Yatırım Danışmanlığı",
+        "testAdi": "Test 7: Saklama Hizmetleri (Genel ve Sınırlı Saklama)",
         "sorular": [
           {
             "id": 121,
@@ -12216,7 +12216,7 @@ const splVeritabani = [
       },
       {
         "testId": 8,
-        "testAdi": "Test 8: Saklama Hizmetleri (Genel ve Sınırlı Saklama)",
+        "testAdi": "Test 8: Yan Hizmetler ve Faaliyet Sınırlamaları",
         "sorular": [
           {
             "id": 141,
@@ -12482,7 +12482,7 @@ const splVeritabani = [
       },
       {
         "testId": 9,
-        "testAdi": "Test 9: Yan Hizmetler ve Faaliyet Sınırlamaları",
+        "testAdi": "Test 9: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)",
         "sorular": [
           {
             "id": 161,
@@ -12748,7 +12748,7 @@ const splVeritabani = [
       },
       {
         "testId": 10,
-        "testAdi": "Test 10: Yatırım Kuruluşlarında Yönetim Kurulu ve Yöneticiler (7 Yıl Tecrübe)",
+        "testAdi": "Test 10: İhtisas Personeli ve İç Sistemler Personeli",
         "sorular": [
           {
             "id": 181,
@@ -13014,7 +13014,7 @@ const splVeritabani = [
       },
       {
         "testId": 11,
-        "testAdi": "Test 11: İhtisas Personeli ve İç Sistemler Personeli",
+        "testAdi": "Test 11: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları",
         "sorular": [
           {
             "id": 201,
@@ -13280,7 +13280,7 @@ const splVeritabani = [
       },
       {
         "testId": 12,
-        "testAdi": "Test 12: Müşteri İlişkileri ve Çerçeve Sözleşme Esasları",
+        "testAdi": "Test 12: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)",
         "sorular": [
           {
             "id": 221,
@@ -13546,7 +13546,7 @@ const splVeritabani = [
       },
       {
         "testId": 13,
-        "testAdi": "Test 13: Müşteri Sınıflandırması (Profesyonel ve Genel Müşteri)",
+        "testAdi": "Test 13: Uygunluk Testi Esasları ve Uygulama Şartları",
         "sorular": [
           {
             "id": 241,
@@ -13812,7 +13812,7 @@ const splVeritabani = [
       },
       {
         "testId": 14,
-        "testAdi": "Test 14: Uygunluk Testi Esasları ve Uygulama Şartları",
+        "testAdi": "Test 14: Yerindelik Testi Esasları ve Mali Durum Analizi",
         "sorular": [
           {
             "id": 261,
@@ -14078,7 +14078,7 @@ const splVeritabani = [
       },
       {
         "testId": 15,
-        "testAdi": "Test 15: Yerindelik Testi Esasları ve Mali Durum Analizi",
+        "testAdi": "Test 15: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları",
         "sorular": [
           {
             "id": 281,
@@ -14344,7 +14344,7 @@ const splVeritabani = [
       },
       {
         "testId": 16,
-        "testAdi": "Test 16: Müşteri Emirlerinin Alınması ve İşlem Talimat Formları",
+        "testAdi": "Test 16: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)",
         "sorular": [
           {
             "id": 301,
@@ -14610,7 +14610,7 @@ const splVeritabani = [
       },
       {
         "testId": 17,
-        "testAdi": "Test 17: Kredili Menkul Kıymet İşlemleri ve Özkaynak Oranları (%90 BYF)",
+        "testAdi": "Test 17: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları",
         "sorular": [
           {
             "id": 321,
@@ -14876,7 +14876,7 @@ const splVeritabani = [
       },
       {
         "testId": 18,
-        "testAdi": "Test 18: Açığa Satış İşlemleri ve Ödünç Alma/Verme Esasları",
+        "testAdi": "Test 18: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)",
         "sorular": [
           {
             "id": 341,
@@ -15142,7 +15142,7 @@ const splVeritabani = [
       },
       {
         "testId": 19,
-        "testAdi": "Test 19: Kaldıraçlı İşlemler (Forex) Tebliği ve Teminat Şartları (10:1 / 50.000 TL)",
+        "testAdi": "Test 19: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler",
         "sorular": [
           {
             "id": 361,
@@ -15408,7 +15408,7 @@ const splVeritabani = [
       },
       {
         "testId": 20,
-        "testAdi": "Test 20: Tezgahüstü (OTC) Türev İşlemler ve Bildirimler",
+        "testAdi": "Test 20: Paya Dayalı Kitle Fonlaması ve Platform Esasları",
         "sorular": [
           {
             "id": 381,
@@ -15674,7 +15674,7 @@ const splVeritabani = [
       },
       {
         "testId": 21,
-        "testAdi": "Test 21: Paya Dayalı Kitle Fonlaması ve Platform Esasları",
+        "testAdi": "Test 21: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi",
         "sorular": [
           {
             "id": 401,
@@ -15940,7 +15940,7 @@ const splVeritabani = [
       },
       {
         "testId": 22,
-        "testAdi": "Test 22: Müşteri Şikayetleri Yönetimi ve Kayıt İlkesi",
+        "testAdi": "Test 22: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)",
         "sorular": [
           {
             "id": 421,
@@ -16206,7 +16206,7 @@ const splVeritabani = [
       },
       {
         "testId": 23,
-        "testAdi": "Test 23: Belge ve Kayıt Saklama Süreleri (Ses Kayıtları 3 Yıl)",
+        "testAdi": "Test 23: Yatırım Kuruluşu Personeli Meslek İlkeleri",
         "sorular": [
           {
             "id": 441,
@@ -16472,7 +16472,7 @@ const splVeritabani = [
       },
       {
         "testId": 24,
-        "testAdi": "Test 24: Yatırım Kuruluşu Personeli Meslek İlkeleri",
+        "testAdi": "Test 24: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği",
         "sorular": [
           {
             "id": 461,
@@ -16738,7 +16738,7 @@ const splVeritabani = [
       },
       {
         "testId": 25,
-        "testAdi": "Test 25: Risk Yönetimi, Teminatlandırma ve Sermaye Yeterliliği",
+        "testAdi": "Test 25: Genel İnceleme ve Mevzuat Tekrarı",
         "sorular": [
           {
             "id": 481,
@@ -17179,7 +17179,7 @@ const splVeritabani = [
             "id": 14,
             "soruMetni": "Tezgahüstü işlemlerde müşteri emri formu yerine aşağıdaki formlardan hangisi düzenlenmesi gerekir?",
             "secenekler": {
-              "A": "İşlem Sonuc Formu",
+              "A": "İşlem Sonuç Formu",
               "B": "Türev Piyasalar Emir Takip Formu",
               "C": "İşlem Talimat Formu",
               "D": "Seans Takip Formu",
