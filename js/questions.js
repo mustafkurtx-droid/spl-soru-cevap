@@ -40,10 +40,10 @@ const splVeritabani = [
             "soruMetni": "1001 - Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları müfredatına ilişkin temel mevzuat ve uygulama değerlendirmesi.",
             "secenekler": {
               "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
-              "B": "Yönetmelik ve Genelge Esasları",
-              "C": "Borsa İstanbul İşleyiş Kuralları",
-              "D": "Takasbank ve MKK Saklama Düzenlemeleri",
-              "E": "Ticaret Kanunu Genel Hükümleri"
+              "B": "Borsa İstanbul İşleyiş Kuralları",
+              "C": "Takasbank ve MKK Saklama Düzenlemeleri",
+              "D": "Ticaret Kanunu Genel Hükümleri",
+              "E": "Yönetmelik ve Genelge Esasları"
             },
             "dogruCevap": "A",
             "cozum": "Bu soru ilgili dersin resmi müfredat kapsamını temel almaktadır."
@@ -73,51 +73,51 @@ const splVeritabani = [
             "soruMetni": "6362 sayılı Sermaye Piyasası Kanunu uyarınca, aşağıdakilerden hangisi Kanunun temel amaçları arasında YER ALMAZ?",
             "secenekler": {
               "A": "Sermaye piyasasının güvenli, şeffaf, etkin, istikrarlı, adil ve rekabetçi bir ortamda işlemesini sağlamak",
-              "B": "Yatırımcıların hak ve menfaatlerini korumak",
-              "C": "Halka açık şirketlerin ticari kâr marjlarını ve satış fiyatlarını doğrudan belirlemek",
-              "D": "Sermaye piyasasının gelişmesini sağlamak",
-              "E": "Piyasada etkin denetim ve şeffaflığı tesis etmek"
+              "B": "Sermaye piyasasının gelişmesini sağlamak",
+              "C": "Yatırımcıların hak ve menfaatlerini korumak",
+              "D": "Piyasada etkin denetim ve şeffaflığı tesis etmek",
+              "E": "Halka açık şirketlerin ticari kâr marjlarını ve satış fiyatlarını doğrudan belirlemek"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "E",
             "cozum": "SPKn m. 1 uyarınca Kanunun amacı piyasaların güvenli, şeffaf ve adil işlemesini sağlamak ve yatırımcıyı korumaktır; şirketlerin ticari kâr marjlarını veya fiyatlarını belirlemek SPK'nın görevi değildir."
           },
           {
             "id": 2,
             "soruMetni": "6362 sayılı SPKn uyarınca, sermaye piyasası araçlarının halka arz edilebilmesi için onaylanması zorunlu olan belge aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "İzahname",
+              "A": "Bağımsız Denetim Sözleşmesi",
               "B": "Faaliyet Raporu",
-              "C": "Esas Sözleşme",
-              "D": "Bağımsız Denetim Sözleşmesi",
-              "E": "Sirküler Duyurusu"
+              "C": "Sirküler Duyurusu",
+              "D": "İzahname",
+              "E": "Esas Sözleşme"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "SPKn m. 4 uyarınca sermaye piyasası araçlarının halka arzı veya borsada işlem görmesi için SPK tarafından izahnamenin onaylanması zorunludur."
           },
           {
             "id": 3,
             "soruMetni": "SPKn uyarınca onaylanan izahnamenin yayımlandığı tarihten itibaren geçerlilik süresi azami kaç aydır?",
             "secenekler": {
-              "A": "3 Ay",
+              "A": "36 Ay",
               "B": "6 Ay",
-              "C": "12 Ay",
+              "C": "3 Ay",
               "D": "24 Ay",
-              "E": "36 Ay"
+              "E": "12 Ay"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "E",
             "cozum": "SPKn m. 5 uyarınca onaylı bir izahname yayımlandığı tarihten itibaren 12 ay boyunca yapılacak ihraçlar için geçerlidir."
           },
           {
             "id": 4,
             "soruMetni": "6362 sayılı Kanun uyarınca, kaydileştirilen sermaye piyasası araçlarına ilişkin hakların takibi ve merkezi saklanması hangi kurum nezdinde yürütülür?",
             "secenekler": {
-              "A": "Merkezi Kayıt Kuruluşu A.Ş. (MKK)",
-              "B": "İstanbul Takas ve Saklama Bankası A.Ş. (Takasbank)",
-              "C": "Borsa İstanbul A.Ş.",
-              "D": "Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu (SPL)",
-              "E": "Türkiye Sermaye Piyasaları Birliği (TSPB)"
+              "A": "Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu (SPL)",
+              "B": "Borsa İstanbul A.Ş.",
+              "C": "İstanbul Takas ve Saklama Bankası A.Ş. (Takasbank)",
+              "D": "Türkiye Sermaye Piyasaları Birliği (TSPB)",
+              "E": "Merkezi Kayıt Kuruluşu A.Ş. (MKK)"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "SPKn m. 13 uyarınca sermaye piyasası araçlarının kaydileştirilmesi ve hak sahipliği takibi MKK nezdinde hak sahipleri bazında yürütülür."
           },
           {
@@ -125,10 +125,10 @@ const splVeritabani = [
             "soruMetni": "Halka açık anonim ortaklıklarda kayıtlı sermaye tavanının geçerlilik süresi SPK düzenlemelerine göre en fazla kaç yıldır?",
             "secenekler": {
               "A": "1 Yıl",
-              "B": "3 Yıl",
+              "B": "10 Yıl",
               "C": "5 Yıl",
-              "D": "7 Yıl",
-              "E": "10 Yıl"
+              "D": "3 Yıl",
+              "E": "7 Yıl"
             },
             "dogruCevap": "C",
             "cozum": "SPKn m. 18 uyarınca halka açık şirketlerde kayıtlı sermaye tavanı izni en fazla 5 yıl için verilir. Bu süre sonunda tavanın uzatılması için genel kurul kararı gerekir."
@@ -137,91 +137,91 @@ const splVeritabani = [
             "id": 6,
             "soruMetni": "Halka açık anonim ortaklıklarda yönetim kurulu kararıyla kâr payı avansı dağıtılabilmesi için esas sözleşmede hüküm bulunması ve hangi organdan yetki alınması şarttır?",
             "secenekler": {
-              "A": "Genel Kurul",
-              "B": "Denetim Komitesi",
-              "C": "SPK Başkanlığı",
-              "D": "Borsa Yönetim Kurulu",
-              "E": "Bağımsız Denetçi"
+              "A": "Borsa Yönetim Kurulu",
+              "B": "Genel Kurul",
+              "C": "Bağımsız Denetçi",
+              "D": "Denetim Komitesi",
+              "E": "SPK Başkanlığı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "SPKn m. 20 uyarınca kâr payı avansı dağıtılabilmesi için esas sözleşmede hüküm bulunması ve ilgili yıl ile sınırlı olmak üzere Genel Kurul tarafından yönetim kuruluna yetki verilmesi zorunludur."
           },
           {
             "id": 7,
             "soruMetni": "SPKn m. 21 uyarınca örtülü kazanç aktarımı yasağına aykırı davranan şirket ilgililerine SPK tarafından kazancın iadesi için tanınan azami süre kaç gündür?",
             "secenekler": {
-              "A": "10 Gün",
-              "B": "15 Gün",
-              "C": "30 Gün",
-              "D": "60 Gün",
-              "E": "90 Gün"
+              "A": "30 Gün",
+              "B": "60 Gün",
+              "C": "15 Gün",
+              "D": "90 Gün",
+              "E": "10 Gün"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "A",
             "cozum": "SPKn m. 21 uyarınca örtülü kazanç aktarımı yapıldığı tespit edilen tutarın 30 gün içinde ortaklığa iadesi zorunludur."
           },
           {
             "id": 8,
             "soruMetni": "Payları borsada işlem gören halka açık ortaklıkların Genel Kurul toplantılarına elektronik ortamda katılım imkânı sağlamaları hangi kanun ve düzenleme gereğince ZORUNLUDUR?",
             "secenekler": {
-              "A": "6102 sayılı Türk Ticaret Kanunu m. 1527",
-              "B": "5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun",
-              "C": "6362 sayılı SPKn m. 101",
-              "D": "Borçlar Kanunu m. 45",
-              "E": "Bankacılık Kanunu m. 12"
+              "A": "Bankacılık Kanunu m. 12",
+              "B": "6102 sayılı Türk Ticaret Kanunu m. 1527",
+              "C": "Borçlar Kanunu m. 45",
+              "D": "5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun",
+              "E": "6362 sayılı SPKn m. 101"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "TTK m. 1527 uyarınca payları borsada işlem gören şirketlerin genel kurullarında Elektronik Genel Kurul Sistemi (EGKS) uygulaması zorunludur."
           },
           {
             "id": 9,
             "soruMetni": "Sermaye Piyasası Kanunu uyarınca, halka açık ortaklıkların sermaye artırımlarında mevcut ortakların yeni pay alma haklarına verilen ad aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Rüçhan Hakkı",
-              "B": "Ayrılma Hakkı",
-              "C": "Alım Teklifi Hakkı",
+              "A": "Ayrılma Hakkı",
+              "B": "Alım Teklifi Hakkı",
+              "C": "Rüçhan Hakkı",
               "D": "Satma Hakkı",
               "E": "Tasfiye Payı Hakkı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Ortakların bedelli sermaye artırımlarında yeni paylardan öncelikle pay alma hakkı Rüçhan Hakkı olarak adlandırılır."
           },
           {
             "id": 10,
             "soruMetni": "SPKn uyarınca, kitle fonlaması platformlarının kurulması ve faaliyete geçmesi için kimden izin alınması ZORUNLUDUR?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurulu (SPK)",
+              "A": "Merkezi Kayıt Kuruluşu",
               "B": "Borsa İstanbul A.Ş.",
               "C": "Ticaret Bakanlığı",
               "D": "Hazine ve Maliye Bakanlığı",
-              "E": "Merkezi Kayıt Kuruluşu"
+              "E": "Sermaye Piyasası Kurulu (SPK)"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "SPKn m. 35/A uyarınca Kitle Fonlaması Platformlarının kurulması ve listeye alınması SPK iznine tabidir."
           },
           {
             "id": 11,
             "soruMetni": "Payları ilk defa halka arz edilecek anonim ortaklıkların izahnamesinde yer alan finansal tabloların hangi standartlara uygun olarak hazırlanması şarttır?",
             "secenekler": {
-              "A": "Kamu Gözetimi Kurumu (KGK) tarafından yayımlanan Türkiye Muhasebe Standartları / TMS - TFRS",
-              "B": "Vergi Usul Kanunu (VUK) Muhasebe Tekdüzen Hesap Planı",
-              "C": "ABD Genel Kabul Görmüş Muhasebe İlkeleri (US GAAP)",
-              "D": "Alman Ticaret Kanunu (HGB) Standartları",
-              "E": "Avrupa Merkez Bankası Standartları"
+              "A": "Avrupa Merkez Bankası Standartları",
+              "B": "Kamu Gözetimi Kurumu (KGK) tarafından yayımlanan Türkiye Muhasebe Standartları / TMS - TFRS",
+              "C": "Vergi Usul Kanunu (VUK) Muhasebe Tekdüzen Hesap Planı",
+              "D": "ABD Genel Kabul Görmüş Muhasebe İlkeleri (US GAAP)",
+              "E": "Alman Ticaret Kanunu (HGB) Standartları"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "SPK düzenlemeleri uyarınca finansal tablolar TMS/TFRS standartlarına uygun hazırlanır ve bağımsız denetimden geçer."
           },
           {
             "id": 12,
             "soruMetni": "Halka açık anonim ortaklıkların genel kurul toplantı ilanı, Türk Ticaret Kanunu ve SPK mevzuatı uyarınca toplantı gününden en az kaç hafta önce yapılmalıdır?",
             "secenekler": {
-              "A": "1 Hafta",
-              "B": "2 Hafta",
-              "C": "3 Hafta",
-              "D": "4 Hafta",
-              "E": "6 Hafta"
+              "A": "4 Hafta",
+              "B": "6 Hafta",
+              "C": "2 Hafta",
+              "D": "3 Hafta",
+              "E": "1 Hafta"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "D",
             "cozum": "Halka açık şirketlerde Genel Kurul çağrısı, ilan ve toplantı günleri hariç olmak üzere toplantı tarihinden en az 3 hafta önce KAP'ta ve şirketin internet sitesinde yayımlanır."
           },
           {
@@ -229,10 +229,10 @@ const splVeritabani = [
             "soruMetni": "SPKn uyarınca sermaye piyasası araçlarının halka arzında izahnameden sorumlu olan kişiler aşağıdakilerden hangisinde doğru verilmiştir?",
             "secenekler": {
               "A": "İhraççı ve halka arz eden; ayrıca zararın kendi kusurundan kaynaklandığını ispat edemeyen yetkili lider sermaye piyasası kurumu",
-              "B": "Sadece bağımsız denetim kuruluşu",
-              "C": "Sadece Borsa İstanbul Yönetim Kurulu",
-              "D": "Yalnızca şirketin en büyük hissedarı",
-              "E": "Sadece Merkezi Kayıt Kuruluşu"
+              "B": "Sadece Borsa İstanbul Yönetim Kurulu",
+              "C": "Yalnızca şirketin en büyük hissedarı",
+              "D": "Sadece Merkezi Kayıt Kuruluşu",
+              "E": "Sadece bağımsız denetim kuruluşu"
             },
             "dogruCevap": "A",
             "cozum": "SPKn m. 10 uyarınca izahnamede yer alan yanlış veya eksik bilgilerden doğan zararlardan ihraççı ve halka arz eden sorumludur."
@@ -241,13 +241,13 @@ const splVeritabani = [
             "id": 14,
             "soruMetni": "Halka açık olmayan bir anonim ortaklığın pay sahibi sayısının kaça ulaşması halinde ortaklık kendiliğinden halka açılmış sayılır ve SPKn hükümlerine tabi olur?",
             "secenekler": {
-              "A": "100 Pay Sahibi",
+              "A": "500 Pay Sahibi",
               "B": "250 Pay Sahibi",
-              "C": "500 Pay Sahibi",
+              "C": "100 Pay Sahibi",
               "D": "750 Pay Sahibi",
               "E": "1000 Pay Sahibi"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "A",
             "cozum": "SPKn m. 16 uyarınca pay sahibi sayısı 500'ü aşan anonim ortaklıkların payları halka arz olunmuş sayılır ve Kanun hükümlerine tabi olur."
           },
           {
@@ -255,10 +255,10 @@ const splVeritabani = [
             "soruMetni": "SPKn uyarınca, halka açık ortaklıkların bağış ve yardım yapabilmesi için aşağıdakilerden hangisi ZORUNLUDUR?",
             "secenekler": {
               "A": "Esas sözleşmede hüküm bulunması ve Genel Kurul tarafından sınır belirlenmesi",
-              "B": "Sadece Genel Müdürün onay vermesi",
-              "C": "Borsa Başkanı tarafından özel izin verilmesi",
-              "D": "Bağış tutarının şirket sermayesinin %50'sini aşması",
-              "E": "Ticaret Bakanlığından izin alınması"
+              "B": "Ticaret Bakanlığından izin alınması",
+              "C": "Sadece Genel Müdürün onay vermesi",
+              "D": "Borsa Başkanı tarafından özel izin verilmesi",
+              "E": "Bağış tutarının şirket sermayesinin %50'sini aşması"
             },
             "dogruCevap": "A",
             "cozum": "SPKn m. 19 uyarınca bağış yapılabilmesi için esas sözleşmede hüküm bulunması ve yıllık bağış sınırının Genel Kurulca belirlenmesi şarttır."
@@ -267,65 +267,65 @@ const splVeritabani = [
             "id": 16,
             "soruMetni": "Halka açık anonim şirketlerde ortakların oy hakkına ilişkin sınırlamalar ve imtiyazlarla ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yönetim kuruluna aday gösterme imtiyazı hariç, oyda imtiyaz Kurul kararıyla kısıtlanabilir veya kaldırılabilir.",
-              "B": "Her pay sahibine eşit oy hakkı verilmesi imkânsızdır.",
-              "C": "Oyda imtiyaz hiçbir şekilde devredilemez.",
-              "D": "Tüm paylar oy hakkından yosundur.",
-              "E": "İmtiyazlı paylar borsa kotundan hemen çıkarılır."
+              "A": "Her pay sahibine eşit oy hakkı verilmesi imkânsızdır.",
+              "B": "İmtiyazlı paylar borsa kotundan hemen çıkarılır.",
+              "C": "Tüm paylar oy hakkından yosundur.",
+              "D": "Yönetim kuruluna aday gösterme imtiyazı hariç, oyda imtiyaz Kurul kararıyla kısıtlanabilir veya kaldırılabilir.",
+              "E": "Oyda imtiyaz hiçbir şekilde devredilemez."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "SPKn m. 28 uyarınca makul bir gerekçenin varlığı halinde SPK oyda imtiyazları kısıtlamaya yetkilidir."
           },
           {
             "id": 17,
             "soruMetni": "Sermaye Piyasası Kanunu uyarınca kurulan Yatırımcı Tazmin Merkezi (YTM) hangi durumda devreye girer?",
             "secenekler": {
-              "A": "Yatırım kuruluşlarının yatırımdan doğan zararlarını tazmin etmek için",
-              "B": "Yatırım kuruluşlarının sermaye piyasası faaliyetlerinden kaynaklanan nakit ödeme veya sermaye piyasası araçları teslim yükümlülüklerini yerine getirememesi halinde",
-              "C": "Hisse senedi fiyatı düşen yatırımcıya tazminat ödemek için",
-              "D": "Şirketlerin iflasını önlemek için kredi sağlamak amacıyla",
-              "E": "Borsa işlemlerinde oluşan komisyonları geri ödemek için"
+              "A": "Şirketlerin iflasını önlemek için kredi sağlamak amacıyla",
+              "B": "Borsa işlemlerinde oluşan komisyonları geri ödemek için",
+              "C": "Yatırım kuruluşlarının yatırımdan doğan zararlarını tazmin etmek için",
+              "D": "Yatırım kuruluşlarının sermaye piyasası faaliyetlerinden kaynaklanan nakit ödeme veya sermaye piyasası araçları teslim yükümlülüklerini yerine getirememesi halinde",
+              "E": "Hisse senedi fiyatı düşen yatırımcıya tazminat ödemek için"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "D",
             "cozum": "SPKn m. 82 uyarınca YTM, yatırım kuruluşlarının acz haline düşmesi veya iflası durumunda müşterilerine ait nakit ve menkul kıymet teslim yükümlülüklerini tazmin eder."
           },
           {
             "id": 18,
             "soruMetni": "Yatırımcı Tazmin Merkezi (YTM) tarafından her bir yatırımcıya ödenecek azami tazminat tutarı yasal sınıra tabidir. Bu sınırla ilgili aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yatırımcı tazmin tutarı üst sınırı her yıl yeniden değerleme oranında artırılır.",
+              "A": "Yalnızca kurum yöneticileri tazmin edilir.",
               "B": "Sınırsız tazminat ödenir.",
-              "C": "Tazminat ödemesi sadece döviz cinsinden yapılır.",
-              "D": "Yalnızca kurum yöneticileri tazmin edilir.",
+              "C": "Yatırımcı tazmin tutarı üst sınırı her yıl yeniden değerleme oranında artırılır.",
+              "D": "Tazminat ödemesi sadece döviz cinsinden yapılır.",
               "E": "Tazminat başvurusu 10 yıl sonra zaman aşımına uğramaz."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "SPKn m. 84 uyarınca YTM tazminat üst sınırı her yıl yeniden değerleme oranında güncellenir."
           },
           {
             "id": 19,
             "soruMetni": "Sermaye Piyasası Kanunu uyarınca kurulmuş olan Türkiye Sermaye Piyasaları Birliği (TSPB) ne tür bir kuruluştur?",
             "secenekler": {
-              "A": "Kamu kurumu niteliğinde meslek kuruluşu",
-              "B": "Özel hukuk anonim şirketi",
-              "C": "Sermaye piyasası vakfı",
+              "A": "Özel hukuk anonim şirketi",
+              "B": "Kamu kurumu niteliğinde meslek kuruluşu",
+              "C": "Bağımsız denetim derneği",
               "D": "Uluslararası sivil toplum örgütü",
-              "E": "Bağımsız denetim derneği"
+              "E": "Sermaye piyasası vakfı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "SPKn m. 74 uyarınca TSPB, tüzel kişiliği haiz kamu kurumu niteliğinde bir meslek kuruluşudur."
           },
           {
             "id": 20,
             "soruMetni": "Sermaye piyasasında bağımsız denetim, derecelendirme ve değerleme faaliyetinde bulunacak kurumların SPK listesine alınması için kimden onay alması gerekir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurulu (SPK)",
-              "B": "Borsa İstanbul",
-              "C": "Hazine ve Maliye Bakanlığı",
+              "A": "Borsa İstanbul",
+              "B": "Hazine ve Maliye Bakanlığı",
+              "C": "Sermaye Piyasası Kurulu (SPK)",
               "D": "Türkiye Değerleme Uzmanları Birliği",
               "E": "Ticaret Odaları"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "SPKn m. 62 uyarınca sermaye piyasasında dışarıdan hizmet sunan denetim, değerleme ve derecelendirme kuruluşlarının SPK standartlarına uyması ve Kurul listesinde yer alması zorunludur."
           }
         ]
@@ -339,26 +339,26 @@ const splVeritabani = [
             "id": 1,
             "soruMetni": "6362 sayılı SPKn m. 106 uyarınca, doğrudan veya dolaylı olarak sermaye piyasası araçları hakkında içsel bilgi veya teferruatlı bilgiye sahip kişilerin bu bilgileri kullanarak menfaat sağlaması fiiline ne ad verilir?",
             "secenekler": {
-              "A": "Bilgi Suiistimali (Insider Trading)",
+              "A": "Güveni Kötüye Kullanma",
               "B": "Piyasa Dolandırıcılığı (Manipülasyon)",
-              "C": "Örtülü Kazanç Aktarımı",
+              "C": "Bilgi Suiistimali (Insider Trading)",
               "D": "Usulsüz Halka Arz",
-              "E": "Güveni Kötüye Kullanma"
+              "E": "Örtülü Kazanç Aktarımı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "SPKn m. 106 uyarınca henüz kamuya açıklanmamış içsel bilgilere dayanarak işlem yapıp menfaat temin edilmesi 'Bilgi Suiistimali' suçunu oluşturur."
           },
           {
             "id": 2,
             "soruMetni": "SPKn m. 106 kapsamındaki Bilgi Suiistimali (Insider Trading) suçunu işleyen failler hakkında verilecek hapis cezasının yasal ALT sınırı kaç yıldır?",
             "secenekler": {
-              "A": "1 Yıl",
-              "B": "2 Yıl",
-              "C": "3 Yıl",
-              "D": "4 Yıl",
+              "A": "4 Yıl",
+              "B": "1 Yıl",
+              "C": "2 Yıl",
+              "D": "3 Yıl",
               "E": "5 Yıl"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "D",
             "cozum": "SPKn m. 106 uyarınca bilgi suiistimali suçunu işleyen kişilere 3 yıldan 5 yıla kadar hapis veya adli para cezası verilir."
           },
           {
@@ -366,10 +366,10 @@ const splVeritabani = [
             "soruMetni": "SPKn m. 107/1 uyarınca, sermaye piyasası araçlarının fiyatlarına, fiyat değişimlerine, arz ve taleplerine ilişkin olarak yapay piyasa oluşturmak amacıyla alım-satım yapılması fiiline ne ad verilir?",
             "secenekler": {
               "A": "İşleme Dayalı Piyasa Dolandırıcılığı",
-              "B": "Bilgiye Dayalı Piyasa Dolandırıcılığı",
-              "C": "Örtülü Kazanç Aktarımı",
-              "D": "Usulsüz Halka Arz",
-              "E": "Güveni Kötüye Kullanma"
+              "B": "Usulsüz Halka Arz",
+              "C": "Güveni Kötüye Kullanma",
+              "D": "Örtülü Kazanç Aktarımı",
+              "E": "Bilgiye Dayalı Piyasa Dolandırıcılığı"
             },
             "dogruCevap": "A",
             "cozum": "SPKn m. 107/1 uyarınca alım-satım yapmak, emir vermek suretiyle fiyatı etkilemek İşleme Dayalı Piyasa Dolandırıcılığı suçudur."
@@ -378,52 +378,52 @@ const splVeritabani = [
             "id": 4,
             "soruMetni": "SPKn m. 107/2 uyarınca, sermaye piyasası araçlarının fiyatını, değerini veya yatırımcıların kararlarını etkilemek amacıyla yalan, yanlış veya yanıltıcı haber verme, yorum yapma fiili hangi suçu oluşturur?",
             "secenekler": {
-              "A": "Bilgiye Dayalı Piyasa Dolandırıcılığı",
-              "B": "İşleme Dayalı Piyasa Dolandırıcılığı",
-              "C": "Bilgi Suiistimali",
-              "D": "Zararı Tazmin Suçu",
-              "E": "Emsale Aykırılık Suçu"
+              "A": "Zararı Tazmin Suçu",
+              "B": "Emsale Aykırılık Suçu",
+              "C": "Bilgiye Dayalı Piyasa Dolandırıcılığı",
+              "D": "Bilgi Suiistimali",
+              "E": "İşleme Dayalı Piyasa Dolandırıcılığı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "SPKn m. 107/2 uyarınca yalan haber, asılsız yorum veya bilgi yayarak fiyatları etkilemek Bilgiye Dayalı Piyasa Dolandırıcılığı suçunu oluşturur."
           },
           {
             "id": 5,
             "soruMetni": "SPKn m. 107/1 kapsamında İşleme Dayalı Piyasa Dolandırıcılığı suçunu işleyen kişinin pişmanlık göstererek elde ettiği menfaati tazmin etmesi haliyle ilgili 'Etkin Pişmanlık' hükümlerine göre soruşturma başlamadan önce menfaati hazineye ödemesi halinde durum ne olur?",
             "secenekler": {
-              "A": "Hakkında ceza verilmez (Ceza verilmesine yer olmadığına karar verilir).",
-              "B": "Cezası 1/2 oranında indirilir.",
-              "C": "Cezası 1/3 oranında indirilir.",
-              "D": "Sadece adli para cezasına çevrilir.",
-              "E": "Etkin pişmanlık hükümleri uygulanmaz."
+              "A": "Cezası 1/3 oranında indirilir.",
+              "B": "Sadece adli para cezasına çevrilir.",
+              "C": "Etkin pişmanlık hükümleri uygulanmaz.",
+              "D": "Cezası 1/2 oranında indirilir.",
+              "E": "Hakkında ceza verilmez (Ceza verilmesine yer olmadığına karar verilir)."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "SPKn m. 107/3 uyarınca soruşturma başlamadan önce elde edilen menfaatin 2 katı tutarındaki miktar Hazineye ödendiğinde ceza verilmez."
           },
           {
             "id": 6,
             "soruMetni": "Piyasa Dolandırıcılığı (m. 107/1) suçunda soruşturma başladıktan sonra fakat kovuşturma (dava) açılmadan önce etkin pişmanlıktan yararlanarak Hazineye ödeme yapılması halinde ceza indirimi ne oranda uygulanır?",
             "secenekler": {
-              "A": "Cezanın yarısı (1/2) indirilir.",
-              "B": "Cezanın üçte ikisi (2/3) indirilir.",
-              "C": "Cezanın üçte biri (1/3) indirilir.",
-              "D": "Cezanın dörtte biri (1/4) indirilir.",
+              "A": "Cezanın dörtte biri (1/4) indirilir.",
+              "B": "Cezanın yarısı (1/2) indirilir.",
+              "C": "Cezanın üçte ikisi (2/3) indirilir.",
+              "D": "Cezanın üçte biri (1/3) indirilir.",
               "E": "Ceza tamamen kaldırılır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "SPKn m. 107/3 uyarınca soruşturma safhasında ödeme yapıldığında ceza 1/2 oranında indirilir."
           },
           {
             "id": 7,
             "soruMetni": "Piyasa Dolandırıcılığı suçunda mahkeme aşamasında (kovuşturma başlatıldıktan sonra) hüküm verilinceye kadar ödeme yapılması halinde ceza indirimi ne orandadır?",
             "secenekler": {
-              "A": "Cezanın üçte biri (1/3) indirilir.",
-              "B": "Cezanın yarısı (1/2) indirilir.",
+              "A": "Cezanın yarısı (1/2) indirilir.",
+              "B": "Cezanın üçte biri (1/3) indirilir.",
               "C": "Cezanın altıda biri (1/6) indirilir.",
-              "D": "Cezanın beşte biri (1/5) indirilir.",
-              "E": "İndirim uygulanmaz."
+              "D": "İndirim uygulanmaz.",
+              "E": "Cezanın beşte biri (1/5) indirilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "SPKn m. 107/3 uyarınca kovuşturma başladıktan sonra hüküm verilinceye kadar ödeme yapıldığında verilen ceza 1/3 oranında indirilir."
           },
           {
@@ -431,10 +431,10 @@ const splVeritabani = [
             "soruMetni": "SPKn m. 109 uyarınca SPK'dan izin almaksızın sermaye piyasası faaliyetinde bulunan veya yetki belgesi olmadan aracılık yapan kişilere verilecek ceza hangisidir?",
             "secenekler": {
               "A": "2 yıldan 5 yıla kadar hapis ve adli para cezası",
-              "B": "Sadece idari para cezası",
+              "B": "6 ay hapis cezası",
               "C": "100.000 TL maktu ceza",
-              "D": "6 ay hapis cezası",
-              "E": "Kapatma cezası"
+              "D": "Kapatma cezası",
+              "E": "Sadece idari para cezası"
             },
             "dogruCevap": "A",
             "cozum": "SPKn m. 109/2 uyarınca yetkisiz sermaye piyasası faaliyetinde bulunan kişiler 2 yıldan 5 yıla kadar hapis cezası ile cezalandırılır."
@@ -443,89 +443,89 @@ const splVeritabani = [
             "id": 9,
             "soruMetni": "SPKn m. 115 uyarınca Örtülü Kazanç Aktarımı suçunu işleyen halka açık şirket yöneticileri hakkında uygulanacak ceza sınırı nedir?",
             "secenekler": {
-              "A": "3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "A": "10 yıla kadar hapis",
               "B": "1 yıldan 3 yıla kadar hapis",
               "C": "Sadece görevden alma kararı",
               "D": "500.000 TL adli para cezası",
-              "E": "10 yıla kadar hapis"
+              "E": "3 yıldan 8 yıla kadar hapis ve adli para cezası"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "SPKn m. 115 uyarınca örtülü kazanç aktarımı fiilini işleyenler güveni kötüye kullanma suçunun nitelikli halinden (3 yıldan 8 yıla kadar hapis) cezalandırılır."
           },
           {
             "id": 10,
             "soruMetni": "SPKn uyarınca sermaye piyasası suçlarında (m. 106, 107, 109, 115) Cumhuriyet Başsavcılığı tarafından soruşturma açılabilmesi için ön şart aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "SPK tarafından Cumhuriyet Başsavcılığına yazılı suç duyurusunda bulunulması (İhbar/Rapor yazılması)",
-              "B": "Herhangi bir vatandaşın ihbar etmesi",
-              "C": "Borsa İstanbul'un suç duyurusu",
-              "D": "Ticaret Bakanlığı müfettiş raporu",
+              "A": "Herhangi bir vatandaşın ihbar etmesi",
+              "B": "Borsa İstanbul'un suç duyurusu",
+              "C": "Ticaret Bakanlığı müfettiş raporu",
+              "D": "SPK tarafından Cumhuriyet Başsavcılığına yazılı suç duyurusunda bulunulması (İhbar/Rapor yazılması)",
               "E": "Polis fezlekesi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "SPKn m. 115 uyarınca sermaye piyasası suçlarının soruşturulması SPK tarafından yapılacak yazılı yazılı başvuruya (suç duyurusuna) bağlıdır."
           },
           {
             "id": 11,
             "soruMetni": "SPKn uyarınca hukuka aykırı borsa işlemlerinin tespiti durumunda SPK'nın uygulayabileceği geçici makul tedbirler arasında aşağıdakilerden hangisi YER ALMAZ?",
             "secenekler": {
-              "A": "İlgili şahıslara geçici veya sürekli olarak borsa işlem yasağı getirilmesi",
+              "A": "İlgili kişilerin tüm mal varlıklarına mahkeme kararsız doğrudan el konulması",
               "B": "Takas takibinin yapılması ve pozisyon kısıtlaması getirilmesi",
-              "C": "İlgililerin hesaplarının dondurulması veya kısıtlanması",
-              "D": "İlgili kişilerin tüm mal varlıklarına mahkeme kararsız doğrudan el konulması",
-              "E": "Depo şartı veya özkaynak oranının artırılması"
+              "C": "İlgili şahıslara geçici veya sürekli olarak borsa işlem yasağı getirilmesi",
+              "D": "Depo şartı veya özkaynak oranının artırılması",
+              "E": "İlgililerin hesaplarının dondurulması veya kısıtlanması"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "A",
             "cozum": "SPKn m. 101 uyarınca idari tedbirler kapsamında işlem yasağı, depo şartı, internet erişim kısıtlaması uygulanabilir; ancak doğrudan mahkeme kararı olmadan mal varlığına el konulamaz."
           },
           {
             "id": 12,
             "soruMetni": "SPK tarafından hakkında geçici borsa işlem yasağı uygulanan kişilerin bu yasağının azami süresi mevzuat uyarınca kaç yıldır?",
             "secenekler": {
-              "A": "2 Yıl",
-              "B": "1 Yıl",
-              "C": "3 Yıl",
+              "A": "3 Yıl",
+              "B": "Süresizdir",
+              "C": "2 Yıl",
               "D": "5 Yıl",
-              "E": "Süresizdir"
+              "E": "1 Yıl"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "SPK Kararı uyarınca geçici işlem yasağı 6 ay süreyle verilir, gerektiğinde bu süre en fazla 2 yıla kadar uzatılabilir."
           },
           {
             "id": 13,
             "soruMetni": "Mevzuata aykırı olarak internet üzerinden yetkisiz kaldıraçlı işlem (Forex) yaptıran veya yurt dışı sitelere erişim sağlayan platformlara karşı SPK ne tür bir işlem yapar?",
             "secenekler": {
-              "A": "Bilgi Teknolojileri ve İletişim Kurumu'na (BTK) başvurarak erişimin engellenmesini sağlar.",
+              "A": "Sadece uyarı yazısı gönderir.",
               "B": "Doğrudan web sitesini satın alır.",
-              "C": "Şirkete ortak olur.",
-              "D": "Sadece uyarı yazısı gönderir.",
-              "E": "İnternet servis sağlayıcılarını kapatır."
+              "C": "İnternet servis sağlayıcılarını kapatır.",
+              "D": "Bilgi Teknolojileri ve İletişim Kurumu'na (BTK) başvurarak erişimin engellenmesini sağlar.",
+              "E": "Şirkete ortak olur."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "SPKn m. 99 uyarınca yetkisiz Forex yayını yapan sitelerin erişimi SPK'nın BTK'ya başvurusu ile engellenir."
           },
           {
             "id": 14,
             "soruMetni": "SPKn uyarınca Kurul tarafından verilen İdari Para Cezalarına karşı itiraz ve dava açma süresi kararın tebliğinden itibaren kaç gündür ve hangi mahkemede dava açılır?",
             "secenekler": {
-              "A": "30 Gün - İdare Mahkemesi",
-              "B": "15 Gün - Sulh Ceza Hakimliği",
-              "C": "60 Gün - Asliye Hukuk Mahkemesi",
-              "D": "7 Gün - Ticaret Mahkemesi",
-              "E": "90 Gün - Danıştay"
+              "A": "15 Gün - Sulh Ceza Hakimliği",
+              "B": "60 Gün - Asliye Hukuk Mahkemesi",
+              "C": "7 Gün - Ticaret Mahkemesi",
+              "D": "90 Gün - Danıştay",
+              "E": "30 Gün - İdare Mahkemesi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "SPK İdari Para Cezalarına karşı kararın tebliğ tarihinden itibaren 30 gün içinde İdare Mahkemesinde iptal davası açılabilir."
           },
           {
             "id": 15,
             "soruMetni": "Halka açık bir ortaklığın mali durumunun zayıflaması veya yükümlülüklerini karşılayamaması halinde SPK'nın alabileceği tedbirler arasında aşağıdakilerden hangisi YER ALMAZ?",
             "secenekler": {
-              "A": "Şirket yöneticilerini görevden alıp yerine yeni üyeler atamak",
-              "B": "Şirketin sermaye artırmasını veya azaltmasını istemek",
-              "C": "Sermaye piyasası faaliyetlerini geçici veya sürekli olarak durdurmak",
+              "A": "Şirketin sermaye artırmasını veya azaltmasını istemek",
+              "B": "Sermaye piyasası faaliyetlerini geçici veya sürekli olarak durdurmak",
+              "C": "Özel bağımsız denetim yaptırılmasını istemek",
               "D": "Şirket ortaklarının tüm kişisel banka hesaplarını kamulaştırmak",
-              "E": "Özel bağımsız denetim yaptırılmasını istemek"
+              "E": "Şirket yöneticilerini görevden alıp yerine yeni üyeler atamak"
             },
             "dogruCevap": "D",
             "cozum": "SPKn m. 96-97 uyarınca SPK idari tedbirler uygulayabilir ancak ortakların kişisel mal varlığını kamulaştırma yetkisi yoktur."
@@ -534,52 +534,52 @@ const splVeritabani = [
             "id": 16,
             "soruMetni": "Sermaye piyasası araçlarının fiyatını etkileyebilecek emniyeti ihlal eden ve sır saklama yükümlülüğüne aykırı hareket eden kişilere ilişkin fiiller hangi kanun kapsamında suç teşkil eder?",
             "secenekler": {
-              "A": "6362 sayılı SPKn m. 111",
-              "B": "Türk Ceza Kanunu m. 150",
-              "C": "Vergi Usul Kanunu m. 359",
-              "D": "Çek Kanunu m. 5",
-              "E": "İcra İflas Kanunu m. 331"
+              "A": "Türk Ceza Kanunu m. 150",
+              "B": "6362 sayılı SPKn m. 111",
+              "C": "İcra İflas Kanunu m. 331",
+              "D": "Vergi Usul Kanunu m. 359",
+              "E": "Çek Kanunu m. 5"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "SPKn m. 111 uyarınca Kurul ve borsa personelinin veya yetkililerin sır saklama yükümlülüğünü ihlal etmesi adli cezayı gerektiren bir suçtur."
           },
           {
             "id": 17,
             "soruMetni": "Sermaye Piyasası Kurulu denetçilerinin incelemeleri sırasında defter, belge ve kayıtları vermeyen veya incelemeyi engelleyen kişilere verilecek ceza nedir?",
             "secenekler": {
-              "A": "1 yıldan 3 yıla kadar hapis cezası (SPKn m. 112)",
-              "B": "Sadece 1.000 TL para cezası",
-              "C": "Uyarma cezası",
+              "A": "Uyarma cezası",
+              "B": "Ceza verilmez",
+              "C": "Sadece 1.000 TL para cezası",
               "D": "6 ay borsa yasağı",
-              "E": "Ceza verilmez"
+              "E": "1 yıldan 3 yıla kadar hapis cezası (SPKn m. 112)"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "SPKn m. 112 uyarınca denetim ve incelemeyi engelleyen veya belgeleri gizleyen kişilere 1 yıldan 3 yıla kadar hapis cezası verilir."
           },
           {
             "id": 18,
             "soruMetni": "SPKn m. 103 uyarınca Kurul tarafından belirlenen düzenlemelere, standartlara ve kararlara aykırı hareket eden tüzel kişilere uygulanan yaptırım türü hangisidir?",
             "secenekler": {
-              "A": "İdari Para Cezası",
-              "B": "Hapis Cezası",
-              "C": "Müadelesiz Kapatma",
-              "D": "Sadece Sözlü Uyarı",
-              "E": "Trafikten Men"
+              "A": "Sadece Sözlü Uyarı",
+              "B": "Trafikten Men",
+              "C": "İdari Para Cezası",
+              "D": "Müadelesiz Kapatma",
+              "E": "Hapis Cezası"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "SPKn m. 103 uyarınca Kurul düzenlemelerine aykırılık hallerinde Kanunda belirlenen maktu veya nispi İdari Para Cezaları uygulanır."
           },
           {
             "id": 19,
             "soruMetni": "Sermaye Piyasası Kanunu uyarınca, hakkında ihbar veya denetim başlatılan şahıslara ilişkin olarak takas alacaklarının dondurulması veya tedbir konulması yetkisi kime aittir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurulu (SPK)",
-              "B": "Borsa İstanbul",
-              "C": "Milli Piyango İdaresi",
-              "D": "Şirket Genel Müdürü",
-              "E": "Valilikler"
+              "A": "Şirket Genel Müdürü",
+              "B": "Sermaye Piyasası Kurulu (SPK)",
+              "C": "Borsa İstanbul",
+              "D": "Valilikler",
+              "E": "Milli Piyango İdaresi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "SPKn m. 101 uyarınca takas alacaklarının dondurulması ve hesaba tedbir konulması yetkisi SPK'ya aittir."
           },
           {
@@ -587,10 +587,10 @@ const splVeritabani = [
             "soruMetni": "İşleme Dayalı Piyasa Dolandırıcılığı (m. 107/1) suçunda failler hakkında uygulanacak adli para cezası miktarı en az ne kadar olmalıdır?",
             "secenekler": {
               "A": "Suçun işlenmesiyle elde edilen menfaatin miktarından az olamaz.",
-              "B": "En fazla 10.000 TL olabilir.",
-              "C": "Şirket sermayesinin %1'i kadardır.",
+              "B": "Adli para cezası uygulanmaz.",
+              "C": "En fazla 10.000 TL olabilir.",
               "D": "Sabit 50.000 TL'dir.",
-              "E": "Adli para cezası uygulanmaz."
+              "E": "Şirket sermayesinin %1'i kadardır."
             },
             "dogruCevap": "A",
             "cozum": "SPKn m. 107/1 uyarınca verilecek adli para cezasının miktarı, temin edilen menfaatten az olamaz."
@@ -606,52 +606,52 @@ const splVeritabani = [
             "id": 1,
             "soruMetni": "Özel Durumlar Tebliği (II-15.1) uyarınca, ihraççının sermaye piyasası araçlarının değerini, fiyatını veya yatırımcıların yatırım kararlarını etkileyebilecek henüz kamuya açıklanmamış olay ve bilgilere ne ad verilir?",
             "secenekler": {
-              "A": "İçsel Bilgi",
-              "B": "Sürekli Bilgi",
-              "C": "Periyodik Bilgi",
-              "D": "Genel Bilgi",
-              "E": "Özel İlan"
+              "A": "Sürekli Bilgi",
+              "B": "Özel İlan",
+              "C": "İçsel Bilgi",
+              "D": "Periyodik Bilgi",
+              "E": "Genel Bilgi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "II-15.1 sayılı Tebliğ m. 4 uyarınca fiyat veya yatırım kararlarını etkileyebilecek henüz açıklanmamış detaylı bilgilere 'İçsel Bilgi' denir."
           },
           {
             "id": 2,
             "soruMetni": "II-15.1 sayılı Özel Durumlar Tebliği uyarınca, ihraççıların içsel bilgilerin kamuya açıklanmasını erteleyebilmesi için aşağıdaki şartlardan hangisinin varlığı ZORUNLUDUR?",
             "secenekler": {
-              "A": "Ertelemenin ihraççının meşru haklarının korunması için gerekli olması, kamunun yanıltılmasına yol açmaması ve bilginin gizliliğinin korunabilmesi",
-              "B": "Sadece Genel Müdürün sözlü onay vermesi",
-              "C": "Borsa İstanbul Yönetim Kurulunun kararı",
-              "D": "Şirketin sermayesinin 100 milyon TL'yi aşması",
-              "E": "Ertelemenin en az 1 yıl sürmesi"
+              "A": "Şirketin sermayesinin 100 milyon TL'yi aşması",
+              "B": "Ertelemenin en az 1 yıl sürmesi",
+              "C": "Ertelemenin ihraççının meşru haklarının korunması için gerekli olması, kamunun yanıltılmasına yol açmaması ve bilginin gizliliğinin korunabilmesi",
+              "D": "Sadece Genel Müdürün sözlü onay vermesi",
+              "E": "Borsa İstanbul Yönetim Kurulunun kararı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Tebliğ m. 6 uyarınca erteleme için: 1) Meşru çıkar korunmalı, 2) Kamu yanıltılmamalı, 3) Gizlilik sağlanmalıdır."
           },
           {
             "id": 3,
             "soruMetni": "İçsel bilginin kamuya açıklanmasının ertelenmesi halinde, erteleme sebepleri ortadan kalktığında ihraççı KAP'ta nasıl bir açıklama yapar?",
             "secenekler": {
-              "A": "İçsel bilgi ile birlikte erteleme kararı ve erteleme gerekçeleri derhal Kamuyu Aydınlatma Platformu'nda (KAP) açıklanır.",
-              "B": "Sadece SPK'ya gizli bir dilekçe verilir.",
-              "C": "Açıklama 1 yıl sonra yapılır.",
-              "D": "Erteleme detayları KAP'ta açıklanmaz.",
-              "E": "Sadece genel kurulda okunur."
+              "A": "Erteleme detayları KAP'ta açıklanmaz.",
+              "B": "İçsel bilgi ile birlikte erteleme kararı ve erteleme gerekçeleri derhal Kamuyu Aydınlatma Platformu'nda (KAP) açıklanır.",
+              "C": "Sadece SPK'ya gizli bir dilekçe verilir.",
+              "D": "Sadece genel kurulda okunur.",
+              "E": "Açıklama 1 yıl sonra yapılır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Tebliğ m. 6/3 uyarınca erteleme sebebi kalktığında özel durum açıklaması yapılırken erteleme kararı ve gerekçesi de yayımlanır."
           },
           {
             "id": 4,
             "soruMetni": "Ertelenen içsel bilginin gizliliğinin korunamadığı veya sızdığı tespiti yapıldığında ihraççı ne yapmakla yükümlüdür?",
             "secenekler": {
-              "A": "Özel durum açıklamasını DERHAL KAP'ta yapmakla yükümlüdür.",
+              "A": "Borsadaki işlemleri 3 gün durdurur.",
               "B": "Erteleme süresini 6 ay daha uzatır.",
-              "C": "Borsadaki işlemleri 3 gün durdurur.",
-              "D": "SPK'dan ceza indirimi ister.",
-              "E": "Hiçbir açıklama yapmaz."
+              "C": "Hiçbir açıklama yapmaz.",
+              "D": "Özel durum açıklamasını DERHAL KAP'ta yapmakla yükümlüdür.",
+              "E": "SPK'dan ceza indirimi ister."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Tebliğ m. 6/4 uyarınca ertelenen bilginin gizliliği bozulduğunda derhal KAP'ta özel durum açıklaması yapılması şarttır."
           },
           {
@@ -659,10 +659,10 @@ const splVeritabani = [
             "soruMetni": "Özel Durumlar Tebliği uyarınca, ihraççı nezdinde idari sorumluluğu bulunan kişilerin ve bunlarla yakından ilişkili kişilerin ihraççı paylarındaki işlemlerine ilişkin bildirim sınırı ve esası nedir?",
             "secenekler": {
               "A": "Bir takvim yılı içinde yapılan işlemlerin toplam tutarı SPK tarafından belirlenen eşiğe ulaştığında KAP'ta açıklanır.",
-              "B": "İdari sorumlular hiçbir şekilde işlem yapamaz.",
-              "C": "İşlemler sadece yıllık faaliyet raporunda gösterilir.",
-              "D": "Bildirim 5 yıl sonra yapılır.",
-              "E": "Sadece banka transferleri bildirilir."
+              "B": "Bildirim 5 yıl sonra yapılır.",
+              "C": "Sadece banka transferleri bildirilir.",
+              "D": "İdari sorumlular hiçbir şekilde işlem yapamaz.",
+              "E": "İşlemler sadece yıllık faaliyet raporunda gösterilir."
             },
             "dogruCevap": "A",
             "cozum": "Tebliğ m. 11 uyarınca idari sorumluluğu bulunan kişilerin işlemleri belirlenen tutarlık eşiği aştığında KAP'ta ilan edilir."
@@ -671,13 +671,13 @@ const splVeritabani = [
             "id": 6,
             "soruMetni": "İhraççıların içsel bilgiye erişimi olan kişilerin listesini oluşturması ve bu listeyi güncellemesi kimin sorumluluğundadır?",
             "secenekler": {
-              "A": "İhraççının Yönetim Kurulu",
+              "A": "Merkezi Kayıt Kuruluşu",
               "B": "Borsa İstanbul",
-              "C": "Merkezi Kayıt Kuruluşu",
-              "D": "Bağımsız Denetim Şirketi",
-              "E": "Ticaret Sicil Gazetesi"
+              "C": "Bağımsız Denetim Şirketi",
+              "D": "Ticaret Sicil Gazetesi",
+              "E": "İhraççının Yönetim Kurulu"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Tebliğ m. 7 uyarınca İçsel Bilgiye Erişimi Olanlar Listesi ihraççı yönetim kurulu tarafından hazırlanır ve istendiğinde SPK'ya sunulur."
           },
           {
@@ -685,12 +685,12 @@ const splVeritabani = [
             "soruMetni": "İçsel Bilgiye Erişimi Olanlar Listesinde yer alan bilgilerin ve değişikliklerin SPK veya MKK talep ettiğinde gönderilme yükümlülüğü kaç yıl süreyle saklanır?",
             "secenekler": {
               "A": "1 Yıl",
-              "B": "3 Yıl",
-              "C": "5 Yıl",
-              "D": "8 Yıl",
-              "E": "10 Yıl"
+              "B": "10 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "8 Yıl"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "D",
             "cozum": "Tebliğ m. 7 uyarınca içsel bilgiye erişimi olanlar listesi ve güncellemeleri en az 5 yıl süreyle saklanır."
           },
           {
@@ -698,10 +698,10 @@ const splVeritabani = [
             "soruMetni": "Basın-yayın organlarında veya kamuoyunda ihraççı hakkında çıkan haber veya söylentilere ilişkin ihraççının KAP'ta doğrulama açıklaması yapma yükümlülüğü hangi durumda doğar?",
             "secenekler": {
               "A": "Haber veya söylenti yatırımcıların kararlarını veya sermaye piyasası araçlarının fiyatını etkileyebilecek önemde olduğunda",
-              "B": "Her çıkan magazin haberinde",
-              "C": "Sadece yurt dışı gazetelerde haber çıktığında",
-              "D": "Yılda bir kez toplu olarak",
-              "E": "Haber asılsız olsa bile hiçbir zaman açıklama yapılmaz"
+              "B": "Yılda bir kez toplu olarak",
+              "C": "Her çıkan magazin haberinde",
+              "D": "Haber asılsız olsa bile hiçbir zaman açıklama yapılmaz",
+              "E": "Sadece yurt dışı gazetelerde haber çıktığında"
             },
             "dogruCevap": "A",
             "cozum": "Tebliğ m. 9 uyarınca fiyata veya yatırım kararına etki edebilecek önemdeki haber ve söylentilerin doğru veya asılsız olduğuna dair KAP'ta açıklama yapılması zorunludur."
@@ -711,10 +711,10 @@ const splVeritabani = [
             "soruMetni": "Özel Durumlar Tebliği uyarınca ihraççıların geleceğe yönelik değerlendirmelerini (beklentilerini) kamuya açıklamasıyla ilgili aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Geleceğe yönelik değerlendirmeler yönetim kurulu kararına dayanmalı ve yılda en fazla 4 kez kamuya açıklanabilir.",
-              "B": "Geleceğe yönelik değerlendirmeler kesinleşmiş garanti veriler olmalıdır.",
-              "C": "Geleceğe yönelik açıklama yapılması yasaktır.",
-              "D": "Açıklama sadece sözlü televizyon yayınında yapılır.",
-              "E": "Sadece 10 yıllık planlar açıklanabilir."
+              "B": "Açıklama sadece sözlü televizyon yayınında yapılır.",
+              "C": "Geleceğe yönelik değerlendirmeler kesinleşmiş garanti veriler olmalıdır.",
+              "D": "Sadece 10 yıllık planlar açıklanabilir.",
+              "E": "Geleceğe yönelik açıklama yapılması yasaktır."
             },
             "dogruCevap": "A",
             "cozum": "Tebliğ m. 10 uyarınca geleceğe yönelik değerlendirmeler yönetim kurulu kararıyla veya yetkili yöneticilerin onayıyla KAP'ta açıklanabilir ve yılda azami 4 kez güncellenebilir."
@@ -726,8 +726,8 @@ const splVeritabani = [
               "A": "İşlemi gerçekleştiren gerçek veya tüzel kişi (MKK tarafından otomatik yapılır veya ilgili kişi bildirir).",
               "B": "Sadece Borsa Başkanı",
               "C": "Ticaret Bakanlığı",
-              "D": "Maliye Müfettişi",
-              "E": "Şirket Çaycısı"
+              "D": "Şirket Çaycısı",
+              "E": "Maliye Müfettişi"
             },
             "dogruCevap": "A",
             "cozum": "Tebliğ m. 12 uyarınca oy haklarındaki önemli pay sahipliği değişiklikleri MKK tarafından veya ilgili ortak tarafından KAP'ta açıklanır."
@@ -736,39 +736,39 @@ const splVeritabani = [
             "id": 11,
             "soruMetni": "İhraççıların kamuya yapacakları özel durum açıklamalarının dili ve gönderim ortamı aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Türkçe olarak Elektronik İmza ile Kamuyu Aydınlatma Platformu'na (KAP) gönderilir.",
-              "B": "Sadece İngilizce olarak gazete ilanı yapılır.",
-              "C": "Posta yoluyla SPK'ya iletilir.",
-              "D": "Şirket panosuna asılır.",
+              "A": "Sadece İngilizce olarak gazete ilanı yapılır.",
+              "B": "Şirket panosuna asılır.",
+              "C": "Türkçe olarak Elektronik İmza ile Kamuyu Aydınlatma Platformu'na (KAP) gönderilir.",
+              "D": "Posta yoluyla SPK'ya iletilir.",
               "E": "Sadece TV kanallarında altyazı geçilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Özel durum açıklamaları güvenli elektronik imza ile KAP sistemine yayımlanmak üzere iletilir."
           },
           {
             "id": 12,
             "soruMetni": "Özel Durumlar Tebliği uyarınca, kamuya açıklanan özel durum açıklamalarının şirketin kendi internet sitesinde yayımlanma ve saklanma süresi en az kaç yıldır?",
             "secenekler": {
-              "A": "1 Yıl",
-              "B": "2 Yıl",
-              "C": "5 Yıl",
-              "D": "8 Yıl",
-              "E": "10 Yıl"
+              "A": "8 Yıl",
+              "B": "5 Yıl",
+              "C": "2 Yıl",
+              "D": "10 Yıl",
+              "E": "1 Yıl"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "B",
             "cozum": "Tebliğ m. 13 uyarınca kamuya açıklanan özel durum açıklamaları şirketin internet sitesinde en az 5 yıl süreyle güncel olarak tutulur."
           },
           {
             "id": 13,
             "soruMetni": "Özel Durumlar Tebliği uyarınca, ihraççının yönetim kontrolünü elinde tutan ortakların kendi aralarında yaptıkları oy sözleşmeleri veya yönetim kurulu üyeliği aday gösterme anlaşmaları KAP'ta açıklanmalı mıdır?",
             "secenekler": {
-              "A": "Evet, sözleşmenin imzalandığı tarihte derhal KAP'ta açıklanması zorunludur.",
-              "B": "Hayır, gizli kalması zorunludur.",
+              "A": "Sadece mahkeme isterse verilir.",
+              "B": "Evet, sözleşmenin imzalandığı tarihte derhal KAP'ta açıklanması zorunludur.",
               "C": "Sadece Genel Kurulda söylenir.",
               "D": "Sadece şirket tasfiye edilirken açıklanır.",
-              "E": "Sadece mahkeme isterse verilir."
+              "E": "Hayır, gizli kalması zorunludur."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Tebliğ m. 12 uyarınca oy haklarının kullanımına ilişkin anlaşmalar ve kontrol değişiklikleri derhal kamuya açıklanır."
           },
           {
@@ -776,36 +776,36 @@ const splVeritabani = [
             "soruMetni": "İhraççıların konsolide olmayan finansal tablolarını KAP'ta yayımlama süresi hesap döneminin bitiminden itibaren en geç kaç gündür?",
             "secenekler": {
               "A": "30 Gün",
-              "B": "60 Gün",
-              "C": "70 Gün",
-              "D": "90 Gün",
-              "E": "120 Gün"
+              "B": "120 Gün",
+              "C": "60 Gün",
+              "D": "70 Gün",
+              "E": "90 Gün"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "D",
             "cozum": "Finansal Raporlama Tebliği (II-14.1) uyarınca konsolide olmayan yıllık finansal tablolar en geç 70 gün içinde KAP'ta yayımlanır."
           },
           {
             "id": 15,
             "soruMetni": "Halka açık ortaklıkların konsolide yıllık finansal tablolarını KAP'ta yayımlama azami süresi kaç gündür?",
             "secenekler": {
-              "A": "30 Gün",
-              "B": "60 Gün",
+              "A": "120 Gün",
+              "B": "90 Gün",
               "C": "70 Gün",
-              "D": "90 Gün",
-              "E": "120 Gün"
+              "D": "60 Gün",
+              "E": "30 Gün"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "B",
             "cozum": "Finansal Raporlama Tebliği uyarınca konsolide yıllık finansal raporların KAP'ta ilanı için azami süre 90 gündür."
           },
           {
             "id": 16,
             "soruMetni": "Aşağıdakilerden hangisi Sürekli Bilgiler kapsamında KAP'ta yayımlanması zorunlu olan hususlardan biri DEĞİLDİR?",
             "secenekler": {
-              "A": "Şirketin genel kurul kararları ve tasfiye durumları",
+              "A": "Unvan ve adres değişiklikleri",
               "B": "Sermaye artırımı ve azaltımı kararları",
               "C": "Şirket çalışanlarının günlük öğle yemeği menüsü",
-              "D": "Unvan ve adres değişiklikleri",
-              "E": "Kar payı dağıtım kararları"
+              "D": "Kar payı dağıtım kararları",
+              "E": "Şirketin genel kurul kararları ve tasfiye durumları"
             },
             "dogruCevap": "C",
             "cozum": "Şirket içindeki rutin operasyonel detaylar (yemek menüsü vb.) kamuyu aydınlatma kapsamında değildir."
@@ -814,52 +814,52 @@ const splVeritabani = [
             "id": 17,
             "soruMetni": "Özel durum açıklamalarının mesai saatleri dışında gerçekleşmesi durumunda KAP'a bildirim zamanı nasıl olmalıdır?",
             "secenekler": {
-              "A": "Olay gerçekleştiği anda zaman kaybetmeksizin derhal KAP'a iletilir.",
-              "B": "Ertesi gün mesai başlangıcına kadar beklenir.",
-              "C": "Pazartesi sabahına kadar ertelenir.",
-              "D": "Hafta sonu açıklama yapılması yasaktır.",
-              "E": "SPK'nın açılacağı saat beklenir."
+              "A": "Hafta sonu açıklama yapılması yasaktır.",
+              "B": "SPK'nın açılacağı saat beklenir.",
+              "C": "Ertesi gün mesai başlangıcına kadar beklenir.",
+              "D": "Pazartesi sabahına kadar ertelenir.",
+              "E": "Olay gerçekleştiği anda zaman kaybetmeksizin derhal KAP'a iletilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "KAP sistemi 7/24 esasına göre çalışır; özel durum oluşturan bilgi ortaya çıktığında derhal gönderilmesi esastır."
           },
           {
             "id": 18,
             "soruMetni": "İhraççıların KAP bildirimlerinde yanıltıcı veya eksik bilgi vermeleri halinde doğacak zararlardan kimler sorumludur?",
             "secenekler": {
-              "A": "İhraççı şirket ve açıklamada imzası bulunan idari sorumlular",
-              "B": "Sadece KAP yazılımını yapan mühendisler",
+              "A": "Sadece MKK çalışanları",
+              "B": "Hiç kimse sorumlu tutulamaz",
               "C": "Sadece Borsa İstanbul",
-              "D": "Sadece MKK çalışanları",
-              "E": "Hiç kimse sorumlu tutulamaz"
+              "D": "Sadece KAP yazılımını yapan mühendisler",
+              "E": "İhraççı şirket ve açıklamada imzası bulunan idari sorumlular"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "KAP bildirimlerinin doğruluğundan ihraççı şirket ve bildirimi imzalayan idari sorumlular mevzuat uyarınca sorumludur."
           },
           {
             "id": 19,
             "soruMetni": "Özel Durumlar Tebliği uyarınca, ihraççının faaliyetlerini kısmen veya tamamen durdurması veya durdurulması kararı alınması halinde durum KAP'ta nasıl açıklanır?",
             "secenekler": {
-              "A": "Karar alındığı anda Derhal Özel Durum Açıklaması olarak yayımlanır.",
-              "B": "Yıl sonunda faaliyet raporuna eklenir.",
-              "C": "Sadece işçilere bildirilir.",
+              "A": "Sadece işçilere bildirilir.",
+              "B": "Gizli tutulur.",
+              "C": "Yıl sonunda faaliyet raporuna eklenir.",
               "D": "Borsa kotundan çıkana kadar açıklanmaz.",
-              "E": "Gizli tutulur."
+              "E": "Karar alındığı anda Derhal Özel Durum Açıklaması olarak yayımlanır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Faaliyetlerin durması veya durdurulması içsel bilgi niteliğinde olup derhal KAP'ta ilan edilir."
           },
           {
             "id": 20,
             "soruMetni": "Halka açık şirketlerin İlişkili Taraf İşlemleri (II-17.1 / II-15.1) kapsamında varlık transferi işlemlerinde bağımsız değerleme yaptırma yükümlülüğü oran eşiği yüzde kaçtır?",
             "secenekler": {
-              "A": "İşlem tutarının toplam varlıklara veya hasılata oranının %10'a ulaşması veya aşması halinde",
-              "B": "%1 oranında",
-              "C": "%50 oranında",
-              "D": "%75 oranında",
-              "E": "%100 oranında"
+              "A": "%100 oranında",
+              "B": "%50 oranında",
+              "C": "%1 oranında",
+              "D": "İşlem tutarının toplam varlıklara veya hasılata oranının %10'a ulaşması veya aşması halinde",
+              "E": "%75 oranında"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "İlişkili taraf işlemlerinde tutarın aktif büyüklüğe veya hasılata oranının %10'u aşması durumunda bağımsız değerleme raporu hazırlanması ve KAP'ta açıklanması zorunludur."
           }
         ]
@@ -873,52 +873,52 @@ const splVeritabani = [
             "id": 1,
             "soruMetni": "Kurumsal Yönetim Tebliği (II-17.1) uyarınca, Borsa İstanbul'da işlem gören halka açık şirketler piyasa değerleri ve fiili dolaşımdaki pay değerlerine göre kaç gruba ayrılır?",
             "secenekler": {
-              "A": "3 Grup (1. Grup, 2. Grup, 3. Grup)",
+              "A": "5 Grup",
               "B": "2 Grup",
-              "C": "4 Grup",
-              "D": "5 Grup",
-              "E": "Gruplandırma yapılmaz"
+              "C": "Gruplandırma yapılmaz",
+              "D": "4 Grup",
+              "E": "3 Grup (1. Grup, 2. Grup, 3. Grup)"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Kurumsal Yönetim Tebliği uyarınca halka açık şirketler 1., 2. ve 3. Grup olarak sistemli şekilde sınıflandırılır."
           },
           {
             "id": 2,
             "soruMetni": "II-17.1 sayılı Tebliğ gereğince, 1. Grup ve 2. Grup halka açık şirketlerin yönetim kurulunda yer alması gereken Bağımsız Yönetim Kurulu Üye sayısı ve oranı en az ne olmalıdır?",
             "secenekler": {
-              "A": "Toplam üye sayısının 1/3'ünden az olamaz ve her halükarda 2 üyeden az olamaz.",
-              "B": "Sadece 1 üye olması yeterlidir.",
-              "C": "Tüm üyelerin bağımsız olması şarttır.",
-              "D": "En az 5 üye olmalıdır.",
+              "A": "Sadece 1 üye olması yeterlidir.",
+              "B": "En az 5 üye olmalıdır.",
+              "C": "Toplam üye sayısının 1/3'ünden az olamaz ve her halükarda 2 üyeden az olamaz.",
+              "D": "Tüm üyelerin bağımsız olması şarttır.",
               "E": "Bağımsız üye zorunluluğu yoktur."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Kurumsal Yönetim İlkeleri m. 4.3.4 uyarınca bağımsız üye sayısı toplam üye sayısının üçte birinden az olamaz ve her halükarda 2 üyeden az olamaz."
           },
           {
             "id": 3,
             "soruMetni": "Kurumsal Yönetim Tebliği uyarınca, bağımsız yönetim kurulu üyelerinin görev süresi tek seferde en fazla kaç yıl için seçilebilir?",
             "secenekler": {
-              "A": "3 Yıl",
-              "B": "1 Yıl",
-              "C": "5 Yıl",
-              "D": "6 Yıl",
-              "E": "10 Yıl"
+              "A": "5 Yıl",
+              "B": "6 Yıl",
+              "C": "10 Yıl",
+              "D": "1 Yıl",
+              "E": "3 Yıl"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Bağımsız yönetim kurulu üyeleri en fazla 3 yıl için seçilebilir ve tekrar aday gösterilip seçilmeleri mümkündür."
           },
           {
             "id": 4,
             "soruMetni": "Bir bağımsız yönetim kurulu üyesinin aynı şirkette veya şirket grubunda son 10 yıl içerisinde toplam kaç yıldan fazla bağımsız üye olarak görev yapmamış olması şarttır?",
             "secenekler": {
-              "A": "6 Yıl",
-              "B": "3 Yıl",
-              "C": "5 Yıl",
+              "A": "5 Yıl",
+              "B": "6 Yıl",
+              "C": "10 Yıl",
               "D": "8 Yıl",
-              "E": "10 Yıl"
+              "E": "3 Yıl"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Kurumsal Yönetim İlkeleri m. 4.3.6 uyarınca son 10 yıl içinde 6 yıldan fazla bağımsız üyelik yapan kişi bağımsızlığını kaybeder."
           },
           {
@@ -926,10 +926,10 @@ const splVeritabani = [
             "soruMetni": "Kurumsal Yönetim Tebliği uyarınca, Yönetim Kurulu bünyesinde oluşturulması ZORUNLU olan komiteler arasında aşağıdakilerden hangisi YER ALMAZ?",
             "secenekler": {
               "A": "Sosyal Etkinlik ve Spor Komitesi",
-              "B": "Denetimden Sorumlu Komite",
-              "C": "Kurumsal Yönetim Komitesi",
-              "D": "Riskin Erken Saptanması Komitesi",
-              "E": "Aday Gösterme ve Ücret Komitesi"
+              "B": "Kurumsal Yönetim Komitesi",
+              "C": "Denetimden Sorumlu Komite",
+              "D": "Aday Gösterme ve Ücret Komitesi",
+              "E": "Riskin Erken Saptanması Komitesi"
             },
             "dogruCevap": "A",
             "cozum": "Zorunlu komiteler: Denetim, Kurumsal Yönetim, Riskin Erken Saptanması, Aday Gösterme ve Ücret komiteleridir. Spor komitesi yasal zorunluluk değildir."
@@ -938,156 +938,156 @@ const splVeritabani = [
             "id": 6,
             "soruMetni": "Yönetim kurulu bünyesinde kurulan Denetimden Sorumlu Komitenin üyeleri ve yapısı hakkında aşağıdakilerden hangisi ZORUNLUDUR?",
             "secenekler": {
-              "A": "Komitenin tüm üyelerinin Bağımsız Yönetim Kurulu Üyelerinden oluşması zorunludur.",
-              "B": "Sadece komite başkanı bağımsız olmalıdır.",
-              "C": "Genel müdür komite başkanı olur.",
-              "D": "Üyelerin en az yarısı icracı olmalıdır.",
-              "E": "Dışarıdan uzmanlardan seçilir."
+              "A": "Genel müdür komite başkanı olur.",
+              "B": "Üyelerin en az yarısı icracı olmalıdır.",
+              "C": "Dışarıdan uzmanlardan seçilir.",
+              "D": "Komitenin tüm üyelerinin Bağımsız Yönetim Kurulu Üyelerinden oluşması zorunludur.",
+              "E": "Sadece komite başkanı bağımsız olmalıdır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Kurumsal Yönetim İlkeleri m. 4.5.3 uyarınca Denetimden Sorumlu Komitenin bütün üyeleri bağımsız yönetim kurulu üyeleri arasından seçilmelidir."
           },
           {
             "id": 7,
             "soruMetni": "Kurumsal Yönetim Tebliği uyarınca, bir yönetim kurulu üyesi aynı anda en fazla kaç komitenin başkanı olabilir?",
             "secenekler": {
-              "A": "Sadece 1 Komite",
+              "A": "Tüm Komiteler",
               "B": "2 Komite",
-              "C": "3 Komite",
-              "D": "Tüm Komiteler",
-              "E": "Sınırlama yoktur"
+              "C": "Sınırlama yoktur",
+              "D": "3 Komite",
+              "E": "Sadece 1 Komite"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Bir yönetim kurulu üyesi birden fazla komitede görev alabilir ancak yalnızca 1 komitenin başkanı olabilir."
           },
           {
             "id": 8,
             "soruMetni": "Yönetim Kurulu Başkanı ile Genel Müdürün (İcra Başkanı) aynı kişi olması durumunda bu durumun gerekçesi nerede açıklanmalıdır?",
             "secenekler": {
-              "A": "KAP'ta ve Yıllık Kurumsal Yönetim Uyum Raporunda gerekçesiyle açıklanmalıdır.",
-              "B": "Ticaret Sicil Gazetesinde ilan edilir.",
-              "C": "Gerekçe açıklamaya gerek yoktur.",
-              "D": "SPK'dan ceza alınır.",
+              "A": "Gerekçe açıklamaya gerek yoktur.",
+              "B": "SPK'dan ceza alınır.",
+              "C": "KAP'ta ve Yıllık Kurumsal Yönetim Uyum Raporunda gerekçesiyle açıklanmalıdır.",
+              "D": "Ticaret Sicil Gazetesinde ilan edilir.",
               "E": "Sadece mahkemeye bildirilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Kurumsal Yönetim İlkeleri uyarınca YK başkanı ile İcra başkanı aynı kişi ise bu durum gerekçelendirilerek KAP'ta açıklanmalıdır."
           },
           {
             "id": 9,
             "soruMetni": "Kurumsal Yönetim Tebliği uyarınca oluşturulan Yatırımcı İlişkileri Bölüm Yöneticisinin haiz olması gereken lisans belgesi aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "SPL Düzey 3 Lisansı ve Kurumsal Yönetim Derecelendirme Lisansı",
-              "B": "Sadece Düzey 1 Lisansı",
+              "A": "Gayrimenkul Değerleme Lisansı",
+              "B": "SPL Düzey 3 Lisansı ve Kurumsal Yönetim Derecelendirme Lisansı",
               "C": "Türev Araçlar Lisansı",
-              "D": "Gayrimenkul Değerleme Lisansı",
-              "E": "Lisans zorunluluğu yoktur"
+              "D": "Lisans zorunluluğu yoktur",
+              "E": "Sadece Düzey 1 Lisansı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Yatırımcı ilişkileri bölüm yöneticisinin tam zamanlı çalışması, SPL Düzey 3 ve Kurumsal Yönetim Derecelendirme lisanslarına sahip olması şarttır."
           },
           {
             "id": 10,
             "soruMetni": "Aşağıdakilerden hangisi genel kabul görmüş Kurumsal Yönetim İlkelerinin temel 4 ayağı (prensibi) arasında YER ALMAZ?",
             "secenekler": {
-              "A": "Şeffaflık",
-              "B": "Hesap Verebilirlik",
-              "C": "Sorumluluk",
-              "D": "Adillik (Eşitlik)",
-              "E": "Gizlilik ve Bilgi Saklama"
+              "A": "Gizlilik ve Bilgi Saklama",
+              "B": "Adillik (Eşitlik)",
+              "C": "Hesap Verebilirlik",
+              "D": "Şeffaflık",
+              "E": "Sorumluluk"
             },
-            "dogruCevap": "E",
+            "dogruCevap": "A",
             "cozum": "Kurumsal Yönetimin 4 ana ilkesi: Şeffaflık, Adillik, Hesap Verebilirlik ve Sorumluluktur. Gizlilik ve bilgi saklama temel ilke değildir."
           },
           {
             "id": 11,
             "soruMetni": "Bağımsız yönetim kurulu üyelerinin bağımsızlığını kaybetmesi veya istifa etmesi durumunda yeni bağımsız üye seçilinceye kadar geçecek süre içinde en geç ne zaman seçim yapılmalıdır?",
             "secenekler": {
-              "A": "Yapılacak ilk Genel Kurul toplantısına kadar geçici üye atanır veya ilk Genel Kurulda seçilir.",
+              "A": "3 yıl boyunca boş kalır.",
               "B": "Şirket derhal kapatılır.",
-              "C": "3 yıl boyunca boş kalır.",
+              "C": "Yönetim kurulu kararları geçersiz sayılır.",
               "D": "SPK doğrudan atama yapar.",
-              "E": "Yönetim kurulu kararları geçersiz sayılır."
+              "E": "Yapılacak ilk Genel Kurul toplantısına kadar geçici üye atanır veya ilk Genel Kurulda seçilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Bağımsız üyelik boşaldığında yönetim kurulu ilk genel kurula kadar görev yapmak üzere geçici atama yapabilir veya ilk genel kurulda seçim tamamlanır."
           },
           {
             "id": 12,
             "soruMetni": "Kurumsal Yönetim Tebliği uyarınca, Ücretlendirme Politikası ve yönetim kurulu üyelerine verilen her türlü menfaatlerin açıklandığı organ aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Genel Kurul toplantısında ayrı bir madde olarak ortakların bilgisine sunulur ve internet sitesinde yayımlanır.",
+              "A": "Açıklanması yasaktır.",
               "B": "Sadece yönetim kurulunun gizli kasasında saklanır.",
               "C": "Sadece vergi dairesine bildirilir.",
-              "D": "Açıklanması yasaktır.",
+              "D": "Genel Kurul toplantısında ayrı bir madde olarak ortakların bilgisine sunulur ve internet sitesinde yayımlanır.",
               "E": "Sadece bankalara verilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Ücretlendirme politikası Genel Kurulda ortakların bilgisine sunulur ve şirket internet sitesinde açıklanır."
           },
           {
             "id": 13,
             "soruMetni": "Halka açık ortaklıklarda Riskin Erken Saptanması Komitesi kaç ayda bir yönetim kuruluna rapor sunmakla yükümlüdür?",
             "secenekler": {
-              "A": "2 Ayda Bir",
+              "A": "Yılda Bir",
               "B": "Her Ay",
-              "C": "6 Ayda Bir",
-              "D": "Yılda Bir",
+              "C": "2 Ayda Bir",
+              "D": "6 Ayda Bir",
               "E": "3 Yılda Bir"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "TTK m. 378 ve Tebliğ uyarınca Riskin Erken Saptanması Komitesi her 2 ayda bir durumu değerlendirir ve raporunu yönetim kuruluna sunar."
           },
           {
             "id": 14,
             "soruMetni": "Kurumsal Yönetim Tebliğinde belirtilen bağımsız yönetim kurulu üyesi adaylarının belirlenmesi sürecinde aday tekliflerini değerlendiren komite hangisidir?",
             "secenekler": {
-              "A": "Aday Gösterme Komitesi (veya bu görevi üstlenen Kurumsal Yönetim Komitesi)",
-              "B": "Bütçe Komitesi",
-              "C": "Disiplin Komitesi",
-              "D": "Satın Alma Komitesi",
-              "E": "Pazarlama Komitesi"
+              "A": "Disiplin Komitesi",
+              "B": "Pazarlama Komitesi",
+              "C": "Aday Gösterme Komitesi (veya bu görevi üstlenen Kurumsal Yönetim Komitesi)",
+              "D": "Bütçe Komitesi",
+              "E": "Satın Alma Komitesi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Aday Gösterme Komitesi bağımsız üye adaylık tekliflerini değerlendirip raporunu yönetim kuruluna sunar."
           },
           {
             "id": 15,
             "soruMetni": "Borsa İstanbul BIST-50 endeksinde yer alan 1. Grup halka açık şirketlerde yönetim kurulunda kadın üye oranı için tavsiye edilen hedef oran en az yüzde kaçtır?",
             "secenekler": {
-              "A": "%25",
-              "B": "%10",
+              "A": "%33",
+              "B": "%25",
               "C": "%15",
-              "D": "%33",
+              "D": "%10",
               "E": "%50"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Kurumsal Yönetim İlkeleri m. 4.3.9 uyarınca yönetim kurulunda kadın üye oranının en az %25 olması hedefi belirlenir ve politika oluşturulur."
           },
           {
             "id": 16,
             "soruMetni": "Kurumsal Yönetim Tebliği uyarınca, şirketlerin internet sitelerinde bilgilendirme politikası ve ortaklık yapısı en az kaç yıllık geçmişi kapsayacak şekilde yayımlanmalıdır?",
             "secenekler": {
-              "A": "5 Yıl",
-              "B": "1 Yıl",
-              "C": "3 Yıl",
-              "D": "7 Yıl",
-              "E": "10 Yıl"
+              "A": "7 Yıl",
+              "B": "3 Yıl",
+              "C": "10 Yıl",
+              "D": "5 Yıl",
+              "E": "1 Yıl"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Şirket internet sitesinde Kurumsal Yönetim bölümünde son 5 yıla ait açıklamalar ve bilgiler bulundurulur."
           },
           {
             "id": 17,
             "soruMetni": "Halka açık şirketlerde Kurumsal Yönetim Uyum Raporu (URF) ve Kurumsal Yönetim Bilgi Formu (KYBF) hangi platformda ve ne zaman yayımlanır?",
             "secenekler": {
-              "A": "KAP'ta yıllık faaliyet raporu ile birlikte yayımlanır.",
-              "B": "Sadece Ticaret Sicil Gazetesinde bassılır.",
+              "A": "5 yılda bir yayımlanır.",
+              "B": "Sadece şirket içi e-posta ile duyurulur.",
               "C": "SPK binasına asılır.",
-              "D": "5 yılda bir yayımlanır.",
-              "E": "Sadece şirket içi e-posta ile duyurulur."
+              "D": "KAP'ta yıllık faaliyet raporu ile birlikte yayımlanır.",
+              "E": "Sadece Ticaret Sicil Gazetesinde bassılır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "URF ve KYBF şablonları yıllık finansal rapor ilan süresi içinde KAP'ta açıklanır."
           },
           {
@@ -1095,9 +1095,9 @@ const splVeritabani = [
             "soruMetni": "Kurumsal Yönetim İlkelerine uyum durumunu derecelendiren ve not veren bağımsız kurumlara ne ad verilir?",
             "secenekler": {
               "A": "Kurumsal Yönetim Derecelendirme Kuruluşları",
-              "B": "Kredi Derecelendirme Şirketleri",
+              "B": "Portföy Saklama Şirketleri",
               "C": "Gayrimenkul Değerleme Şirketleri",
-              "D": "Portföy Saklama Şirketleri",
+              "D": "Kredi Derecelendirme Şirketleri",
               "E": "Varlık Kiralama Şirketleri"
             },
             "dogruCevap": "A",
@@ -1108,10 +1108,10 @@ const splVeritabani = [
             "soruMetni": "Kurumsal Yönetim Tebliği uyarınca, yönetim kurulu toplantı nisabı (karar alma yeter sayısı) esas sözleşmede aksine ağırlaştırılmış bir oran yoksa nasıl belirlenir?",
             "secenekler": {
               "A": "Yönetim kurulu üye tam sayısının çoğunluğu ile toplanır ve kararlar katılanların çoğunluğu ile alınır.",
-              "B": "Tüm üyelerin oybirliği şarttır.",
-              "C": "Tek bir üyenin onayı yeterlidir.",
-              "D": "Genel kurul kararı olmadan karar alınamaz.",
-              "E": "SPK temsilcisinin oyu şarttır."
+              "B": "Tek bir üyenin onayı yeterlidir.",
+              "C": "Tüm üyelerin oybirliği şarttır.",
+              "D": "SPK temsilcisinin oyu şarttır.",
+              "E": "Genel kurul kararı olmadan karar alınamaz."
             },
             "dogruCevap": "A",
             "cozum": "TTK ve SPK ilkeleri uyarınca üye tam sayısının çoğunluğu ile toplanılır ve katılanların çoğunluğu ile karar verilir."
@@ -1120,13 +1120,13 @@ const splVeritabani = [
             "id": 20,
             "soruMetni": "Yönetim kurulu üyelerine verilen performans ödemeleri ve hisse senedi opsiyonları konusunda bağımsız üyelere ilişkin kısıtlama nedir?",
             "secenekler": {
-              "A": "Bağımsız yönetim kurulu üyelerinin ücretlendirilmesinde hisse senedi opsiyonları veya şirketin performansına dayalı ödeme planları KULLANILAMAZ.",
-              "B": "Bağımsız üyelere sadece hisse senedi verilir.",
-              "C": "Performans ödemesi zorunludur.",
-              "D": "Ücret ödenmesi yasaktır.",
-              "E": "Sadece kâr payı verilir."
+              "A": "Ücret ödenmesi yasaktır.",
+              "B": "Bağımsız yönetim kurulu üyelerinin ücretlendirilmesinde hisse senedi opsiyonları veya şirketin performansına dayalı ödeme planları KULLANILAMAZ.",
+              "C": "Sadece kâr payı verilir.",
+              "D": "Performans ödemesi zorunludur.",
+              "E": "Bağımsız üyelere sadece hisse senedi verilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Kurumsal Yönetim İlkeleri m. 4.6.3 uyarınca tarafsızlığı korumak amacıyla bağımsız üyelere kâra veya performansa dayalı prim ve opsiyon verilemez."
           }
         ]
@@ -1140,26 +1140,26 @@ const splVeritabani = [
             "id": 1,
             "soruMetni": "Pay Alım Teklifi Tebliği (II-26.1) uyarınca, halka açık bir ortaklıkta doğrudan veya dolaylı olarak oy haklarının yüzde kaçına sahip olunması durumunda yönetim kontrolü elde edilmiş sayılır ve Zorunlu Pay Alım Teklifi doğar?",
             "secenekler": {
-              "A": "%50 ve üzeri oy hakkı",
-              "B": "%10 oy hakkı",
-              "C": "%25 oy hakkı",
-              "D": "%75 oy hakkı",
-              "E": "%90 oy hakkı"
+              "A": "%90 oy hakkı",
+              "B": "%25 oy hakkı",
+              "C": "%50 ve üzeri oy hakkı",
+              "D": "%10 oy hakkı",
+              "E": "%75 oy hakkı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Pay Alım Teklifi Tebliği m. 11 uyarınca tek başına veya birlikte hareket ederek oy haklarının %50'sinden fazlasının elde edilmesi veya yönetim kurulunda çoğunluğu seçme hakkı kontrolü doğurur."
           },
           {
             "id": 2,
             "soruMetni": "II-26.1 sayılı Tebliğ gereğince, zorunlu pay alım teklifi zorunluluğunun doğduğu tarihten itibaren en geç kaç iş günü içinde SPK'ya pay alım teklifi bilgi formu onayı için başvurulmalıdır?",
             "secenekler": {
-              "A": "6 İş Günü",
-              "B": "10 İş Günü",
+              "A": "10 İş Günü",
+              "B": "30 İş Günü",
               "C": "15 İş Günü",
-              "D": "30 İş Günü",
-              "E": "60 İş Günü"
+              "D": "60 İş Günü",
+              "E": "6 İş Günü"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Tebliğ m. 13 uyarınca zorunlu pay alım teklifi doğduğunda 6 iş günü içinde SPK'ya başvuru yapılması zorunludur."
           },
           {
@@ -1168,8 +1168,8 @@ const splVeritabani = [
             "secenekler": {
               "A": "Pay alım teklif zorunluluğunun doğduğu tarihten önceki 6 aylık dönemde oluşan günlük düzeltilmiş ağırlıklı ortalama borsa fiyatlarının ortalaması",
               "B": "Son 1 haftalık fiyat",
-              "C": "Son 3 yıllık en yüksek fiyat",
-              "D": "Nominal değer (1 TL)",
+              "C": "Nominal değer (1 TL)",
+              "D": "Son 3 yıllık en yüksek fiyat",
               "E": "Sadece son gün kapanış fiyatı"
             },
             "dogruCevap": "A",
@@ -1180,10 +1180,10 @@ const splVeritabani = [
             "soruMetni": "Ortaklıktan Çıkarma ve Satma Hakları Tebliği (II-27.2) uyarınca, hakim ortağın diğer ortakları ortaklıktan çıkarma hakkını kazanabilmesi için yasal oy hakkı eşiği yüzde kaçtır?",
             "secenekler": {
               "A": "%95",
-              "B": "%50",
-              "C": "%75",
+              "B": "%75",
+              "C": "%90",
               "D": "%80",
-              "E": "%90"
+              "E": "%50"
             },
             "dogruCevap": "A",
             "cozum": "II-27.2 Tebliği m. 4 uyarınca oy haklarının en az %95'ine sahip olan ana ortak diğer ortakları ihraç etme (ortaklıktan çıkarma) hakkına sahip olur."
@@ -1192,52 +1192,52 @@ const splVeritabani = [
             "id": 5,
             "soruMetni": "Ortaklıktan Çıkarma Tebliği kapsamında, %95 oy eşiği aşıldığında azınlık ortakların paylarını hakim ortağa satma (Satma Hakkı) süresi kaç aydır?",
             "secenekler": {
-              "A": "3 Ay",
+              "A": "24 Ay",
               "B": "1 Ay",
-              "C": "6 Ay",
-              "D": "12 Ay",
-              "E": "24 Ay"
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Tebliğ m. 6 uyarınca çıkarma ve satma hakları 3 aylık hak düşürücü süre içinde kullanılır."
           },
           {
             "id": 6,
             "soruMetni": "Önemli Nitelikteki İşlemler ve Ayrılma Hakkı Tebliği (II-23.3) uyarınca aşağıdakilerden hangisi halka açık şirketlerde Önemli Nitelikteki İşlem sayılır?",
             "secenekler": {
-              "A": "Birleşme, bölünme işlemlerine taraf olunması veya tür değiştirilmesi",
-              "B": "Sıradan hammadde alım sözleşmesi",
-              "C": "Ofis mobilyası yenilenmesi",
-              "D": "Personel maaşlarının ödenmesi",
-              "E": "Rutine bağlı müşteri faturası kesilmesi"
+              "A": "Sıradan hammadde alım sözleşmesi",
+              "B": "Ofis mobilyası yenilenmesi",
+              "C": "Birleşme, bölünme işlemlerine taraf olunması veya tür değiştirilmesi",
+              "D": "Rutine bağlı müşteri faturası kesilmesi",
+              "E": "Personel maaşlarının ödenmesi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "II-23.3 m. 4 uyarınca birleşme, bölünme, malvarlığının devri, faaliyet konusunun değişmesi önemli nitelikte işlemdir."
           },
           {
             "id": 7,
             "soruMetni": "Önemli Nitelikteki İşlemlerin Genel Kurulda onaylanmasında toplantı ve karar nisaplarıyla ilgili aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Esas sözleşmede daha ağır nisap yoksa, genel kurul oy haklarının en az %75'inin olumlu oyu ile karar alınır.",
-              "B": "Basit çoğunluk yetmektedir.",
-              "C": "Yalnızca yönetim kurulu kararı yeterlidir.",
+              "A": "Basit çoğunluk yetmektedir.",
+              "B": "Esas sözleşmede daha ağır nisap yoksa, genel kurul oy haklarının en az %75'inin olumlu oyu ile karar alınır.",
+              "C": "Tek bir ortağın oyu yeterlidir.",
               "D": "Genel kurula gerek yoktur.",
-              "E": "Tek bir ortağın oyu yeterlidir."
+              "E": "Yalnızca yönetim kurulu kararı yeterlidir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Tebliğ m. 8 uyarınca önemli nitelikteki işlemler genel kurulda katılan oy haklarının %75'inin olumlu oyu ile karara bağlanır."
           },
           {
             "id": 8,
             "soruMetni": "Önemli Nitelikteki İşleme İlişkin Genel Kurul toplantısına katılarak OLUMSUZ oy kullanan ve muhalefet şerhini tutanağa işleten pay sahiplerine tanınan hak hangisidir?",
             "secenekler": {
-              "A": "Ayrılma Hakkı (Paylarını şirkete geri satıp ayrılma hakkı)",
-              "B": "Pay Alım Teklifi Hakkı",
-              "C": "Rüçhan Hakkı",
-              "D": "Tasfiye Hakkı",
-              "E": "Temettü Artırım Hakkı"
+              "A": "Pay Alım Teklifi Hakkı",
+              "B": "Rüçhan Hakkı",
+              "C": "Ayrılma Hakkı (Paylarını şirkete geri satıp ayrılma hakkı)",
+              "D": "Temettü Artırım Hakkı",
+              "E": "Tasfiye Hakkı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "SPKn m. 24 uyarınca önemli işleme olumsuz oy verip şerh düşen ortaklar paylarını şirkete satarak ayrılma hakkını kullanır."
           },
           {
@@ -1245,10 +1245,10 @@ const splVeritabani = [
             "soruMetni": "Ayrılma hakkı kullanım fiyatı, önemli nitelikteki işlemin kamuya açıklandığı tarihten önceki son kaç gündeki borsa ağırlıklı ortalama fiyatı olarak belirlenir?",
             "secenekler": {
               "A": "Kamuya açıklama tarihinden önceki 30 gün içinde oluşan düzeltilmiş ağırlıklı ortalama fiyat",
-              "B": "Son 1 yıllık fiyat",
+              "B": "Nominal tutar",
               "C": "Son 1 gündeki fiyat",
-              "D": "Nominal tutar",
-              "E": "Değerleme raporundaki en düşük fiyat"
+              "D": "Değerleme raporundaki en düşük fiyat",
+              "E": "Son 1 yıllık fiyat"
             },
             "dogruCevap": "A",
             "cozum": "SPKn ve II-23.3 m. 10 uyarınca ayrılma hakkı fiyatı kararın açıklanmasından önceki 30 günlük borsa ortalama fiyatıdır."
@@ -1257,26 +1257,26 @@ const splVeritabani = [
             "id": 10,
             "soruMetni": "Sermaye Piyasası Kanunu uyarınca, Ayrılma Hakkı kullanımlarının şirketin katlanamayacağı boyutta mali yük getirmesi ihtimaline karşı Genel Kurul kararına ne eklenebilir?",
             "secenekler": {
-              "A": "Ayrılma hakkı kullanımına bağlı üst sınır tutarı (Ayrılma hakkı maliyeti sınırı aştığında işlemden vazgeçme şartı)",
-              "B": "Ayrılma hakkının tamamen iptal edildiği hükmü",
-              "C": "Ortaklara ceza kesilmesi maddesi",
-              "D": "Borsa kapama şartı",
-              "E": "Vergi muafiyeti maddesi"
+              "A": "Ayrılma hakkının tamamen iptal edildiği hükmü",
+              "B": "Borsa kapama şartı",
+              "C": "Vergi muafiyeti maddesi",
+              "D": "Ayrılma hakkı kullanımına bağlı üst sınır tutarı (Ayrılma hakkı maliyeti sınırı aştığında işlemden vazgeçme şartı)",
+              "E": "Ortaklara ceza kesilmesi maddesi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Genel kurul kararına üst limit konulabilir; ayrılma hakkı talepleri bu limiti aşarsa şirket işlemden vazgeçebilir."
           },
           {
             "id": 11,
             "soruMetni": "Pay Tebliği (VII-128.1) uyarınca, halka açık anonim ortaklıkların bedelli sermaye artırımlarında izahname onaylanması başvurusunda hazırlanan değerleme raporları kime sunulur?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kuruluna sunulur ve KAP'ta ilan edilir.",
-              "B": "Gizli olarak vergi dairesine sunulur.",
-              "C": "Sadece rakiplere verilir.",
+              "A": "Sadece rakiplere verilir.",
+              "B": "Sermaye Piyasası Kuruluna sunulur ve KAP'ta ilan edilir.",
+              "C": "Gizli olarak vergi dairesine sunulur.",
               "D": "Belediyeye onaylatılır.",
               "E": "Sunulma zorunluluğu yoktur."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "VII-128.1 sayılı Tebliğ uyarınca sermaye artırımlarında ilgili raporlar SPK onayına sunulur ve KAP'ta yayımlanır."
           },
           {
@@ -1284,10 +1284,10 @@ const splVeritabani = [
             "soruMetni": "Pay Alım Teklifi Tebliği uyarınca, zorunlu pay alım teklifinden muafiyet sağlanabilecek durumlar arasında aşağıdakilerden hangisi YER ALIR?",
             "secenekler": {
               "A": "Finansal yeniden yapılandırma veya mülkiyetin kredi karşılığı bankaya geçmesi hali",
-              "B": "Sadece ortakların keyfi kararı",
-              "C": "Borsa fiyatının yükselmesi",
-              "D": "Şirketin kâr etmesi",
-              "E": "Genel müdürün değişmesi"
+              "B": "Genel müdürün değişmesi",
+              "C": "Şirketin kâr etmesi",
+              "D": "Sadece ortakların keyfi kararı",
+              "E": "Borsa fiyatının yükselmesi"
             },
             "dogruCevap": "A",
             "cozum": "Tebliğ m. 18 uyarınca bankaların alacak karşılığı pay alması veya finansal yapılandırmalarda SPK teklif zorunluluğundan muafiyet verebilir."
@@ -1296,104 +1296,104 @@ const splVeritabani = [
             "id": 13,
             "soruMetni": "Pay Alım Teklifinde teklif süresi (yatırımcıların kabul süresi) en az ve en fazla kaç iş günüdür?",
             "secenekler": {
-              "A": "En az 10 iş günü, en fazla 20 iş günü",
-              "B": "En az 1 iş günü, en fazla 5 iş günü",
-              "C": "En az 30 iş günü, en fazla 60 iş günü",
+              "A": "En az 15 iş günü, en fazla 45 iş günü",
+              "B": "En az 10 iş günü, en fazla 20 iş günü",
+              "C": "En az 1 iş günü, en fazla 5 iş günü",
               "D": "En az 2 iş günü, en fazla 3 iş günü",
-              "E": "En az 15 iş günü, en fazla 45 iş günü"
+              "E": "En az 30 iş günü, en fazla 60 iş günü"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Tebliğ m. 17 uyarınca pay alım teklif süresi 10 iş gününden az ve 20 iş gününden fazla olamaz."
           },
           {
             "id": 14,
             "soruMetni": "Önemli Nitelikteki İşlemler Tebliği uyarınca, şirketin aktif toplamının en az yüzde kaçını oluşturan varlıkların devredilmesi veya kiraya verilmesi Önemli Nitelikte İşlem sayılır?",
             "secenekler": {
-              "A": "%50 ve üzeri",
-              "B": "%10",
-              "C": "%20",
-              "D": "%30",
-              "E": "%75"
+              "A": "%20",
+              "B": "%30",
+              "C": "%75",
+              "D": "%50 ve üzeri",
+              "E": "%10"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Tebliğ m. 5 uyarınca aktif büyüklüğünün veya sürdürülen faaliyetlerin %50'sini aşan varlık devirleri önemli nitelikte işlemdir."
           },
           {
             "id": 15,
             "soruMetni": "Ortaklıktan çıkarma hakkını kullanan hakim ortağın satılmayan payların bedellerini nereye yatırması ZORUNLUDUR?",
             "secenekler": {
-              "A": "Takasbank nezdinde açılacak blokajlı özel hesaba yatırılır.",
-              "B": "Kendi şahsi banka hesabında tutar.",
-              "C": "Kasa nakdi olarak tutulur.",
+              "A": "Kendi şahsi banka hesabında tutar.",
+              "B": "Takasbank nezdinde açılacak blokajlı özel hesaba yatırılır.",
+              "C": "Vergi dairesine ödenir.",
               "D": "Yurt dışı hesaba aktarılır.",
-              "E": "Vergi dairesine ödenir."
+              "E": "Kasa nakdi olarak tutulur."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Ortaklıktan Çıkarma Tebliği uyarınca pay bedelleri nemalandırılmak üzere Takasbank nezdinde açılan özel hesaba depo edilir."
           },
           {
             "id": 16,
             "soruMetni": "Ayrılma hakkını kullanmak isteyen ortak hakkını en geç kaç gün içinde şirkete bildirmelidir?",
             "secenekler": {
-              "A": "Genel Kurul tarihinden itibaren en geç 6 iş günü içinde",
-              "B": "30 gün sonra",
+              "A": "Aynı gün 1 saat içinde",
+              "B": "Süre sınırı yoktur",
               "C": "1 yıl içinde",
-              "D": "Aynı gün 1 saat içinde",
-              "E": "Süre sınırı yoktur"
+              "D": "30 gün sonra",
+              "E": "Genel Kurul tarihinden itibaren en geç 6 iş günü içinde"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "II-23.3 m. 9 uyarınca ayrılma hakkı kullanımı genel kurul tarihinden itibaren 6 iş günü içinde şirkete bildirilir."
           },
           {
             "id": 17,
             "soruMetni": "Halka açık bir anonim şirketin borsada işlem gören paylarını kendi isteğiyle borsa kotundan çıkarması (Kottan Çıkarma) işleminde hangi tebliğ hükümleri uygulanır?",
             "secenekler": {
-              "A": "Borsa İstanbul Korttan Çıkarma Yönergesi ve Ortaklıktan Çıkarma / Pay Alım Teklifi Tebliği",
-              "B": "İcra İflas Kanunu",
+              "A": "İş Kanunu",
+              "B": "Karayolları Trafik Kanunu",
               "C": "Çevre Kanunu",
-              "D": "İş Kanunu",
-              "E": "Karayolları Trafik Kanunu"
+              "D": "İcra İflas Kanunu",
+              "E": "Borsa İstanbul Korttan Çıkarma Yönergesi ve Ortaklıktan Çıkarma / Pay Alım Teklifi Tebliği"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Kottan çıkarma kararlarında Borsa yönergeleri ile SPK pay alım teklifi ve hakim ortaklık düzenlemeleri esas alınır."
           },
           {
             "id": 18,
             "soruMetni": "Pay Alım Teklifinde gönüllü pay alım teklifi (Gönüllü Çağrı) yapan kişi tekliften vazgeçebilir mi?",
             "secenekler": {
-              "A": "SPK onayı ile ve haklı sebeplerin bulunması halinde teklif süresi başlamadan önce vazgeçebilir.",
-              "B": "Hiçbir şekilde vazgeçemez.",
+              "A": "Sadece borsa kapatılırsa vazgeçer.",
+              "B": "Sadece genel kurul onaylarsa vazgeçer.",
               "C": "İstediği an anında vazgeçer.",
-              "D": "Sadece genel kurul onaylarsa vazgeçer.",
-              "E": "Sadece borsa kapatılırsa vazgeçer."
+              "D": "SPK onayı ile ve haklı sebeplerin bulunması halinde teklif süresi başlamadan önce vazgeçebilir.",
+              "E": "Hiçbir şekilde vazgeçemez."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Gönüllü pay alım teklifinde SPK'nın uygun görmesi şartıyla ve haklı gerekçelerle tekliften cayıma izin verilebilir."
           },
           {
             "id": 19,
             "soruMetni": "Halka açık şirketlerin kayıtlı sermaye tavanı içinde yapacakları tahsisli sermaye artırımlarında rüçhan haklarının kısıtlanması kararı hangi organ tarafından alınır?",
             "secenekler": {
-              "A": "Yönetim Kurulu (Esas sözleşmede yetki verilmişse)",
-              "B": "Ticaret Bakanlığı",
+              "A": "Ticaret Bakanlığı",
+              "B": "Bağımsız Denetçi",
               "C": "Borsa İstanbul",
-              "D": "Maliye Bakanlığı",
-              "E": "Bağımsız Denetçi"
+              "D": "Yönetim Kurulu (Esas sözleşmede yetki verilmişse)",
+              "E": "Maliye Bakanlığı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Kayıtlı sermaye sisteminde esas sözleşme ile yetkilendirilmişse Yönetim Kurulu rüçhan haklarını kısıtlayarak sermaye artırımı yapabilir."
           },
           {
             "id": 20,
             "soruMetni": "Ortaklıktan çıkarma hakkı sürecinde değerleme raporunu hazırlayacak değerleme kuruluşunu kim seçer ve görevlendirir?",
             "secenekler": {
-              "A": "Şirketin Yönetim Kurulu (SPK listesindeki bağımsız değerleme kuruluşları arasından)",
-              "B": "En küçük ortak",
-              "C": "Belediye Encümeni",
-              "D": "Vergi Dairesi Müdürü",
-              "E": "Ticaret Odası Başkanı"
+              "A": "Belediye Encümeni",
+              "B": "Vergi Dairesi Müdürü",
+              "C": "Ticaret Odası Başkanı",
+              "D": "En küçük ortak",
+              "E": "Şirketin Yönetim Kurulu (SPK listesindeki bağımsız değerleme kuruluşları arasından)"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Tebliğ uyarınca değerleme raporu SPK tarafından yetkilendirilmiş bağımsız değerleme kuruluşlarına yönetim kurulunca hazırlattırılır."
           }
         ]
@@ -1407,39 +1407,39 @@ const splVeritabani = [
             "id": 1,
             "soruMetni": "Gayrimenkul Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.1) uyarınca, GYO'ların portföy değerinin en az yüzde kaçının gayrimenkullerden, gayrimenkul projelerinden ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "%70",
-              "B": "%40",
-              "C": "%50",
-              "D": "%60",
-              "E": "%90"
+              "A": "%50",
+              "B": "%70",
+              "C": "%90",
+              "D": "%40",
+              "E": "%60"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "III-48.1 sayılı Tebliğ m. 24 uyarınca GYO portföy değerinin en az %70'inin gayrimenkuller, gayrimenkule dayalı haklar ve gayrimenkul projelerinden oluşması zorunludur."
           },
           {
             "id": 2,
             "soruMetni": "III-48.1 sayılı Tebliğ uyarınca, Gayrimenkul Yatırım Ortaklıkları (GYO) hakkında aşağıdakilerden hangisi YASAKTIR / yapılamaz?",
             "secenekler": {
-              "A": "Sürekli olarak gayrimenkul alım-satımı komisyonculuğu ve inşaat taahhüt işleri yapmak",
-              "B": "Portföylerindeki gayrimenkulleri kiraya vermek",
+              "A": "Borsada işlem gören sermaye piyasası araçlarına yatırım yapmak",
+              "B": "Katılım ve mevduat hesaplarında nakit değerlendirmek",
               "C": "Gayrimenkul projeleri geliştirmek",
-              "D": "Borsada işlem gören sermaye piyasası araçlarına yatırım yapmak",
-              "E": "Katılım ve mevduat hesaplarında nakit değerlendirmek"
+              "D": "Portföylerindeki gayrimenkulleri kiraya vermek",
+              "E": "Sürekli olarak gayrimenkul alım-satımı komisyonculuğu ve inşaat taahhüt işleri yapmak"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "GYO'lar inşaat taahhüt işleri yapamazlar, kendi personeli ve iş makineleriyle inşaat yapamaz ve gayrimenkul alım satım komisyonculuğu yürütemezler."
           },
           {
             "id": 3,
             "soruMetni": "GYO Tebliği (III-48.1) uyarınca, bir GYO'nun alabileceği kısa ve uzun vadeli kredilerin (borçlanma tutarı) toplamı hesap dönemi sonundaki özkaynaklarının en fazla kaç katı olabilir?",
             "secenekler": {
-              "A": "5 Katı",
-              "B": "1 Katı",
-              "C": "2 Katı",
-              "D": "3 Katı",
-              "E": "10 Katı"
+              "A": "10 Katı",
+              "B": "5 Katı",
+              "C": "3 Katı",
+              "D": "1 Katı",
+              "E": "2 Katı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Tebliğ m. 31 uyarınca GYO'ların kullanabilecekleri toplam kredi tutarı son bilançodaki özkaynaklarının 5 katını aşamaz."
           },
           {
@@ -1447,10 +1447,10 @@ const splVeritabani = [
             "soruMetni": "GYO portföyünde yer alan veya portföye alınacak olan gayrimenkullerin değerlemesinin SPK listesinde yer alan gayrimenkul değerleme kuruluşlarına yaptırılması zorunluluğuyla ilgili aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Portföye giren her bir gayrimenkul için alım veya satım öncesinde ve ayrıca her takvim yılı sonunda değerleme yaptırılması zorunludur.",
-              "B": "Sadece 5 yılda bir değerleme yaptırılır.",
+              "B": "Değerleme raporları KAP'ta yayımlanmaz.",
               "C": "Değerleme raporu alınması isteğe bağlıdır.",
-              "D": "Değerleme sadece şirket muhasebecisi tarafından yapılır.",
-              "E": "Değerleme raporları KAP'ta yayımlanmaz."
+              "D": "Sadece 5 yılda bir değerleme yaptırılır.",
+              "E": "Değerleme sadece şirket muhasebecisi tarafından yapılır."
             },
             "dogruCevap": "A",
             "cozum": "Tebliğ m. 34 uyarınca alım, satım, kiralama işlemlerinde ve her yıl sonu itibariyle yetkili değerleme kuruluşundan ekspertiz raporu alınması şarttır."
@@ -1459,52 +1459,52 @@ const splVeritabani = [
             "id": 5,
             "soruMetni": "GYO Tebliği uyarınca, halka açılmak üzere kurulan veya dönüşen GYO'ların ödenmiş sermayelerinin en az yüzde kaçını belirlenen süre içinde halka arz etmeleri zorunludur?",
             "secenekler": {
-              "A": "%25",
-              "B": "%7",
-              "C": "%18",
-              "D": "%30",
-              "E": "%45"
+              "A": "%18",
+              "B": "%45",
+              "C": "%7",
+              "D": "%25",
+              "E": "%30"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Tebliğ m. 11 uyarınca GYO'ların çıkarılmış sermayelerinin en az %25'inin halka arz edilmesi zorunludur."
           },
           {
             "id": 6,
             "soruMetni": "GYO'ların portföylerindeki varlıkların ve gayrimenkul tapu belgelerinin emniyeti için hangi kuruluş nezdinde portföy saklama hizmeti alınması ZORUNLUDUR?",
             "secenekler": {
-              "A": "SPK tarafından yetkilendirilmiş bir Portföy Saklayıcısı Kurum (Bankalar / Takasbank)",
-              "B": "Belediye İmar Müdürlüğü",
-              "C": "Tapu ve Kadastro Genel Müdürlüğü Bölge Kiralama Bürosu",
-              "D": "Şirket Avukatının Şahsi Kasası",
-              "E": "Ticaret Odası"
+              "A": "Tapu ve Kadastro Genel Müdürlüğü Bölge Kiralama Bürosu",
+              "B": "Ticaret Odası",
+              "C": "SPK tarafından yetkilendirilmiş bir Portföy Saklayıcısı Kurum (Bankalar / Takasbank)",
+              "D": "Belediye İmar Müdürlüğü",
+              "E": "Şirket Avukatının Şahsi Kasası"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Tebliğ m. 36 uyarınca GYO varlıkları ve hakları yetkili portföy saklayıcısı nezdinde saklanır ve izlenir."
           },
           {
             "id": 7,
             "soruMetni": "Bir GYO'nun tek bir projeye veya gayrimenkule yapabileceği yatırım tutarı, toplam portföy değerinin en fazla yüzde kaçını oluşturabilir?",
             "secenekler": {
-              "A": "Sınırlama yoktur (Tamamı tek projeye yatırılabilir ancak kısıtlama özel hallerde değerlendirilir).",
-              "B": "%10 ile sınırlıdır.",
+              "A": "%30 ile sınırlıdır.",
+              "B": "Tek projeye yatırım yapılması tamamen yasaktır.",
               "C": "%20 ile sınırlıdır.",
-              "D": "%30 ile sınırlıdır.",
-              "E": "Tek projeye yatırım yapılması tamamen yasaktır."
+              "D": "%10 ile sınırlıdır.",
+              "E": "Sınırlama yoktur (Tamamı tek projeye yatırılabilir ancak kısıtlama özel hallerde değerlendirilir)."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Tebliğde genel GYO'lar için tek bir projeye yatırım oranında bir azami üst sınır kısıtlaması konulmamıştır (müteahhitlik yasağı saklıdır)."
           },
           {
             "id": 8,
             "soruMetni": "Altyapı gayrimenkullerine ve projelerine yatırım yapmak üzere münhasıran kurulan GYO türüne ne ad verilir?",
             "secenekler": {
-              "A": "Münhasıran Altyapı Gayrimenkul Yatırım Ortaklığı",
-              "B": "Sektörel MKYO",
-              "C": "Girişim Sermayesi GYO",
+              "A": "Katılım GYO",
+              "B": "Girişim Sermayesi GYO",
+              "C": "Münhasıran Altyapı Gayrimenkul Yatırım Ortaklığı",
               "D": "Serbest GYO",
-              "E": "Katılım GYO"
+              "E": "Sektörel MKYO"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Altyapı yatırım ve hizmetlerine yatırım yapan GYO'lar 'Altyapı GYO' olarak özel düzenlemeye tabidir."
           },
           {
@@ -1512,10 +1512,10 @@ const splVeritabani = [
             "soruMetni": "GYO Tebliği uyarınca, GYO portföyündeki gayrimenkuller üzerinde üçüncü kişiler lehine ipotek veya rehin tesis edilmesine ilişkin kısıtlama hangisidir?",
             "secenekler": {
               "A": "Portföydeki varlıklar üzerinde yalnızca portföye gayrimenkul alımının veya finansmanının temini amacıyla sınırlı olarak ipotek tesis edilebilir.",
-              "B": "Üçüncü şahısların tüm borçları için serbestçe ipotek verilebilir.",
-              "C": "İpotek konulması tamamen yasaktır.",
-              "D": "Sadece şirket ortaklarının şahsi borçlarına ipotek verilir.",
-              "E": "SPK izni olmadan her türlü ipotek serbesttir."
+              "B": "İpotek konulması tamamen yasaktır.",
+              "C": "SPK izni olmadan her türlü ipotek serbesttir.",
+              "D": "Üçüncü şahısların tüm borçları için serbestçe ipotek verilebilir.",
+              "E": "Sadece şirket ortaklarının şahsi borçlarına ipotek verilir."
             },
             "dogruCevap": "A",
             "cozum": "Tebliğ m. 30 uyarınca GYO varlıkları üzerinde sadece kendi gayrimenkul alımı veya proje finansmanı amacıyla ipotek/rehin tesis edilebilir; 3. kişiler lehine garanti verilemez."
@@ -1524,39 +1524,39 @@ const splVeritabani = [
             "id": 10,
             "soruMetni": "GYO'ların portföy sınırlamalarına aykırılık oluşması durumunda (örneğin gayrimenkul oranının %70'in altına düşmesi), SPK tarafından aykırılığın giderilmesi için verilen uyum süresi azami kaç aydır?",
             "secenekler": {
-              "A": "3 Ay (Gerektiğinde ilave 3 ay uzatılabilir)",
-              "B": "1 Ay",
-              "C": "6 Ay",
-              "D": "12 Ay",
-              "E": "Süre verilmez"
+              "A": "6 Ay",
+              "B": "12 Ay",
+              "C": "1 Ay",
+              "D": "Süre verilmez",
+              "E": "3 Ay (Gerektiğinde ilave 3 ay uzatılabilir)"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Tebliğ m. 39 uyarınca portföy sınırlamalarının ihlali durumunda SPK ihlalin giderilmesi için 3 ay süre verir."
           },
           {
             "id": 11,
             "soruMetni": "Halka açık bir GYO'nun kâr payı (temettü) dağıtım politikasına ilişkin SPK tebliğ esasları uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "GYO'lar kâr dağıtım politikalarını Genel Kurul onayına sunar ve internet sitesinde açıklar.",
-              "B": "GYO'ların kâr dağıtması kanunen yasaktır.",
-              "C": "Kârın tamamı devlete vergi olarak ödenir.",
+              "A": "Kârın tamamı devlete vergi olarak ödenir.",
+              "B": "GYO'lar kâr dağıtım politikalarını Genel Kurul onayına sunar ve internet sitesinde açıklar.",
+              "C": "GYO'ların kâr dağıtması kanunen yasaktır.",
               "D": "Dağıtım sadece hisse senedi olarak yapılır.",
               "E": "Kâr dağıtımı yapılmaz."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "GYO'lar kâr dağıtım ilkelerini belirleyerek Genel Kurulda ortakların onayına sunmakla yükümlüdür."
           },
           {
             "id": 12,
             "soruMetni": "GYO'ların teminat, kefalet ve ipotek verilmesine ilişkin sınırlamalara aykırı hareket etmeleri halinde sorumluluk kimlere aittir?",
             "secenekler": {
-              "A": "İşlemde kararı ve imzası bulunan Yönetim Kurulu Üyeleri",
-              "B": "Sadece tapu memuru",
-              "C": "MKK çalışanları",
+              "A": "MKK çalışanları",
+              "B": "İşlemde kararı ve imzası bulunan Yönetim Kurulu Üyeleri",
+              "C": "Sadece tapu memuru",
               "D": "Borsa güvenlik görevlileri",
               "E": "Gayrimenkulü satan üçüncü şahıs"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Usulsüz kefalet ve garanti işlemlerinde hukuki ve cezai sorumluluk kararı alan yönetim kurulu üyelerine aittir."
           },
           {
@@ -1564,10 +1564,10 @@ const splVeritabani = [
             "soruMetni": "GYO Tebliği uyarınca, henüz tamamlanmamış veya projelendirilmemiş olan arsa ve arazilerin GYO portföyündeki oranı en fazla yüzde kaç olabilir?",
             "secenekler": {
               "A": "%20",
-              "B": "%5",
-              "C": "%10",
-              "D": "%50",
-              "E": "%70"
+              "B": "%10",
+              "C": "%5",
+              "D": "%70",
+              "E": "%50"
             },
             "dogruCevap": "A",
             "cozum": "Tebliğ m. 24 uyarınca üzerine proje geliştirilmeyen arsa ve arazilerin portföy değerine oranı %20'yi aşamaz."
@@ -1576,39 +1576,39 @@ const splVeritabani = [
             "id": 14,
             "soruMetni": "GYO'ların yabancı para cinsinden gayrimenkul yatırımı veya yurt dışı gayrimenkul yatırımı yapma sınır eşiği portföy değerinin en fazla yüzde kaçıdır?",
             "secenekler": {
-              "A": "%49",
-              "B": "%10",
-              "C": "%25",
-              "D": "%75",
-              "E": "%90"
+              "A": "%25",
+              "B": "%90",
+              "C": "%75",
+              "D": "%49",
+              "E": "%10"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Tebliğ m. 24 uyarınca GYO'ların yurt dışında bulunan gayrimenkullere ve gayrimenkul şirketlerine yapacağı yatırım oranı portföyün %49'unu aşamaz."
           },
           {
             "id": 15,
             "soruMetni": "Aşağıdakilerden hangisi GYO'ların esas sözleşmesinde bulunması zorunlu olan hususlardan biri DEĞİLDİR?",
             "secenekler": {
-              "A": "Şirketin tüm çalışanlarının sendika üyesi olma zorunluluğu",
+              "A": "Yönetim kurulu üye sayısı ve seçim şartları",
               "B": "Sermaye ve payların türü",
-              "C": "Yönetim kurulu üye sayısı ve seçim şartları",
-              "D": "Faaliyet konusunun GYO tebliğine uygunluğu",
-              "E": "Kayıtlı sermaye tavanı tutarı"
+              "C": "Şirketin tüm çalışanlarının sendika üyesi olma zorunluluğu",
+              "D": "Kayıtlı sermaye tavanı tutarı",
+              "E": "Faaliyet konusunun GYO tebliğine uygunluğu"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Çalışanların sendika üyeliği gibi hususlar esas sözleşmenin zorunlu GYO unsuru değildir."
           },
           {
             "id": 16,
             "soruMetni": "GYO Tebliği uyarınca, GYO portföyündeki bir gayrimenkulün ekspertiz (değerleme) değerinin altında bir fiyatla satılabilmesi için ne yapılması gerekir?",
             "secenekler": {
-              "A": "Yönetim kurulu kararı alınmalı ve gerekçesi derhal KAP'ta yayımlanmalıdır.",
-              "B": "Satış işlemi yapılamaz.",
+              "A": "Satış işlemi yapılamaz.",
+              "B": "Tapu harcı iptal edilir.",
               "C": "SPK Başkanından özel izin mektubu alınır.",
-              "D": "Genel kurulun oy birliği kararı gerekir.",
-              "E": "Tapu harcı iptal edilir."
+              "D": "Yönetim kurulu kararı alınmalı ve gerekçesi derhal KAP'ta yayımlanmalıdır.",
+              "E": "Genel kurulun oy birliği kararı gerekir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Değerleme tutarının altındaki satışlarda yönetim kurulu karar alarak özel durum açıklaması ile gerekçesini KAP'ta duyurur."
           },
           {
@@ -1616,9 +1616,9 @@ const splVeritabani = [
             "soruMetni": "GYO'ların tasfiye edilmesi veya GYO statüsünden çıkması durumunda SPK'ya başvuru şartıyla ilgili aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Esas sözleşme değişikliği için SPK'dan uygun görüş alınması zorunludur.",
-              "B": "SPK'ya bilgi vermeden doğrudan tasfiye olunur.",
-              "C": "Tasfiye işlemi sadece mahkeme kararıyla durdurulabilir.",
-              "D": "Şirketin tüm malları Hazineye devredilir.",
+              "B": "Tasfiye işlemi sadece mahkeme kararıyla durdurulabilir.",
+              "C": "Şirketin tüm malları Hazineye devredilir.",
+              "D": "SPK'ya bilgi vermeden doğrudan tasfiye olunur.",
               "E": "Dönüşüm imkânı bulunmamaktadır."
             },
             "dogruCevap": "A",
@@ -1628,39 +1628,39 @@ const splVeritabani = [
             "id": 18,
             "soruMetni": "GYO Tebliği uyarınca, ortaklığın sermayesini temsil eden payların devriyle ilgili aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Halka açık payların devri serbesttir; imtiyazlı pay devirleri SPK iznine tabidir.",
+              "A": "Devir işlemleri sadece noterden yapılır.",
               "B": "Borsadaki payların satışı yasaktır.",
-              "C": "Pay devri için tüm ortakların onayı şarttır.",
-              "D": "Paylar devredilemez.",
-              "E": "Devir işlemleri sadece noterden yapılır."
+              "C": "Halka açık payların devri serbesttir; imtiyazlı pay devirleri SPK iznine tabidir.",
+              "D": "Pay devri için tüm ortakların onayı şarttır.",
+              "E": "Paylar devredilemez."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Kuruculara ait veya imtiyazlı pay devirleri SPK iznine tabidir, borsadaki paylar ise serbestçe devredilir."
           },
           {
             "id": 19,
             "soruMetni": "GYO'ların yıllık faaliyet raporlarında Kurumsal Yönetim Uyum Raporunun yer alması ZORUNLU mudur?",
             "secenekler": {
-              "A": "Evet, kurumsal yönetim ilke kararlarına uyum ve açıklama raporu faaliyet raporunda yer almalıdır.",
+              "A": "Sadece ortaklar isterse yazılır.",
               "B": "Hayır, GYO'lar kurumsal yönetimden muaftır.",
               "C": "Sadece 10 yılda bir eklenir.",
               "D": "İsteğe bağlıdır.",
-              "E": "Sadece ortaklar isterse yazılır."
+              "E": "Evet, kurumsal yönetim ilke kararlarına uyum ve açıklama raporu faaliyet raporunda yer almalıdır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Halka açık tüm GYO'lar Kurumsal Yönetim İlkelerine uymak ve faaliyet raporunda uyum raporu yayımlamakla yükümlüdür."
           },
           {
             "id": 20,
             "soruMetni": "GYO'ların iş yapacağı bağımsız değerleme kuruluşunun seçimi kim tarafından yapılır?",
             "secenekler": {
-              "A": "Yönetim Kurulu tarafından her yılın ilk ayı içinde kararlaştırılır ve KAP'ta ilan edilir.",
-              "B": "Genel Müdür tarafından şifahen seçilir.",
-              "C": "Belediye tarafından atanır.",
-              "D": "Kiracılar tarafından seçilir.",
-              "E": "Borsa güvenlik görevlileri seçer."
+              "A": "Genel Müdür tarafından şifahen seçilir.",
+              "B": "Belediye tarafından atanır.",
+              "C": "Borsa güvenlik görevlileri seçer.",
+              "D": "Yönetim Kurulu tarafından her yılın ilk ayı içinde kararlaştırılır ve KAP'ta ilan edilir.",
+              "E": "Kiracılar tarafından seçilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Değerleme kuruluşu seçimi her yıl ocak ayı içinde yönetim kurulunca yapılıp KAP'ta duyurulur."
           }
         ]
@@ -1674,78 +1674,78 @@ const splVeritabani = [
             "id": 1,
             "soruMetni": "Menkul Kıymet Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.5) uyarınca, MKYO'ların temel faaliyet konusu aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Sermaye piyasası araçları ile kıymetli madenlerden oluşan portföyü işletmek",
-              "B": "Doğrudan gayrimenkul alıp kiraya vermek",
+              "A": "İthalat ve ihracat yapmak",
+              "B": "Mevduat toplamak ve kredi vermek",
               "C": "Müteahhitlik ve inşaat işleri yapmak",
-              "D": "Mevduat toplamak ve kredi vermek",
-              "E": "İthalat ve ihracat yapmak"
+              "D": "Doğrudan gayrimenkul alıp kiraya vermek",
+              "E": "Sermaye piyasası araçları ile kıymetli madenlerden oluşan portföyü işletmek"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "III-48.5 m. 4 uyarınca MKYO'ların faaliyet konusu sermaye piyasası araçları, ters repo, nakit ve kıymetli maden portföyünü kolektif olarak işletmektir."
           },
           {
             "id": 2,
             "soruMetni": "MKYO Tebliği (III-48.5) uyarınca, MKYO'ların tek bir ihraççı ortaklığın sermaye piyasası araçlarına yatırabileceği tutar portföy değerinin en fazla yüzde kaçı olabilir?",
             "secenekler": {
-              "A": "%15",
-              "B": "%5",
-              "C": "%10",
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
               "D": "%20",
               "E": "%40"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Tebliğ m. 22 uyarınca MKYO'lar tek bir ortaklığın ihraç ettiği sermaye piyasası araçlarına portföy değerinin en fazla %15'ini yatırabilir."
           },
           {
             "id": 3,
             "soruMetni": "MKYO Tebliği uyarınca, MKYO'ların tek bir bankada değerlendirebileceği mevduat veya katılım hesabı tutarı portföy değerinin azami yüzde kaçıdır?",
             "secenekler": {
-              "A": "%15",
-              "B": "%8",
-              "C": "%12",
-              "D": "%25",
-              "E": "%35"
+              "A": "%8",
+              "B": "%12",
+              "C": "%15",
+              "D": "%35",
+              "E": "%25"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Tebliğ m. 22 uyarınca tek bir bankadaki mevduat/katılım hesabı portföy değerinin %15'ini geçemez."
           },
           {
             "id": 4,
             "soruMetni": "MKYO'ların kredi almak suretiyle borçlanabilecekleri tutarın azami sınırı hesap dönemindeki özkaynaklarının yüzde kaçını aşamaz?",
             "secenekler": {
-              "A": "%20",
-              "B": "%50",
-              "C": "%100",
+              "A": "%100",
+              "B": "%5",
+              "C": "%20",
               "D": "%200",
-              "E": "%5"
+              "E": "%50"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Tebliğ m. 25 uyarınca MKYO'ların alabileceği kredilerin toplamı özkaynaklarının %20'sini aşamaz."
           },
           {
             "id": 5,
             "soruMetni": "MKYO'ların portföy değerini ve net aktif değerini hesaplama ve ilan etme sıklığı aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Her iş günü (günlük olarak) hesaplanır ve ilan edilir.",
-              "B": "Haftada bir kez hesaplanır.",
-              "C": "Ayda bir kez hesaplanır.",
-              "D": "Yılda bir kez hesaplanır.",
-              "E": "Hesaplama yapılmaz."
+              "A": "Hesaplama yapılmaz.",
+              "B": "Ayda bir kez hesaplanır.",
+              "C": "Yılda bir kez hesaplanır.",
+              "D": "Haftada bir kez hesaplanır.",
+              "E": "Her iş günü (günlük olarak) hesaplanır ve ilan edilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Tebliğ m. 28 uyarınca MKYO'lar her iş günü itibariyle portföy değerini ve birim pay değerini hesaplamakla yükümlüdür."
           },
           {
             "id": 6,
             "soruMetni": "III-48.5 sayılı Tebliğ uyarınca, MKYO'ların çıkarılmış sermayelerinin en az yüzde kaçını belirlenen süre içinde halka arz etmeleri zorunludur?",
             "secenekler": {
-              "A": "%25",
-              "B": "%8",
-              "C": "%14",
-              "D": "%22",
+              "A": "%14",
+              "B": "%22",
+              "C": "%8",
+              "D": "%25",
               "E": "%38"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Tebliğ m. 11 uyarınca MKYO'ların çıkarılmış sermayelerinin en az %25'inin halka arz edilmesi zorunludur."
           },
           {
@@ -1755,8 +1755,8 @@ const splVeritabani = [
               "A": "Borsa kanalından yapılması zorunludur (Yatırım fonu katılma payları hariç).",
               "B": "Tezgahüstü serbest piyasadan yapılır.",
               "C": "Yurt dışı karaborsadan yapılır.",
-              "D": "Şirket merkezinde nakit satılır.",
-              "E": "İlan panosundan satılır."
+              "D": "İlan panosundan satılır.",
+              "E": "Şirket merkezinde nakit satılır."
             },
             "dogruCevap": "A",
             "cozum": "Tebliğ m. 21 uyarınca alım satımların borsa kanalıyla yapılması esastır."
@@ -1765,39 +1765,39 @@ const splVeritabani = [
             "id": 8,
             "soruMetni": "Aşağıdakilerden hangisi MKYO'ların yapamayacağı iş ve işlemlerden biridir?",
             "secenekler": {
-              "A": "Açığa satış yapmak, ödünç menkul kıymet almak ve vermek hariç portföyünü teminat göstermek",
-              "B": "Devlet iç borçlanma senedi almak",
-              "C": "BİST payları almak",
-              "D": "Ters repo yapmak",
-              "E": "Yatırım fonu katılma payı almak"
+              "A": "BİST payları almak",
+              "B": "Açığa satış yapmak, ödünç menkul kıymet almak ve vermek hariç portföyünü teminat göstermek",
+              "C": "Devlet iç borçlanma senedi almak",
+              "D": "Yatırım fonu katılma payı almak",
+              "E": "Ters repo yapmak"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "MKYO'lar mevzuatta izin verilen haller dışında portföylerindeki varlıkları teminat gösteremez veya rehnedemezler."
           },
           {
             "id": 9,
             "soruMetni": "MKYO'ların portföy yönetim hizmetini dışarıdan bir Portföy Yönetim Şirketinden (PYŞ) alması durumunda imzalanan sözleşmeye ne ad verilir?",
             "secenekler": {
-              "A": "Portföy Yönetim Sözleşmesi",
-              "B": "Franchise Sözleşmesi",
+              "A": "Acentelik Sözleşmesi",
+              "B": "Gizlilik Sözleşmesi",
               "C": "Kira Sözleşmesi",
-              "D": "Acentelik Sözleşmesi",
-              "E": "Gizlilik Sözleşmesi"
+              "D": "Franchise Sözleşmesi",
+              "E": "Portföy Yönetim Sözleşmesi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "MKYO'lar portföylerini bir PYŞ'ye yönetdirebilir ve bu kapsamda Portföy Yönetim Sözleşmesi akdedilir."
           },
           {
             "id": 10,
             "soruMetni": "MKYO'ların sermaye artırımlarında rüçhan haklarının kısıtlanması veya primli pay ihracı yapılması kimin onayına tabidir?",
             "secenekler": {
-              "A": "SPK Onayı ve Genel Kurul Kararı",
-              "B": "Sadece Şirket Genel Müdürünün kararı",
-              "C": "Borsa Güvenlik Amirinin onayı",
-              "D": "Merkez Bankası izni",
-              "E": "Valilik oluru"
+              "A": "Sadece Şirket Genel Müdürünün kararı",
+              "B": "SPK Onayı ve Genel Kurul Kararı",
+              "C": "Merkez Bankası izni",
+              "D": "Valilik oluru",
+              "E": "Borsa Güvenlik Amirinin onayı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Sermaye artırımlarında rüçhan hakkı kısıtlaması esas sözleşme ve SPK onayına tabidir."
           },
           {
@@ -1805,10 +1805,10 @@ const splVeritabani = [
             "soruMetni": "MKYO'ların halka arz edilen paylarının borsa pazarında işlem görmesi zorunlu olan borsa işleticisi kimdir?",
             "secenekler": {
               "A": "Borsa İstanbul A.Ş.",
-              "B": "Londra Borsası",
-              "C": "Nasdaq",
-              "D": "Tokyo Borsası",
-              "E": "Frankfurt Borsası"
+              "B": "Nasdaq",
+              "C": "Londra Borsası",
+              "D": "Frankfurt Borsası",
+              "E": "Tokyo Borsası"
             },
             "dogruCevap": "A",
             "cozum": "Türkiye'de kurulan MKYO paylarının Borsa İstanbul nezdinde kote olması ve işlem görmesi şarttır."
@@ -1817,39 +1817,39 @@ const splVeritabani = [
             "id": 12,
             "soruMetni": "MKYO portföyündeki varlıkların saklanması hangi kuruluş nezdinde müşteri/ortaklık bazında yürütülür?",
             "secenekler": {
-              "A": "Portföy Saklayıcısı Kurum (Takasbank / Yetkili Bankalar)",
+              "A": "İçişleri Bakanlığı",
               "B": "Şirket Yönetim Kurulu Başkanının Kasası",
-              "C": "İçişleri Bakanlığı",
-              "D": "İl Emniyet Müdürlüğü",
-              "E": "Noterlik"
+              "C": "Noterlik",
+              "D": "Portföy Saklayıcısı Kurum (Takasbank / Yetkili Bankalar)",
+              "E": "İl Emniyet Müdürlüğü"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Tebliğ uyarınca MKYO portföy varlıkları yetkili portföy saklayıcısı nezdinde tutulur."
           },
           {
             "id": 13,
             "soruMetni": "MKYO'ların portföy değerine ilişkin oran sınırlamalarını ihlal etmesi durumunda SPK'nın uyum için tanıdığı süre azami kaç aydır?",
             "secenekler": {
-              "A": "3 Ay (Yasal İnceleme Süreci Dahil)",
-              "B": "15 Gün",
+              "A": "1 Yıl",
+              "B": "9 Ay",
               "C": "2 Ay",
-              "D": "9 Ay",
-              "E": "1 Yıl"
+              "D": "3 Ay (Yasal İnceleme Süreci Dahil)",
+              "E": "15 Gün"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Portföy kısıtlaması ihlallerinde SPK tarafından uyum sağlanması için 3 ay süre verilir."
           },
           {
             "id": 14,
             "soruMetni": "Aşağıdakilerden hangisi MKYO'ların kurucuları ve ortaklarında aranan şartlardan biri DEĞİLDİR?",
             "secenekler": {
-              "A": "Milletvekili olma zorunluluğu",
+              "A": "Tasfiyeye tabi tutulan kurumlarda kontrol sahibi olmaması",
               "B": "Müflis olmaması ve mali güce sahip olması",
-              "C": "Sermaye piyasası suçlarından hüküm giymemiş olması",
-              "D": "Gerekli dürüstlük ve itibara sahip olması",
-              "E": "Tasfiyeye tabi tutulan kurumlarda kontrol sahibi olmaması"
+              "C": "Milletvekili olma zorunluluğu",
+              "D": "Sermaye piyasası suçlarından hüküm giymemiş olması",
+              "E": "Gerekli dürüstlük ve itibara sahip olması"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Milletvekili olma gibi bir kurucu şartı sermaye piyasası mevzuatında yer almaz."
           },
           {
@@ -1869,52 +1869,52 @@ const splVeritabani = [
             "id": 16,
             "soruMetni": "MKYO'ların tasfiye kararı alması veya başka bir şirkete dönüşmesi durumunda SPK onayının alınması ZORUNLU mudur?",
             "secenekler": {
-              "A": "Evet, SPK'dan uygun görüş ve onay alınması zorunludur.",
-              "B": "Hayır, onay alınmaz.",
-              "C": "Sadece belediyeye bildirilir.",
-              "D": "Gizli tutulur.",
-              "E": "Borsa kararı yeterlidir."
+              "A": "Borsa kararı yeterlidir.",
+              "B": "Sadece belediyeye bildirilir.",
+              "C": "Gizli tutulur.",
+              "D": "Evet, SPK'dan uygun görüş ve onay alınması zorunludur.",
+              "E": "Hayır, onay alınmaz."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Statü değişikliği ve tasfiye kararları SPK onayına tabidir."
           },
           {
             "id": 17,
             "soruMetni": "MKYO'larda yönetim kurulunda yer alan üyelerin çoğunluğunun hangi niteliklere sahip olması şarttır?",
             "secenekler": {
-              "A": "Mesleki tecrübeye sahip ve lisanslı kişilerden oluşması",
-              "B": "Sadece hukuk fakültesi mezunu olması",
-              "C": "Sadece yabancı uyruklu olması",
-              "D": "Şirket çalışanı olmaması",
-              "E": "Tıp doktoru olması"
+              "A": "Şirket çalışanı olmaması",
+              "B": "Sadece yabancı uyruklu olması",
+              "C": "Sadece hukuk fakültesi mezunu olması",
+              "D": "Tıp doktoru olması",
+              "E": "Mesleki tecrübeye sahip ve lisanslı kişilerden oluşması"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Yönetim kurulu üyelerinin sermaye piyasasında tecrübeli ve dürüstlük şartlarını taşıması şarttır."
           },
           {
             "id": 18,
             "soruMetni": "MKYO portföyündeki varlıkların değerlemesinde borsada işlem gören paylar için hangi fiyat esas alınır?",
             "secenekler": {
-              "A": "Değerleme günündeki borsa kapanış veya ağırlıklı ortalama fiyatı",
-              "B": "Nominal fiyat (1 TL)",
-              "C": "Alış maliyet fiyatı",
-              "D": "Gelecek yıl tahmini fiyatı",
-              "E": "En yüksek tarihi fiyat"
+              "A": "Gelecek yıl tahmini fiyatı",
+              "B": "Değerleme günündeki borsa kapanış veya ağırlıklı ortalama fiyatı",
+              "C": "Nominal fiyat (1 TL)",
+              "D": "En yüksek tarihi fiyat",
+              "E": "Alış maliyet fiyatı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Borsada işlem gören varlıklar değerleme günündeki borsa kapanış/ortalama fiyatı ile değerlenir."
           },
           {
             "id": 19,
             "soruMetni": "MKYO'ların yıllık net dağıtılabilir kârlarının ortaklara dağıtılması hususunda kararı veren organ hangisidir?",
             "secenekler": {
-              "A": "Genel Kurul",
-              "B": "SPK Başkanı",
-              "C": "Portföy Yöneticisi",
-              "D": "Borsa Direktörü",
+              "A": "Borsa Direktörü",
+              "B": "Genel Kurul",
+              "C": "SPK Başkanı",
+              "D": "Portföy Yöneticisi",
               "E": "Milli Piyango Şube Müdürü"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Kâr dağıtım kararı yönetim kurulunun teklifi üzerine Genel Kurul tarafından alınır."
           },
           {
@@ -1922,10 +1922,10 @@ const splVeritabani = [
             "soruMetni": "MKYO'ların bilançolarında yer alan yedek akçelerin kullanımı TTK ve SPK hükümleri uyarınca nereye tabidir?",
             "secenekler": {
               "A": "Kanuni yedek akçeler ayrıldıktan sonra kalan kısım Genel Kurul kararıyla dağıtılabilir veya sermayeye eklenebilir.",
-              "B": "Yedek akçe ayrılması yasaktır.",
+              "B": "Sadece yönetim kuruluna prim dağıtılır.",
               "C": "Yedek akçe devlete aktarılır.",
               "D": "Yedek akçeler tamamen harcanır.",
-              "E": "Sadece yönetim kuruluna prim dağıtılır."
+              "E": "Yedek akçe ayrılması yasaktır."
             },
             "dogruCevap": "A",
             "cozum": "TTK m. 519 ve SPK kuralları gereği yedek akçe ayırımları yasal esaslara tabidir."
@@ -1941,13 +1941,13 @@ const splVeritabani = [
             "id": 1,
             "soruMetni": "Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca, PYŞ'lerin ana faaliyet konusu aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Kolektif Portföy Yöneticiliği (Yatırım fonları ve yatırım ortaklıklarının portföylerini yönetmek)",
-              "B": "Gayrimenkul müteahhitliği",
-              "C": "Mevduat kabulü ve kredi kullandırma",
-              "D": "Döviz bürosu işletmeciliği",
-              "E": "Sigorta acenteliği"
+              "A": "Gayrimenkul müteahhitliği",
+              "B": "Sigorta acenteliği",
+              "C": "Kolektif Portföy Yöneticiliği (Yatırım fonları ve yatırım ortaklıklarının portföylerini yönetmek)",
+              "D": "Mevduat kabulü ve kredi kullandırma",
+              "E": "Döviz bürosu işletmeciliği"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "III-55.1 m. 4 uyarınca PYŞ'lerin ana faaliyeti yatırım fonları ve yatırım ortaklıklarının portföylerinin yönetilmesidir (Kolektif Portföy Yöneticiliği)."
           },
           {
@@ -1955,10 +1955,10 @@ const splVeritabani = [
             "soruMetni": "III-55.1 sayılı Tebliğ uyarınca, PYŞ'lerin ana faaliyet konusuna ek olarak sunabileceği yan hizmetler (yan faaliyetler) arasında aşağıdakilerden hangisi YER ALIR?",
             "secenekler": {
               "A": "Bireysel portföy yöneticiliği, yatırım danışmanlığı ve katılma payı alım satımına aracılık",
-              "B": "Kredi kartı çıkarma",
+              "B": "Factoring işlemleri",
               "C": "Banka şubesi açma",
-              "D": "Mali müşavirlik bürosu işletme",
-              "E": "Factoring işlemleri"
+              "D": "Kredi kartı çıkarma",
+              "E": "Mali müşavirlik bürosu işletme"
             },
             "dogruCevap": "A",
             "cozum": "PYŞ'ler kolektif portföy yöneticiliğinin yanı sıra bireysel portföy yöneticiliği ve yatırım danışmanlığı hizmeti de verebilirler."
@@ -1967,13 +1967,13 @@ const splVeritabani = [
             "id": 3,
             "soruMetni": "PYŞ Tebliği uyarınca, portföy yönetim şirketinde görev yapacak portföy yöneticilerinin haiz olması gereken mesleki lisans belgesi aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "SPL Portföy Yöneticiliği Lisansı veya SPL Düzey 3 Lisansı",
-              "B": "Sadece Düzey 1 Lisansı",
-              "C": "Gayrimenkul Değerleme Lisansı",
-              "D": "Türev Araçlar Lisansı",
-              "E": "Kredi Derecelendirme Lisansı"
+              "A": "Türev Araçlar Lisansı",
+              "B": "Kredi Derecelendirme Lisansı",
+              "C": "Sadece Düzey 1 Lisansı",
+              "D": "SPL Portföy Yöneticiliği Lisansı veya SPL Düzey 3 Lisansı",
+              "E": "Gayrimenkul Değerleme Lisansı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Tebliğ m. 15 uyarınca portföy yöneticilerinin SPL Portföy Yöneticiliği veya Düzey 3 lisansına sahip olması şarttır."
           },
           {
@@ -1981,10 +1981,10 @@ const splVeritabani = [
             "soruMetni": "PYŞ'lerin yönettikleri portföylerdeki varlıkları kendi özvarlıklarından ayırma prensibiyle ilgili aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
               "A": "Fon ve müşterilere ait varlıklar PYŞ'nin malvarlığından ayrıdır; PYŞ borçları nedeniyle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
-              "B": "PYŞ borçları için müşteri varlıklarına el konulabilir.",
-              "C": "Müşteri varlıkları PYŞ bilançosunda gösterilir.",
-              "D": "PYŞ iflas ederse müşteri parası yok olur.",
-              "E": "Müşteri varlıkları ortakların kişisel hesabına aktarılır."
+              "B": "Müşteri varlıkları PYŞ bilançosunda gösterilir.",
+              "C": "PYŞ iflas ederse müşteri parası yok olur.",
+              "D": "Müşteri varlıkları ortakların kişisel hesabına aktarılır.",
+              "E": "PYŞ borçları için müşteri varlıklarına el konulabilir."
             },
             "dogruCevap": "A",
             "cozum": "SPKn m. 56 uyarınca yönetilen portföyler tamamen bağımsız olup şirket borçları nedeniyle haczedilemez."
@@ -1993,78 +1993,78 @@ const splVeritabani = [
             "id": 5,
             "soruMetni": "PYŞ'lerin kuruluş ve faaliyet izni alabilmesi için SPK tarafından belirlenen asgari ödenmiş sermaye yükümlülüğünün ne şekilde ödenmesi şarttır?",
             "secenekler": {
-              "A": "Nakit olarak ve her türlü muvazaadan arı olarak ödenmesi",
-              "B": "Arsa veya gayrimenkul olarak ödenmesi",
-              "C": "Senet karşılığı ödenmesi",
-              "D": "10 yıl sonra ödenmesi",
-              "E": "Çekle taksitlendirilmesi"
+              "A": "Senet karşılığı ödenmesi",
+              "B": "10 yıl sonra ödenmesi",
+              "C": "Arsa veya gayrimenkul olarak ödenmesi",
+              "D": "Çekle taksitlendirilmesi",
+              "E": "Nakit olarak ve her türlü muvazaadan arı olarak ödenmesi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "PYŞ başlangıç sermayesinin tamamının nakden ve muvazaasız ödenmiş olması zorunludur."
           },
           {
             "id": 6,
             "soruMetni": "PYŞ nezdinde iç denetim, risk yönetim ve denetim sistemlerinin kurulması kimin sorumluluğundadır?",
             "secenekler": {
-              "A": "PYŞ Yönetim Kurulu",
-              "B": "Portföy Saklayıcısı Kurum",
-              "C": "Borsa İstanbul",
-              "D": "Dışarıdaki güvenlik firması",
-              "E": "Stajyer çalışanlar"
+              "A": "Dışarıdaki güvenlik firması",
+              "B": "PYŞ Yönetim Kurulu",
+              "C": "Stajyer çalışanlar",
+              "D": "Borsa İstanbul",
+              "E": "Portföy Saklayıcısı Kurum"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Tebliğ m. 19 uyarınca iç denetim ve risk yönetim sistemlerinin kurulması ve yürütülmesi Yönetim Kurulunun sorumluluğundadır."
           },
           {
             "id": 7,
             "soruMetni": "PYŞ'lerin yönettikleri portföyler için aracı kurumlara ödedikleri komisyon ve giderlerle ilgili aşağıdakilerden hangisi YASAKTIR?",
             "secenekler": {
-              "A": "Portföy işlemlerinden dolayı PYŞ yöneticilerine veya şirket lehine örtülü komisyon, iskonto ve menfaat sağlanması",
+              "A": "Saklama ücreti ödenmesi",
               "B": "Makul düzeyde borsa komisyonu ödenmesi",
-              "C": "Saklama ücreti ödenmesi",
+              "C": "Portföy işlemlerinden dolayı PYŞ yöneticilerine veya şirket lehine örtülü komisyon, iskonto ve menfaat sağlanması",
               "D": "İzahnamede yazan kurallara uyulması",
               "E": "Takas masraflarının karşılanması"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Tebliğ m. 27 uyarınca PYŞ'ler yaptıkları işlemlerden dolayı kendi lehlerine komisyon ve iskonto sağlayamazlar."
           },
           {
             "id": 8,
             "soruMetni": "Aşağıdakilerden hangisi PYŞ yönetim kurulu üyelerinde aranan şartlardan biridir?",
             "secenekler": {
-              "A": "Müflis olmaması, sermaye piyasasında tecrübeli ve dürüstlük şartını taşıması",
+              "A": "En az 80 yaşında olması",
               "B": "Sadece yabancı dilde eğitim almış olması",
               "C": "Spor kulübü başkanı olması",
               "D": "Sadece gayrimenkul sahibi olması",
-              "E": "En az 80 yaşında olması"
+              "E": "Müflis olmaması, sermaye piyasasında tecrübeli ve dürüstlük şartını taşıması"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Tebliğ m. 12 uyarınca yönetim kurulu üyelerinin mali güç, mesleki itibar ve müflis olmama şartlarını taşıması zorunludur."
           },
           {
             "id": 9,
             "soruMetni": "PYŞ'lerin kurabileceği Girişim Sermayesi Portföy Yönetim Şirketi veya Gayrimenkul Portföy Yönetim Şirketi gibi münhasıran kurulan şirket türlerinde asgari sermaye şartı nasıl uygulanır?",
             "secenekler": {
-              "A": "Münhasıran GSYF veya GYF yöneten şirketler için indirimli asgari sermaye şartı uygulanır.",
-              "B": "Sermaye şartı aranmaz.",
-              "C": "Sermaye 10 katına çıkarılır.",
-              "D": "Sadece Euro cinsinden ödenir.",
-              "E": "Sermaye Hazinece karşılanır."
+              "A": "Sermaye şartı aranmaz.",
+              "B": "Sermaye Hazinece karşılanır.",
+              "C": "Sadece Euro cinsinden ödenir.",
+              "D": "Münhasıran GSYF veya GYF yöneten şirketler için indirimli asgari sermaye şartı uygulanır.",
+              "E": "Sermaye 10 katına çıkarılır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Tebliğ düzenlemelerinde münhasıran gayrimenkul veya girişim fonu yöneten şirketler için özel sermaye tutarları belirlenmiştir."
           },
           {
             "id": 10,
             "soruMetni": "PYŞ'lerin müşteri portföylerini yönetirken müşterinin risk ve getiri tercihlerini tespit etmek amacıyla uyguladıkları test hangisidir?",
             "secenekler": {
-              "A": "Uygunluk Testi ve Yerindelik Testi",
+              "A": "Kişilik Envanteri Testi",
               "B": "IQ Testi",
-              "C": "Psikoteknik Değerlendirme Testi",
-              "D": "Kişilik Envanteri Testi",
-              "E": "Sürücü Ehliyet Testi"
+              "C": "Sürücü Ehliyet Testi",
+              "D": "Uygunluk Testi ve Yerindelik Testi",
+              "E": "Psikoteknik Değerlendirme Testi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Müşteri sınıflandırması ve portföy yönetiminde Uygunluk ve Yerindelik (Suitability) testlerinin uygulanması şarttır."
           },
           {
@@ -2074,8 +2074,8 @@ const splVeritabani = [
               "A": "Fonların yönetimi SPK tarafından başka bir PYŞ'ye devredilir veya fonlar tasfiye edilir.",
               "B": "Fonlar yok sayılır.",
               "C": "Fon parası devlet hazinesine kalır.",
-              "D": "Fonlar şirket ortaklarına dağıtılır.",
-              "E": "İşlemler süresiz durur."
+              "D": "İşlemler süresiz durur.",
+              "E": "Fonlar şirket ortaklarına dağıtılır."
             },
             "dogruCevap": "A",
             "cozum": "Tebliğ m. 35 uyarınca izin iptalinde yatırımların korunması için fonlar başka bir yetkili PYŞ'ye devredilir."
@@ -2086,9 +2086,9 @@ const splVeritabani = [
             "secenekler": {
               "A": "SPK tarafından belirlenen süre içinde (genellikle 3 ay) özkaynak açığının kapatılması istenir.",
               "B": "Derhal mahkemeye verilir.",
-              "C": "Şirkete el konulur.",
-              "D": "Süre verilmez.",
-              "E": "Cezai işlem yapılmaz."
+              "C": "Cezai işlem yapılmaz.",
+              "D": "Şirkete el konulur.",
+              "E": "Süre verilmez."
             },
             "dogruCevap": "A",
             "cozum": "Sermaye yeterliliği eksikliğinde kuruma eksikliği tamamlaması için süre tanınır."
@@ -2097,104 +2097,104 @@ const splVeritabani = [
             "id": 13,
             "soruMetni": "PYŞ'lerin reklam ve ilanlarında yatırımcılara garanti kâr veya getiri taahhüdünde bulunması yasak mıdır?",
             "secenekler": {
-              "A": "Evet, kesin kâr veya getiri taahhüdünde bulunulması KESİNLİKLE YASAKTIR.",
-              "B": "Hayır, istenilen getiri garanti edilebilir.",
-              "C": "Sadece sözlü garanti verilebilir.",
+              "A": "Hayır, istenilen getiri garanti edilebilir.",
+              "B": "Sadece sözlü garanti verilebilir.",
+              "C": "Evet, kesin kâr veya getiri taahhüdünde bulunulması KESİNLİKLE YASAKTIR.",
               "D": "Reklam yapılması yasaktır.",
               "E": "Sadece yurt dışında garanti verilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Tebliğ m. 29 uyarınca yatırımcılara garanti getiri taahhüt edilmesi ve yanıltıcı reklam yapılması kesinlikle yasaktır."
           },
           {
             "id": 14,
             "soruMetni": "PYŞ genel müdürünün mesleki tecrübe şartı en az kaç yıl olmalıdır?",
             "secenekler": {
-              "A": "Finansal piyasalar alanında en az 7 yıl tecrübeli olması",
-              "B": "1 yıl tecrübe",
-              "C": "Tecrübe şartı yoktur",
-              "D": "20 yıl tecrübe",
-              "E": "Sadece üniversite mezunu olması yeterlidir"
+              "A": "Sadece üniversite mezunu olması yeterlidir",
+              "B": "Finansal piyasalar alanında en az 7 yıl tecrübeli olması",
+              "C": "1 yıl tecrübe",
+              "D": "Tecrübe şartı yoktur",
+              "E": "20 yıl tecrübe"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "PYŞ genel müdürlerinin sermaye piyasalarında en az 7 yıllık mesleki tecrübeye sahip olması şarttır."
           },
           {
             "id": 15,
             "soruMetni": "PYŞ nezdinde çalışan bir portföy yöneticisinin kendi adına veya yakınları adına yaptığı şahsi menkul kıymet işlemlerini şirkete bildirme süresi nedir?",
             "secenekler": {
-              "A": "Şahsi işlemler mevzuatta belirlenen kurallar çerçevesinde iç denetim birimine ve şirkete bildirilir.",
-              "B": "Bildirim yapılması yasaktır.",
+              "A": "Bildirim yapılması yasaktır.",
+              "B": "Sadece gazete ilanı verilir.",
               "C": "10 yıl sonra bildirilir.",
-              "D": "Sadece gazete ilanı verilir.",
-              "E": "Gizli tutulur."
+              "D": "Gizli tutulur.",
+              "E": "Şahsi işlemler mevzuatta belirlenen kurallar çerçevesinde iç denetim birimine ve şirkete bildirilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Çıkar çatışmalarını önlemek amacıyla çalışanların şahsi portföy işlemleri kayıt altına alınır ve iç denetime bildirilir."
           },
           {
             "id": 16,
             "soruMetni": "PYŞ'lerin şube açması veya yurt dışında temsilcilik kurması kimin iznine tabidir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurulu (SPK)",
-              "B": "İçişleri Bakanlığı",
-              "C": "Belediye Başkanlığı",
-              "D": "Dışişleri Bakanlığı",
-              "E": "Borsa İstanbul"
+              "A": "İçişleri Bakanlığı",
+              "B": "Sermaye Piyasası Kurulu (SPK)",
+              "C": "Borsa İstanbul",
+              "D": "Belediye Başkanlığı",
+              "E": "Dışişleri Bakanlığı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Şube açılışları ve yurt dışı temsilcilikler SPK onay ve bildirimine tabidir."
           },
           {
             "id": 17,
             "soruMetni": "PYŞ tarafından yönetilen fonların varlıklarının bağımsız portföy saklayıcısı nezdinde saklanması yükümlülüğü hangi ilkenin gereğidir?",
             "secenekler": {
-              "A": "Malvarlığının Korunması ve Çıkar Çatışmalarının Önlenmesi İlkesi",
-              "B": "Rekabet İlkesi",
-              "C": "Kâr Artırma İlkesi",
+              "A": "Kâr Artırma İlkesi",
+              "B": "Malvarlığının Korunması ve Çıkar Çatışmalarının Önlenmesi İlkesi",
+              "C": "Rekabet İlkesi",
               "D": "Vergi Muafiyeti İlkesi",
               "E": "Serbest Piyasa İlkesi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Saklama işlevinin yönetim işlevinden ayrılması müşteri asset güvenliğini garanti eder."
           },
           {
             "id": 18,
             "soruMetni": "PYŞ ortaklık yapısındaki pay devirlerinde hangi oranların aşılması SPK iznine tabidir?",
             "secenekler": {
-              "A": "Sermayenin %10, %20, %33, %50'sini aşan veya altına düşen pay devirleri",
-              "B": "Her türlü pay devri serbesttir.",
-              "C": "%1'lik pay devri",
-              "D": "Sadece %100 pay devri",
-              "E": "Pay devri tamamen yasaktır."
+              "A": "Pay devri tamamen yasaktır.",
+              "B": "%1'lik pay devri",
+              "C": "Sadece %100 pay devri",
+              "D": "Sermayenin %10, %20, %33, %50'sini aşan veya altına düşen pay devirleri",
+              "E": "Her türlü pay devri serbesttir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Tebliğ m. 11 uyarınca belirlenen nitelikli pay oranlarındaki değişiklikler SPK iznine tabidir."
           },
           {
             "id": 19,
             "soruMetni": "PYŞ'lerin kendi özvarlıklarını (şirket sermayesini) değerlendirebilecekleri alanlar hakkında aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kendi özvarlıklarını likit ve düşük riskli sermaye piyasası araçlarında veya mevduatta değerlendirebilirler.",
-              "B": "Özvarlıklarıyla yüksek riskli gayrimenkul spekülasyonu yaparlar.",
-              "C": "Özvarlıklarını tamamen borç olarak dağıtırlar.",
-              "D": "Kendi hisselerini satın alırlar.",
-              "E": "Kendi paralarını harcayamazlar."
+              "A": "Özvarlıklarıyla yüksek riskli gayrimenkul spekülasyonu yaparlar.",
+              "B": "Kendi paralarını harcayamazlar.",
+              "C": "Kendi özvarlıklarını likit ve düşük riskli sermaye piyasası araçlarında veya mevduatta değerlendirebilirler.",
+              "D": "Özvarlıklarını tamamen borç olarak dağıtırlar.",
+              "E": "Kendi hisselerini satın alırlar."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Şirket özvarlıkları risk yönetimi kuralları çerçevesinde likit araçlarda tutulur."
           },
           {
             "id": 20,
             "soruMetni": "PYŞ'lerin müşterileriyle imzaladıkları Bireysel Portföy Yönetim Sözleşmelerini ve işlem kayıtlarını saklama yükümlülüğü süresi en az kaç yıldır?",
             "secenekler": {
-              "A": "10 Yıl",
-              "B": "2 Yıl",
-              "C": "5 Yıl",
-              "D": "15 Yıl",
-              "E": "20 Yıl"
+              "A": "20 Yıl",
+              "B": "5 Yıl",
+              "C": "15 Yıl",
+              "D": "2 Yıl",
+              "E": "10 Yıl"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "SPK ve TTK hükümleri uyarınca müşteri sözleşme ve işlem kayıtları en az 10 yıl saklanır."
           }
         ]
@@ -2208,13 +2208,13 @@ const splVeritabani = [
             "id": 1,
             "soruMetni": "Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) uyarınca, Yatırım Fonunun tüzel kişiliği var mıdır?",
             "secenekler": {
-              "A": "Yatırım fonlarının tüzel kişiliği YOKTUR; ancak fon kurucusu tarafından temsil olunur ve malvarlığı bağımsızdır.",
-              "B": "Yatırım fonları tam tüzel kişiliğe sahiptir.",
-              "C": "Yatırım fonları birer kamu kurumudur.",
-              "D": "Yatırım fonları şahıs şirketidir.",
+              "A": "Yatırım fonları şahıs şirketidir.",
+              "B": "Yatırım fonları birer kamu kurumudur.",
+              "C": "Yatırım fonları tam tüzel kişiliğe sahiptir.",
+              "D": "Yatırım fonlarının tüzel kişiliği YOKTUR; ancak fon kurucusu tarafından temsil olunur ve malvarlığı bağımsızdır.",
               "E": "Tüzel kişilik kararını belediye verir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "SPKn m. 52 ve Tebliğ m. 4 uyarınca yatırım fonlarının tüzel kişiliği yoktur; inançlı mülkiyet esasına göre Kurucu tarafından yönetilir ve temsil edilir."
           },
           {
@@ -2222,10 +2222,10 @@ const splVeritabani = [
             "soruMetni": "III-52.1 sayılı Tebliğ uyarınca, unvanında 'Hisse Senedi' ibaresi yer alan bir yatırım fonunun portföy değerinin en az yüzde kaçının devamlı olarak ihraççı paylarından oluşması zorunludur?",
             "secenekler": {
               "A": "%80",
-              "B": "%15",
-              "C": "%35",
-              "D": "%45",
-              "E": "%65"
+              "B": "%45",
+              "C": "%65",
+              "D": "%35",
+              "E": "%15"
             },
             "dogruCevap": "A",
             "cozum": "Tebliğ m. 6 uyarınca Hisse Senedi Yoğun veya unvanında hisse geçen fonların portföyünün en az %80'i devamlı olarak paylardan oluşur."
@@ -2234,13 +2234,13 @@ const splVeritabani = [
             "id": 3,
             "soruMetni": "Yatırım fonunun kurucusu ile fon portföyü arasındaki ilişkiyi, taraf hak ve yükümlülüklerini düzenleyen temel doküman aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Fon İçtüzüğü",
-              "B": "Şirket Ana Sözleşmesi",
+              "A": "İhzar Tutanağı",
+              "B": "Fon İçtüzüğü",
               "C": "Vakıf Senedi",
-              "D": "Ticaret Sicil Gazetesi",
-              "E": "İhzar Tutanağı"
+              "D": "Şirket Ana Sözleşmesi",
+              "E": "Ticaret Sicil Gazetesi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Yatırım fonunun kuruluşunda SPK tarafından onaylanan ve kurucu ile katılma payı sahipleri arasındaki ilişkiyi belirleyen belge Fon İçtüzüğüdür."
           },
           {
@@ -2248,9 +2248,9 @@ const splVeritabani = [
             "soruMetni": "III-52.1 sayılı Tebliğ uyarınca, aynı kurucuya bağlı birden fazla fonun tek bir tüzük altında toplanmasını sağlayan yapıya ne ad verilir?",
             "secenekler": {
               "A": "Şemsiye Fon",
-              "B": "Serbest Fon",
-              "C": "Borsa Fonu",
-              "D": "Sepet Fon",
+              "B": "Sepet Fon",
+              "C": "Serbest Fon",
+              "D": "Borsa Fonu",
               "E": "Katılım Fonu"
             },
             "dogruCevap": "A",
@@ -2260,52 +2260,52 @@ const splVeritabani = [
             "id": 5,
             "soruMetni": "Yatırım fonu birim pay değerinin (fiyatının) hesaplanma formülü aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Fon Net Varlık Değeri / Toplam Pay Sayısı",
-              "B": "Fon Toplam Borcu / Ödenmiş Sermaye",
-              "C": "Hisse Fiyatı x Dolar Kuru",
-              "D": "Fon Gideri / Katılımcı Sayısı",
-              "E": "Borsa Kapanış Fiyatı + Faiz"
+              "A": "Hisse Fiyatı x Dolar Kuru",
+              "B": "Fon Gideri / Katılımcı Sayısı",
+              "C": "Fon Net Varlık Değeri / Toplam Pay Sayısı",
+              "D": "Borsa Kapanış Fiyatı + Faiz",
+              "E": "Fon Toplam Borcu / Ödenmiş Sermaye"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Tebliğ m. 15 uyarınca birim pay değeri, Fon Net Varlık Değerinin (Varlıklar - Borçlar) toplam katılma payı sayısına bölünmesiyle bulunur."
           },
           {
             "id": 6,
             "soruMetni": "Yatırım fonlarının portföylerindeki tek bir ihraççının sermaye piyasası araçlarına yapabilecekleri yatırım oranı azami yüzde kaçla sınırlıdır?",
             "secenekler": {
-              "A": "%10 (Devlet iç borçlanma senetleri hariç)",
-              "B": "%50",
-              "C": "%30",
-              "D": "%75",
+              "A": "%50",
+              "B": "%10 (Devlet iç borçlanma senetleri hariç)",
+              "C": "%75",
+              "D": "%30",
               "E": "%100"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Tebliğ m. 18 uyarınca fon portföyünün en fazla %10'u tek bir ihraççının para ve sermaye piyasası araçlarına yatırılabilir (DİBS harçtır)."
           },
           {
             "id": 7,
             "soruMetni": "Fon portföyündeki varlıkların değerlemesinde borsada işlem gören varlıklar için hangi fiyat esas alınır?",
             "secenekler": {
-              "A": "Değerleme gününde borsada oluşan en son fiyat veya ağırlıklı ortalama fiyat",
+              "A": "Alış tarihi maliyet fiyatı",
               "B": "Fon kurulduğu gündeki fiyat",
-              "C": "Alış tarihi maliyet fiyatı",
+              "C": "Tarihi en düşük fiyat",
               "D": "Nominal fiyat",
-              "E": "Tarihi en düşük fiyat"
+              "E": "Değerleme gününde borsada oluşan en son fiyat veya ağırlıklı ortalama fiyat"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Borsada işlem gören varlıklar günlük borsa kapanış/ortalama fiyatı ile değerlenir."
           },
           {
             "id": 8,
             "soruMetni": "Katılma paylarının alım ve satım ilkelerini, fonun yatırım stratejisini ve risk profilini detaylıca yatırımcıya duyuran belge hangisidir?",
             "secenekler": {
-              "A": "İzahname ve Yatırımcı Bilgi Formu (YBF)",
-              "B": "Ticaret Sicil Gazetesi",
-              "C": "Faaliyet Belgesi",
-              "D": "Vergi Levhası",
+              "A": "Ticaret Sicil Gazetesi",
+              "B": "İzahname ve Yatırımcı Bilgi Formu (YBF)",
+              "C": "Vergi Levhası",
+              "D": "Faaliyet Belgesi",
               "E": "Denetim Tutanağı"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Halkı bilgilendirmek amacıyla Fon İzahnamesi ve özet bilgi içeren Yatırımcı Bilgi Formu (YBF) KAP'ta yayımlanır."
           },
           {
@@ -2313,10 +2313,10 @@ const splVeritabani = [
             "soruMetni": "Unvanında 'Borçlanma Araçları' ibaresi yer alan bir fonun portföy değerinin en az yüzde kaçı kamu veya özel sektör borçlanma araçlarından oluşmalıdır?",
             "secenekler": {
               "A": "%80",
-              "B": "%30",
-              "C": "%50",
+              "B": "%95",
+              "C": "%30",
               "D": "%75",
-              "E": "%95"
+              "E": "%50"
             },
             "dogruCevap": "A",
             "cozum": "Borçlanma araçları fonlarında portföyün en az %80'i borçlanma senetlerinden oluşur."
@@ -2325,52 +2325,52 @@ const splVeritabani = [
             "id": 10,
             "soruMetni": "Yatırım fonu katılma paylarının Türkiye'de elektronik bir platform üzerinden tüm kurumlarca alınıp satılmasını sağlayan sistem hangisidir?",
             "secenekler": {
-              "A": "TEFAS (Türkiye Elektronik Fon Dağıtım Platformu)",
+              "A": "E-Devlet",
               "B": "BİSTECH",
-              "C": "E-Devlet",
+              "C": "TEFAS (Türkiye Elektronik Fon Dağıtım Platformu)",
               "D": "SWIFT",
               "E": "E-GKS"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Takasbank nezdinde çalışan TEFAS platformu üzerinden yatırım fonları alınıp satılır."
           },
           {
             "id": 11,
             "soruMetni": "Yatırım fonlarında kurucu ve portföy saklayıcısının fon varlıkları üzerindeki tasarruf yetkisi sınırları neye göre belirlenir?",
             "secenekler": {
-              "A": "Fon İçtüzüğü, İzahname ve SPK mevzuat hükümleri çerçevesinde",
+              "A": "Bankacılık Kanununa göre",
               "B": "Kurucunun kendi keyfi kararlarına göre",
-              "C": "Sadece fon çalışanlarının sözlü talebine göre",
-              "D": "Bankacılık Kanununa göre",
-              "E": "Belediye meclis kararına göre"
+              "C": "Fon İçtüzüğü, İzahname ve SPK mevzuat hükümleri çerçevesinde",
+              "D": "Belediye meclis kararına göre",
+              "E": "Sadece fon çalışanlarının sözlü talebine göre"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Fon yönetimi tamamen içtüzük, izahname ve Kurul standartları çerçevesinde yürütülür."
           },
           {
             "id": 12,
             "soruMetni": "Fon portföy yönetimi giderlerinin karşılanması amacıyla fondan tahsil edilen ücrete ne ad verilir?",
             "secenekler": {
-              "A": "Fon Toplam Gider Kesintisi / Fon Yönetim Ücreti",
-              "B": "Vergi Cezası",
+              "A": "Tasfiye Payı",
+              "B": "Rüçhan Bedeli",
               "C": "Gecikme Zamı",
-              "D": "Tasfiye Payı",
-              "E": "Rüçhan Bedeli"
+              "D": "Vergi Cezası",
+              "E": "Fon Toplam Gider Kesintisi / Fon Yönetim Ücreti"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Fon yönetim hizmetleri karşılığında içtüzükte belirtilen oranlarda Fon Yönetim Ücreti fondan tahsil edilir."
           },
           {
             "id": 13,
             "soruMetni": "Para Piyasası Fonlarının portföy vadesine ilişkin kısıtlama nedir?",
             "secenekler": {
-              "A": "Portföyünün tamamı vadesine en fazla 184 gün kalmış likit araçlardan oluşur ve portföyün ağırlıklı ortalama vadesi en fazla 45 gün olabilir.",
-              "B": "Vadesi 10 yıldan uzun araçlar alınır.",
+              "A": "Sadece hisse senedi alınır.",
+              "B": "Vade en az 5 yıldır.",
               "C": "Vade kısıtlaması yoktur.",
-              "D": "Sadece hisse senedi alınır.",
-              "E": "Vade en az 5 yıldır."
+              "D": "Vadesi 10 yıldan uzun araçlar alınır.",
+              "E": "Portföyünün tamamı vadesine en fazla 184 gün kalmış likit araçlardan oluşur ve portföyün ağırlıklı ortalama vadesi en fazla 45 gün olabilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Para piyasası fonları yüksek likidite sağlamak amacıyla ortalama 45 gün azami vade sınırlamasına tabidir."
           },
           {
@@ -2380,8 +2380,8 @@ const splVeritabani = [
               "A": "%10",
               "B": "%50",
               "C": "%100",
-              "D": "%20",
-              "E": "%5"
+              "D": "%5",
+              "E": "%20"
             },
             "dogruCevap": "A",
             "cozum": "Tebliğ m. 19 uyarınca geçici nakit ihtiyacını karşılamak amacıyla fon toplam değerinin %10'una kadar kredi alınabilir."
@@ -2390,78 +2390,78 @@ const splVeritabani = [
             "id": 15,
             "soruMetni": "Yatırım fonlarının tasfiye edilmesi durumunda kalan fon varlıkları katılımcılara nasıl dağıtılır?",
             "secenekler": {
-              "A": "Katılma payı sahiplerine payları oranında nakden dağıtılır.",
-              "B": "Devlete bağışlanır.",
+              "A": "Dağıtım yapılmaz.",
+              "B": "Aracı kuruma hediye edilir.",
               "C": "Şirket kurucusuna kalır.",
-              "D": "Aracı kuruma hediye edilir.",
-              "E": "Dağıtım yapılmaz."
+              "D": "Katılma payı sahiplerine payları oranında nakden dağıtılır.",
+              "E": "Devlete bağışlanır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Tasfiye edilen fonun net varlığı pay sahiplerinin pay oranlarına göre hesaplanarak iade edilir."
           },
           {
             "id": 16,
             "soruMetni": "Yatırım fonu katılım paylarının satışına ve geri alımına ilişkin fiyatlar ne zaman açıklanır?",
             "secenekler": {
-              "A": "Her değerleme günü hesaplanır ve KAP'ta / kurucu sitesinde açıklanır.",
+              "A": "Fiyatlar hiç değişmez.",
               "B": "Yılda bir kez açıklanır.",
-              "C": "Açıklanması yasaktır.",
-              "D": "Sadece 5 yılda bir duyurulur.",
-              "E": "Fiyatlar hiç değişmez."
+              "C": "Sadece 5 yılda bir duyurulur.",
+              "D": "Her değerleme günü hesaplanır ve KAP'ta / kurucu sitesinde açıklanır.",
+              "E": "Açıklanması yasaktır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Fon birim pay fiyatları her değerleme gününde yayımlanır."
           },
           {
             "id": 17,
             "soruMetni": "Fon Sepeti Fonlarının portföy değerinin en az yüzde kaçının diğer yatırım fonlarının ve borsa yatırım fonlarının katılma paylarından oluşması zorunludur?",
             "secenekler": {
-              "A": "%80",
-              "B": "%20",
+              "A": "%60",
+              "B": "%80",
               "C": "%40",
-              "D": "%60",
+              "D": "%20",
               "E": "%85"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Fon Sepeti Fonları portföylerinin en az %80'ini diğer fon katılma paylarına yatırırlar."
           },
           {
             "id": 18,
             "soruMetni": "Faizsiz finansman ilkelerine uygun varlıklara yatırım yapan fon türü aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Katılım Fonu",
+              "A": "Değişken Fon",
               "B": "Borçlanma Araçları Fonu",
               "C": "Serbest Fon",
-              "D": "Değişken Fon",
+              "D": "Katılım Fonu",
               "E": "Para Piyasası Fonu"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Kira sertifikaları, katılma hesapları ve Danışma Kurulu onaylı paylara yatırım yapan fonlar Katılım Fonu olarak adlandırılır."
           },
           {
             "id": 19,
             "soruMetni": "Yatırım fonunun birim pay değerinin yanlış hesaplanması halinde yatırımcıların zarara uğraması durumunda zararı kim tazmin eder?",
             "secenekler": {
-              "A": "Fon Kurucusu ve Portföy Yönetim Şirketi",
-              "B": "Katılımcıların kendisi üstlenir",
-              "C": "Borsa İstanbul",
-              "D": "Takasbank",
-              "E": "Milli Piyango İdaresi"
+              "A": "Takasbank",
+              "B": "Borsa İstanbul",
+              "C": "Fon Kurucusu ve Portföy Yönetim Şirketi",
+              "D": "Milli Piyango İdaresi",
+              "E": "Katılımcıların kendisi üstlenir"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Hatalı fiyat hesaplamalarında doğan zararlar kurucu ve yönetici tarafından tazmin edilir."
           },
           {
             "id": 20,
             "soruMetni": "Yatırım fonlarının yıllık finansal raporları ne zamana kadar bağımsız denetimden geçerek KAP'ta açıklanmalıdır?",
             "secenekler": {
-              "A": "Hesap döneminin bitimini takip eden 60 gün içinde",
-              "B": "30 gün içinde",
+              "A": "30 gün içinde",
+              "B": "180 gün içinde",
               "C": "120 gün içinde",
-              "D": "180 gün içinde",
-              "E": "Bağımsız denetim yapılmaz"
+              "D": "Bağımsız denetim yapılmaz",
+              "E": "Hesap döneminin bitimini takip eden 60 gün içinde"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Tebliğ m. 28 uyarınca yatırım fonlarının yıllık bağımsız denetim raporları hesap dönemini izleyen 60 gün içinde açıklanır."
           }
         ]
@@ -2476,10 +2476,10 @@ const splVeritabani = [
             "soruMetni": "Sermaye Piyasası Kurulu düzenlemeleri uyarınca, Serbest Yatırım Fonlarının katılma payları kimlere satılabilir?",
             "secenekler": {
               "A": "Yalnızca Nitelikli Yatırımcılara satılabilir.",
-              "B": "Tüm halka ve küçük yatırımcılara açık satılır.",
-              "C": "Sadece yabancı devletlere satılır.",
-              "D": "Sadece şirket çalışanlarına verilir.",
-              "E": "Hiç kimseye satılamaz."
+              "B": "Sadece şirket çalışanlarına verilir.",
+              "C": "Tüm halka ve küçük yatırımcılara açık satılır.",
+              "D": "Hiç kimseye satılamaz.",
+              "E": "Sadece yabancı devletlere satılır."
             },
             "dogruCevap": "A",
             "cozum": "Serbest Fonlar miktar ve portföy sınırlamalarından muaf olup yalnızca Nitelikli Yatırımcılara pazarlanabilir."
@@ -2489,10 +2489,10 @@ const splVeritabani = [
             "soruMetni": "Gayrimenkul Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.2) uyarınca, GYF portföy değerinin en az yüzde kaçının gayrimenkul yatırımlarından oluşması zorunludur?",
             "secenekler": {
               "A": "%80",
-              "B": "%10",
-              "C": "%30",
-              "D": "%55",
-              "E": "%75"
+              "B": "%75",
+              "C": "%55",
+              "D": "%10",
+              "E": "%30"
             },
             "dogruCevap": "A",
             "cozum": "III-52.2 m. 18 uyarınca GYF portföyünün en az %80'i gayrimenkul ve gayrimenkul haklarından oluşmalıdır."
@@ -2501,78 +2501,78 @@ const splVeritabani = [
             "id": 3,
             "soruMetni": "Girişim Sermayesi Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.3) uyarınca, GSYF portföyünün en az yüzde kaçının girişim şirketlerine yatırılması zorunludur?",
             "secenekler": {
-              "A": "%80",
+              "A": "%95",
               "B": "%25",
               "C": "%45",
               "D": "%65",
-              "E": "%95"
+              "E": "%80"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "III-52.3 m. 19 uyarınca GSYF portföyünün en az %80'i girişim sermayesi yatırımlarından oluşmak zorundadır."
           },
           {
             "id": 4,
             "soruMetni": "Borsa Yatırım Fonları Tebliği (III-52.4) uyarınca, BYF'lerin temel amacı ve yapısı aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Bir endeksi takip etmek ve katılma payları borsada işlem görmek suretiyle endeks performansını yatırımcıya yansıtmak",
+              "A": "Sigorta poliçesi kesmek",
               "B": "Gayrimenkul alıp satmak",
-              "C": "Müteahhitlik hizmeti sunmak",
-              "D": "Mevduat faizi vermek",
-              "E": "Sigorta poliçesi kesmek"
+              "C": "Bir endeksi takip etmek ve katılma payları borsada işlem görmek suretiyle endeks performansını yatırımcıya yansıtmak",
+              "D": "Müteahhitlik hizmeti sunmak",
+              "E": "Mevduat faizi vermek"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "BYF'ler bir endeksi takip eder ve katılma payları Borsa İstanbul'da hisse senedi gibi alınıp satılır."
           },
           {
             "id": 5,
             "soruMetni": "Borsa Yatırım Fonunun (BYF) portföy değerinin en az yüzde kaçı devamlı olarak takip edilen endeks kapsamındaki varlıklardan oluşmalıdır?",
             "secenekler": {
-              "A": "%80",
-              "B": "%15",
-              "C": "%35",
-              "D": "%55",
-              "E": "%75"
+              "A": "%35",
+              "B": "%55",
+              "C": "%75",
+              "D": "%15",
+              "E": "%80"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "BYF Tebliği m. 5 uyarınca fon portföyünün en az %80'inin takip edilen endeks bileşenlerinden oluşması şarttır."
           },
           {
             "id": 6,
             "soruMetni": "Gayrimenkul Yatırım Fonları (GYF) ve Girişim Sermayesi Yatırım Fonları (GSYF) tüzel kişiliğe haiz midir?",
             "secenekler": {
-              "A": "Tüzel kişilikleri yoktur; ancak tapu tescil, ticaret sicil ve banka işlemlerinde tüzel kişiliği haiz addolunurlar.",
-              "B": "Tam tüzel kişiliği haiz anonim şirkettirler.",
-              "C": "Şahıs ortaklığıdırlar.",
-              "D": "Kamu iktisadi teşekkülüdürler.",
-              "E": "Dernektirler."
+              "A": "Kamu iktisadi teşekkülüdürler.",
+              "B": "Tüzel kişilikleri yoktur; ancak tapu tescil, ticaret sicil ve banka işlemlerinde tüzel kişiliği haiz addolunurlar.",
+              "C": "Dernektirler.",
+              "D": "Şahıs ortaklığıdırlar.",
+              "E": "Tam tüzel kişiliği haiz anonim şirkettirler."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "SPKn m. 54 uyarınca GYF ve GSYF fonları sınırlı olarak tüzel kişiliği haiz addolunur ve tapuda kendi adlarına tescil yapabilirler."
           },
           {
             "id": 7,
             "soruMetni": "GYF ve GSYF katılma payları halka arz edilerek genel yatırımcılara satılabilir mi?",
             "secenekler": {
-              "A": "Hayır, GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcılara satılır.",
-              "B": "Evet, tüm halka arz edilir.",
-              "C": "Sadece yabancılara satılır.",
-              "D": "Sadece şirket kurucusu satın alabilir.",
-              "E": "Halka arz zorunludur."
+              "A": "Sadece şirket kurucusu satın alabilir.",
+              "B": "Halka arz zorunludur.",
+              "C": "Evet, tüm halka arz edilir.",
+              "D": "Sadece yabancılara satılır.",
+              "E": "Hayır, GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcılara satılır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "GYF ve GSYF katılma payları nitelikli yatırımcılara ihraç edilmek üzere kurulur, halka arz edilemez."
           },
           {
             "id": 8,
             "soruMetni": "Borsa Yatırım Fonlarında (BYF) piyasa yapıcı aracı kurumların görevi nedir?",
             "secenekler": {
-              "A": "Borsada fon paylarının likiditesini sağlamak amacıyla sürekli alış ve satış kotasyonu vermek",
-              "B": "Fon tüzüğünü değiştirmek",
+              "A": "SPK denetimini yapmak",
+              "B": "Fon tasfiyesini başlatmak",
               "C": "Fon zararlarını ödemek",
-              "D": "SPK denetimini yapmak",
-              "E": "Fon tasfiyesini başlatmak"
+              "D": "Borsada fon paylarının likiditesini sağlamak amacıyla sürekli alış ve satış kotasyonu vermek",
+              "E": "Fon tüzüğünü değiştirmek"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "BYF'lerde piyasa yapıcılar borsa pazarında sürekli kotasyon vererek fon fiyatının net varlık değerine yakın seyretmesini sağlar."
           },
           {
@@ -2581,9 +2581,9 @@ const splVeritabani = [
             "secenekler": {
               "A": "Her takvim yılı sonu itibariyle ve alım/satım işlemlerinden önce yetkili değerleme kuruluşuna yaptırılır.",
               "B": "10 yılda bir yaptırılır.",
-              "C": "Değerleme yaptırılmaz.",
-              "D": "Sadece fon kurulurken yaptırılır.",
-              "E": "Belediye tarafından hesaplanır."
+              "C": "Belediye tarafından hesaplanır.",
+              "D": "Değerleme yaptırılmaz.",
+              "E": "Sadece fon kurulurken yaptırılır."
             },
             "dogruCevap": "A",
             "cozum": "GYF Tebliği m. 23 uyarınca her takvim yılı sonunda bağımsız ekspertiz raporu alınması zorunludur."
@@ -2592,13 +2592,13 @@ const splVeritabani = [
             "id": 10,
             "soruMetni": "GSYF'lerin portföylerindeki girişim şirketlerine yapabilecekleri yatırım şekilleri arasında aşağıdakilerden hangisi YER ALIR?",
             "secenekler": {
-              "A": "Girişim şirketlerinin paylarını satın almak, sermaye artırımlarına katılmak veya borç/özkaynak karması finansman sağlamak",
-              "B": "Girişim şirketlerini faizle tefecilik yoluyla borçlandırmak",
-              "C": "Şirketlerin arsa ve binalarına el koymak",
-              "D": "Girişim şirketlerini kapatıp tasfiye etmek",
-              "E": "Şirket çalışanlarına ikramiye dağıtmak"
+              "A": "Şirket çalışanlarına ikramiye dağıtmak",
+              "B": "Girişim şirketlerinin paylarını satın almak, sermaye artırımlarına katılmak veya borç/özkaynak karması finansman sağlamak",
+              "C": "Girişim şirketlerini kapatıp tasfiye etmek",
+              "D": "Şirketlerin arsa ve binalarına el koymak",
+              "E": "Girişim şirketlerini faizle tefecilik yoluyla borçlandırmak"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "GSYF'ler girişim şirketlerine sermaye koyarak, ortak olarak veya borç finansmanı vererek destek olurlar."
           },
           {
@@ -2607,9 +2607,9 @@ const splVeritabani = [
             "secenekler": {
               "A": "Satışa başlandığı tarihi takip eden en geç 1 yıl içinde asgari tutara ulaşması şarttır.",
               "B": "10 yıl içinde",
-              "C": "Aynı gün",
-              "D": "5 yıl içinde",
-              "E": "Süre sınırı yoktur"
+              "C": "5 yıl içinde",
+              "D": "Süre sınırı yoktur",
+              "E": "Aynı gün"
             },
             "dogruCevap": "A",
             "cozum": "Özel fonlarda asgari portföy büyüklüğüne katılım payı satışını izleyen 1 yıl içinde ulaşılması şarttır."
@@ -2618,117 +2618,117 @@ const splVeritabani = [
             "id": 12,
             "soruMetni": "Girişim Sermayesi Yatırım Fonlarının yatırım yapabileceği 'Girişim Şirketi' tanımı aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Türkiye'de kurulu veya gelişme potansiyeli yüksek olan, halka açık olmayan veya borsadaki gelişen işletmeler piyasasında işlem gören şirketler",
-              "B": "BİST-30 endeksindeki tüm dev şirketler",
-              "C": "Yabancı devlet bankaları",
-              "D": "İflas etmiş tasfiye halindeki şirketler",
+              "A": "BİST-30 endeksindeki tüm dev şirketler",
+              "B": "İflas etmiş tasfiye halindeki şirketler",
+              "C": "Türkiye'de kurulu veya gelişme potansiyeli yüksek olan, halka açık olmayan veya borsadaki gelişen işletmeler piyasasında işlem gören şirketler",
+              "D": "Yabancı devlet bankaları",
               "E": "Tüm belediye iktisadi teşekkülleri"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Girişim şirketleri inovasyon ve gelişme potansiyeline sahip henüz kurulma veya büyüme aşamasındaki şirketlerdir."
           },
           {
             "id": 13,
             "soruMetni": "Borsa Yatırım Fonlarında ayni takas (ayni pay yaratma ve geri alma) işlemini gerçekleştiren yetkili kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Yetkilendirilmiş Kurucu veya Yetkili Aracı Kurum",
-              "B": "Takasbank Güvenlik Amirliği",
+              "A": "Döviz Bürosu",
+              "B": "Sigorta Acentesi",
               "C": "Şehir Noteri",
-              "D": "Sigorta Acentesi",
-              "E": "Döviz Bürosu"
+              "D": "Yetkilendirilmiş Kurucu veya Yetkili Aracı Kurum",
+              "E": "Takasbank Güvenlik Amirliği"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "BYF'lerde yetkili aracı kurumlar endeks sepeti karşılığında fon payı yaratılması ve fona iade edilmesi işlemlerini yürütür."
           },
           {
             "id": 14,
             "soruMetni": "Serbest Yatırım Fonlarının yatırım kısıtlamalarına ve borçlanma sınırlarına ilişkin aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Serbest fonlar izahname ve içtüzüklerinde yer vermek kaydıyla SPK'nın genel yatırım kısıtlamalarından muaftır.",
-              "B": "Serbest fonlar hiç borç alamazlar.",
+              "A": "Serbest fonlar yatırım yapamaz.",
+              "B": "Serbest fonlar SPK denetimine tabi değildir.",
               "C": "Serbest fonlar sadece devlet tahvili alabilir.",
-              "D": "Serbest fonlar yatırım yapamaz.",
-              "E": "Serbest fonlar SPK denetimine tabi değildir."
+              "D": "Serbest fonlar izahname ve içtüzüklerinde yer vermek kaydıyla SPK'nın genel yatırım kısıtlamalarından muaftır.",
+              "E": "Serbest fonlar hiç borç alamazlar."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Nitelikli yatırımcılara yönelik serbest fonlar esnek portföy yönetimi ve türev araç kullanımı imkânına sahiptir."
           },
           {
             "id": 15,
             "soruMetni": "GYF ve GSYF saklama hizmetini yürütmekle yetkili kılınan bağımsız kuruluş hangisidir?",
             "secenekler": {
-              "A": "Portföy Saklayıcısı Kurum (Takasbank veya Yetkili Bankalar)",
+              "A": "Şehir Valiliği",
               "B": "Fon Kurucusunun Genel Müdürü",
-              "C": "Şirket Muhasebecisi",
-              "D": "Şehir Valiliği",
-              "E": "Borsa Güvenliği"
+              "C": "Borsa Güvenliği",
+              "D": "Portföy Saklayıcısı Kurum (Takasbank veya Yetkili Bankalar)",
+              "E": "Şirket Muhasebecisi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Fon varlıkları ve hakları bağımsız portföy saklayıcısı nezdinde saklanır."
           },
           {
             "id": 16,
             "soruMetni": "GYF'lerin inşaat işleri ve müteahhitlik faaliyetleri yapması mevzuat uyarınca serbest midir?",
             "secenekler": {
-              "A": "Hayır, GYF'ler inşaat taahhüt işleri yapamazlar; projeleri bağımsız müteahhitlere yaptırmak zorundadırlar.",
-              "B": "Evet, öz kaynaklarıyla inşaat yapabilirler.",
-              "C": "Sadece yurt dışında müteahhitlik yapabilirler.",
-              "D": "İstediği gibi inşaat şirketi kurabilirler.",
-              "E": "Belediye izin verirse yaparlar."
+              "A": "İstediği gibi inşaat şirketi kurabilirler.",
+              "B": "Sadece yurt dışında müteahhitlik yapabilirler.",
+              "C": "Hayır, GYF'ler inşaat taahhüt işleri yapamazlar; projeleri bağımsız müteahhitlere yaptırmak zorundadırlar.",
+              "D": "Belediye izin verirse yaparlar.",
+              "E": "Evet, öz kaynaklarıyla inşaat yapabilirler."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "GYF'ler doğrudan inşaat yapamazlar, inşaat işlerini yüklenici müteahhit firmalara devretmek zorundadırlar."
           },
           {
             "id": 17,
             "soruMetni": "GSYF'lerin portföylerindeki girişim şirketlerinin yönetiminde yer alma hakları var mıdır?",
             "secenekler": {
-              "A": "Evet, GSYF'ler girişim şirketlerinin yönetim kuruluna üye verebilir ve yönetimine katılabilirler.",
-              "B": "Hayır, yönetime katılmaları yasaktır.",
-              "C": "Sadece genel kurulda dinleyici olabilirler.",
-              "D": "Sadece oy hakkı olmayan pay alırlar.",
-              "E": "Yönetim hakkı devlete geçer."
+              "A": "Sadece genel kurulda dinleyici olabilirler.",
+              "B": "Sadece oy hakkı olmayan pay alırlar.",
+              "C": "Evet, GSYF'ler girişim şirketlerinin yönetim kuruluna üye verebilir ve yönetimine katılabilirler.",
+              "D": "Yönetim hakkı devlete geçer.",
+              "E": "Hayır, yönetime katılmaları yasaktır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "GSYF'ler girişim şirketlerinin gelişimi için yönetim kurullarında temsil edilme ve danışmanlık sağlama yetkisine sahiptir."
           },
           {
             "id": 18,
             "soruMetni": "BYF katılma paylarının borsa pazarında oluşan fiyatı ile fon net varlık değeri arasında fark oluşması halinde kim müdahale eder?",
             "secenekler": {
-              "A": "Piyasa Yapıcı Aracı Kurum kotasyon vererek ve ayni yaratım/geri alım yaparak farkı arbitrage ile kapatır.",
+              "A": "Farkı devlet öder.",
               "B": "Borsa Başkanı borsayı kapatır.",
               "C": "SPK cezai işlem başlatır.",
               "D": "Fiyat farkı hiçbir zaman oluşmaz.",
-              "E": "Farkı devlet öder."
+              "E": "Piyasa Yapıcı Aracı Kurum kotasyon vererek ve ayni yaratım/geri alım yaparak farkı arbitrage ile kapatır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Piyasa yapıcılar borsadaki piyasa fiyatı ile net varlık değeri arasındaki farkı ayni yaratım/fiyat kotasyonu mekanizmasıyla dengeler."
           },
           {
             "id": 19,
             "soruMetni": "GYF ve GSYF bilgilendirme dokümanlarında esaslarının belirtilmesi şartıyla katılımcılara farklı haklar sağlayan pay grupları oluşturulabilir mi?",
             "secenekler": {
-              "A": "Evet, bilgilendirme dokümanlarında belirtilmek kaydıyla aynı fonda farklı pay grupları oluşturulabilir.",
-              "B": "Hayır, tek tür pay olmak zorundadır.",
-              "C": "Farklı pay grubu kuralı sadece bankalara uygulanır.",
+              "A": "Sadece 10 yıl sonra oluşturulur.",
+              "B": "Evet, bilgilendirme dokümanlarında belirtilmek kaydıyla aynı fonda farklı pay grupları oluşturulabilir.",
+              "C": "Hayır, tek tür pay olmak zorundadır.",
               "D": "Pay grubu oluşturulması suçtur.",
-              "E": "Sadece 10 yıl sonra oluşturulur."
+              "E": "Farklı pay grubu kuralı sadece bankalara uygulanır."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Tebliğ uyarınca katılma payı sahiplerine tanınan hakları farklılaştırmak amacıyla farklı pay grupları ihraç edilebilir."
           },
           {
             "id": 20,
             "soruMetni": "Serbest Yatırım Fonlarının izahname ve içtüzük değişiklikleri KAP'ta yayımlanır mı?",
             "secenekler": {
-              "A": "Evet, değişiklikler KAP'ta açıklanır ve nitelikli yatırımcılara duyurulur.",
-              "B": "Hayır, gizli tutulur.",
-              "C": "Değişiklik yapılması yasaktır.",
-              "D": "Sadece gazete ilanı verilir.",
-              "E": "Sadece Ticaret Sicil Gazetesinde ilan edilir."
+              "A": "Sadece Ticaret Sicil Gazetesinde ilan edilir.",
+              "B": "Evet, değişiklikler KAP'ta açıklanır ve nitelikli yatırımcılara duyurulur.",
+              "C": "Sadece gazete ilanı verilir.",
+              "D": "Değişiklik yapılması yasaktır.",
+              "E": "Hayır, gizli tutulur."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Tüm fon tüzük ve bilgilendirme dokümanı değişiklikleri KAP'ta duyurulmak zorundadır."
           }
         ]
@@ -2758,9 +2758,9 @@ const splVeritabani = [
             "secenekler": {
               "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
               "B": "Yönetmelik ve Genelge Esasları",
-              "C": "Borsa İstanbul İşleyiş Kuralları",
+              "C": "Ticaret Kanunu Genel Hükümleri",
               "D": "Takasbank ve MKK Saklama Düzenlemeleri",
-              "E": "Ticaret Kanunu Genel Hükümleri"
+              "E": "Borsa İstanbul İşleyiş Kuralları"
             },
             "dogruCevap": "A",
             "cozum": "Bu soru ilgili dersin resmi müfredat kapsamını temel almaktadır."
@@ -2789,91 +2789,91 @@ const splVeritabani = [
             "id": 1,
             "soruMetni": "Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
             "secenekler": {
-              "A": "5",
-              "B": "10",
-              "C": "15",
-              "D": "20",
+              "A": "10",
+              "B": "15",
+              "C": "20",
+              "D": "5",
               "E": "25"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "B",
             "cozum": "Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca halka arz edilecek payların nominal değerinin en az %15'inin yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur."
           },
           {
             "id": 2,
             "soruMetni": "Aşağıdaki durumlardan hangisinde izahname düzenlenmesi zorunluluğundan muafiyet tanınmıştır?",
             "secenekler": {
-              "A": "Payları borsada işlem gören şirketlerin 12 aylık dönemde ödenmiş sermayelerinin %10'undan az kısmını temsil eden bedelli pay ihracında",
-              "B": "Payların ilk defa halka arz edilmesinde",
-              "C": "Halka açık olmayan anonim ortaklığın borçlanma aracı ihracında",
-              "D": "Genel kurula sunulacak tüm sermaye artırımlarında",
+              "A": "Genel kurula sunulacak tüm sermaye artırımlarında",
+              "B": "Halka açık olmayan anonim ortaklığın borçlanma aracı ihracında",
+              "C": "Payları borsada işlem gören şirketlerin 12 aylık dönemde ödenmiş sermayelerinin %10'undan az kısmını temsil eden bedelli pay ihracında",
+              "D": "Payların ilk defa halka arz edilmesinde",
               "E": "Niteliksiz yatırımcılara yapılan tüm satışlarda"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "İzahname ve İhraç Belgesi Tebliği (II-5.1) m. 6 uyarınca borsada işlem gören payların 12 aylık dönemde %10'undan az kısmını oluşturan bedelli pay ihraçları izahname muafiyetine tabidir."
           },
           {
             "id": 3,
             "soruMetni": "Halka açık olmayan ortaklıkların paylarının ilk defa halka arzında, 16 Mayıs - 15 Ağustos dönemi kapsamında payların halka arz edilmesi halinde, izahnamede aşağıdaki finansal tablolardan hangisine yer verilmesi gereklidir?",
             "secenekler": {
-              "A": "Son 3 yıllık ve en son 3 aylık (ara dönem) finansal tablolar",
-              "B": "Sadece son 1 yıllık finansal tablolar",
+              "A": "Sadece son 1 yıllık finansal tablolar",
+              "B": "Sadece 6 aylık yönetim raporları",
               "C": "Son 5 yıllık denetlenmiş tablolar",
-              "D": "Sadece 6 aylık yönetim raporları",
+              "D": "Son 3 yıllık ve en son 3 aylık (ara dönem) finansal tablolar",
               "E": "Geleceğe yönelik proprojeksiyon raporları"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "İzahname Tebliği ekindeki finansal tablo hazırlama takvimine göre 16 Mayıs - 15 Ağustos tarihleri arasındaki halka arzlarda son 3 yıllık ve en son ilk 3 aylık ara dönem finansal tablolar yayımlanır."
           },
           {
             "id": 4,
             "soruMetni": "Aşağıdakilerden hangisi halka arz satış yöntemlerinden biri DEĞİLDİR?",
             "secenekler": {
-              "A": "Tahsisli Satış",
-              "B": "Talep Toplanmaksızın Satış",
-              "C": "Fiyat Teklifi Alarak Talep Toplama Yöntemi",
-              "D": "Sabit Fiyatla Talep Toplama Yöntemi",
-              "E": "Borsada Satış"
+              "A": "Sabit Fiyatla Talep Toplama Yöntemi",
+              "B": "Fiyat Teklifi Alarak Talep Toplama Yöntemi",
+              "C": "Talep Toplanmaksızın Satış",
+              "D": "Borsada Satış",
+              "E": "Tahsisli Satış"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Tahsisli satış, halka arz edilmeksizin doğrudan belirlenen kişilere yapılan satıştır; halka arz satış yöntemi değildir."
           },
           {
             "id": 5,
             "soruMetni": "İzahnamesi onaylanan bir şirket için sermaye piyasası araçlarının halka arz satış süresi en az ve en fazla kaç iş günüdür?",
             "secenekler": {
-              "A": "En az 2 iş günü, en fazla 20 iş günü",
-              "B": "En az 1 iş günü, en fazla 5 iş günü",
+              "A": "En az 5 iş günü, en fazla 10 iş günü",
+              "B": "En az 2 iş günü, en fazla 20 iş günü",
               "C": "En az 3 iş günü, en fazla 30 iş günü",
-              "D": "En az 5 iş günü, en fazla 10 iş günü",
+              "D": "En az 1 iş günü, en fazla 5 iş günü",
               "E": "En az 10 iş günü, en fazla 60 iş günü"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Sermaye Piyasası Araçlarının Satışı Tebliği uyarınca halka arz satış süresi en az 2 iş günü, en fazla 20 iş günü olarak belirlenir."
           },
           {
             "id": 6,
             "soruMetni": "Sermaye piyasası araçlarının halka arzı öncesinde tasarruf sahiplerine satış şartlarını ve detaylarını duyuran ilan metnine ne ad verilir?",
             "secenekler": {
-              "A": "Sirküler (Tasarruf Sahiplerine Satış Duyurusu)",
-              "B": "İzahname",
+              "A": "Derecelendirme Raporu",
+              "B": "Faaliyet Raporu",
               "C": "İhraç Belgesi",
-              "D": "Faaliyet Raporu",
-              "E": "Derecelendirme Raporu"
+              "D": "Sirküler (Tasarruf Sahiplerine Satış Duyurusu)",
+              "E": "İzahname"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Halka arzda izahnamenin yanı sıra alım-satım yerlerini ve şartlarını duyuran ilan belgesi Sirküler (Tasarruf Sahiplerine Satış Duyurusu) olarak adlandırılır."
           },
           {
             "id": 7,
             "soruMetni": "Aşağıdaki kuruluşlardan hangisi bir fon kurmaksızın doğrudan kendi bilançosundaki varlıklara dayalı Varlığa İpotekle Dayalı Menkul Kıymet (VİDMK) ihraç edebilir?",
             "secenekler": {
-              "A": "İpotek Finansmanı Kuruluşu",
-              "B": "Gayrimenkul Yatırım Ortaklığı",
-              "C": "Portföy Yönetim Şirketi",
-              "D": "Faktöring Şirketleri",
+              "A": "Gayrimenkul Yatırım Ortaklığı",
+              "B": "Portföy Yönetim Şirketi",
+              "C": "Faktöring Şirketleri",
+              "D": "İpotek Finansmanı Kuruluşu",
               "E": "Aracı Kurumlar"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "İpotek Finansmanı Kuruluşları fon kurmaksızın kendi bilançolarında yer alan ipotekli alacaklara dayalı VİDMK ihraç etme yetkisine sahiptir."
           },
           {
@@ -2882,9 +2882,9 @@ const splVeritabani = [
             "secenekler": {
               "A": "Sigorta şirketlerinin alacakları",
               "B": "Hazine ve Maliye Bakanlığınca kurulan varlık kiralama şirketleri tarafından ihraç edilen kira sertifikaları",
-              "C": "Bankaların sicilde ipotek tesis edilmek suretiyle teminat altına alınmış konut finansman alacakları",
-              "D": "Devlet iç borçlanma senetleri (DİBS)",
-              "E": "İpotek finansmanı kuruluşlarının konut kredisi alacakları"
+              "C": "İpotek finansmanı kuruluşlarının konut kredisi alacakları",
+              "D": "Bankaların sicilde ipotek tesis edilmek suretiyle teminat altına alınmış konut finansman alacakları",
+              "E": "Devlet iç borçlanma senetleri (DİBS)"
             },
             "dogruCevap": "A",
             "cozum": "İTMK Tebliği (III-59.1) uyarınca teminat havuzuna sadece konut ve yapı finansmanı alacakları, DİBS ve onaylı kira sertifikaları alınabilir; sigorta şirketlerinin alacakları teminat olamaz."
@@ -2893,26 +2893,26 @@ const splVeritabani = [
             "id": 9,
             "soruMetni": "Aşağıdakilerden hangisi Varlık Teminatlı Menkul Kıymet (VTMK) ihracında teminat havuzuna karşılık gösterilemez?",
             "secenekler": {
-              "A": "Vadesi 3 aydan kısa mevduat hesapları",
-              "B": "Finansman şirketlerinin tüketici kredilerinden kaynaklanan alacakları",
-              "C": "Bankaların tüketici kredilerinden kaynaklanan alacakları",
-              "D": "TCMB tarafından ihraç edilen likidite senetleri",
+              "A": "Bankaların tüketici kredilerinden kaynaklanan alacakları",
+              "B": "TCMB tarafından ihraç edilen likidite senetleri",
+              "C": "Vadesi 3 aydan kısa mevduat hesapları",
+              "D": "Finansman şirketlerinin tüketici kredilerinden kaynaklanan alacakları",
               "E": "Sigortalanmış faktöring alacakları"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "VTMK Tebliği (III-59.1) gereğince 3 aydan kısa süreli mevduat hesapları teminat havuzuna aktarılamaz."
           },
           {
             "id": 10,
             "soruMetni": "Aşağıdaki kuruluşlardan hangisi münhasıran yalnızca İpotek Teminatlı Menkul Kıymet (İTMK) ihraç etmeye yetkilidir?",
             "secenekler": {
-              "A": "Konut Finansmanı Kuruluşu",
+              "A": "Faktöring Şirketleri",
               "B": "Konut Finansmanı Fonu",
               "C": "Finansal Kiralama Şirketleri",
-              "D": "Faktöring Şirketleri",
+              "D": "Konut Finansmanı Kuruluşu",
               "E": "Portföy Yönetim Şirketleri"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Konut Finansmanı Kuruluşları bilançolarındaki konut kredisi varlıklarına dayalı İTMK ihraç edebilir."
           },
           {
@@ -2920,10 +2920,10 @@ const splVeritabani = [
             "soruMetni": "Varlık Teminatlı Menkul Kıymetler (VTMK) ihracına ilişkin teminat uyum ilkelerinin ihlalinin ihraççı tarafından tespit edilmesi halinde, kaç ay içinde uyumun yeniden sağlanması zorunludur?",
             "secenekler": {
               "A": "1 Ay",
-              "B": "2 Ay",
-              "C": "3 Ay",
-              "D": "4 Ay",
-              "E": "5 Ay"
+              "B": "3 Ay",
+              "C": "5 Ay",
+              "D": "2 Ay",
+              "E": "4 Ay"
             },
             "dogruCevap": "A",
             "cozum": "Teminatlı Menkul Kıymetler Tebliği uyarınca teminat uyum ilkelerindeki eksikliklerin ihraççı tarafından tespiti halinde en geç 1 ay içinde uyumun yeniden sağlanması zorunludur."
@@ -2932,13 +2932,13 @@ const splVeritabani = [
             "id": 12,
             "soruMetni": "Aşağıdaki faizsiz finansman yöntemlerinden hangisinde kâr/faiz veya ek bir karşılık söz konusu DEĞİLDİR?",
             "secenekler": {
-              "A": "Murabaha",
+              "A": "Müşaraka",
               "B": "İcara",
-              "C": "Müşaraka",
-              "D": "Karz-ı Hasen",
-              "E": "Selem"
+              "C": "Murabaha",
+              "D": "Selem",
+              "E": "Karz-ı Hasen"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "E",
             "cozum": "Karz-ı Hasen (güzel borç), borç verene hiçbir ilave karşılık, menfaat veya kâr payı sağlamayan karşılıksız borç verme yöntemidir."
           },
           {
@@ -2946,10 +2946,10 @@ const splVeritabani = [
             "soruMetni": "Kira Sertifikaları Tebliği (III-61.1) uyarınca aşağıdakilerden hangisi tarafından Varlık Kiralama Şirketi (VKŞ) kurulamaz?",
             "secenekler": {
               "A": "Gayrimenkul Yatırım Fonları",
-              "B": "Bankalar",
+              "B": "Payları borsada işlem gören Gayrimenkul Yatırım Ortaklıkları (GYO)",
               "C": "Portföy aracılığı yapan aracı kurumlar",
               "D": "İpotek finansmanı kuruluşları",
-              "E": "Payları borsada işlem gören Gayrimenkul Yatırım Ortaklıkları (GYO)"
+              "E": "Bankalar"
             },
             "dogruCevap": "A",
             "cozum": "VKŞ kurabilecek kuruluşlar III-61.1 sayılı Tebliğde sayılmıştır. Gayrimenkul Yatırım Fonlarının VKŞ kurma yetkisi bulunmamaktadır."
@@ -2959,10 +2959,10 @@ const splVeritabani = [
             "soruMetni": "Kira sertifikası ihraç etmek üzere münhasıran anonim şirket şeklinde kurulan sermaye piyasası kurumuna ne ad verilir?",
             "secenekler": {
               "A": "Varlık Kiralama Şirketi (VKŞ)",
-              "B": "Portföy Yönetim Şirketi",
-              "C": "Fon Kullanıcısı",
-              "D": "Kaynak Kuruluş",
-              "E": "Portföy Saklama Şirketi"
+              "B": "Portföy Saklama Şirketi",
+              "C": "Portföy Yönetim Şirketi",
+              "D": "Fon Kullanıcısı",
+              "E": "Kaynak Kuruluş"
             },
             "dogruCevap": "A",
             "cozum": "Kira sertifikaları sadece VKŞ (Varlık Kiralama Şirketleri) tarafından ihraç edilebilen özel amaçlı sermaye piyasası aracıdır."
@@ -2971,78 +2971,78 @@ const splVeritabani = [
             "id": 15,
             "soruMetni": "Bir emtianın önceden anlaşılan bir kâr payı üzerinden fon ihtiyacı olan tarafa vadeli satılması, fon ihtiyacı olan tarafın da bu emtiayı peşin olarak üçüncü bir tarafa satmasıyla finansman sağlayan İslami finansman yöntemi hangisidir?",
             "secenekler": {
-              "A": "Murabaha (Teverruk)",
-              "B": "İcara",
-              "C": "İstısna",
+              "A": "Müşaraka",
+              "B": "İstısna",
+              "C": "Murabaha (Teverruk)",
               "D": "Mudaraba",
-              "E": "Müşaraka"
+              "E": "İcara"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Alım-satıma dayalı kira sertifikası ihracında da kullanılan maliyet+kâr marjlı vadeli satış yöntemi Murabaha olarak adlandırılır."
           },
           {
             "id": 16,
             "soruMetni": "Gayrimenkul sertifikaları ihracında aşağıdaki raporlardan hangisi düzenlenemez / yer almaz?",
             "secenekler": {
-              "A": "Risk tespit raporu",
-              "B": "Yatırımcı bilgi formu",
-              "C": "Fizibilite raporu",
-              "D": "İnşaat ilerleme raporu",
-              "E": "Gayrimenkul değerleme raporu"
+              "A": "İnşaat ilerleme raporu",
+              "B": "Fizibilite raporu",
+              "C": "Gayrimenkul değerleme raporu",
+              "D": "Risk tespit raporu",
+              "E": "Yatırımcı bilgi formu"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "cozum": "Gayrimenkul Sertifikaları Tebliği (VII-128.2) kapsamında değerleme, fizibilite, inşaat ilerleme ve fiyat tespit raporları düzenlenir; 'Risk tespit raporu' isimli bir belge yoktur."
           },
           {
             "id": 17,
             "soruMetni": "Gayrimenkul sertifikaları ihracına ilişkin aşağıdaki ifadelerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Gayrimenkul sertifikaları yurt içinde halka arz edilerek, halka arz edilmeksizin veya yurt dışındaki ihraçlarda kullanılabilir.",
-              "B": "Sadece yurt dışında ihraç edilebilir.",
-              "C": "Sadece halka açık şirketlerce ihraç edilir.",
+              "A": "Sadece halka açık şirketlerce ihraç edilir.",
+              "B": "Gayrimenkul sertifikaları yurt içinde halka arz edilerek, halka arz edilmeksizin veya yurt dışındaki ihraçlarda kullanılabilir.",
+              "C": "Yalnızca bankalar ihraç edebilir.",
               "D": "İhraç süresi sınırsızdır.",
-              "E": "Yalnızca bankalar ihraç edebilir."
+              "E": "Sadece yurt dışında ihraç edilebilir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Gayrimenkul sertifikaları yurt içinde halka arz edilerek, halka arz edilmeksizin veya yurt dışında ihraç edilme imkânına sahiptir."
           },
           {
             "id": 18,
             "soruMetni": "Gayrimenkul sertifikalarının sunduğu edimler hakkında aşağıdakilerden hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Edimler asli edim (bağımsız bölümün mülkiyeti) ve tali edim (nakdi ödeme) olarak sınıflandırılır.",
-              "B": "Sadece nakdi edim mevcuttur.",
-              "C": "Edim seçeneği bulunmamaktadır.",
-              "D": "Asli edim sadece ortaklık payıdır.",
+              "A": "Edim seçeneği bulunmamaktadır.",
+              "B": "Edimler asli edim (bağımsız bölümün mülkiyeti) ve tali edim (nakdi ödeme) olarak sınıflandırılır.",
+              "C": "Asli edim sadece ortaklık payıdır.",
+              "D": "Sadece nakdi edim mevcuttur.",
               "E": "Tali edim kullanımı zorunludur."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin edinilmesi asli edim, inşaat sonunda satıştan elde edilecek tutarın nakden ödenmesi tali edimdir."
           },
           {
             "id": 19,
             "soruMetni": "SPK düzenlemeleri uyarınca yatırım kuruluşu varantlarına dayanak teşkil eden varlık veya göstergeler arasında aşağıdakilerden hangisi yer ALMAZ?",
             "secenekler": {
-              "A": "Gayrimenkul sertifikası",
-              "B": "Emtia",
-              "C": "Kıymetli maden",
+              "A": "Kıymetli maden",
+              "B": "Konvertibl döviz",
+              "C": "Gayrimenkul sertifikası",
               "D": "BİST-100 endeksinde yer alan paylar",
-              "E": "Konvertibl döviz"
+              "E": "Emtia"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Varrantlar Tebliği (VII-128.3) uyarınca paylar, endeksler, döviz, emtia ve kıymetli madenler dayanak varlık olabilir; gayrimenkul sertifikaları varant dayanağı yapılamaz."
           },
           {
             "id": 20,
             "soruMetni": "Dayanak varlığı almaktansa yatırımcıları sertifika almaya teşvik eden ve dayanak fiyatının önceden belirlenmiş bariyerin altına düşmemesi halinde belirli bir geri ödeme fiyatını garanti eden sermaye piyasası aracı hangisidir?",
             "secenekler": {
-              "A": "Bonus Sertifikalar (Prim ödeyen sertifika)",
-              "B": "Yatırım kuruluşu varantı",
-              "C": "İskontolu Sertifikalar",
-              "D": "Ortaklık Varrantı",
-              "E": "Endeks Sertifikaları"
+              "A": "Yatırım kuruluşu varantı",
+              "B": "Ortaklık Varrantı",
+              "C": "Endeks Sertifikaları",
+              "D": "İskontolu Sertifikalar",
+              "E": "Bonus Sertifikalar (Prim ödeyen sertifika)"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Bariyer seviyesi koruması sağlayarak kâr/geri ödeme imkânı sunan yatırım kuruluşu sertifikaları Bonus Sertifika olarak adlandırılır."
           },
           {
@@ -3050,10 +3050,10 @@ const splVeritabani = [
             "soruMetni": "Ortaklık varantları hakkında aşağıdakilerden hangisi söylenebilir / DOĞRUDUR?",
             "secenekler": {
               "A": "Payları borsada işlem gören veya ilk defa halka arz edilecek ortaklıklar tarafından sadece kendi payları üzerine yazılı olarak ihraç edilebilir.",
-              "B": "Başka şirket payları üzerine ihraç edilebilir.",
-              "C": "Vadesi 10 yıldan fazla olabilir.",
-              "D": "Yalnızca aracı kurumlar ihraç edebilir.",
-              "E": "Devredilmesi yasaktır."
+              "B": "Vadesi 10 yıldan fazla olabilir.",
+              "C": "Yalnızca aracı kurumlar ihraç edebilir.",
+              "D": "Devredilmesi yasaktır.",
+              "E": "Başka şirket payları üzerine ihraç edilebilir."
             },
             "dogruCevap": "A",
             "cozum": "Ortaklık varantları, ihraççı ortaklığın sadece kendi paylarını alma hakkı veren ve ihraççı ortaklık tarafından çıkarılan sermaye piyasası araçlarıdır."
@@ -3062,39 +3062,39 @@ const splVeritabani = [
             "id": 22,
             "soruMetni": "Aşağıdakilerden hangisi Türkiye’de yabancı sermaye piyasası araçlarının halka arz edilebilmesi için gereken ön şartlardan biri DEĞİLDİR?",
             "secenekler": {
-              "A": "Yabancı ortaklıkların pay dışındaki ihraçlarında başvuru tarihinden önceki 1 yıl içerisinde bir derecelendirme kuruluşundan AAA notu alması zorunluluğu",
-              "B": "Borsada işlem görme başvurusunun veya ihracının reddedilmemiş olması",
-              "C": "TL hariç herhangi başka bir para biriminden ihraç edilmiş olması",
-              "D": "Devir veya tedavülünü kısıtlayıcı haklar bulunmaması",
-              "E": "İhraç edildikleri ülkede mali haklar ile ilgili işlem ve ödemelere kısıtlama bulunmaması"
+              "A": "Devir veya tedavülünü kısıtlayıcı haklar bulunmaması",
+              "B": "TL hariç herhangi başka bir para biriminden ihraç edilmiş olması",
+              "C": "Yabancı ortaklıkların pay dışındaki ihraçlarında başvuru tarihinden önceki 1 yıl içerisinde bir derecelendirme kuruluşundan AAA notu alması zorunluluğu",
+              "D": "İhraç edildikleri ülkede mali haklar ile ilgili işlem ve ödemelere kısıtlama bulunmaması",
+              "E": "Borsada işlem görme başvurusunun veya ihracının reddedilmemiş olması"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "cozum": "Yabancı Sermaye Piyasası Araçları Tebliği uyarınca AAA notu şartı yoktur; en az yatırım yapılabilir (investment grade) seviyesinde kredi notu almak yeterlidir."
           },
           {
             "id": 23,
             "soruMetni": "Aşağıdakilerden hangisi depo sertifikalarının (Depositary Receipts) yatırımcıya sağladığı faydalardan biri DEĞİLDİR?",
             "secenekler": {
-              "A": "İşlem gördüğü ülkenin düzenlemelerine tabi olması sonucunda yatırımcıların saat ve takas riskleriyle karşılaşarak mağdur olması",
-              "B": "Doğrudan yabancı menkul kıymetlere yatırım yapmaya kıyasla daha düşük maliyet sunması",
-              "C": "Yabancı hisse senedinin yerel piyasasındaki fiyatıyla işlem gördüğü için saat/kur farkından arbitraj imkânı sağlaması",
-              "D": "İşlem gördüğü piyasanın kendi para birimi cinsinden ihraç edilip alım satıma konu olması",
-              "E": "Uluslararası sermaye piyasalarından finansman imkânı sunması"
+              "A": "Uluslararası sermaye piyasalarından finansman imkânı sunması",
+              "B": "İşlem gördüğü piyasanın kendi para birimi cinsinden ihraç edilip alım satıma konu olması",
+              "C": "Doğrudan yabancı menkul kıymetlere yatırım yapmaya kıyasla daha düşük maliyet sunması",
+              "D": "Yabancı hisse senedinin yerel piyasasındaki fiyatıyla işlem gördüğü için saat/kur farkından arbitraj imkânı sağlaması",
+              "E": "İşlem gördüğü ülkenin düzenlemelerine tabi olması sonucunda yatırımcıların saat ve takas riskleriyle karşılaşarak mağdur olması"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "cozum": "Depo sertifikaları yerel saklama ve yerel para birimi kolaylığı sunarak yatırımcının saat, takas ve yabancı mevzuat karmaşasını ortadan kaldırır; mağduriyet bir fayda değildir."
           },
           {
             "id": 24,
             "soruMetni": "Projeye Dayalı Menkul Kıymetler (PDMK) ihraç etmek amacıyla oluşturulan fonun yönetimi ve mal varlığının korunmasından kim sorumludur?",
             "secenekler": {
-              "A": "Proje Finansmanı Fonu Kurucusu ve Teminat Yöneticisi",
-              "B": "MKK Genel Müdürlüğü",
+              "A": "Kamu Gözetimi Kurumu",
+              "B": "Proje Finansmanı Fonu Kurucusu ve Teminat Yöneticisi",
               "C": "Borsa İstanbul Yönetim Kurulu",
               "D": "Ticaret Bakanlığı",
-              "E": "Kamu Gözetimi Kurumu"
+              "E": "MKK Genel Müdürlüğü"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "cozum": "PDMK Tebliği uyarınca Proje Finansmanı Fonu kurucusu ve Teminat Yöneticisi fon mal varlığı ile teminatların korunması ve yönetiminden sorumludur."
           }
         ]
@@ -3123,10 +3123,10 @@ const splVeritabani = [
             "soruMetni": "1005 - Yatırım Kuruluşları müfredatına ilişkin temel mevzuat ve uygulama değerlendirmesi.",
             "secenekler": {
               "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
-              "B": "Yönetmelik ve Genelge Esasları",
-              "C": "Borsa İstanbul İşleyiş Kuralları",
+              "B": "Borsa İstanbul İşleyiş Kuralları",
+              "C": "Ticaret Kanunu Genel Hükümleri",
               "D": "Takasbank ve MKK Saklama Düzenlemeleri",
-              "E": "Ticaret Kanunu Genel Hükümleri"
+              "E": "Yönetmelik ve Genelge Esasları"
             },
             "dogruCevap": "A",
             "cozum": "Bu soru ilgili dersin resmi müfredat kapsamını temel almaktadır."
@@ -3156,10 +3156,10 @@ const splVeritabani = [
             "soruMetni": "1006 - Finansal Piyasalar müfredatına ilişkin temel mevzuat ve uygulama değerlendirmesi.",
             "secenekler": {
               "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
-              "B": "Yönetmelik ve Genelge Esasları",
-              "C": "Borsa İstanbul İşleyiş Kuralları",
+              "B": "Borsa İstanbul İşleyiş Kuralları",
+              "C": "Ticaret Kanunu Genel Hükümleri",
               "D": "Takasbank ve MKK Saklama Düzenlemeleri",
-              "E": "Ticaret Kanunu Genel Hükümleri"
+              "E": "Yönetmelik ve Genelge Esasları"
             },
             "dogruCevap": "A",
             "cozum": "Bu soru ilgili dersin resmi müfredat kapsamını temel almaktadır."
@@ -3188,10 +3188,10 @@ const splVeritabani = [
             "soruMetni": "1007 - Finansal Yönetim ve Mali Analiz müfredatına ilişkin temel mevzuat ve uygulama değerlendirmesi.",
             "secenekler": {
               "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
-              "B": "Yönetmelik ve Genelge Esasları",
-              "C": "Borsa İstanbul İşleyiş Kuralları",
-              "D": "Takasbank ve MKK Saklama Düzenlemeleri",
-              "E": "Ticaret Kanunu Genel Hükümleri"
+              "B": "Ticaret Kanunu Genel Hükümleri",
+              "C": "Takasbank ve MKK Saklama Düzenlemeleri",
+              "D": "Yönetmelik ve Genelge Esasları",
+              "E": "Borsa İstanbul İşleyiş Kuralları"
             },
             "dogruCevap": "A",
             "cozum": "Bu soru ilgili dersin resmi müfredat kapsamını temel almaktadır."
@@ -3220,10 +3220,10 @@ const splVeritabani = [
             "secenekler": {
               "A": "Monopol dengesi",
               "B": "Firma maliyeti",
-              "C": "Tüketici faydası",
-              "D": "Milli gelir seviyesi"
+              "C": "Milli gelir seviyesi",
+              "D": "Tüketici faydası"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
@@ -3242,24 +3242,24 @@ const splVeritabani = [
             "id": "1008_t1_3",
             "soru": "Aşağıdakilerden hangisi kayıtsızlık eğrilerinin özelliklerinden birisi değildir?",
             "secenekler": {
-              "A": "Orijine göre dış bükeydirler",
-              "B": "Eğriler birbirini kesmezler",
-              "C": "Orijine yaklaştıkça daha yüksek faydayı ifade ederler",
+              "A": "Orijine yaklaştıkça daha yüksek faydayı ifade ederler",
+              "B": "Orijine göre dış bükeydirler",
+              "C": "Eğriler birbirini kesmezler",
               "D": "Negatif eğimlidirler"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
             "id": "1008_t1_4",
             "soru": "Kayıtsızlık eğrisinin dikey ve yatay ekseninde aşağıdakilerden hangileri yer almaktadır?",
             "secenekler": {
-              "A": "Malın fiyatı ve malın tüketim miktarı",
-              "B": "Malın fiyatı ve malın faydası",
-              "C": "Malların üretim miktarları",
-              "D": "Malların tüketim miktarları"
+              "A": "Malların tüketim miktarları",
+              "B": "Malın fiyatı ve malın tüketim miktarı",
+              "C": "Malın fiyatı ve malın faydası",
+              "D": "Malların üretim miktarları"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
@@ -3267,11 +3267,11 @@ const splVeritabani = [
             "soru": "Kayıtsızlık (farksızlık) eğrisinin orijine göre dış bükey olmasının nedeni aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Azalan marjinal fayda",
-              "B": "Azalan marjinal teknik ikame oranı",
-              "C": "Azalan marjinal ikame oranı",
-              "D": "Fırsat maliyeti"
+              "B": "Fırsat maliyeti",
+              "C": "Azalan marjinal teknik ikame oranı",
+              "D": "Azalan marjinal ikame oranı"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
@@ -3279,23 +3279,23 @@ const splVeritabani = [
             "soru": "Tam tamamlayıcı malların kayıtsızlık eğrisinin şekli aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Negatif eğimli ve iki ekseni kesen bir eğridir",
-              "B": "Yatay eksene paralel bir eğridir",
-              "C": "L şeklindedir",
+              "B": "L şeklindedir",
+              "C": "Yatay eksene paralel bir eğridir",
               "D": "Dikey eksene paralel bir eğridir"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
             "id": "1008_t1_7",
             "soru": "Girdilerdeki %10’luk artışa karşılık üretim %25 artıyorsa aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Ölçeğe göre sabit verim vardır",
-              "B": "Ölçeğe göre artan verim vardır",
+              "A": "Ölçeğe göre azalan verim vardır",
+              "B": "Ölçeğe göre sabit verim vardır",
               "C": "Maliyetlerde azalma vardır",
-              "D": "Ölçeğe göre azalan verim vardır"
+              "D": "Ölçeğe göre artan verim vardır"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
@@ -3303,8 +3303,8 @@ const splVeritabani = [
             "soru": "Üretimde kullanılan değişken girdi miktarı 2 birimden 3 birime çıktığında, toplam ürün 50 birimden 200 birime çıkarsa marjinal ürün miktarı kaç olur?",
             "secenekler": {
               "A": "150",
-              "B": "75",
-              "C": "100",
+              "B": "100",
+              "C": "75",
               "D": "40"
             },
             "dogruCevap": "A",
@@ -3315,23 +3315,23 @@ const splVeritabani = [
             "soru": "Tam rekabet piyasasında uzun dönemde normal kar oluşmasının asıl nedeni aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Atomisite",
-              "B": "Mobilite",
-              "C": "Homojenlik",
-              "D": "Şeffaflık"
+              "B": "Şeffaflık",
+              "C": "Mobilite",
+              "D": "Homojenlik"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
             "id": "1008_t1_10",
             "soru": "Aşağıdakilerden hangisi talep eğrisi üzerinde bir harekete neden olur?",
             "secenekler": {
-              "A": "Gelirin artması",
-              "B": "Malın fiyatının değişmesi",
+              "A": "Malın fiyatının değişmesi",
+              "B": "Maliyetlerin artması",
               "C": "Teknolojik gelişmeler",
-              "D": "Maliyetlerin artması"
+              "D": "Gelirin artması"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
@@ -3339,47 +3339,47 @@ const splVeritabani = [
             "soru": "Bir malın fiyatı 400 birimden 600 birime çıktığında talep edilen miktarı 1000 birimden 500 birime düşmektedir. Yay esnekliği formülüne göre talebin fiyat esnekliği kaçtır?",
             "secenekler": {
               "A": "5/3",
-              "B": "-5/3",
-              "C": "3/5",
-              "D": "-3/5"
+              "B": "3/5",
+              "C": "-3/5",
+              "D": "-5/3"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "D",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
             "id": "1008_t1_12",
             "soru": "Toplam faydanın maksimum olduğu seviye için aşağıdaki bilgilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Ortalama fayda en düşük seviyesindedir",
-              "B": "Marjinal fayda minimum seviyesindedir",
-              "C": "Marjinal fayda sıfırdır",
-              "D": "Ortalama fayda sıfırdır"
+              "A": "Ortalama fayda sıfırdır",
+              "B": "Marjinal fayda sıfırdır",
+              "C": "Ortalama fayda en düşük seviyesindedir",
+              "D": "Marjinal fayda minimum seviyesindedir"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
             "id": "1008_t1_13",
             "soru": "Aşağıdaki mal gruplarından hangisi tamamlayıcı mallara örnektir?",
             "secenekler": {
-              "A": "Kırmızı et-beyaz et",
+              "A": "Elma-armut",
               "B": "Çay-kahve",
-              "C": "Elma-armut",
-              "D": "Araba-benzin"
+              "C": "Araba-benzin",
+              "D": "Kırmızı et-beyaz et"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
             "id": "1008_t1_14",
             "soru": "Aşağıdaki üretim faktörü ve geliri eşleştirmelerinden hangisi yanlıştır?",
             "secenekler": {
-              "A": "Sermaye-rant",
-              "B": "Emek-ücret",
+              "A": "Girişimci-kar",
+              "B": "Sermaye-rant",
               "C": "Sermaye-faiz",
-              "D": "Girişimci-kar"
+              "D": "Emek-ücret"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
@@ -3387,11 +3387,11 @@ const splVeritabani = [
             "soru": "Üretim olanakları eğrisinin iç kısmında yer alan bir nokta için aşağıdakilerden hangisi söylenebilir?",
             "secenekler": {
               "A": "Üretim tam kapasite çalışmaktadır",
-              "B": "Üretim faktörleri yetersiz kalmıştır",
-              "C": "Denge sağlanmıştır",
+              "B": "Denge sağlanmıştır",
+              "C": "Üretim faktörleri yetersiz kalmıştır",
               "D": "Üretim faktörleri eksik üretim yapmaktadır"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
@@ -3399,23 +3399,23 @@ const splVeritabani = [
             "soru": "Bireyin gelirinin arttığı bir durumda denge miktar ve denge fiyat hakkında aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
               "A": "Talep azalır",
-              "B": "Malın denge fiyat seviyesi değişmez",
-              "C": "Malın denge fiyatı yükselir",
-              "D": "Arz azalır"
+              "B": "Arz azalır",
+              "C": "Malın denge fiyat seviyesi değişmez",
+              "D": "Malın denge fiyatı yükselir"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "D",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           },
           {
             "id": "1008_t1_17",
             "soru": "Üretim maliyetlerinin arttığı bir durumda denge miktar ve denge fiyat hakkında aşağıdakilerden hangisi gerçekleşir?",
             "secenekler": {
-              "A": "Arz eğrisi sola kayar",
-              "B": "Arz eğrisi değişmez",
-              "C": "Malın denge fiyatı düşer",
-              "D": "Talep artar"
+              "A": "Malın denge fiyatı düşer",
+              "B": "Arz eğrisi sola kayar",
+              "C": "Talep artar",
+              "D": "Arz eğrisi değişmez"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
           }
         ]
@@ -3429,12 +3429,12 @@ const splVeritabani = [
             "id": "1008_t2_1",
             "soru": "Talep eğrisinin dikey eksene paralel olduğu bir durumda aşağıdakilerden hangisi söylenebilir?",
             "secenekler": {
-              "A": "Talep eğrisi tam inelastiktir",
+              "A": "Talep sonsuz esnektir.",
               "B": "Talep eğrisi fiyat artışlarına oldukça duyarlıdır",
               "C": "Talep birim esnektir",
-              "D": "Talep sonsuz esnektir."
+              "D": "Talep eğrisi tam inelastiktir"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
@@ -3442,47 +3442,47 @@ const splVeritabani = [
             "soru": "Tam rekabet piyasası ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Kısa dönem ve uzun dönem firma dengeleri farklıdır",
-              "B": "Üretici ve tüketicilerin fiyat üzerinde kontrolleri yoktur",
-              "C": "Marjinal maliyet eğrisi yatay eksene paraleldir.",
-              "D": "Denge koşulu MC=P=MR dir"
+              "B": "Marjinal maliyet eğrisi yatay eksene paraleldir.",
+              "C": "Denge koşulu MC=P=MR dir",
+              "D": "Üretici ve tüketicilerin fiyat üzerinde kontrolleri yoktur"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
             "id": "1008_t2_3",
             "soru": "Aşağıdakilerden hangisi monopol piyasası hakkında yanlış bir bilgidir?",
             "secenekler": {
-              "A": "Tek satıcı, çok sayıda alıcı vardır",
-              "B": "Piyasaya girişte engeller bulunmaktadır",
-              "C": "Üretilen malın yakın ikamesi vardır",
-              "D": "Marjinal gelir eğrisi ortalama gelir eğrisinin altındadır"
+              "A": "Marjinal gelir eğrisi ortalama gelir eğrisinin altındadır",
+              "B": "Tek satıcı, çok sayıda alıcı vardır",
+              "C": "Piyasaya girişte engeller bulunmaktadır",
+              "D": "Üretilen malın yakın ikamesi vardır"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
             "id": "1008_t2_4",
             "soru": "Aşağıdakilerden hangisi monopolcü rekabet piyasası hakkında yanlış bir bilgidir?",
             "secenekler": {
-              "A": "Monopol ve tam rekabet piyasasının özelliklerini taşır",
-              "B": "Piyasada çok satıcı tek alıcı vardır",
-              "C": "Ürün farklılaştırılması yapılır",
-              "D": "Piyasaya giriş çıkış serbesttir"
+              "A": "Ürün farklılaştırılması yapılır",
+              "B": "Piyasaya giriş çıkış serbesttir",
+              "C": "Piyasada çok satıcı tek alıcı vardır",
+              "D": "Monopol ve tam rekabet piyasasının özelliklerini taşır"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
             "id": "1008_t2_5",
             "soru": "Aşağıdakilerden hangisi oligopol piyasası hakkında doğru bir bilgidir?",
             "secenekler": {
-              "A": "Piyasaya giriş-çıkış serbesttir",
-              "B": "Çok alıcı çok satıcı bulunmaktadır",
-              "C": "Sadece homojen ürün üretilir",
+              "A": "Çok alıcı çok satıcı bulunmaktadır",
+              "B": "Sadece homojen ürün üretilir",
+              "C": "Piyasaya giriş-çıkış serbesttir",
               "D": "Anlaşma yapan firmalar tröst oluşturur"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
@@ -3490,9 +3490,9 @@ const splVeritabani = [
             "soru": "Bir malın fiyatı 8 liradan 16 liraya çıktığında talep miktarı 20 birimden 10 birime düşmüştür. Bu malın talebinin fiyat esnekliği kaçtır?",
             "secenekler": {
               "A": "-0,5",
-              "B": "0,5",
-              "C": "1",
-              "D": "0"
+              "B": "0",
+              "C": "0,5",
+              "D": "1"
             },
             "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
@@ -3501,9 +3501,9 @@ const splVeritabani = [
             "id": "1008_t2_7",
             "soru": "Üretici dengesi hangi iki eğrinin teğet olduğu noktada gerçekleşmektedir?",
             "secenekler": {
-              "A": "Talep Eğrisi – Arz Eğrisi",
-              "B": "Eş ürün Eğrisi – Kayıtsızlık Eğrisi",
-              "C": "Eş Maliyet Doğrusu – Bütçe Doğrusu",
+              "A": "Eş Maliyet Doğrusu – Bütçe Doğrusu",
+              "B": "Talep Eğrisi – Arz Eğrisi",
+              "C": "Eş ürün Eğrisi – Kayıtsızlık Eğrisi",
               "D": "Eş Ürün Eğrisi – Eş Maliyet Doğrusu"
             },
             "dogruCevap": "D",
@@ -3514,35 +3514,35 @@ const splVeritabani = [
             "soru": "Tüketici dengesi hangi iki eğrinin teğet olduğu noktada gerçekleşmektedir?",
             "secenekler": {
               "A": "Talep Eğrisi – Arz Eğrisi",
-              "B": "Bütçe Doğrusu – Kayıtsızlık Eğrisi",
+              "B": "Eş Ürün Eğrisi – Eş Maliyet Doğrusu",
               "C": "Eş Maliyet Doğrusu – Bütçe Doğrusu",
-              "D": "Eş Ürün Eğrisi – Eş Maliyet Doğrusu"
+              "D": "Bütçe Doğrusu – Kayıtsızlık Eğrisi"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "D",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
             "id": "1008_t2_9",
             "soru": "Sermaye ve emek gücü arasındaki ikame ilişkisini gösteren eş ürün eğrisinin eğimi aşağıdakilerden hangisine eşittir?",
             "secenekler": {
-              "A": "Marjinal Dönüşüm Oranı",
-              "B": "Marjinal Maliyet",
-              "C": "Marjinal Teknik İkame Oranı",
-              "D": "Marjinal İkame Oranı"
+              "A": "Marjinal Teknik İkame Oranı",
+              "B": "Marjinal İkame Oranı",
+              "C": "Marjinal Dönüşüm Oranı",
+              "D": "Marjinal Maliyet"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
             "id": "1008_t2_10",
             "soru": "Talep eğrisi aşağıdaki gibi olan bir ürünün, miktarının 40 birim olduğu noktada fiyat esnekliği nedir? 𝑄= 20𝑃−2",
             "secenekler": {
-              "A": "-1",
-              "B": "+1",
-              "C": "-2",
-              "D": "+2"
+              "A": "+2",
+              "B": "-2",
+              "C": "-1",
+              "D": "+1"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
@@ -3551,34 +3551,34 @@ const splVeritabani = [
             "secenekler": {
               "A": "Y malının fiyatı azaldığında X malına olan talep artacağından X ve Y malları tamamlayıcı",
               "B": "Y malının fiyatı artığında X malına olan talep artacağından X ve Y malları tamamlayıcı",
-              "C": "Y malının fiyatı azaldığında X malına olan talep artacağından X ve Y malları ikame mallardır.",
-              "D": "Y malının fiyatı arttığında X malına olan talep artacağından X ve Y malları ikame mallardır."
+              "C": "Y malının fiyatı arttığında X malına olan talep artacağından X ve Y malları ikame mallardır.",
+              "D": "Y malının fiyatı azaldığında X malına olan talep artacağından X ve Y malları ikame mallardır."
             },
-            "dogruCevap": "D",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
             "id": "1008_t2_12",
             "soru": "İKİNCİ BÖLÜM SORULARI 1. Aşağıdakilerden hangisi paranın fonksiyonlarından birisi değildir?",
             "secenekler": {
-              "A": "Değişim aracı olma",
+              "A": "Standart olma",
               "B": "Değer muhafaza aracı olma",
               "C": "Hesap birimi olma",
-              "D": "Standart olma"
+              "D": "Değişim aracı olma"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
             "id": "1008_t2_13",
             "soru": "Aşağıdakilerden hangisi parada olması gereken özelliklerden birisi değildir?",
             "secenekler": {
-              "A": "Taklit edilmemelidir",
-              "B": "Genel kabul görmelidir",
-              "C": "Bölünebilir olmamalıdır",
+              "A": "Genel kabul görmelidir",
+              "B": "Bölünebilir olmamalıdır",
+              "C": "Taklit edilmemelidir",
               "D": "Dayanıklı olmalıdır"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
@@ -3586,8 +3586,8 @@ const splVeritabani = [
             "soru": "“Kötü para iyi parayı kovar” temelindeki görüş aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Gresham Kanunu",
-              "B": "Keynes Kanunu",
-              "C": "Monetarist Kanunu",
+              "B": "Monetarist Kanunu",
+              "C": "Keynes Kanunu",
               "D": "Lorenz Kanunu"
             },
             "dogruCevap": "A",
@@ -3597,36 +3597,36 @@ const splVeritabani = [
             "id": "1008_t2_15",
             "soru": "I- Parayı talep eden kişi sayısı II- Ödeme sistemlerinin değişmesi III- Faiz oranları Yukarıdakilerden hangileri para talebini etkileyen faktörlerdendir?",
             "secenekler": {
-              "A": "Yalnız I",
-              "B": "I-III",
-              "C": "II-III",
-              "D": "I-II-III"
+              "A": "II-III",
+              "B": "I-II-III",
+              "C": "I-III",
+              "D": "Yalnız I"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
             "id": "1008_t2_16",
             "soru": "Aşağıdaki bilgilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Cambridge Yaklaşımı’na göre servet tutma isteği para talebini etkilemektedir",
-              "B": "Miktar Teorisi’ne göre para talebi işlem, ihtiyat ve spekülasyon güdüleri ile belirlenmektedir",
+              "A": "Miktar Teorisi’ne göre para talebi işlem, ihtiyat ve spekülasyon güdüleri ile belirlenmektedir",
+              "B": "İhtiyat güdüsü günlük yaşamın ihtiyaçları için talep edilen para miktarını ifade eder",
               "C": "Miktar Teorisi’ne göre paranın dolaşım hızı sabit değildir",
-              "D": "İhtiyat güdüsü günlük yaşamın ihtiyaçları için talep edilen para miktarını ifade eder"
+              "D": "Cambridge Yaklaşımı’na göre servet tutma isteği para talebini etkilemektedir"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           },
           {
             "id": "1008_t2_17",
             "soru": "Likidite Tuzağı ile ilgili aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Marshall ve Pigou tarafından geliştirilmiştir",
-              "B": "Faiz oranları en düşük seviyede iken para talebi sonsuz esnektir",
-              "C": "Faiz oranları en düşük seviyede iken tahvil alımları devam eder",
-              "D": "Milton Friedman tarafından geliştirilmiştir"
+              "A": "Faiz oranları en düşük seviyede iken tahvil alımları devam eder",
+              "B": "Milton Friedman tarafından geliştirilmiştir",
+              "C": "Faiz oranları en düşük seviyede iken para talebi sonsuz esnektir",
+              "D": "Marshall ve Pigou tarafından geliştirilmiştir"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
           }
         ]
@@ -3640,12 +3640,12 @@ const splVeritabani = [
             "id": "1008_t3_1",
             "soru": "Modern Miktar Teorisi’ne göre aşağıdaki bilgilerden hangisi yanlıştır?",
             "secenekler": {
-              "A": "Enflasyon beklentileri para talebini etkiler",
-              "B": "Faiz oranları para talebini etkiler",
-              "C": "Beşerî sermaye para talebini etkilemez",
-              "D": "Monetarist Para Talebi teorisidir"
+              "A": "Faiz oranları para talebini etkiler",
+              "B": "Monetarist Para Talebi teorisidir",
+              "C": "Enflasyon beklentileri para talebini etkiler",
+              "D": "Beşerî sermaye para talebini etkilemez"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "D",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           },
           {
@@ -3653,35 +3653,35 @@ const splVeritabani = [
             "soru": "Aşağıdakilerden hangisi Merkez Bankası’nın görevlerinden değildir?",
             "secenekler": {
               "A": "Banknot ve para basmak",
-              "B": "Altın ve döviz rezervi bulundurmak",
-              "C": "Yerli paranın değerini korumak",
-              "D": "Madeni para basmak"
+              "B": "Madeni para basmak",
+              "C": "Altın ve döviz rezervi bulundurmak",
+              "D": "Yerli paranın değerini korumak"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           },
           {
             "id": "1008_t3_3",
             "soru": "Aşağıdakilerden hangisi ekonomi politikasının araçlarından biri değildir?",
             "secenekler": {
-              "A": "Para politikası",
-              "B": "Tam istihdam politikası",
+              "A": "Tam istihdam politikası",
+              "B": "Dış ticaret politikaları",
               "C": "Maliye politikası",
-              "D": "Dış ticaret politikaları"
+              "D": "Para politikası"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           },
           {
             "id": "1008_t3_4",
             "soru": "Aşağıdakilerden hangisi para politikasının araçlarından değildir?",
             "secenekler": {
-              "A": "Reeskont oranı",
-              "B": "Açık piyasa işlemleri",
-              "C": "Zorunlu karşılıklar",
-              "D": "İç borçlanma"
+              "A": "İç borçlanma",
+              "B": "Zorunlu karşılıklar",
+              "C": "Açık piyasa işlemleri",
+              "D": "Reeskont oranı"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           },
           {
@@ -3689,9 +3689,9 @@ const splVeritabani = [
             "soru": "Aşağıdaki bilgilerden hangisi doğru değildir?",
             "secenekler": {
               "A": "Genişletici para politikaları, faiz oranlarını yükseltir",
-              "B": "Yüksek enflasyon varsa daraltıcı para politikaları uygulanır",
+              "B": "Genişletici para politikalarında para arzı arttırılır",
               "C": "Daraltıcı para politikaları, bireyleri tasarruf yapmaya yönlendirir",
-              "D": "Genişletici para politikalarında para arzı arttırılır"
+              "D": "Yüksek enflasyon varsa daraltıcı para politikaları uygulanır"
             },
             "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
@@ -3701,8 +3701,8 @@ const splVeritabani = [
             "soru": "Keynesyen para talebi teorisine göre aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Ekonomik birimler işlem saikiyle para talep ederler",
-              "B": "Ekonomik birimler ihtiyat saikiyle para talep ederler",
-              "C": "Ekonomik birimler spekülasyon saikiyle para talep ederler",
+              "B": "Ekonomik birimler spekülasyon saikiyle para talep ederler",
+              "C": "Ekonomik birimler ihtiyat saikiyle para talep ederler",
               "D": "Para talebi faiz oranlarının ve gelirin negatif bir fonksiyonudur"
             },
             "dogruCevap": "D",
@@ -3712,10 +3712,10 @@ const splVeritabani = [
             "id": "1008_t3_7",
             "soru": "Taylor Kuralı ile ilgili aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
-              "A": "Reel faiz oranı arttıkça nominal faiz oranı da artar",
-              "B": "Enflasyon arttıkça nominal faiz oranı da artar",
+              "A": "Gerçekleşen milli hasıla potansiyel milli hasılanın üzerindeyse nominal faiz oranı artar",
+              "B": "Reel faiz oranı arttıkça nominal faiz oranı da artar",
               "C": "Gerçekleşen enflasyon beklenen enflasyonun altında kaldıysa nominal faiz oranı artar",
-              "D": "Gerçekleşen milli hasıla potansiyel milli hasılanın üzerindeyse nominal faiz oranı artar"
+              "D": "Enflasyon arttıkça nominal faiz oranı da artar"
             },
             "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
@@ -3724,58 +3724,58 @@ const splVeritabani = [
             "id": "1008_t3_8",
             "soru": "Merkez bankası bağımsızlığıyla ilgili aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
-              "A": "Bağımsızlık için amaç bağımsızlığı şarttır",
+              "A": "Merkez bankası tarafından birincil piyasadan devlet iç borçlanma senedi alınmasının kanunen",
               "B": "Bağımsızlığın önemli bir göstergesi araç bağımsızlığıdır",
-              "C": "Merkez bankası tarafından birincil piyasadan devlet iç borçlanma senedi alınmasının kanunen",
-              "D": "Araç bağımsızlığının diğer bir ismi de fonksiyonel bağımsızlıktır."
+              "C": "Araç bağımsızlığının diğer bir ismi de fonksiyonel bağımsızlıktır.",
+              "D": "Bağımsızlık için amaç bağımsızlığı şarttır"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           },
           {
             "id": "1008_t3_9",
             "soru": "Repo ve ters repoya ilişkin aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
-              "A": "Bir menkul kıymetin işlem başlangıç valöründe satılıp, bitiş tarihinde geri alınmasına repo",
-              "B": "Repo yapan işlem tarihinde menkul kıymeti ihraç eden veya satandır",
-              "C": "Repo yapan fon arz edendir.",
-              "D": "Ters repoda bir menkul kıymet işlem tarihinde alınıp, bitiş valöründe ise satılır."
+              "A": "Repo yapan işlem tarihinde menkul kıymeti ihraç eden veya satandır",
+              "B": "Ters repoda bir menkul kıymet işlem tarihinde alınıp, bitiş valöründe ise satılır.",
+              "C": "Bir menkul kıymetin işlem başlangıç valöründe satılıp, bitiş tarihinde geri alınmasına repo",
+              "D": "Repo yapan fon arz edendir."
             },
-            "dogruCevap": "C",
+            "dogruCevap": "D",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           },
           {
             "id": "1008_t3_10",
             "soru": "Fisher Para Talep Teorisine göre aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Fiyatlar genel düzeyi aşağı ve yukarı yönlü esnektir.",
-              "B": "Paranın dolaşım hızı kısa dönemde değişkendir",
+              "A": "Paranın dolaşım hızı kısa dönemde değişkendir",
+              "B": "Para arzındaki artış üretim düzeyini de arttıracaktır",
               "C": "Kısa dönemde nominal para arzındaki bir artış veya azalış fiyatlar genel düzeyine birebir",
-              "D": "Para arzındaki artış üretim düzeyini de arttıracaktır"
+              "D": "Fiyatlar genel düzeyi aşağı ve yukarı yönlü esnektir."
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           },
           {
             "id": "1008_t3_11",
             "soru": "Cambridge Para Talep Teorisi’ne göre aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
-              "A": "A.C. Pigou tarafından ortaya atılmıştır",
-              "B": "Kısa dönemde paranın dolaşım hızı ve milli gelir sabittir",
-              "C": "Kısa dönemde para arzındaki değişiklikler birebir fiyatlara yansır",
-              "D": "Para talebinin temel nedenlerinden biri spekülasyon saikidir."
+              "A": "Kısa dönemde paranın dolaşım hızı ve milli gelir sabittir",
+              "B": "A.C. Pigou tarafından ortaya atılmıştır",
+              "C": "Para talebinin temel nedenlerinden biri spekülasyon saikidir.",
+              "D": "Kısa dönemde para arzındaki değişiklikler birebir fiyatlara yansır"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           },
           {
             "id": "1008_t3_12",
             "soru": "ÜÇÜNCÜ BÖLÜM SORULARI 1. Maliye politikalarıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Enflasyon halinde genişletici maliye politikaları uygulanmalıdır",
+              "A": "Daraltıcı maliye politikalarının işsizlik oranını düşürücü etkisi vardır",
               "B": "Vergi oranlarının azaltılması, genişletici maliye politikası uygulamasıdır",
               "C": "Faiz oranları, uygulanan maliye politikalarından etkilenmez",
-              "D": "Daraltıcı maliye politikalarının işsizlik oranını düşürücü etkisi vardır"
+              "D": "Enflasyon halinde genişletici maliye politikaları uygulanmalıdır"
             },
             "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
@@ -3784,60 +3784,60 @@ const splVeritabani = [
             "id": "1008_t3_13",
             "soru": "Aşağıdakilerden hangisi Klasik ekonomistlerin görüşlerinden biri değildir?",
             "secenekler": {
-              "A": "Müdahale olmaksızın piyasa sorunları ortadan kalkabilir",
-              "B": "Tüm piyasalarda tam rekabet piyasası koşulları geçerlidir",
-              "C": "Bütçe denkliğini sağlamak mümkün değildir",
-              "D": "Para ve maliye politikalarının etkinliği sınırlıdır"
+              "A": "Para ve maliye politikalarının etkinliği sınırlıdır",
+              "B": "Bütçe denkliğini sağlamak mümkün değildir",
+              "C": "Müdahale olmaksızın piyasa sorunları ortadan kalkabilir",
+              "D": "Tüm piyasalarda tam rekabet piyasası koşulları geçerlidir"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           },
           {
             "id": "1008_t3_14",
             "soru": "Monetarist görüşe göre hangisi söylenemez?",
             "secenekler": {
-              "A": "Para politikası uygulamalarında önemli olan para arzını kontrol etmektir",
-              "B": "Para kısa dönemde nötrdür",
-              "C": "Nominal gelir düzeyi para miktarıyla doğrudan ilişkilidir",
-              "D": "Para arzı arttığında nominal GSYH artar"
+              "A": "Nominal gelir düzeyi para miktarıyla doğrudan ilişkilidir",
+              "B": "Para arzı arttığında nominal GSYH artar",
+              "C": "Para politikası uygulamalarında önemli olan para arzını kontrol etmektir",
+              "D": "Para kısa dönemde nötrdür"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           },
           {
             "id": "1008_t3_15",
             "soru": "Keynesyen görüşe göre aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
-              "A": "Devletin ekonomiye müdahalesi gereklidir",
+              "A": "Fiyat ve ücretler esnektir",
               "B": "Toplam talebe yönelik müdahalelerde bulunulmalıdır",
-              "C": "Fiyat ve ücretler esnektir",
-              "D": "Ekonomi eksik istihdamdadır"
+              "C": "Ekonomi eksik istihdamdadır",
+              "D": "Devletin ekonomiye müdahalesi gereklidir"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           },
           {
             "id": "1008_t3_16",
             "soru": "IS-LM analizine göre genişletici para politikasının uygulandığı durumda aşağıdakilerden hangisi gerçekleşmez?",
             "secenekler": {
-              "A": "LM eğrisi sağa kayar",
-              "B": "IS eğrisi değişmez",
-              "C": "Yeni denge noktasında milli gelir değişmez",
+              "A": "IS eğrisi değişmez",
+              "B": "Yeni denge noktasında milli gelir değişmez",
+              "C": "LM eğrisi sağa kayar",
               "D": "Faiz oranları azalır"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           },
           {
             "id": "1008_t3_17",
             "soru": "IS-LM analizine göre vergi oranları arttırıldığında aşağıdakilerden hangisi gerçekleşmez?",
             "secenekler": {
-              "A": "IS eğrisi sola kayar",
+              "A": "Faiz oranı düşer",
               "B": "Milli gelir düşer",
-              "C": "Faiz oranı düşer",
-              "D": "LM eğrisi sağa kayar"
+              "C": "LM eğrisi sağa kayar",
+              "D": "IS eğrisi sola kayar"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
           }
         ]
@@ -3851,24 +3851,24 @@ const splVeritabani = [
             "id": "1008_t4_1",
             "soru": "Gelirinin %80’ini tüketime ayıran bir tüketici için transfer harcamalarında görülen 500 birimlik bir artış gelir düzeyini kaç birim arttırır?",
             "secenekler": {
-              "A": "400",
+              "A": "2000",
               "B": "500",
               "C": "1000",
-              "D": "2000"
+              "D": "400"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
             "id": "1008_t4_2",
             "soru": "Politika etkisizliği kavramı hangi iktisadi yaklaşım için geçerlidir?",
             "secenekler": {
-              "A": "Monetarist Yaklaşım",
-              "B": "Yeni Klasik Yaklaşım",
+              "A": "Yeni Keynesyen Yaklaşım",
+              "B": "Monetarist Yaklaşım",
               "C": "Keynesyen Yaklaşım",
-              "D": "Yeni Keynesyen Yaklaşım"
+              "D": "Yeni Klasik Yaklaşım"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
@@ -3876,11 +3876,11 @@ const splVeritabani = [
             "soru": "Aşağıdakilerden hangisi maliye politikasının amaçları arasında değildir?",
             "secenekler": {
               "A": "Ekonomik İstikrar",
-              "B": "Adil Gelir Dağılımı",
-              "C": "Ekonomik Büyüme ve Kalkınma",
-              "D": "Faiz Oranı İstikrarı"
+              "B": "Faiz Oranı İstikrarı",
+              "C": "Adil Gelir Dağılımı",
+              "D": "Ekonomik Büyüme ve Kalkınma"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
@@ -3889,8 +3889,8 @@ const splVeritabani = [
             "secenekler": {
               "A": "IS eğrisi üzerindeki noktalarda yatırım-tasarruf eşitliği söz konusudur.",
               "B": "IS eğrisinin solundaki noktalarda mal arz fazlası vardır.",
-              "C": "IS eğrisi mal piyasalarında dengeyi sağlayan gelir-faiz haddi bileşimlerinin geometrik yeridir.",
-              "D": "IS eğrisi genişletici maliye politikası sonucunda sağa kayar"
+              "C": "IS eğrisi genişletici maliye politikası sonucunda sağa kayar",
+              "D": "IS eğrisi mal piyasalarında dengeyi sağlayan gelir-faiz haddi bileşimlerinin geometrik yeridir."
             },
             "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
@@ -3899,60 +3899,60 @@ const splVeritabani = [
             "id": "1008_t4_5",
             "soru": "Harcama çarpanı ile ilgili aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Marjinal tüketim eğiliminin artması haracama çarpanını arttırır",
+              "A": "Marjinal ithalat eğiliminin artması harcama çarpanını arttırır",
               "B": "Marjinal vergi haddinin azalması harcama çarpanını azaltır",
-              "C": "Marjinal ithalat eğiliminin artması harcama çarpanını arttırır",
-              "D": "Otonom tüketim miktarının artması harcama çarpanını arttırır"
+              "C": "Otonom tüketim miktarının artması harcama çarpanını arttırır",
+              "D": "Marjinal tüketim eğiliminin artması haracama çarpanını arttırır"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
             "id": "1008_t4_6",
             "soru": "DÖRDÜNCÜ BÖLÜM SORULARI 1. Aşağıdaki faktörlerden hangisi kişi başına düşen GSYH’yi etkilememektedir?",
             "secenekler": {
-              "A": "Nüfus yapısı",
-              "B": "Kayıt dışı ekonomi",
-              "C": "Otonom yatırım",
-              "D": "Kaynakların etkin dağılımı"
+              "A": "Otonom yatırım",
+              "B": "Kaynakların etkin dağılımı",
+              "C": "Kayıt dışı ekonomi",
+              "D": "Nüfus yapısı"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
             "id": "1008_t4_7",
             "soru": "Aşağıdakilerden hangisi kamu gelirleri arasında gösterilemez?",
             "secenekler": {
-              "A": "Sübvansiyonlar",
-              "B": "Vergiler",
-              "C": "Borçlanma",
-              "D": "Vergi cezaları"
+              "A": "Vergiler",
+              "B": "Borçlanma",
+              "C": "Vergi cezaları",
+              "D": "Sübvansiyonlar"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "D",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
             "id": "1008_t4_8",
             "soru": "Aşağıdakilerden hangisi kamu giderleri arasında gösterilemez?",
             "secenekler": {
-              "A": "Cari harcamalar",
-              "B": "Transfer harcamaları",
+              "A": "Değişken harcamalar",
+              "B": "Cari harcamalar",
               "C": "Yatırım harcamaları",
-              "D": "Değişken harcamalar"
+              "D": "Transfer harcamaları"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
             "id": "1008_t4_9",
             "soru": "Aşağıdakilerden hangisi TCMB rezervlerinin piyasadaki rolü hakkında yanlış bir bilgidir?",
             "secenekler": {
-              "A": "Merkez Bankasına manevra alanı sağlar",
-              "B": "Likidite yetersizliklerine kaynaktırlar",
-              "C": "Döviz Kuru hedefleri doğrultusunda kullanılabilirler",
+              "A": "Döviz Kuru hedefleri doğrultusunda kullanılabilirler",
+              "B": "Merkez Bankasına manevra alanı sağlar",
+              "C": "Likidite yetersizliklerine kaynaktırlar",
               "D": "İç dengeyi bozucu etkileri bulunmaktadır"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
@@ -3961,22 +3961,22 @@ const splVeritabani = [
             "secenekler": {
               "A": "Amortismanlar",
               "B": "Transfer Ödemeleri",
-              "C": "Dış Alem Net Faktör Gelirleri",
-              "D": "Kurumlar Vergisi"
+              "C": "Kurumlar Vergisi",
+              "D": "Dış Alem Net Faktör Gelirleri"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "D",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
             "id": "1008_t4_11",
             "soru": "Bir ekonomideki tüm üretim faktörlerinin tam kullanım kapasiteleri doğrultusunda istihdam edilmesi ile ulaşılabilecek çıktının ifadesi aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Fiili GSYH",
+              "A": "Reel GSYH",
               "B": "Nominal GSYH",
-              "C": "Reel GSYH",
+              "C": "Fiili GSYH",
               "D": "Potansiyel GSYH"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
@@ -3984,11 +3984,11 @@ const splVeritabani = [
             "soru": "Aşağıdakilerden hangisi milli gelirin tam olarak yansıtamadığı konulardan birisi değildir?",
             "secenekler": {
               "A": "Çevre sorunları",
-              "B": "Üretim faktörlerinin geliri",
-              "C": "Kayıt dışı ekonomi",
+              "B": "Kayıt dışı ekonomi",
+              "C": "Üretim faktörlerinin geliri",
               "D": "Ürün kalitesindeki gelişmeler"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
@@ -3997,58 +3997,58 @@ const splVeritabani = [
             "secenekler": {
               "A": "Teknolojik gelişmeler",
               "B": "Faiz oranı",
-              "C": "Beklenti ve tahminler",
-              "D": "Otonom Tüketim"
+              "C": "Otonom Tüketim",
+              "D": "Beklenti ve tahminler"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
             "id": "1008_t4_14",
             "soru": "Daha fazla paranın daha az malı kovaladığı enflasyon türü aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Talep Enflasyonu",
-              "B": "Hiperenflasyon",
-              "C": "Arz enflasyonu",
-              "D": "Ilımlı enflasyon"
+              "A": "Ilımlı enflasyon",
+              "B": "Arz enflasyonu",
+              "C": "Talep Enflasyonu",
+              "D": "Hiperenflasyon"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
             "id": "1008_t4_15",
             "soru": "Aşağıdakilerden hangisi doğal işsizlik oranını etkileyen faktörlerden birisi değildir?",
             "secenekler": {
-              "A": "Demografik değişimler",
-              "B": "Arz şokları",
-              "C": "Maliyet analizi",
-              "D": "Devlet politikaları"
+              "A": "Devlet politikaları",
+              "B": "Maliyet analizi",
+              "C": "Demografik değişimler",
+              "D": "Arz şokları"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
             "id": "1008_t4_16",
             "soru": "Eksik talep işsizliği olarak da bilinen işsizlik türü aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Konjonktürel İşsizlik",
-              "B": "Reel Ücret İşsizliği",
-              "C": "Friksiyonel İşsizlik",
-              "D": "Doğal İşsizlik"
+              "A": "Doğal İşsizlik",
+              "B": "Konjonktürel İşsizlik",
+              "C": "Reel Ücret İşsizliği",
+              "D": "Friksiyonel İşsizlik"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           },
           {
             "id": "1008_t4_17",
             "soru": "Gini katsayısı ile ilgili olarak şağıdakilerden hangisi yanlıştır?",
             "secenekler": {
-              "A": "Gini katsayısı 0’a yaklaştıkça gelir eşitsizliği azalır",
-              "B": "Gini katsayısı 1’e yaklaştıkça gelir eşitsizliği artar",
-              "C": "Gini katsayısı Lorenz eğrisi vasıtasıyla hesaplanır",
-              "D": "Gini katsayısı 1’den büyük olabilir"
+              "A": "Gini katsayısı 1’den büyük olabilir",
+              "B": "Gini katsayısı Lorenz eğrisi vasıtasıyla hesaplanır",
+              "C": "Gini katsayısı 0’a yaklaştıkça gelir eşitsizliği azalır",
+              "D": "Gini katsayısı 1’e yaklaştıkça gelir eşitsizliği artar"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
           }
         ]
@@ -4062,22 +4062,22 @@ const splVeritabani = [
             "id": "1008_t5_1",
             "soru": "Aşağıdakilerden hangisi işsizlik türlerinden değildir?",
             "secenekler": {
-              "A": "Arızi işsizlik",
-              "B": "Arz işsizliği",
+              "A": "Arz işsizliği",
+              "B": "Arızi işsizlik",
               "C": "Yapısal işsizlik",
               "D": "Konjonktürel işsizlik"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
           },
           {
             "id": "1008_t5_2",
             "soru": "Hiperenflasyonla ilgili aşağıdakilerden hangisi doğru değildir?",
             "secenekler": {
-              "A": "Genellikle savaş ve doğal afet zamanlarındaki politikalardan kaynaklanır",
+              "A": "Yurtiçi yerleşiklerin alım gücü çok düşer",
               "B": "Yerli parar yabancı paranın yerini alır",
-              "C": "Yurtiçi yerleşiklerin alım gücü çok düşer",
-              "D": "Gelir ve servet dağılımı olumsuz etkilenir"
+              "C": "Gelir ve servet dağılımı olumsuz etkilenir",
+              "D": "Genellikle savaş ve doğal afet zamanlarındaki politikalardan kaynaklanır"
             },
             "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
@@ -4086,12 +4086,12 @@ const splVeritabani = [
             "id": "1008_t5_3",
             "soru": "Aşağıdakilerden hangisi enflasyonun maliyetlerinden değildir?",
             "secenekler": {
-              "A": "Kösele maliyeti",
-              "B": "Satın alma gücünde düşüş",
-              "C": "Yerli paranın değer kazanması",
-              "D": "Gelir eşitsizliği"
+              "A": "Yerli paranın değer kazanması",
+              "B": "Kösele maliyeti",
+              "C": "Gelir eşitsizliği",
+              "D": "Satın alma gücünde düşüş"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
           },
           {
@@ -4110,34 +4110,34 @@ const splVeritabani = [
             "id": "1008_t5_5",
             "soru": "Aşağıdakilerden hangisi Covid-19 salgınının etkilerinden değildir?",
             "secenekler": {
-              "A": "Tüketici güven endeksinde düşüş",
-              "B": "Hizmet sektörü güven endeksinde artış",
+              "A": "Hizmet sektörü güven endeksinde artış",
+              "B": "Tüketici güven endeksinde düşüş",
               "C": "İnşaat sektörü güven endeksinde düşüş",
               "D": "İşsizlikteki artış"
             },
-            "dogruCevap": "B",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
           },
           {
             "id": "1008_t5_6",
             "soru": "BEŞİNCİ BÖLÜM SORULARI 1. Aşağıdakilerden hangisi ödemeler bilançosunun kalemlerinden değildir?",
             "secenekler": {
-              "A": "Cari İşlemler Hesabı",
-              "B": "Net Hata Noksan",
-              "C": "Döviz Kuru Hesabı",
-              "D": "Sermaye Hesabı"
+              "A": "Net Hata Noksan",
+              "B": "Cari İşlemler Hesabı",
+              "C": "Sermaye Hesabı",
+              "D": "Döviz Kuru Hesabı"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "D",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
           },
           {
             "id": "1008_t5_7",
             "soru": "Aşağıdakilerden hangisi yerli ve yabancı paranın direkt olarak birbirinin cinsinden ifade edilmesini tanımlar?",
             "secenekler": {
-              "A": "Nominal Kur",
+              "A": "Dolaysız Kur",
               "B": "Düz Kur",
-              "C": "Reel Kur",
-              "D": "Dolaysız Kur"
+              "C": "Nominal Kur",
+              "D": "Reel Kur"
             },
             "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
@@ -4146,24 +4146,24 @@ const splVeritabani = [
             "id": "1008_t5_8",
             "soru": "Merkez Bankaları tarafından kur seviyesinin sürekli takip edilip müdahale edildiği karma kur sistemi aşağıdakilerden hangisidir?",
             "secenekler": {
-              "A": "Kayan Kur Sistemi",
-              "B": "Döviz Kuru Bandı Sistemi",
-              "C": "Ayarlanabilir Kur Sistemi",
-              "D": "Ortak Dalgalanma Sistemi"
+              "A": "Ayarlanabilir Kur Sistemi",
+              "B": "Ortak Dalgalanma Sistemi",
+              "C": "Kayan Kur Sistemi",
+              "D": "Döviz Kuru Bandı Sistemi"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
           },
           {
             "id": "1008_t5_9",
             "soru": "Esnek kur sistemi hakkında aşağıdaki bilgilerden hangisi doğrudur?",
             "secenekler": {
-              "A": "Ödemeler dengesinde devlet müdahalesine gerek kalmaz",
-              "B": "Kur Merkez Bankası tarafından sabitlenir",
-              "C": "Sürekli devlet müdahalesi gerekir",
-              "D": "Ödemeler dengesi sorunları piyasa şartlarında çözülemez"
+              "A": "Ödemeler dengesi sorunları piyasa şartlarında çözülemez",
+              "B": "Sürekli devlet müdahalesi gerekir",
+              "C": "Kur Merkez Bankası tarafından sabitlenir",
+              "D": "Ödemeler dengesinde devlet müdahalesine gerek kalmaz"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
           },
           {
@@ -4171,8 +4171,8 @@ const splVeritabani = [
             "soru": "Belirlenen alt ve üst limitle döviz kurunun dalgalanmaya bırakıldığı kur rejimi aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Bant Kuru",
-              "B": "Kayan Kur",
-              "C": "Ortak Dalgalanma",
+              "B": "Ortak Dalgalanma",
+              "C": "Kayan Kur",
               "D": "Döviz Kuru Bandı"
             },
             "dogruCevap": "D",
@@ -4182,20 +4182,20 @@ const splVeritabani = [
             "id": "1008_t5_11",
             "soru": "Aşağıdakilerden hangisi dış ticaret politikası araçlarından biri değildir?",
             "secenekler": {
-              "A": "Açık piyasa işlemleri",
-              "B": "İhracatın özendirilmesi",
-              "C": "Bağlı ticaret",
-              "D": "Gümrük tarifeleri"
+              "A": "Gümrük tarifeleri",
+              "B": "Bağlı ticaret",
+              "C": "İhracatın özendirilmesi",
+              "D": "Açık piyasa işlemleri"
             },
-            "dogruCevap": "A",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
           },
           {
             "id": "1008_t5_12",
             "soru": "Sabit kur sisteminde uygulanan para ve maliye politikalarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
-              "A": "Maliye politikası uygulaması milli gelir düzeyini yükseltir",
-              "B": "Maliye politikaları etkindir",
+              "A": "Maliye politikaları etkindir",
+              "B": "Maliye politikası uygulaması milli gelir düzeyini yükseltir",
               "C": "Genişletici maliye politikaları uygulanırsa sermaye girişleri yaşanır",
               "D": "Para politikaları etkindir"
             },
@@ -4206,48 +4206,48 @@ const splVeritabani = [
             "id": "1008_t5_13",
             "soru": "Esnek kur sisteminde uygulanan para ve maliye politikaları için hangisi söylenemez?",
             "secenekler": {
-              "A": "Para politikaları etkindir",
-              "B": "Genişletici para politikası uygulanırsa yabancı para değer kazanır",
-              "C": "Genişletici para politikası uygulanırsa dış talep artışı yaşanır",
-              "D": "Genişletici maliye politikası uygulanırsa sermaye çıkışları yaşanır"
+              "A": "Genişletici para politikası uygulanırsa dış talep artışı yaşanır",
+              "B": "Para politikaları etkindir",
+              "C": "Genişletici maliye politikası uygulanırsa sermaye çıkışları yaşanır",
+              "D": "Genişletici para politikası uygulanırsa yabancı para değer kazanır"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "C",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
           },
           {
             "id": "1008_t5_14",
             "soru": "Dış borç stokunda en büyük pay aşağıdakilerden hangisine aittir?",
             "secenekler": {
-              "A": "TCMB",
-              "B": "Ticari Bankalar",
-              "C": "Kamu Sektörü",
+              "A": "Kamu Sektörü",
+              "B": "TCMB",
+              "C": "Ticari Bankalar",
               "D": "Özel Sektör"
             },
-            "dogruCevap": "D",
+            "dogruCevap": "E",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
           },
           {
             "id": "1008_t5_15",
             "soru": "Aşağıdakilerden hangisi dış ticaret dengesi ile ilgili bir gösterge değildir?",
             "secenekler": {
-              "A": "İhracat",
-              "B": "İthalat",
-              "C": "GSYH",
-              "D": "İhracatın İthalatı Karşılama Oranı"
+              "A": "İhracatın İthalatı Karşılama Oranı",
+              "B": "GSYH",
+              "C": "İthalat",
+              "D": "İhracat"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "B",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
           },
           {
             "id": "1008_t5_16",
             "soru": "Leontief paradoksu aşağıdakilerden hangisini kapsamaktadır?",
             "secenekler": {
-              "A": "ABD’nin hem sermaye yoğun hem de emek yoğun mal ithal etmesi",
-              "B": "ABD’nin hem sermaye yoğun hem de emek yoğun mal ihraç etmesi",
-              "C": "ABD’nin emek yoğun mal ihraç edip sermaye yoğun mal ithal etmesi",
-              "D": "ABD’nin sermaye yoğun mal ihraç edip emek yoğun mal ithal etmesi"
+              "A": "ABD’nin emek yoğun mal ihraç edip sermaye yoğun mal ithal etmesi",
+              "B": "ABD’nin sermaye yoğun mal ihraç edip emek yoğun mal ithal etmesi",
+              "C": "ABD’nin hem sermaye yoğun hem de emek yoğun mal ihraç etmesi",
+              "D": "ABD’nin hem sermaye yoğun hem de emek yoğun mal ithal etmesi"
             },
-            "dogruCevap": "C",
+            "dogruCevap": "A",
             "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
           }
         ]
@@ -4274,10 +4274,10 @@ const splVeritabani = [
             "soruMetni": "1009 - Temel Finans Matematiği ve Değerleme Yöntemleri müfredatına ilişkin temel mevzuat ve uygulama değerlendirmesi.",
             "secenekler": {
               "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
-              "B": "Yönetmelik ve Genelge Esasları",
-              "C": "Borsa İstanbul İşleyiş Kuralları",
-              "D": "Takasbank ve MKK Saklama Düzenlemeleri",
-              "E": "Ticaret Kanunu Genel Hükümleri"
+              "B": "Borsa İstanbul İşleyiş Kuralları",
+              "C": "Ticaret Kanunu Genel Hükümleri",
+              "D": "Yönetmelik ve Genelge Esasları",
+              "E": "Takasbank ve MKK Saklama Düzenlemeleri"
             },
             "dogruCevap": "A",
             "cozum": "Bu soru ilgili dersin resmi müfredat kapsamını temel almaktadır."
@@ -4306,9 +4306,9 @@ const splVeritabani = [
             "soruMetni": "1010 - Ticaret Hukuku müfredatına ilişkin temel mevzuat ve uygulama değerlendirmesi.",
             "secenekler": {
               "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
-              "B": "Yönetmelik ve Genelge Esasları",
-              "C": "Borsa İstanbul İşleyiş Kuralları",
-              "D": "Takasbank ve MKK Saklama Düzenlemeleri",
+              "B": "Takasbank ve MKK Saklama Düzenlemeleri",
+              "C": "Yönetmelik ve Genelge Esasları",
+              "D": "Borsa İstanbul İşleyiş Kuralları",
               "E": "Ticaret Kanunu Genel Hükümleri"
             },
             "dogruCevap": "A",
@@ -4337,10 +4337,10 @@ const splVeritabani = [
             "soruMetni": "1011 - Türev Araçlar, Piyasalar ve Risk Yönetimi müfredatına ilişkin temel mevzuat ve uygulama değerlendirmesi.",
             "secenekler": {
               "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
-              "B": "Yönetmelik ve Genelge Esasları",
-              "C": "Borsa İstanbul İşleyiş Kuralları",
-              "D": "Takasbank ve MKK Saklama Düzenlemeleri",
-              "E": "Ticaret Kanunu Genel Hükümleri"
+              "B": "Takasbank ve MKK Saklama Düzenlemeleri",
+              "C": "Yönetmelik ve Genelge Esasları",
+              "D": "Ticaret Kanunu Genel Hükümleri",
+              "E": "Borsa İstanbul İşleyiş Kuralları"
             },
             "dogruCevap": "A",
             "cozum": "Bu soru ilgili dersin resmi müfredat kapsamını temel almaktadır."
@@ -4370,10 +4370,10 @@ const splVeritabani = [
             "soruMetni": "1012 - Takas, Saklama ve Operasyon İşlemleri müfredatına ilişkin temel mevzuat ve uygulama değerlendirmesi.",
             "secenekler": {
               "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
-              "B": "Yönetmelik ve Genelge Esasları",
-              "C": "Borsa İstanbul İşleyiş Kuralları",
-              "D": "Takasbank ve MKK Saklama Düzenlemeleri",
-              "E": "Ticaret Kanunu Genel Hükümleri"
+              "B": "Ticaret Kanunu Genel Hükümleri",
+              "C": "Takasbank ve MKK Saklama Düzenlemeleri",
+              "D": "Yönetmelik ve Genelge Esasları",
+              "E": "Borsa İstanbul İşleyiş Kuralları"
             },
             "dogruCevap": "A",
             "cozum": "Bu soru ilgili dersin resmi müfredat kapsamını temel almaktadır."
@@ -4402,10 +4402,10 @@ const splVeritabani = [
             "soruMetni": "1013 - Kurumlarda ve Sermaye Piyasasında Vergilendirme müfredatına ilişkin temel mevzuat ve uygulama değerlendirmesi.",
             "secenekler": {
               "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
-              "B": "Yönetmelik ve Genelge Esasları",
+              "B": "Ticaret Kanunu Genel Hükümleri",
               "C": "Borsa İstanbul İşleyiş Kuralları",
-              "D": "Takasbank ve MKK Saklama Düzenlemeleri",
-              "E": "Ticaret Kanunu Genel Hükümleri"
+              "D": "Yönetmelik ve Genelge Esasları",
+              "E": "Takasbank ve MKK Saklama Düzenlemeleri"
             },
             "dogruCevap": "A",
             "cozum": "Bu soru ilgili dersin resmi müfredat kapsamını temel almaktadır."
@@ -4434,9 +4434,9 @@ const splVeritabani = [
             "soruMetni": "1016 - Muhasebe ve Finansal Raporlama müfredatına ilişkin temel mevzuat ve uygulama değerlendirmesi.",
             "secenekler": {
               "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
-              "B": "Yönetmelik ve Genelge Esasları",
-              "C": "Borsa İstanbul İşleyiş Kuralları",
-              "D": "Takasbank ve MKK Saklama Düzenlemeleri",
+              "B": "Takasbank ve MKK Saklama Düzenlemeleri",
+              "C": "Yönetmelik ve Genelge Esasları",
+              "D": "Borsa İstanbul İşleyiş Kuralları",
               "E": "Ticaret Kanunu Genel Hükümleri"
             },
             "dogruCevap": "A",
