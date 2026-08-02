@@ -61,7 +61,7 @@ const splVeritabani = [
       "duzey3",
       "turev"
     ],
-    "aciklama": "Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (1002) - Müfredat Konu Başlıklarına Göre Sıralı Resmi 14 Test (280 Tamamen Özgün ve Benzersiz Soru)",
+    "aciklama": "Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (1002) - Müfredat Konu Başlıklarına Göre Sıralı Resmi 17 Test (340 Tamamen Özgün ve Benzersiz Soru)",
     "testler": [
       {
         "testId": 1,
@@ -3798,6 +3798,807 @@ const splVeritabani = [
             },
             "dogruCevap": "C",
             "cozum": "Özel durum açıklamaları KAP üzerinden elektronik imza ile duyurulur."
+          }
+        ]
+      },
+      {
+        "testId": 15,
+        "testAdi": "Test 15: 1.5.1. TSPB Üyelerinin Uyacakları Meslek Kuralları (Genel İlkeler ve Müşteri İlişkileri)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Türkiye Sermaye Piyasaları Birliği (TSPB) Üyelerinin Sermaye Piyasası Faaliyetlerini Yürütürken Uyacakları Meslek Kuralları uyarınca, üyelerin temel mesleki davranışı aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Dürüstlük, adillik, mesleki özen ve titizlik ilkeleri çerçevesinde sermaye piyasalarının güvenini korumak",
+              "B": "Müşteri sırlarını rakiplere satmak",
+              "C": "Sadece kendi kârını artırmak amacıyla müşteriyi yanıltmak",
+              "D": "Müşteri emirlerini geciktirip kendi emirlerini öne almak",
+              "E": "Rakip aracı kurumları basın yoluyla kötülemek"
+            },
+            "dogruCevap": "A",
+            "cozum": "TSPB Meslek Kuralları uyarınca üyelerin en temel görevi dürüstlük, adillik ve mesleki özen göstererek piyasaya güven sağlamaktır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "TSPB Meslek Kuralları gereğince, müşteri emirlerinin borsaya iletilmesinde hangi temel ilke uygulanır?",
+            "secenekler": {
+              "A": "En yüksek komisyon ödeyen emrin rastgele iletilmesi",
+              "B": "Müşteri emirlerinin önceliği ilkesi (Zaman ve fiyat önceliğine göre iletilir, üye kendi emrini öne alamaz).",
+              "C": "Şirket yönetim kurulu emrinin önceliği",
+              "D": "Müşteri emrinin borsa kapandıktan sonra işleme alınması",
+              "E": "Zaman sırasının göz ardı edilmesi"
+            },
+            "dogruCevap": "B",
+            "cozum": "Üyeler müşteri emirlerini zaman ve fiyat önceliği kurallarına göre borsaya iletmekle yükümlüdür."
+          },
+          {
+            "id": 3,
+            "soruMetni": "TSPB üyelerinin müşterilerine sunacakları yatırım hizmeti ve tavsiyelerinde müşterinin risk ve getiri tercihlerini öğrenme zorunluluğu hangi kural gereğidir?",
+            "secenekler": {
+              "A": "Serbest Piyasa İlkesi",
+              "B": "Müşteriyi Tanıma ve Uygunluk İlkesi (Know Your Customer / Suitability)",
+              "C": "Vergi Muafiyet İlkesi",
+              "D": "Rekabet Yasama İlkesi",
+              "E": "Gizlilik İlkesi"
+            },
+            "dogruCevap": "B",
+            "cozum": "Üyeler hizmet sunmadan önce Müşteriyi Tanıma Kuralı uyarınca risk profilini ve deneyimini tespit etmekle yükümlüdür."
+          },
+          {
+            "id": 4,
+            "soruMetni": "TSPB Meslek Kuralları uyarınca, üyelerin müşteri hesaplarından yetkisiz nakit veya menkul kıymet transferi yapması yasak mıdır?",
+            "secenekler": {
+              "A": "Hayır, aracı kurum istediği gibi transfer yapar.",
+              "B": "Evet, müşteri talimatı ve mevzuata uygun yazılı onay olmadan transfer yapılması KESİNLİKLE YASAKTIR.",
+              "C": "Sadece yıl sonunda transfer yapılabilir.",
+              "D": "Sadece sözlü beyan yeterlidir.",
+              "E": "Transfer yapılması zorunludur."
+            },
+            "dogruCevap": "B",
+            "cozum": "Müşteri varlıkları üzerinde yazılı talimat ve yasal dayanak olmadan tasarrufta bulunulması kesinlikle yasaktır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "TSPB üyesi yatırım kuruluşlarının müşterilerine bildirecekleri komisyon ve masraf tarifeleri hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Komisyon alınması kanunen yasaktır.",
+              "B": "Uygulanacak komisyon, ücret ve masraf tarifeleri şeffaf olarak müşteriye sunulmalı ve bilgilendirilmelidir.",
+              "C": "Komisyonlar sadece nakit olarak elden alınır.",
+              "D": "Komisyonlar müşteriden gizlenerek tahsil edilir.",
+              "E": "Komisyon oranı her gün rastgele değiştirilir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Ücret ve komisyon tarifeleri şeffaflık ilkesi gereğince müşterilere önceden bildirilir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "TSPB Meslek Kuralları uyarınca, üyelerin çalışanlarının kendi lehlerine veya 3. kişiler lehine çıkar çatışması yaratacak durumlardan kaçınması kuralına ne ad verilir?",
+            "secenekler": {
+              "A": "Serbest Rekabet Kuralı",
+              "B": "Gizli Müşteri İlkesi",
+              "C": "Tedarik İlkesi",
+              "D": "Çıkar Çatışmalarının Önlenmesi İlkesi",
+              "E": "Kâr Artırma İlkesi"
+            },
+            "dogruCevap": "D",
+            "cozum": "Üyeler kurum ile müşteri veya müşteriler arasındaki çıkar çatışmalarını önleyecek tedbirleri almakla yükümlüdür."
+          },
+          {
+            "id": 7,
+            "soruMetni": "TSPB üyesi kurumların müşteri sırlarını ve kimlik bilgilerini saklama yükümlülüğü (Sır Saklama) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Müşteri ayrılınca sırlar silinir.",
+              "B": "Sırlar istenilen herkese para karşılığı satılabilir.",
+              "C": "Sır saklama yükümlülüğü yoktur.",
+              "D": "Sırlar basın organsız yayımlanır.",
+              "E": "Müşteri sırları kanunen yetkili kılınan merci ve organlar hariç 3. kişilere açıklanamaz ve gizli tutulur."
+            },
+            "dogruCevap": "E",
+            "cozum": "Sır saklama yükümlülüğü yasal merciler hariç tüm 3. kişilere karşı süresiz olarak geçerlidir."
+          },
+          {
+            "id": 8,
+            "soruMetni": "TSPB Meslek Kuralları gereğince, üyelerin müşterilerine kesinleşmemiş kar veya garanti getiri taahhüt etmesi mevzuata uygun mudur?",
+            "secenekler": {
+              "A": "Hayır, sermaye piyasasında getiri veya zarar garantisi verilmesi KESİNLİKLE YASAKTIR.",
+              "B": "Evet, müşteri isterse garanti verilir.",
+              "C": "Sözlü garanti verilmesi serbesttir.",
+              "D": "Garantiyi sadece Borsa Başkanı verir.",
+              "E": "Sadece hisse senedi alımlarında verilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Yatırımcılara garanti getiri taahhüt edilmesi sermaye piyasası kurallarına aykırıdır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "TSPB üyelerinin reklam ve tanıtım faaliyetlerinde bulunurken uyacakları temel ilke hangisidir?",
+            "secenekler": {
+              "A": "Hayali kâr rakamları yazma",
+              "B": "Sadece yabancı dilde ilan verme",
+              "C": "Gerçeğe aykırı, abartılı, yanıltıcı ve reklam amaçlı yanlış beyanlarda bulunmama ilkesi",
+              "D": "Rakipleri kötüleyerek reklam yapma",
+              "E": "Reklam yapılmasının yasak olması"
+            },
+            "dogruCevap": "C",
+            "cozum": "Reklam ve ilanlar doğru, dürüst ve yanıltıcı olmayan bilgiler içermelidir."
+          },
+          {
+            "id": 10,
+            "soruMetni": "TSPB Meslek Kuralları uyarınca, üyelerin aldıkları müşteri şikâyetlerini değerlendirme ve sonuçlandırma yükümlülüğü nedir?",
+            "secenekler": {
+              "A": "Şikâyetleri 10 yıl sonra yanıtlamak",
+              "B": "Şikâyet eden müşterinin hesabını hemen kapatmak",
+              "C": "Şikâyetleri dikkate almadan çöpe atmak",
+              "D": "Müşteri şikâyetlerini alacak etkin bir birim kurmak, incelemek ve makul sürede yazılı olarak yanıtlamak",
+              "E": "Şikâyet merci kurmamak"
+            },
+            "dogruCevap": "D",
+            "cozum": "Üyeler müşteri şikâyetlerini inceleyecek bir altyapı oluşturmak ve makul sürede yanıt dönmek zorundadır."
+          },
+          {
+            "id": 11,
+            "soruMetni": "TSPB üyeleri nezdinde gerçekleşen şüpheli para hareketleri ve işlemler konusunda hangi mevzuata uyulması şarttır?",
+            "secenekler": {
+              "A": "İş Kanununa",
+              "B": "Çevre Kanununa",
+              "C": "Karayolları Kanununa",
+              "D": "İcra İflas Kanununa",
+              "E": "5549 sayılı Karaparanın Aklanmasının Önlenmesi Kanunu ve MASAK düzenlemelerine"
+            },
+            "dogruCevap": "E",
+            "cozum": "Suç gelirlerinin önlenmesi ve MASAK şüpheli işlem bildirim esaslarına uyum zorunludur."
+          },
+          {
+            "id": 12,
+            "soruMetni": "TSPB Meslek Kuralları gereğince, üyelerin yatırım araştırmaları ve raporları hazırlarken gösterecekleri temel yaklaşım ne olmalıdır?",
+            "secenekler": {
+              "A": "Şirket patronunun isteğine göre rapor yazma",
+              "B": "Raporları gizlice satma",
+              "C": "Tarafsızlık, objektif veriler, makul araştırmalara dayanma ve dürüst analiz sunma",
+              "D": "Analiz yapmadan rapor yayımlama",
+              "E": "Dedikodulara dayanarak alım tavsiyesi verme"
+            },
+            "dogruCevap": "C",
+            "cozum": "Yatırım raporları ve araştırmaları objektif, bağımsız ve bilimsel analizlere dayanmalıdır."
+          },
+          {
+            "id": 13,
+            "soruMetni": "TSPB üyesi kurumların kendi adına yaptıkları işlemler ile müşteri adına yaptıkları işlemler arasındaki ilişki nasıl olmalıdır?",
+            "secenekler": {
+              "A": "Müşteri işlemleri her zaman kurumun kendi portföy işlemlerinden önceliklidir.",
+              "B": "Sıralama kurayla belirlenir.",
+              "C": "Kurum işlemleri gizli tutulur.",
+              "D": "Müşteri emirleri iptal edilir.",
+              "E": "Kurum kendi işlemini her zaman öne alır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Müşteri emirleri kurum portföy emrine kıyasla zaman ve fiyat önceliğine sahiptir."
+          },
+          {
+            "id": 14,
+            "soruMetni": "TSPB üyelerinin çalışanlarının mesleki lisans belgelerini (SPL Lisansı) kontrol etme ve güncelleme sorumluluğu kime aittir?",
+            "secenekler": {
+              "A": "Sadece vergi dairesine",
+              "B": "Müşterinin kendisine",
+              "C": "TSPB Üyesi İhraççı / Yatırım Kuruluşu Yönetimine",
+              "D": "Belediye zabıtasına",
+              "E": "Borsa güvenlik amirine"
+            },
+            "dogruCevap": "C",
+            "cozum": "Kurumlar lisanslı personel istihdam etmek ve lisans geçerliliklerini takip etmekle yükümlüdür."
+          },
+          {
+            "id": 15,
+            "soruMetni": "TSPB Meslek Kuralları uyarınca, üyelerin müşteri sözleşmelerinde haksız şartlara ve mevzuata aykırı tek taraflı hükümlere yer vermesi serbest midir?",
+            "secenekler": {
+              "A": "Sözleşme yapılması yasaktır.",
+              "B": "Sözleşme şartlarını muhtar belirler.",
+              "C": "Evet, üye istediği şartı koyar.",
+              "D": "Sözleşmeler sadece sözlü yapılır.",
+              "E": "Hayır, haksız şartlar ve mevzuata aykırı kısıtlayıcı hükümler konulamaz."
+            },
+            "dogruCevap": "E",
+            "cozum": "Müşteri sözleşmeleri dürüstlük ve tüketiciyi koruma ilkelerine uygun olmak zorundadır."
+          },
+          {
+            "id": 16,
+            "soruMetni": "TSPB üyeleri arasında ortaya çıkabilecek sermaye piyasası uyuşmazlıklarının çözümü için öncelikli başvuru mercii neresidir?",
+            "secenekler": {
+              "A": "Sanayi Odası",
+              "B": "Uluslararası Ceza Mahkemesi",
+              "C": "Emniyet Genel Müdürlüğü",
+              "D": "TSPB Yönetim Kurulu veya Birlik Hakem Heyeti",
+              "E": "Belediye Encümeni"
+            },
+            "dogruCevap": "D",
+            "cozum": "Üyeler arası mesleki uyuşmazlıklarda TSPB Hakem Heyeti ve Birlik organları uzlaştırıcı rol oynar."
+          },
+          {
+            "id": 17,
+            "soruMetni": "TSPB Meslek Kuralları gereğince, üyelerin müşterilerine sunacakları ekstre ve hesap özetleri hangi zaman dilimlerinde gönderilmelidir?",
+            "secenekler": {
+              "A": "Mevzuatta belirlenen periyotlarda (aylık vb.) düzenli ve eksiksiz olarak iletilmelidir.",
+              "B": "Sadece şifahi telefonla söylenir.",
+              "C": "10 yılda bir gönderilir.",
+              "D": "Hesap özeti gönderilmesi yasaktır.",
+              "E": "İsteğe bağlıdır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Müşterilere hesap hareketleri ve bakiye ekstreleri periyodik olarak iletilir."
+          },
+          {
+            "id": 18,
+            "soruMetni": "TSPB üyelerinin piyasada yapay borsa fiyatı oluşturmaya yönelik emir vermesi veya manipülasyona aracılık etmesi durumunda ne tür sorumluluk doğar?",
+            "secenekler": {
+              "A": "Sadece tebrik edilir.",
+              "B": "Sorumluluk müşteriye aittir.",
+              "C": "Hiçbir sorumluluk doğmaz.",
+              "D": "Disiplin cezası, idari para cezası ve adli cezai sorumluluk doğar.",
+              "E": "Sadece uyarma verilir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Manipülatif işlemlere aracılık edilmesi TSPB disiplin ve SPKn adli cezalarını gerektirir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "TSPB Meslek Kuralları uyarınca, üyelerin sermaye piyasası faaliyetlerini yürüttükleri merkez ve şubelerinin fiziki ve teknolojik altyapısı nasıl olmalıdır?",
+            "secenekler": {
+              "A": "Sadece defter tutulur.",
+              "B": "Altyapı şartı aranmaz.",
+              "C": "Faaliyetlerin güvenli, kesintisiz ve veri emniyetini sağlayacak yeterlilikte olması zorunludur.",
+              "D": "Sadece evden yürütülür.",
+              "E": "Teknoloji kullanılması yasaktır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Üyeler bilgi güvenliği ve iş sürekliliği sağlayan teknolojik altyapıyı tesis etmekle yükümlüdür."
+          },
+          {
+            "id": 20,
+            "soruMetni": "TSPB üyelerinin mesleki ilkelere uyumunu denetleme ve inceleme yetkisi kimlere aittir?",
+            "secenekler": {
+              "A": "Nüfus Müdürlüğü",
+              "B": "Valilik Dernekler Masası",
+              "C": "Karayolları Genel Müdürlüğü",
+              "D": "Belediye Satın Alma Dairesi",
+              "E": "TSPB Organları ve Sermaye Piyasası Kurulu (SPK)"
+            },
+            "dogruCevap": "E",
+            "cozum": "Meslek kurallarına uyum TSPB ve yetkili regülatör SPK tarafından denetlenir."
+          }
+        ]
+      },
+      {
+        "testId": 16,
+        "testAdi": "Test 16: 1.5.1. TSPB Üyelerinin Uyacakları Meslek Kuralları (Kurumlar Arası İlişkiler ve Disiplin)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "TSPB Meslek Kuralları uyarınca, Birlik üyelerinin diğer üyelere ve rakiplerine karşı tutum ve davranışlarında uymak zorunda oldukları temel kural hangisidir?",
+            "secenekler": {
+              "A": "Rakipleri asılsız ilanlarla karalamak",
+              "B": "Rakip kurum çalışanlarını gizlice tehdit etmek",
+              "C": "Dürüstlük, karşılıklı saygı ve Haksız Rekabet Yasağı ilkelerine uymak",
+              "D": "Rakiplerin borsa emirlerini engellemeye çalışmak",
+              "E": "Rakipler hakkında karaborsa dedikodusu yaymak"
+            },
+            "dogruCevap": "C",
+            "cozum": "Üyeler birbirleriyle olan ilişkilerinde haksız rekabet oluşturacak tutum ve davranışlardan kaçınmak zorundadır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "TSPB üyesi bir yatırım kuruluşunun başka bir Birlik üyesinde çalışan personeli istihdam etmesi (işe transfer etmesi) hususundaki etik kural nedir?",
+            "secenekler": {
+              "A": "Transfer işlemlerinde dürüstlük ilkesine uyulmalı, sır saklama yükümlülüğüne ihlale sevk edilmemeli ve haksız personel transferi yapılmamalıdır.",
+              "B": "Transfer edilen personele 10 yıl hapis verilir.",
+              "C": "Transferde izin merci belediyedir.",
+              "D": "Rakip kurum çalışanları ne pahasına olursa olsun çalınmalıdır.",
+              "E": "Personel transferi tamamen yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Personel istihdamında diğer üyenin faaliyetlerini aksatacak veya sırlar sızdıracak haksız transferler etik ilkelere aykırıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "TSPB Meslek Kuralları uyarınca, Birlik üyelerinin mesleki şeref ve haysiyeti zedeleyici yayın veya beyanda bulunması durumunda uygulanacak yaptırım türü hangisidir?",
+            "secenekler": {
+              "A": "Sadece tebrik edilir.",
+              "B": "Hiçbir işlem yapılmaz.",
+              "C": "Trafikten men cezası verilir.",
+              "D": "TSPB Disiplin Yönetmeliği uyarınca Disiplin Cezası uygulanır.",
+              "E": "Şirket ortakları sürgün edilir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Birlik üye ve çalışanlarının itibar zedeleyici eylemleri disiplin soruşturması konusudur."
+          },
+          {
+            "id": 4,
+            "soruMetni": "TSPB Disiplin Yönetmeliği uyarınca Birlik üyelerine verilebilecek Disiplin Cezaları sırasıyla hangileridir?",
+            "secenekler": {
+              "A": "Şirketi kapatma",
+              "B": "Mal varlığına el koyma",
+              "C": "Sadece Sözlü Uyarı",
+              "D": "Sadece Hapis Cezası",
+              "E": "Uyarma, Kınama, Para Cezası, Geçici Birlik Üyeliğinden İhraç ve Sürekli Birlik Üyeliğinden İhraç"
+            },
+            "dogruCevap": "E",
+            "cozum": "Disiplin cezaları: Uyarma, Kınama, Para Cezası, Geçici İhraç ve Sürekli İhraç olarak sınıflandırılmıştır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "TSPB üyelerinin Birliğe ödemekle yükümlü oldukları yıllık Birlik Giriş ve Yıllık Aidat aidatlarını ödememeleri halinde ne tür bir işlem yapılır?",
+            "secenekler": {
+              "A": "Aidat ödenmesi zorunlu değildir.",
+              "B": "İcra takibi başlatılır ve disiplin cezası uygulanır.",
+              "C": "Şirket kamulaştırılır.",
+              "D": "Borç silinir.",
+              "E": "Şirket kurucusu cezaevine girer."
+            },
+            "dogruCevap": "B",
+            "cozum": "Birlik aidatlarının zamanında ödenmesi zorunlu olup ödenmediğinde yasal icra takibi ve disiplin cezaları tatbik edilir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "TSPB üyelerinin Birlik tarafından istenen bilgi, belge ve istatistiki verileri zamanında ve doğru olarak Birliğe sunması ZORUNLU mudur?",
+            "secenekler": {
+              "A": "Bilgi sadece cumhurbaşkanına verilir.",
+              "B": "Evet, Birliğin talep ettiği bilgi ve belgeleri zamanında vermek zorundadırlar.",
+              "C": "Hayır, bilgi verilmez.",
+              "D": "Sadece 10 yılda bir verilir.",
+              "E": "Gizli tutulur."
+            },
+            "dogruCevap": "B",
+            "cozum": "Üyeler kanun ve statü gereğince Birliğin talep ettiği bilgileri eksiksiz ve süresinde sağlamakla yükümlüdür."
+          },
+          {
+            "id": 7,
+            "soruMetni": "TSPB üyelerinin haksız rekabet oluşturan fiyatırma ve komisyon kırma politikalarına ilişkin kural nedir?",
+            "secenekler": {
+              "A": "İstediği gibi piyasa batırılır.",
+              "B": "Fiyatlama yapılması yasaktır.",
+              "C": "Piyasada yıkıcı fiyatlama yaparak haksız rekabet oluşturulamaz, maliyet altı komisyonla piyasa bozulamaz.",
+              "D": "Fiyatları belediye belirler.",
+              "E": "Komisyon her zaman sıfır TL olmak zorundadır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Piyasayı bozucu döküm veya yıkıcı fiyatlandırma haksız rekabet yasağı kapsamına girer."
+          },
+          {
+            "id": 8,
+            "soruMetni": "TSPB Disiplin Kurulu kararlarına karşı Birlik üyelerinin itiraz mercii aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Noterlik",
+              "B": "Belediye Meclisi",
+              "C": "Valilik",
+              "D": "Sermaye Piyasası Kurulu (SPK)",
+              "E": "Ticaret Odası"
+            },
+            "dogruCevap": "D",
+            "cozum": "TSPB Disiplin Kurulu kararlarına karşı SPK nezdinde itiraz edilebilir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "TSPB üyelerinin mesleki faaliyetlerini yürütürken üçüncü şahıslara ve piyasaya verdikleri zararlardan doğan hukuki sorumluluk kime aittir?",
+            "secenekler": {
+              "A": "Devlet Hazinesine",
+              "B": "Sadece TSPB Başkanına",
+              "C": "Sadece Borsa İstanbul'a",
+              "D": "Zararı veren Birlik Üyesi Kuruma ve kusurlu yöneticilerine",
+              "E": "Hiç kimseye"
+            },
+            "dogruCevap": "D",
+            "cozum": "Hukuka ve meslek kurallarına aykırı eylemlerden doğan zararlar üye kurum tarafından tazmin edilir."
+          },
+          {
+            "id": 10,
+            "soruMetni": "TSPB üyelerinin sermaye piyasasında etik ve mesleki bilincin artırılması için çalışanlarına sunması gereken imkân nedir?",
+            "secenekler": {
+              "A": "Sadece tatil yaptırmak",
+              "B": "Çalışanların sürekli mesleki eğitimlere ve etik seminerlere katılmasını sağlamak",
+              "C": "Eğitim kararlarını kaldırıp şirketi kapatmak",
+              "D": "Çalışanların eğitim almasını engellemek",
+              "E": "Eğitimleri yasaklamak"
+            },
+            "dogruCevap": "B",
+            "cozum": "Üyeler personelinin mesleki gelişimi ve etik ilkeler konusunda sürekli eğitilmesini temin etmekle yükümlüdür."
+          },
+          {
+            "id": 11,
+            "soruMetni": "TSPB Meslek Kuralları uyarınca, bir üyenin diğer bir üyenin müşterilerini yanıltıcı beyanlarla kendi kurumuna çekmeye çalışması eylemi ne sayılır?",
+            "secenekler": {
+              "A": "Olağan Ticari Durum",
+              "B": "Yasal Muafiyet",
+              "C": "Başarılı Pazarlama Taktiği",
+              "D": "Haksız Rekabet ve Meslek Kuralları İhlali",
+              "E": "Ödüllendirilecek Eylem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Müşterileri yanıltarak rakip kurumdan çekmek haksız rekabet suçudur."
+          },
+          {
+            "id": 12,
+            "soruMetni": "TSPB üyeleri hakkında yürütülen disiplin soruşturmasında savunma hakkı süresi tebliğden itibaren en az kaç gündür?",
+            "secenekler": {
+              "A": "15 Gün",
+              "B": "3 Gün",
+              "C": "30 Gün",
+              "D": "60 Gün",
+              "E": "Savunma alınmaz"
+            },
+            "dogruCevap": "A",
+            "cozum": "Hakkında disiplin soruşturması açılan üyeye en az 15 gün savunma süresi tanınır."
+          },
+          {
+            "id": 13,
+            "soruMetni": "TSPB Genel Kurulu kararlarına ve yönetmeliklerine aykırı davranan üyeler hakkında Disiplin Kuruluna sevk kararını kim alır?",
+            "secenekler": {
+              "A": "TSPB Yönetim Kurulu",
+              "B": "Konsolosluk",
+              "C": "Şirket Çaycısı",
+              "D": "Borsa Güvenlik Amiri",
+              "E": "Dışişleri Bakanı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Disiplin Kuruluna sevk kararı TSPB Yönetim Kurulu tarafından alınır."
+          },
+          {
+            "id": 14,
+            "soruMetni": "TSPB Meslek Kuralları uyarınca, üyelerin sermaye piyasasında kamuoyunu aydınlatma belgelerinde imzasız veya yetkisiz beyanda bulunması serbest midir?",
+            "secenekler": {
+              "A": "İmza atılması yasaktır.",
+              "B": "Evet, imzasız açıklama yapılır.",
+              "C": "Açıklamalar sadece takma isimle yapılır.",
+              "D": "Açıklamayı belediye imzalar.",
+              "E": "Hayır, tüm resmi açıklama ve raporların yetkili imzalarla yapılması zorunludur."
+            },
+            "dogruCevap": "E",
+            "cozum": "Resmi yayın ve beyanların yetkili temsilcilerce imzalanması esastır."
+          },
+          {
+            "id": 15,
+            "soruMetni": "TSPB üyelik sıfatının 'Geçici İhraç' cezası ile durdurulması durumunda üyenin borsadaki faaliyetleri ne olur?",
+            "secenekler": {
+              "A": "Üye sadece yurt dışında işlem yapar.",
+              "B": "Geçici ihraç süresince sermaye piyasası ve borsa faaliyetleri durdurulur.",
+              "C": "Hiçbir etkisi olmaz.",
+              "D": "Faaliyetler aynen devam eder.",
+              "E": "Üyenin şirket binası yıkılır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Geçici ihraç cezası süresince Birlik üyeliği hakları ve borsa faaliyetleri askıya alınır."
+          },
+          {
+            "id": 16,
+            "soruMetni": "TSPB üyelerinin ilan ettikleri borsa dışı işlem şartları ve hizmet standartları müşteriler arasında ayrımcılık içerebilir mi?",
+            "secenekler": {
+              "A": "Evet, istenilen müşteriye kötü muamele yapılır.",
+              "B": "Ayrımcılık yapılması zorunludur.",
+              "C": "Hayır, haklı ve objektif bir gerekçe olmaksızın eşit durumdaki müşteriler arasında ayrımcılık yapılamaz.",
+              "D": "Ayrımcılık kararı muhtarca alınır.",
+              "E": "Müşteriler ırkına göre ayrılır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Eşit durumdaki müşterilere adil ve tarafsız muamele yapılması esastır."
+          },
+          {
+            "id": 17,
+            "soruMetni": "TSPB organlarına seçilen üye temsilcilerinin görevlerini yürütürken uymak zorunda oldukları ilke hangisidir?",
+            "secenekler": {
+              "A": "Toplantılara katılmama",
+              "B": "Birlik kararlarını sabote etme",
+              "C": "Sadece kendi şirketinin çıkarını koruma",
+              "D": "Görevi kötüye kullanma",
+              "E": "Birlik ve piyasa menfaatlerini kendi kurum menfaatlerinin üstünde tutma ilkesi"
+            },
+            "dogruCevap": "E",
+            "cozum": "Birlik organlarında görev alanlar sermaye piyasasının genel menfaatlerini esas alarak hareket ederler."
+          },
+          {
+            "id": 18,
+            "soruMetni": "TSPB üyeleri hakkında verilen kesinleşmiş Sürekli İhraç cezaları kamuoyuna duyurulur mu?",
+            "secenekler": {
+              "A": "Evet, SPK'ya bildirilir, KAP ve Birlik sitesinde kamuoyuna ilan edilir.",
+              "B": "Gizli tutulur.",
+              "C": "Duyurulması suçtur.",
+              "D": "Sadece şirket içi e-posta atılır.",
+              "E": "Sadece 100 yıl sonra açıklanır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Kesinleşmiş ihraç cezaları piyasanın korunması amacıyla kamuoyuna duyurulur."
+          },
+          {
+            "id": 19,
+            "soruMetni": "TSPB üyelerinin bilişim sistemleri ve siber güvenlik açıklarına karşı alması gereken tedbirler neye göre belirlenir?",
+            "secenekler": {
+              "A": "Sadece bilgisayar fişi çekilir",
+              "B": "Güvenlik tedbiri alınmaz",
+              "C": "Şirket çalışanının şahsi fikrine göre",
+              "D": "Bilişim güvenliği önemsizdir",
+              "E": "SPK Bilgi Sistemleri Tebliği ve uluslararası bilişim güvenliği standartlarına göre"
+            },
+            "dogruCevap": "E",
+            "cozum": "Bilgi sistemleri ve veri emniyeti düzenlemelerine tam uyum zorunludur."
+          },
+          {
+            "id": 20,
+            "soruMetni": "TSPB üyelerinin mesleki yarışma ve ödül törenlerinde beyan edecekleri istatistiki veri ve büyüklüklerin doğruluğu kimin sorumluluğundadır?",
+            "secenekler": {
+              "A": "Sadece organizasyon sunucusunun",
+              "B": "Borsa temizlik görevlisinin",
+              "C": "Veriyi beyan eden Birlik Üyesi Kurumun",
+              "D": "Hiç kimsenin",
+              "E": "Yoldan geçen vatandaşın"
+            },
+            "dogruCevap": "C",
+            "cozum": "Kamusal veya mesleki yarışmalara sunulan verilerin doğruluğundan beyan sahibi kurum sorumludur."
+          }
+        ]
+      },
+      {
+        "testId": 17,
+        "testAdi": "Test 17: 1.5.2. Sermaye Piyasası Çalışanları Etik İlkeleri ve Davranış Kuralları",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Sermaye Piyasası Çalışanları Etik İlkeleri uyarınca, bir sermaye piyasası çalışanının sahip olması gereken 5 temel etik ilke aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Sadece Hukuk Bilgisi, Sertlik, İnatçılık ve Hızlı Emir",
+              "B": "Hırs, Bencillik, Gizli İşlem, Kâr Tutkusu ve Tartışmacılık",
+              "C": "Dürüstlük, Tarafsızlık, Mesleki Yeterlilik, Mesleki Özen ve Gizlilik",
+              "D": "Taraf Tutma, Reklam Yapma, Sözlü Garanti ve Rekabet",
+              "E": "Sır Açıklama, Komisyon Alma, Emir İptali ve Pasiflik"
+            },
+            "dogruCevap": "C",
+            "cozum": "Etik İlkelerin 5 temel ayağı: Dürüstlük, Tarafsızlık, Mesleki Yeterlilik, Özen ve Gizliliktir."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Sermaye piyasası çalışanlarının mesleki tarafsızlığını ve bağımsızlığını etkileyebilecek nitelikteki hediye, ağırlama ve menfaatler konusundaki etik kural nedir?",
+            "secenekler": {
+              "A": "Her türlü hediyeyi nakit karşılığı almak",
+              "B": "Hediye istemek",
+              "C": "Hediyeleri gizlice saklamak",
+              "D": "Hediyeleri açık artırmayla satmak",
+              "E": "Tarafsızlığı ve kararlarını etkileyebilecek değerdeki hediyeleri kabul etmemek ve reddetmek"
+            },
+            "dogruCevap": "E",
+            "cozum": "Bağımsızlığı zedeleyecek veya rüşvet/çıkar algısı yaratacak hediye ve imkanlar reddedilir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Sermaye piyasası çalışanının henüz kamuya açıklanmamış müşteri emirlerini öğrenerek kendisi veya yakınları adına önden işlem yapması (Front Running) eylemi hakkındaki etik karar nedir?",
+            "secenekler": {
+              "A": "Sadece küçük tutarlarda serbesttir.",
+              "B": "Serbesttir ve ödüllendirilir.",
+              "C": "Sadece 1 kez yapılabilir.",
+              "D": "Müşteri izin verirse serbesttir.",
+              "E": "Önden işlem yapılması (Front-Running) KESİNLİKLE YASAKTIR ve ağır bir etik/adli suçtur."
+            },
+            "dogruCevap": "E",
+            "cozum": "Müşteri emrinden önce kendi hesabına işlem yapmak (Front-running) kesinlikle yasaklanmış bir suç ve etik ihlaldir."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Sermaye piyasası çalışanının müşterinin onayını ve yazılı talimatını almadan müşteri hesabından resen (kendi kafasına göre) alım-satım yapması serbest midir?",
+            "secenekler": {
+              "A": "Evet, çalışan istediği işlemi yapar.",
+              "B": "İşlem yapılması zorunludur.",
+              "C": "Hayır, müşteri talimatı olmadan portföyde resen işlem yapılması YASAKTIR (Yetkisiz işlem kuralı).",
+              "D": "Sözlü talimat olmadan her gün yapılır.",
+              "E": "Sadece kârlı işlemler resen yapılır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Vekalet veya portföy yönetim sözleşmesi olmadan müşteri hesabında talimatsız işlem yapılamaz."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Sermaye piyasası çalışanlarının mesleki yeterlilik ilkeleri uyarınca zorunlu tutulan lisans yenileme eğitimi ve puan şartı hangisidir?",
+            "secenekler": {
+              "A": "Sadece sürücü kursuna gitmek",
+              "B": "SPL tarafından düzenlenen Yenileme Eğitimlerine katılarak lisansını güncel tutmak",
+              "C": "Lisans belgesini başkasına kiralamak",
+              "D": "Sadece bir kez sınava girip ömür boyu hiç eğitime katılmamak",
+              "E": "Eğitimlerin yasak olması"
+            },
+            "dogruCevap": "B",
+            "cozum": "Çalışanlar mesleki bilgilerini güncel tutmak için periyodik Yenileme Eğitimlerini tamamlamakla yükümlüdür."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Sermaye piyasası çalışanlarının şahsi menkul kıymet işlemleri yaparken uymak zorunda oldukları kısıtlama ve bildirim kuralı nedir?",
+            "secenekler": {
+              "A": "Şahsi işlemleri gizli tutmak",
+              "B": "Şahsi işlemlerini çalıştığı kurumun iç düzenlemelerine uygun olarak yapmak ve iç denetim birimine bildirmek",
+              "C": "Şahsi işlem yapmanın suç sayılması",
+              "D": "Şahsi işlemleri rakip firmadan yapmak",
+              "E": "Başka şahısların kimliklerini kullanarak gizlice işlem yapmak"
+            },
+            "dogruCevap": "B",
+            "cozum": "Çalışanların şahsi işlemleri çıkar çatışması yaratmayacak şekilde kurum kontrolünde yürütülür."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Sermaye piyasası çalışanının görevi sırasında öğrendiği İçsel Bilgileri (İnsider bilgi) kendi çıkarı veya başkalarının çıkarı için kullanması veya sızdırması etik kurallara göre nedir?",
+            "secenekler": {
+              "A": "Ağır bir etik ihlal ve adli suçtur (Bilgi Suiistimali).",
+              "B": "Sadece sözlü uyarı gerektirir.",
+              "C": "Zeki davranmaktır.",
+              "D": "Müşteriye hediye vermektir.",
+              "E": "Serbesttir."
+            },
+            "dogruCevap": "A",
+            "cozum": "İçsel bilginin kullanımı ve sızdırılması hem etik kurallara hem de SPKn m. 106'ya göre adli suçtur."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Sermaye piyasası çalışanının müşterilerine yatırım tavsiyesi sunarken göstermesi gereken dürüstlük anlayışı hangisidir?",
+            "secenekler": {
+              "A": "Müşterinin finansal durumuna ve risk profiline uygun (Uygunluk Testi sonuçlarına dayalı) tavsiyelerde bulunmak",
+              "B": "Tavsiye vermeyi reddetmek",
+              "C": "En çok komisyon getiren riski en yüksek ürünü zorla sattırmak",
+              "D": "Tavsiye verirken yalan beyanda bulunmak",
+              "E": "Müşterinin parasını batıracak tavsiye vermek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Çalışanlar müşteri yararına ve risk profilini dikkate alan dürüst tavsiyeler vermek zorundadır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Sermaye piyasası çalışanlarının işyerinde ve sektörde iş arkadaşlarına ve rakiplere karşı göstermesi gereken tutum hangisidir?",
+            "secenekler": {
+              "A": "Dedikodu çıkarıp iş ortamını bozmak",
+              "B": "Irkçı ve cinsiyetçi söylemlerde bulunmak",
+              "C": "İş arkadaşlarını tehdit etmek",
+              "D": "Diğer çalışanların emirlerini engellemek",
+              "E": "Karşılıklı saygı, adil rekabet, taciz ve ayrımcılıktan kaçınma ilkelerine uymak"
+            },
+            "dogruCevap": "E",
+            "cozum": "İş ortamında saygı, adillik, ayrımcılık yapmama ve mesleki dayanışma esastır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sermaye piyasası çalışanının lisans belgesini kiraya vermesi veya kullanması için başkasına devretmesi mevzuata göre nedir?",
+            "secenekler": {
+              "A": "Sadece 1 aylığına kiralanır.",
+              "B": "Lisans devri serbesttir.",
+              "C": "Lisans kiralama noterden yapılırsa yasal olur.",
+              "D": "KESİNLİKLE YASAKTIR ve lisansın iptali ile hukuki/cezai yaptırım gerektirir.",
+              "E": "Ek gelir sağlamak için serbesttir."
+            },
+            "dogruCevap": "D",
+            "cozum": "SPL lisansları kişiye özel olup başkasına kiralanamaz veya devredilemez; tespiti halinde lisans iptal edilir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Sermaye piyasası çalışanının çalıştığı yatırım kuruluşundaki görevinden ayrılması durumunda eski müşterilerine ait gizli bilgileri yeni çalıştığı kuruma taşıması etik midir?",
+            "secenekler": {
+              "A": "Sadece telefon numaraları taşınır.",
+              "B": "Bilgiler açık artırmayla satılır.",
+              "C": "Evet, müşteri bilgilerini taşımak hakkıdır.",
+              "D": "Taşıma zorunludur.",
+              "E": "Hayır, gizli bilgilerin ve müşteri sırlarının taşınması veya kullanılması KESİNLİKLE YASAKTIR."
+            },
+            "dogruCevap": "E",
+            "cozum": "Gizlilik yükümlülüğü işten ayrıldıktan sonra da devam eder; müşteri sırları yeni kuruma taşınamaz."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Sermaye piyasası çalışanının sosyal medya hesaplarında veya topluluk önünde çalıştığı kurum adına izin almadan bağlayıcı açıklamalarda bulunması etik midir?",
+            "secenekler": {
+              "A": "Şirket adına asılsız haber yaymak serbesttir.",
+              "B": "Hayır, kurum izni olmadan şirket adına bağlayıcı beyanlarda bulunulması ve piyasayı yanıltıcı paylaşım yapılması YASAKTIR.",
+              "C": "Açıklamayı şifreli yapmak şarttır.",
+              "D": "Evet, sosyal medyada istenilen yazılır.",
+              "E": "Sosyal medya kullanımı yasaktır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Sosyal medya paylaşımlarında Kurumsal İletişim Kurallarına ve piyasa dürüstlüğüne uyum şarttır."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Sermaye piyasası çalışanının müşterileriyle borç-alacak ilişkisine girmesi veya müşteriden kişisel borç para alması yasak mıdır?",
+            "secenekler": {
+              "A": "Hayır, istediği kadar borç alır.",
+              "B": "Evet, müşterilerle kişisel borç-alacak ilişkisine girmek ve kefil olmak KESİNLİKLE YASAKTIR.",
+              "C": "Borç para sadece dolara endeksli alınır.",
+              "D": "Borç ilişkisi teşvik edilir.",
+              "E": "Sadece faizli borç alınır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Çalışanların müşterilerle borç/kefalet ilişkisine girmesi çıkar çatışması nedeniyle yasaktır."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Sermaye piyasası çalışanının müşteriye ait yatırım hesabının şifrelerini veya internet bankacılığı kodlarını kendi kontrolüne alması etik midir?",
+            "secenekler": {
+              "A": "Şifre paylaşımı zorunludur.",
+              "B": "Şifre çalışanda durmalıdır.",
+              "C": "Hayır, müşteri şifrelerinin ve şahsi erişim kodlarının saklanması veya kullanılması KESİNLİKLE YASAKTIR.",
+              "D": "Şifreyi şirket başkanı saklar.",
+              "E": "Evet, kolaylık olsun diye şifre alınır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Müşteri hesap güvenlik şifrelerinin çalışanda bulunması ve kullanılması ağır etik ve mevzuat ihlalidir."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Sermaye piyasası çalışanının araştırma raporlarında kaynak göstermeksizin başkalarının analizlerini kendi analizi gibi sunması (İntihal / Plagiarism) eylemi hakkındaki etik karar nedir?",
+            "secenekler": {
+              "A": "İntihal yapılması mesleki dürüstlüğe aykırı ağır bir etik ihlaldir.",
+              "B": "Kopyalamak serbesttir.",
+              "C": "Kaynak gösterilmesi yasaktır.",
+              "D": "İntihal teşvik edilir.",
+              "E": "Sadece yabancı raporlar kopyalanır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Başkasına ait fikir ve analizlerin kaynak gösterilmeden kullanımı intihal (plagiarism) olup meslek etiğine aykırıdır."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Sermaye piyasası çalışanının kanunlara veya etik ilkelere aykırı bir yolsuzluk/suç eylemini gördüğünde kurum içi denetim organlarına bildirmesi (Whistleblowing) durumu nasıl değerlendirilir?",
+            "secenekler": {
+              "A": "Hiçbir şey yapılmaz.",
+              "B": "Sadece para karşılığı bildirilir.",
+              "C": "Mesleki dürüstlüğün ve koruyucu etik bilincin bir gereğidir.",
+              "D": "Bildirim yapılması suçtur.",
+              "E": "İhanet olarak görülür."
+            },
+            "dogruCevap": "C",
+            "cozum": "Yolsuzluk ve mevzuatsızlıkların iç denetime bildirilmesi (whistleblowing) piyasa dürüstlüğünün teminatıdır."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Sermaye piyasası çalışanının tarafsızlığını kaybettirecek derecede bir müşteriyle akrabalık veya yakın ticari ilişkisinin bulunması halinde etik olarak yapması gereken nedir?",
+            "secenekler": {
+              "A": "Akrabasının hesabını komisyonsuz yapmak",
+              "B": "Şirketten istifa etmek",
+              "C": "Gizlice daha çok kâr ettirmek",
+              "D": "Durumu yöneticilerine bildirmek ve o müşterinin hesabını tarafsız başka bir çalışana devretmek",
+              "E": "Hiçbir şey olmamış gibi devam etmek"
+            },
+            "dogruCevap": "D",
+            "cozum": "Çıkar çatışması potansiyeli olan akrabalık veya yakınlıklarda hesap yönetimi başka personele devredilir."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Sermaye piyasası çalışanının müşteri ile ortak yatırım hesabı açması veya kâr/zarar ortaklığı yapması yasak mıdır?",
+            "secenekler": {
+              "A": "Ortaklık kararı belediyece onaylanır.",
+              "B": "Sadece kâra ortak olunur.",
+              "C": "Sadece zarara ortak olunur.",
+              "D": "Evet, müşteriyle ortak hesap açılması ve kâra/zarara ortak olunması KESİNLİKLE YASAKTIR.",
+              "E": "Hayır, kâr ortaklığı serbesttir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Çalışanın müşteriyle kâr-zarar ortaklığı yapması bağımsızlığı yok ettiğinden yasaktır."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Sermaye piyasası çalışanının mesleki itibarını korumak adına kişisel yaşamında ve finansal yönetiminde göstermesi gereken özen nedir?",
+            "secenekler": {
+              "A": "Kendi kişisel mali yükümlülüklerini dürüstçe yerine getirmek, borçlarını ödemek ve itibarını zedeleyecek davranışlardan kaçınmak",
+              "B": "Kumar oynamak",
+              "C": "Dolandırıcılık vakalarına karışmak",
+              "D": "Kişisel borçlarını ödemeyip kaçmak",
+              "E": "Finansal yönetim yapmamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Sermaye piyasası çalışanları kişisel yaşamlarında da mesleki itibar ve güvenilirlik şartını korumalıdır."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Sermaye Piyasası Çalışanları Etik İlkelerini ihlal eden çalışanlar hakkında ne tür yaptırımlar uygulanabilir?",
+            "secenekler": {
+              "A": "Sadece maaş zamı verilir.",
+              "B": "Hiçbir ceza verilemez.",
+              "C": "Sadece madalya verilir.",
+              "D": "Şirket içi disiplin cezaları, Lisansın İptali veya Askıya Alınması ve adli/idari yaptırımlar",
+              "E": "Ceza verme yetkisi yoktur."
+            },
+            "dogruCevap": "D",
+            "cozum": "Etik ilke ihlallerinde kurum içi disiplin mekanizmaları ve SPK/SPL lisans iptal süreçleri devreye girer."
           }
         ]
       }
