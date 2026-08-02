@@ -404,7 +404,7 @@
     Object.keys(qData.secenekler).forEach(optKey => {
       const optText = qData.secenekler[optKey];
       const btn = document.createElement('button');
-      btn.className = 'w-full text-left p-4 sm:p-5 rounded-2xl option-btn flex items-start space-x-4 text-lg sm:text-xl leading-relaxed';
+      btn.className = 'w-full text-left p-3.5 sm:p-4 rounded-xl option-btn flex items-start space-x-3.5 text-base sm:text-lg leading-snug';
       
       const isSelected = selectedOption === optKey;
       if (isSelected) btn.classList.add('selected');
@@ -424,7 +424,7 @@
       };
 
       btn.innerHTML = `
-        <span class="option-letter flex-shrink-0 font-black text-lg sm:text-xl">${optKey}</span>
+        <span class="option-letter flex-shrink-0 font-extrabold text-base sm:text-lg">${optKey}</span>
         <span class="flex-grow pt-0.5">${optText}</span>
       `;
       container.appendChild(btn);

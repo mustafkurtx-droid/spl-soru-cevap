@@ -98,8 +98,8 @@ body {
   color: var(--text-main);
   transition: all 0.15s ease-in-out;
   cursor: pointer;
-  font-size: 1.1875rem; /* ~19px base font */
-  padding: 1.125rem 1.25rem;
+  font-size: 1.0625rem; /* ~17px base font */
+  padding: 0.875rem 1.125rem;
 }
 
 .option-btn:hover:not(:disabled) {
@@ -110,7 +110,7 @@ body {
 .option-btn.selected {
   border-color: var(--accent-primary);
   background-color: rgba(2, 132, 199, 0.08);
-  font-weight: 700;
+  font-weight: 600;
 }
 
 .dark .option-btn.selected {
@@ -132,14 +132,14 @@ body {
 
 /* Option Letter Badge */
 .option-letter {
-  width: 42px;
-  height: 42px;
-  border-radius: 12px;
+  width: 36px;
+  height: 36px;
+  border-radius: 10px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
   font-weight: 800;
-  font-size: 1.125rem;
+  font-size: 1rem;
   background-color: var(--bg-secondary);
   color: var(--text-main);
   transition: all 0.15s ease;
@@ -148,22 +148,22 @@ body {
 /* Custom Font Size Modes */
 .font-size-lg #question-text,
 .font-size-lg .question-stem-text {
-  font-size: 1.625rem !important; /* 26px */
-  line-height: 1.8 !important;
+  font-size: 1.5rem !important; /* 24px */
+  line-height: 1.7 !important;
 }
 
 .font-size-lg .option-btn {
-  font-size: 1.3125rem !important; /* 21px */
+  font-size: 1.25rem !important; /* 20px */
 }
 
 .font-size-xl #question-text,
 .font-size-xl .question-stem-text {
-  font-size: 1.875rem !important; /* 30px */
-  line-height: 1.85 !important;
+  font-size: 1.6875rem !important; /* 27px */
+  line-height: 1.75 !important;
 }
 
 .font-size-xl .option-btn {
-  font-size: 1.5rem !important; /* 24px */
+  font-size: 1.375rem !important; /* 22px */
 }
 
 .option-btn.selected .option-letter {
