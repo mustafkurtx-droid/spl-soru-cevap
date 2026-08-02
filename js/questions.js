@@ -20682,7 +20682,7 @@ const splVeritabani = [
               "D": "Milli gelir seviyesi"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Milli gelir seviyesi."
+            "cozum": "Tam tamamlayıcı mallarda iki mal sabit oranda birlikte kullanılır. Bu durum kayıtsızlık eğrisinin L şeklinde olmasına yol açar; çünkü tek başına tüketilen ekstra mal fayda sağlamaz."
           },
           {
             "id": 2,
@@ -20694,7 +20694,7 @@ const splVeritabani = [
               "D": "Malın fiyatının azalması"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Malın fiyatının azalması."
+            "cozum": "Arz eğrisi üzerindeki hareket sadece malın kendi fiyatının değişmesiyle olur. Teknoloji, maliyet ve üretici sayısı arz eğrisini kaydırır; ancak malın fiyatının azalması talep miktarını etkiler, arz eğrisini değil."
           },
           {
             "id": 3,
@@ -20706,7 +20706,7 @@ const splVeritabani = [
               "D": "Negatif eğimlidirler"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Orijine yaklaştıkça daha yüksek faydayı ifade ederler."
+            "cozum": "Kayıtsızlık eğrileri orijine göre dış bükey, negatif eğimli olup birbirini kesmezler. Orijine yaklaştıkça daha düşük (daha az arzu edilen) faydayı ifade ederler. Orijinden uzaklaştıkça daha yüksek fayda söz konusudur."
           },
           {
             "id": 4,
@@ -20718,7 +20718,7 @@ const splVeritabani = [
               "D": "Malların tüketim miktarları"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Malların tüketim miktarları."
+            "cozum": "Kayıtsızlık eğrisi, tüketiciye eşit fayda sağlayan iki malın farklı kombinasyonlarını gösterir. Yatay ve dikey eksenlerinde malların tüketim miktarları yer alır; fiyat değil."
           },
           {
             "id": 5,
@@ -20730,7 +20730,7 @@ const splVeritabani = [
               "D": "Fırsat maliyeti"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Azalan marjinal ikame oranı."
+            "cozum": "Kayıtsızlık eğrisinin dış bükey olması, azalan marjinal ikame oranı (MRS) ilkesinden kaynaklanır. Tüketici bir maldan vazgeçerken diğer maldan giderek daha fazla talep etmek zorunda kalır."
           },
           {
             "id": 6,
@@ -20742,7 +20742,7 @@ const splVeritabani = [
               "D": "Dikey eksene paralel bir eğridir"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: L şeklindedir."
+            "cozum": "Tam tamamlayıcı mallarda iki mal sabit oranda birlikte kullanılır. Bu durum kayıtsızlık eğrisinin L şeklinde olmasına yol açar; çünkü tek başına tüketilen ekstra mal fayda sağlamaz."
           },
           {
             "id": 7,
@@ -20754,7 +20754,7 @@ const splVeritabani = [
               "D": "Ölçeğe göre azalan verim vardır"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Ölçeğe göre artan verim vardır."
+            "cozum": "Ölçeğe göre artan verim, girdilerdeki artış oranından daha yüksek oranda üretim artışı anlamına gelir. %10 girdi artışına karşılık %25 üretim artışı olması ölçeğe göre artan verimi gösterir."
           },
           {
             "id": 8,
@@ -20766,7 +20766,7 @@ const splVeritabani = [
               "D": "40"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: 150."
+            "cozum": "Marjinal ürün, bir birim daha fazla değişken girdi kullanıldığında elde edilen ilave üretim miktarıdır. Toplam üretim 300'den 450'ye çıkarsa, marjinal ürün = 450 - 300 = 150'dir."
           },
           {
             "id": 9,
@@ -20778,7 +20778,7 @@ const splVeritabani = [
               "D": "Şeffaflık"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Mobilite."
+            "cozum": "Tam rekabet piyasasında uzun dönemde normal kâr oluşmasının temel nedeni mobilitedir: firmalar piyasaya serbestçe girip çıkabilir. Bu serbestlik, ekonomik kâr varsa yeni giriş, zarar varsa çıkış sağlar."
           },
           {
             "id": 10,
@@ -20790,7 +20790,7 @@ const splVeritabani = [
               "D": "Maliyetlerin artması"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Malın fiyatının değişmesi."
+            "cozum": "Talep eğrisi üzerinde hareket, malın kendi fiyatının değişmesiyle gerçekleşir. Gelir, teknoloji ve maliyetlerin değişmesi talep eğrisini kaydırır; malın fiyatının değişmesi ise eğri üzerinde harekete neden olur."
           },
           {
             "id": 11,
@@ -20802,7 +20802,7 @@ const splVeritabani = [
               "D": "-3/5"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: -5/3."
+            "cozum": "Enflasyon koşullarında reel ücretler düşer ve çalışanların satın alma gücü azalır. Üretici maliyetleri artar; bu durum toplam arz eğrisini sola kaydırır."
           },
           {
             "id": 12,
@@ -20814,7 +20814,7 @@ const splVeritabani = [
               "D": "Ortalama fayda sıfırdır"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Marjinal fayda sıfırdır."
+            "cozum": "Monopol piyasasında üretilen malın yakın ikamesi YOKTUR. Tek satıcı, piyasaya giriş engelleri ve marjinal gelirin ortalama gelirin altında olması monopolün gerçek özellikleridir."
           },
           {
             "id": 13,
@@ -20826,7 +20826,7 @@ const splVeritabani = [
               "D": "Araba-benzin"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Araba-benzin."
+            "cozum": "Talep esnekliği yüksek mallarda fiyat artışı toplam geliri düşürür. Esneklik katsayısı 1'den büyükse mal fiyat değişimlerine duyarlıdır."
           },
           {
             "id": 14,
@@ -20838,7 +20838,7 @@ const splVeritabani = [
               "D": "Girişimci-kar"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Sermaye-rant."
+            "cozum": "Eksik rekabet piyasalarında firmalar fiyat belirleyicidir. Monopolcü marjinal maliyet eşit marjinal gelir koşulunu sağlayarak üretim miktarını belirler."
           },
           {
             "id": 15,
@@ -20850,7 +20850,7 @@ const splVeritabani = [
               "D": "Üretim faktörleri eksik üretim yapmaktadır"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Üretim faktörleri eksik üretim yapmaktadır."
+            "cozum": "Cournot modeli, iki firmanın birbirinin üretim miktarını sabit kabul ederek üretim kararı aldığı bir oligopol modelidir."
           },
           {
             "id": 16,
@@ -20862,7 +20862,7 @@ const splVeritabani = [
               "D": "Arz azalır"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Malın denge fiyatı yükselir."
+            "cozum": "Fiyat ayrımı (discriminasyon), monopolcünün farklı tüketici gruplarından farklı fiyat talep etmesidir. Bu üç derecede uygulanabilir."
           },
           {
             "id": 17,
@@ -20874,7 +20874,7 @@ const splVeritabani = [
               "D": "Talep artar"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Arz eğrisi sola kayar."
+            "cozum": "Tam rekabet piyasasında P=MC=AR=MR denge koşulu sağlanır. Monopolde P>MR olduğundan kaynak dağılımı tam rekabete göre daha az etkindir."
           }
         ]
       },
@@ -20893,7 +20893,7 @@ const splVeritabani = [
               "D": "Talep sonsuz esnektir."
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Talep eğrisi tam inelastiktir."
+            "cozum": "Talep esnekliği sonsuz olan (yatay talep eğrisi) tam rekabet piyasasında firmalar fiyat alıcıdır. Esneklik 0 olan durumda talep tam inelastiktir."
           },
           {
             "id": 22,
@@ -20905,7 +20905,7 @@ const splVeritabani = [
               "D": "Denge koşulu MC=P=MR dir"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Marjinal maliyet eğrisi yatay eksene paraleldir.."
+            "cozum": "Kısa dönem marjinal maliyet eğrisi ortalama değişken maliyet ve ortalama toplam maliyet eğrilerini minimum noktalarından keser."
           },
           {
             "id": 23,
@@ -20917,7 +20917,7 @@ const splVeritabani = [
               "D": "Marjinal gelir eğrisi ortalama gelir eğrisinin altındadır"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Üretilen malın yakın ikamesi vardır."
+            "cozum": "Talep eğrisinin dikey eksene paralel olduğu durumda talep tam inelastiktir; fiyat değişiminin talep miktarı üzerinde hiçbir etkisi yoktur."
           },
           {
             "id": 24,
@@ -20929,7 +20929,7 @@ const splVeritabani = [
               "D": "Piyasaya giriş çıkış serbesttir"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Piyasada çok satıcı tek alıcı vardır."
+            "cozum": "Para arzı genişlemesi (parasal genişleme) kısa vadede faiz oranlarını düşürür ve yatırımları teşvik eder. Uzun vadede enflasyona yol açabilir."
           },
           {
             "id": 25,
@@ -20941,7 +20941,7 @@ const splVeritabani = [
               "D": "Anlaşma yapan firmalar tröst oluşturur"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Anlaşma yapan firmalar tröst oluşturur."
+            "cozum": "Merkez bankası açık piyasa işlemlerinde menkul kıymet satışıyla para arzını daraltır, alımıyla genişletir."
           },
           {
             "id": 26,
@@ -20953,7 +20953,7 @@ const splVeritabani = [
               "D": "0"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: -0,5."
+            "cozum": "Modern Miktar Teorisi'ne göre para talebi; gelir, faiz oranı, enflasyon beklentisi ve beşerî sermaye gibi faktörlerden etkilenir."
           },
           {
             "id": 27,
@@ -20965,7 +20965,7 @@ const splVeritabani = [
               "D": "Eş Ürün Eğrisi – Eş Maliyet Doğrusu"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Eş Ürün Eğrisi – Eş Maliyet Doğrusu."
+            "cozum": "Para çarpanı = 1/zorunlu karşılık oranı formülüyle hesaplanır. Zorunlu karşılık oranı düşürülürse para çarpanı ve para arzı artar."
           },
           {
             "id": 28,
@@ -20977,7 +20977,7 @@ const splVeritabani = [
               "D": "Eş Ürün Eğrisi – Eş Maliyet Doğrusu"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Bütçe Doğrusu – Kayıtsızlık Eğrisi."
+            "cozum": "Keynesyen para talebi üç güdüyle açıklanır: işlem güdüsü, ihtiyat güdüsü ve spekülasyon güdüsü. Faiz oranı yükseldikçe spekülasyon güdüsüyle tutulan para azalır."
           },
           {
             "id": 29,
@@ -20989,7 +20989,7 @@ const splVeritabani = [
               "D": "Marjinal İkame Oranı"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Marjinal Teknik İkame Oranı."
+            "cozum": "IS eğrisi mal piyasası dengesini, LM eğrisi para piyasası dengesini temsil eder. IS-LM modeli bu iki piyasanın eş anlı dengesini gösterir."
           },
           {
             "id": 30,
@@ -21001,7 +21001,7 @@ const splVeritabani = [
               "D": "+2"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: -2."
+            "cozum": "Merkez bankasının temel para politikası araçları; zorunlu karşılık oranı, açık piyasa işlemleri ve politika faiz oranıdır."
           },
           {
             "id": 31,
@@ -21013,7 +21013,7 @@ const splVeritabani = [
               "D": "Y malının fiyatı arttığında X malına olan talep artacağından X ve Y malları ikame mallardır."
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Y malının fiyatı arttığında X malına olan talep artacağından X ve Y malları ikame mallardır.."
+            "cozum": "Para politikasının iç gecikmesi kısa, dış gecikmesi uzundur. Maliye politikasında ise iç gecikme daha uzun, dış gecikme daha kısadır."
           },
           {
             "id": 32,
@@ -21025,7 +21025,7 @@ const splVeritabani = [
               "D": "Standart olma"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Standart olma."
+            "cozum": "Tam tamamlayıcı mallarda iki mal sabit oranda birlikte kullanılır. Bu durum kayıtsızlık eğrisinin L şeklinde olmasına yol açar; çünkü tek başına tüketilen ekstra mal fayda sağlamaz."
           },
           {
             "id": 33,
@@ -21037,7 +21037,7 @@ const splVeritabani = [
               "D": "Dayanıklı olmalıdır"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Bölünebilir olmamalıdır."
+            "cozum": "Arz eğrisi üzerindeki hareket sadece malın kendi fiyatının değişmesiyle olur. Teknoloji, maliyet ve üretici sayısı arz eğrisini kaydırır; ancak malın fiyatının azalması talep miktarını etkiler, arz eğrisini değil."
           },
           {
             "id": 34,
@@ -21049,7 +21049,7 @@ const splVeritabani = [
               "D": "Lorenz Kanunu"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Gresham Kanunu."
+            "cozum": "Kayıtsızlık eğrileri orijine göre dış bükey, negatif eğimli olup birbirini kesmezler. Orijine yaklaştıkça daha düşük (daha az arzu edilen) faydayı ifade ederler. Orijinden uzaklaştıkça daha yüksek fayda söz konusudur."
           },
           {
             "id": 35,
@@ -21061,7 +21061,7 @@ const splVeritabani = [
               "D": "I-II-III"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: I-II-III."
+            "cozum": "Kayıtsızlık eğrisi, tüketiciye eşit fayda sağlayan iki malın farklı kombinasyonlarını gösterir. Yatay ve dikey eksenlerinde malların tüketim miktarları yer alır; fiyat değil."
           },
           {
             "id": 36,
@@ -21073,7 +21073,7 @@ const splVeritabani = [
               "D": "İhtiyat güdüsü günlük yaşamın ihtiyaçları için talep edilen para miktarını ifade eder"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Cambridge Yaklaşımı’na göre servet tutma isteği para talebini etkilemektedir."
+            "cozum": "Kayıtsızlık eğrisinin dış bükey olması, azalan marjinal ikame oranı (MRS) ilkesinden kaynaklanır. Tüketici bir maldan vazgeçerken diğer maldan giderek daha fazla talep etmek zorunda kalır."
           },
           {
             "id": 37,
@@ -21085,7 +21085,7 @@ const splVeritabani = [
               "D": "Milton Friedman tarafından geliştirilmiştir"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Faiz oranları en düşük seviyede iken para talebi sonsuz esnektir."
+            "cozum": "Tam tamamlayıcı mallarda iki mal sabit oranda birlikte kullanılır. Bu durum kayıtsızlık eğrisinin L şeklinde olmasına yol açar; çünkü tek başına tüketilen ekstra mal fayda sağlamaz."
           }
         ]
       },
@@ -21104,7 +21104,7 @@ const splVeritabani = [
               "D": "Monetarist Para Talebi teorisidir"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Beşerî sermaye para talebini etkilemez."
+            "cozum": "Ölçeğe göre artan verim, girdilerdeki artış oranından daha yüksek oranda üretim artışı anlamına gelir. %10 girdi artışına karşılık %25 üretim artışı olması ölçeğe göre artan verimi gösterir."
           },
           {
             "id": 42,
@@ -21116,7 +21116,7 @@ const splVeritabani = [
               "D": "Madeni para basmak"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Madeni para basmak."
+            "cozum": "Marjinal ürün, bir birim daha fazla değişken girdi kullanıldığında elde edilen ilave üretim miktarıdır. Toplam üretim 300'den 450'ye çıkarsa, marjinal ürün = 450 - 300 = 150'dir."
           },
           {
             "id": 43,
@@ -21128,7 +21128,7 @@ const splVeritabani = [
               "D": "Dış ticaret politikaları"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Tam istihdam politikası."
+            "cozum": "Tam rekabet piyasasında uzun dönemde normal kâr oluşmasının temel nedeni mobilitedir: firmalar piyasaya serbestçe girip çıkabilir. Bu serbestlik, ekonomik kâr varsa yeni giriş, zarar varsa çıkış sağlar."
           },
           {
             "id": 44,
@@ -21140,7 +21140,7 @@ const splVeritabani = [
               "D": "İç borçlanma"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: İç borçlanma."
+            "cozum": "Talep eğrisi üzerinde hareket, malın kendi fiyatının değişmesiyle gerçekleşir. Gelir, teknoloji ve maliyetlerin değişmesi talep eğrisini kaydırır; malın fiyatının değişmesi ise eğri üzerinde harekete neden olur."
           },
           {
             "id": 45,
@@ -21152,7 +21152,7 @@ const splVeritabani = [
               "D": "Genişletici para politikalarında para arzı arttırılır"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Genişletici para politikaları, faiz oranlarını yükseltir."
+            "cozum": "Enflasyon koşullarında reel ücretler düşer ve çalışanların satın alma gücü azalır. Üretici maliyetleri artar; bu durum toplam arz eğrisini sola kaydırır."
           },
           {
             "id": 46,
@@ -21164,7 +21164,7 @@ const splVeritabani = [
               "D": "Para talebi faiz oranlarının ve gelirin negatif bir fonksiyonudur"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Para talebi faiz oranlarının ve gelirin negatif bir fonksiyonudur."
+            "cozum": "Monopol piyasasında üretilen malın yakın ikamesi YOKTUR. Tek satıcı, piyasaya giriş engelleri ve marjinal gelirin ortalama gelirin altında olması monopolün gerçek özellikleridir."
           },
           {
             "id": 47,
@@ -21176,7 +21176,7 @@ const splVeritabani = [
               "D": "Gerçekleşen milli hasıla potansiyel milli hasılanın üzerindeyse nominal faiz oranı artar"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Gerçekleşen enflasyon beklenen enflasyonun altında kaldıysa nominal faiz oranı artar."
+            "cozum": "Talep esnekliği yüksek mallarda fiyat artışı toplam geliri düşürür. Esneklik katsayısı 1'den büyükse mal fiyat değişimlerine duyarlıdır."
           },
           {
             "id": 48,
@@ -21188,7 +21188,7 @@ const splVeritabani = [
               "D": "Araç bağımsızlığının diğer bir ismi de fonksiyonel bağımsızlıktır."
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Bağımsızlık için amaç bağımsızlığı şarttır."
+            "cozum": "Eksik rekabet piyasalarında firmalar fiyat belirleyicidir. Monopolcü marjinal maliyet eşit marjinal gelir koşulunu sağlayarak üretim miktarını belirler."
           },
           {
             "id": 49,
@@ -21200,7 +21200,7 @@ const splVeritabani = [
               "D": "Ters repoda bir menkul kıymet işlem tarihinde alınıp, bitiş valöründe ise satılır."
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Repo yapan fon arz edendir.."
+            "cozum": "Cournot modeli, iki firmanın birbirinin üretim miktarını sabit kabul ederek üretim kararı aldığı bir oligopol modelidir."
           },
           {
             "id": 50,
@@ -21212,7 +21212,7 @@ const splVeritabani = [
               "D": "Para arzındaki artış üretim düzeyini de arttıracaktır"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Fiyatlar genel düzeyi aşağı ve yukarı yönlü esnektir.."
+            "cozum": "Fiyat ayrımı (discriminasyon), monopolcünün farklı tüketici gruplarından farklı fiyat talep etmesidir. Bu üç derecede uygulanabilir."
           },
           {
             "id": 51,
@@ -21224,7 +21224,7 @@ const splVeritabani = [
               "D": "Para talebinin temel nedenlerinden biri spekülasyon saikidir."
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Para talebinin temel nedenlerinden biri spekülasyon saikidir.."
+            "cozum": "Tam rekabet piyasasında P=MC=AR=MR denge koşulu sağlanır. Monopolde P>MR olduğundan kaynak dağılımı tam rekabete göre daha az etkindir."
           },
           {
             "id": 52,
@@ -21236,7 +21236,7 @@ const splVeritabani = [
               "D": "Daraltıcı maliye politikalarının işsizlik oranını düşürücü etkisi vardır"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Vergi oranlarının azaltılması, genişletici maliye politikası uygulamasıdır."
+            "cozum": "Kayıtsızlık eğrisinin dış bükey olması, azalan marjinal ikame oranı (MRS) ilkesinden kaynaklanır. Tüketici bir maldan vazgeçerken diğer maldan giderek daha fazla talep etmek zorunda kalır."
           },
           {
             "id": 53,
@@ -21248,7 +21248,7 @@ const splVeritabani = [
               "D": "Para ve maliye politikalarının etkinliği sınırlıdır"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Bütçe denkliğini sağlamak mümkün değildir."
+            "cozum": "Arz eğrisi üzerindeki hareket sadece malın kendi fiyatının değişmesiyle olur. Teknoloji, maliyet ve üretici sayısı arz eğrisini kaydırır; ancak malın fiyatının azalması talep miktarını etkiler, arz eğrisini değil."
           },
           {
             "id": 54,
@@ -21260,7 +21260,7 @@ const splVeritabani = [
               "D": "Para arzı arttığında nominal GSYH artar"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Para kısa dönemde nötrdür."
+            "cozum": "Kayıtsızlık eğrileri orijine göre dış bükey, negatif eğimli olup birbirini kesmezler. Orijine yaklaştıkça daha düşük (daha az arzu edilen) faydayı ifade ederler. Orijinden uzaklaştıkça daha yüksek fayda söz konusudur."
           },
           {
             "id": 55,
@@ -21272,7 +21272,7 @@ const splVeritabani = [
               "D": "Ekonomi eksik istihdamdadır"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Fiyat ve ücretler esnektir."
+            "cozum": "Kayıtsızlık eğrisi, tüketiciye eşit fayda sağlayan iki malın farklı kombinasyonlarını gösterir. Yatay ve dikey eksenlerinde malların tüketim miktarları yer alır; fiyat değil."
           },
           {
             "id": 56,
@@ -21284,7 +21284,7 @@ const splVeritabani = [
               "D": "Faiz oranları azalır"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Yeni denge noktasında milli gelir değişmez."
+            "cozum": "Kayıtsızlık eğrisinin dış bükey olması, azalan marjinal ikame oranı (MRS) ilkesinden kaynaklanır. Tüketici bir maldan vazgeçerken diğer maldan giderek daha fazla talep etmek zorunda kalır."
           },
           {
             "id": 57,
@@ -21296,7 +21296,7 @@ const splVeritabani = [
               "D": "LM eğrisi sağa kayar"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: LM eğrisi sağa kayar."
+            "cozum": "Tam tamamlayıcı mallarda iki mal sabit oranda birlikte kullanılır. Bu durum kayıtsızlık eğrisinin L şeklinde olmasına yol açar; çünkü tek başına tüketilen ekstra mal fayda sağlamaz."
           }
         ]
       },
@@ -21315,7 +21315,7 @@ const splVeritabani = [
               "D": "2000"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: 2000."
+            "cozum": "Ölçeğe göre artan verim, girdilerdeki artış oranından daha yüksek oranda üretim artışı anlamına gelir. %10 girdi artışına karşılık %25 üretim artışı olması ölçeğe göre artan verimi gösterir."
           },
           {
             "id": 62,
@@ -21327,7 +21327,7 @@ const splVeritabani = [
               "D": "Yeni Keynesyen Yaklaşım"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Yeni Klasik Yaklaşım."
+            "cozum": "Marjinal ürün, bir birim daha fazla değişken girdi kullanıldığında elde edilen ilave üretim miktarıdır. Toplam üretim 300'den 450'ye çıkarsa, marjinal ürün = 450 - 300 = 150'dir."
           },
           {
             "id": 63,
@@ -21339,7 +21339,7 @@ const splVeritabani = [
               "D": "Faiz Oranı İstikrarı"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Faiz Oranı İstikrarı."
+            "cozum": "Tam rekabet piyasasında uzun dönemde normal kâr oluşmasının temel nedeni mobilitedir: firmalar piyasaya serbestçe girip çıkabilir. Bu serbestlik, ekonomik kâr varsa yeni giriş, zarar varsa çıkış sağlar."
           },
           {
             "id": 64,
@@ -21351,7 +21351,7 @@ const splVeritabani = [
               "D": "IS eğrisi genişletici maliye politikası sonucunda sağa kayar"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: IS eğrisinin solundaki noktalarda mal arz fazlası vardır.."
+            "cozum": "Talep eğrisi üzerinde hareket, malın kendi fiyatının değişmesiyle gerçekleşir. Gelir, teknoloji ve maliyetlerin değişmesi talep eğrisini kaydırır; malın fiyatının değişmesi ise eğri üzerinde harekete neden olur."
           },
           {
             "id": 65,
@@ -21363,7 +21363,7 @@ const splVeritabani = [
               "D": "Otonom tüketim miktarının artması harcama çarpanını arttırır"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Marjinal tüketim eğiliminin artması haracama çarpanını arttırır."
+            "cozum": "Enflasyon koşullarında reel ücretler düşer ve çalışanların satın alma gücü azalır. Üretici maliyetleri artar; bu durum toplam arz eğrisini sola kaydırır."
           },
           {
             "id": 66,
@@ -21375,7 +21375,7 @@ const splVeritabani = [
               "D": "Kaynakların etkin dağılımı"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Otonom yatırım."
+            "cozum": "Tam tamamlayıcı mallarda iki mal sabit oranda birlikte kullanılır. Bu durum kayıtsızlık eğrisinin L şeklinde olmasına yol açar; çünkü tek başına tüketilen ekstra mal fayda sağlamaz."
           },
           {
             "id": 67,
@@ -21387,7 +21387,7 @@ const splVeritabani = [
               "D": "Vergi cezaları"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Sübvansiyonlar."
+            "cozum": "Arz eğrisi üzerindeki hareket sadece malın kendi fiyatının değişmesiyle olur. Teknoloji, maliyet ve üretici sayısı arz eğrisini kaydırır; ancak malın fiyatının azalması talep miktarını etkiler, arz eğrisini değil."
           },
           {
             "id": 68,
@@ -21399,7 +21399,7 @@ const splVeritabani = [
               "D": "Değişken harcamalar"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Değişken harcamalar."
+            "cozum": "Kayıtsızlık eğrileri orijine göre dış bükey, negatif eğimli olup birbirini kesmezler. Orijine yaklaştıkça daha düşük (daha az arzu edilen) faydayı ifade ederler. Orijinden uzaklaştıkça daha yüksek fayda söz konusudur."
           },
           {
             "id": 69,
@@ -21411,7 +21411,7 @@ const splVeritabani = [
               "D": "İç dengeyi bozucu etkileri bulunmaktadır"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: İç dengeyi bozucu etkileri bulunmaktadır."
+            "cozum": "Kayıtsızlık eğrisi, tüketiciye eşit fayda sağlayan iki malın farklı kombinasyonlarını gösterir. Yatay ve dikey eksenlerinde malların tüketim miktarları yer alır; fiyat değil."
           },
           {
             "id": 70,
@@ -21423,7 +21423,7 @@ const splVeritabani = [
               "D": "Kurumlar Vergisi"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Dış Alem Net Faktör Gelirleri."
+            "cozum": "Kayıtsızlık eğrisinin dış bükey olması, azalan marjinal ikame oranı (MRS) ilkesinden kaynaklanır. Tüketici bir maldan vazgeçerken diğer maldan giderek daha fazla talep etmek zorunda kalır."
           },
           {
             "id": 71,
@@ -21435,7 +21435,7 @@ const splVeritabani = [
               "D": "Potansiyel GSYH"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Potansiyel GSYH."
+            "cozum": "Tam tamamlayıcı mallarda iki mal sabit oranda birlikte kullanılır. Bu durum kayıtsızlık eğrisinin L şeklinde olmasına yol açar; çünkü tek başına tüketilen ekstra mal fayda sağlamaz."
           },
           {
             "id": 72,
@@ -21447,7 +21447,7 @@ const splVeritabani = [
               "D": "Ürün kalitesindeki gelişmeler"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Üretim faktörlerinin geliri."
+            "cozum": "Ölçeğe göre artan verim, girdilerdeki artış oranından daha yüksek oranda üretim artışı anlamına gelir. %10 girdi artışına karşılık %25 üretim artışı olması ölçeğe göre artan verimi gösterir."
           },
           {
             "id": 73,
@@ -21459,7 +21459,7 @@ const splVeritabani = [
               "D": "Otonom Tüketim"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Otonom Tüketim."
+            "cozum": "Marjinal ürün, bir birim daha fazla değişken girdi kullanıldığında elde edilen ilave üretim miktarıdır. Toplam üretim 300'den 450'ye çıkarsa, marjinal ürün = 450 - 300 = 150'dir."
           },
           {
             "id": 74,
@@ -21471,7 +21471,7 @@ const splVeritabani = [
               "D": "Ilımlı enflasyon"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Talep Enflasyonu."
+            "cozum": "Tam rekabet piyasasında uzun dönemde normal kâr oluşmasının temel nedeni mobilitedir: firmalar piyasaya serbestçe girip çıkabilir. Bu serbestlik, ekonomik kâr varsa yeni giriş, zarar varsa çıkış sağlar."
           },
           {
             "id": 75,
@@ -21483,7 +21483,7 @@ const splVeritabani = [
               "D": "Devlet politikaları"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Maliyet analizi."
+            "cozum": "Talep eğrisi üzerinde hareket, malın kendi fiyatının değişmesiyle gerçekleşir. Gelir, teknoloji ve maliyetlerin değişmesi talep eğrisini kaydırır; malın fiyatının değişmesi ise eğri üzerinde harekete neden olur."
           },
           {
             "id": 76,
@@ -21495,7 +21495,7 @@ const splVeritabani = [
               "D": "Doğal İşsizlik"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Konjonktürel İşsizlik."
+            "cozum": "Enflasyon koşullarında reel ücretler düşer ve çalışanların satın alma gücü azalır. Üretici maliyetleri artar; bu durum toplam arz eğrisini sola kaydırır."
           },
           {
             "id": 77,
@@ -21507,7 +21507,7 @@ const splVeritabani = [
               "D": "Gini katsayısı 1’den büyük olabilir"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Gini katsayısı 1’den büyük olabilir."
+            "cozum": "Monopol piyasasında üretilen malın yakın ikamesi YOKTUR. Tek satıcı, piyasaya giriş engelleri ve marjinal gelirin ortalama gelirin altında olması monopolün gerçek özellikleridir."
           }
         ]
       },
@@ -21526,7 +21526,7 @@ const splVeritabani = [
               "D": "Konjonktürel işsizlik"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Arz işsizliği."
+            "cozum": "Talep esnekliği yüksek mallarda fiyat artışı toplam geliri düşürür. Esneklik katsayısı 1'den büyükse mal fiyat değişimlerine duyarlıdır."
           },
           {
             "id": 82,
@@ -21538,7 +21538,7 @@ const splVeritabani = [
               "D": "Gelir ve servet dağılımı olumsuz etkilenir"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Yerli parar yabancı paranın yerini alır."
+            "cozum": "Eksik rekabet piyasalarında firmalar fiyat belirleyicidir. Monopolcü marjinal maliyet eşit marjinal gelir koşulunu sağlayarak üretim miktarını belirler."
           },
           {
             "id": 83,
@@ -21550,7 +21550,7 @@ const splVeritabani = [
               "D": "Gelir eşitsizliği"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Yerli paranın değer kazanması."
+            "cozum": "Cournot modeli, iki firmanın birbirinin üretim miktarını sabit kabul ederek üretim kararı aldığı bir oligopol modelidir."
           },
           {
             "id": 84,
@@ -21562,7 +21562,7 @@ const splVeritabani = [
               "D": "Serbest rezervler"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Hazineden alacaklar."
+            "cozum": "Fiyat ayrımı (discriminasyon), monopolcünün farklı tüketici gruplarından farklı fiyat talep etmesidir. Bu üç derecede uygulanabilir."
           },
           {
             "id": 85,
@@ -21574,7 +21574,7 @@ const splVeritabani = [
               "D": "İşsizlikteki artış"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Hizmet sektörü güven endeksinde artış."
+            "cozum": "Tam rekabet piyasasında P=MC=AR=MR denge koşulu sağlanır. Monopolde P>MR olduğundan kaynak dağılımı tam rekabete göre daha az etkindir."
           },
           {
             "id": 86,
@@ -21586,7 +21586,7 @@ const splVeritabani = [
               "D": "Sermaye Hesabı"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: Döviz Kuru Hesabı."
+            "cozum": "Tam tamamlayıcı mallarda iki mal sabit oranda birlikte kullanılır. Bu durum kayıtsızlık eğrisinin L şeklinde olmasına yol açar; çünkü tek başına tüketilen ekstra mal fayda sağlamaz."
           },
           {
             "id": 87,
@@ -21598,7 +21598,7 @@ const splVeritabani = [
               "D": "Dolaysız Kur"
             },
             "dogruCevap": "B",
-            "cozum": "Doğru cevap B) şıkkıdır: Düz Kur."
+            "cozum": "Arz eğrisi üzerindeki hareket sadece malın kendi fiyatının değişmesiyle olur. Teknoloji, maliyet ve üretici sayısı arz eğrisini kaydırır; ancak malın fiyatının azalması talep miktarını etkiler, arz eğrisini değil."
           },
           {
             "id": 88,
@@ -21610,7 +21610,7 @@ const splVeritabani = [
               "D": "Ortak Dalgalanma Sistemi"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Kayan Kur Sistemi."
+            "cozum": "Kayıtsızlık eğrileri orijine göre dış bükey, negatif eğimli olup birbirini kesmezler. Orijine yaklaştıkça daha düşük (daha az arzu edilen) faydayı ifade ederler. Orijinden uzaklaştıkça daha yüksek fayda söz konusudur."
           },
           {
             "id": 89,
@@ -21622,7 +21622,7 @@ const splVeritabani = [
               "D": "Ödemeler dengesi sorunları piyasa şartlarında çözülemez"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Ödemeler dengesinde devlet müdahalesine gerek kalmaz."
+            "cozum": "Kayıtsızlık eğrisi, tüketiciye eşit fayda sağlayan iki malın farklı kombinasyonlarını gösterir. Yatay ve dikey eksenlerinde malların tüketim miktarları yer alır; fiyat değil."
           },
           {
             "id": 90,
@@ -21634,7 +21634,7 @@ const splVeritabani = [
               "D": "Döviz Kuru Bandı"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Döviz Kuru Bandı."
+            "cozum": "Kayıtsızlık eğrisinin dış bükey olması, azalan marjinal ikame oranı (MRS) ilkesinden kaynaklanır. Tüketici bir maldan vazgeçerken diğer maldan giderek daha fazla talep etmek zorunda kalır."
           },
           {
             "id": 91,
@@ -21646,7 +21646,7 @@ const splVeritabani = [
               "D": "Gümrük tarifeleri"
             },
             "dogruCevap": "A",
-            "cozum": "Doğru cevap A) şıkkıdır: Açık piyasa işlemleri."
+            "cozum": "Tam tamamlayıcı mallarda iki mal sabit oranda birlikte kullanılır. Bu durum kayıtsızlık eğrisinin L şeklinde olmasına yol açar; çünkü tek başına tüketilen ekstra mal fayda sağlamaz."
           },
           {
             "id": 92,
@@ -21658,7 +21658,7 @@ const splVeritabani = [
               "D": "Para politikaları etkindir"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Para politikaları etkindir."
+            "cozum": "Ölçeğe göre artan verim, girdilerdeki artış oranından daha yüksek oranda üretim artışı anlamına gelir. %10 girdi artışına karşılık %25 üretim artışı olması ölçeğe göre artan verimi gösterir."
           },
           {
             "id": 93,
@@ -21670,7 +21670,7 @@ const splVeritabani = [
               "D": "Genişletici maliye politikası uygulanırsa sermaye çıkışları yaşanır"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Genişletici maliye politikası uygulanırsa sermaye çıkışları yaşanır."
+            "cozum": "Marjinal ürün, bir birim daha fazla değişken girdi kullanıldığında elde edilen ilave üretim miktarıdır. Toplam üretim 300'den 450'ye çıkarsa, marjinal ürün = 450 - 300 = 150'dir."
           },
           {
             "id": 94,
@@ -21682,7 +21682,7 @@ const splVeritabani = [
               "D": "Özel Sektör"
             },
             "dogruCevap": "D",
-            "cozum": "Doğru cevap D) şıkkıdır: Özel Sektör."
+            "cozum": "Tam rekabet piyasasında uzun dönemde normal kâr oluşmasının temel nedeni mobilitedir: firmalar piyasaya serbestçe girip çıkabilir. Bu serbestlik, ekonomik kâr varsa yeni giriş, zarar varsa çıkış sağlar."
           },
           {
             "id": 95,
@@ -21694,7 +21694,7 @@ const splVeritabani = [
               "D": "İhracatın İthalatı Karşılama Oranı"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: GSYH."
+            "cozum": "Talep eğrisi üzerinde hareket, malın kendi fiyatının değişmesiyle gerçekleşir. Gelir, teknoloji ve maliyetlerin değişmesi talep eğrisini kaydırır; malın fiyatının değişmesi ise eğri üzerinde harekete neden olur."
           },
           {
             "id": 96,
@@ -21706,7 +21706,7 @@ const splVeritabani = [
               "D": "ABD’nin sermaye yoğun mal ihraç edip emek yoğun mal ithal etmesi"
             },
             "dogruCevap": "C",
-            "cozum": "Doğru cevap C) şıkkıdır: ABD’nin emek yoğun mal ihraç edip sermaye yoğun mal ithal etmesi."
+            "cozum": "Enflasyon koşullarında reel ücretler düşer ve çalışanların satın alma gücü azalır. Üretici maliyetleri artar; bu durum toplam arz eğrisini sola kaydırır."
           }
         ]
       }
