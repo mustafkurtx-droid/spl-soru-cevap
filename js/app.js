@@ -388,7 +388,7 @@
   // TEKLİ SORU RENDER
   function renderSingleQuestion(qData, totalQuestions) {
     document.getElementById('current-q-num').textContent = state.currentQuestionIndex + 1;
-    document.getElementById('question-text').textContent = `${qData.id}. ${qData.soruMetni}`;
+    document.getElementById('question-text').textContent = qData.soruMetni;
 
     // Bookmark Durumu
     const bookmarkBtn = document.getElementById('bookmark-btn');

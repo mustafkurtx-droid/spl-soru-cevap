@@ -20673,7 +20673,7 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": "1008_t1_1",
+            "id": 1,
             "soruMetni": "BİRİNCİ BÖLÜM SORULARI 1. Aşağıdakilerden hangisi mikro ekonominin inceleme konusuna girmez?",
             "secenekler": {
               "A": "Monopol dengesi",
@@ -20682,10 +20682,10 @@ const splVeritabani = [
               "D": "Milli gelir seviyesi"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Milli gelir seviyesi."
           },
           {
-            "id": "1008_t1_2",
+            "id": 2,
             "soruMetni": "Aşağıdakilerden hangisi arz kaymasına yol açmaz?",
             "secenekler": {
               "A": "Teknolojinin gelişmesi",
@@ -20694,10 +20694,10 @@ const splVeritabani = [
               "D": "Malın fiyatının azalması"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Malın fiyatının azalması."
           },
           {
-            "id": "1008_t1_3",
+            "id": 3,
             "soruMetni": "Aşağıdakilerden hangisi kayıtsızlık eğrilerinin özelliklerinden birisi değildir?",
             "secenekler": {
               "A": "Orijine göre dış bükeydirler",
@@ -20706,10 +20706,10 @@ const splVeritabani = [
               "D": "Negatif eğimlidirler"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Orijine yaklaştıkça daha yüksek faydayı ifade ederler."
           },
           {
-            "id": "1008_t1_4",
+            "id": 4,
             "soruMetni": "Kayıtsızlık eğrisinin dikey ve yatay ekseninde aşağıdakilerden hangileri yer almaktadır?",
             "secenekler": {
               "A": "Malın fiyatı ve malın tüketim miktarı",
@@ -20718,10 +20718,10 @@ const splVeritabani = [
               "D": "Malların tüketim miktarları"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Malların tüketim miktarları."
           },
           {
-            "id": "1008_t1_5",
+            "id": 5,
             "soruMetni": "Kayıtsızlık (farksızlık) eğrisinin orijine göre dış bükey olmasının nedeni aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Azalan marjinal fayda",
@@ -20730,10 +20730,10 @@ const splVeritabani = [
               "D": "Fırsat maliyeti"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Azalan marjinal ikame oranı."
           },
           {
-            "id": "1008_t1_6",
+            "id": 6,
             "soruMetni": "Tam tamamlayıcı malların kayıtsızlık eğrisinin şekli aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Negatif eğimli ve iki ekseni kesen bir eğridir",
@@ -20742,10 +20742,10 @@ const splVeritabani = [
               "D": "Dikey eksene paralel bir eğridir"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: L şeklindedir."
           },
           {
-            "id": "1008_t1_7",
+            "id": 7,
             "soruMetni": "Girdilerdeki %10’luk artışa karşılık üretim %25 artıyorsa aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
               "A": "Ölçeğe göre sabit verim vardır",
@@ -20754,10 +20754,10 @@ const splVeritabani = [
               "D": "Ölçeğe göre azalan verim vardır"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Ölçeğe göre artan verim vardır."
           },
           {
-            "id": "1008_t1_8",
+            "id": 8,
             "soruMetni": "Üretimde kullanılan değişken girdi miktarı 2 birimden 3 birime çıktığında, toplam ürün 50 birimden 200 birime çıkarsa marjinal ürün miktarı kaç olur?",
             "secenekler": {
               "A": "150",
@@ -20766,10 +20766,10 @@ const splVeritabani = [
               "D": "40"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: 150."
           },
           {
-            "id": "1008_t1_9",
+            "id": 9,
             "soruMetni": "Tam rekabet piyasasında uzun dönemde normal kar oluşmasının asıl nedeni aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Atomisite",
@@ -20778,10 +20778,10 @@ const splVeritabani = [
               "D": "Şeffaflık"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Mobilite."
           },
           {
-            "id": "1008_t1_10",
+            "id": 10,
             "soruMetni": "Aşağıdakilerden hangisi talep eğrisi üzerinde bir harekete neden olur?",
             "secenekler": {
               "A": "Gelirin artması",
@@ -20790,10 +20790,10 @@ const splVeritabani = [
               "D": "Maliyetlerin artması"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Malın fiyatının değişmesi."
           },
           {
-            "id": "1008_t1_11",
+            "id": 11,
             "soruMetni": "Bir malın fiyatı 400 birimden 600 birime çıktığında talep edilen miktarı 1000 birimden 500 birime düşmektedir. Yay esnekliği formülüne göre talebin fiyat esnekliği kaçtır?",
             "secenekler": {
               "A": "5/3",
@@ -20802,10 +20802,10 @@ const splVeritabani = [
               "D": "-3/5"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: -5/3."
           },
           {
-            "id": "1008_t1_12",
+            "id": 12,
             "soruMetni": "Toplam faydanın maksimum olduğu seviye için aşağıdaki bilgilerden hangisi doğrudur?",
             "secenekler": {
               "A": "Ortalama fayda en düşük seviyesindedir",
@@ -20814,10 +20814,10 @@ const splVeritabani = [
               "D": "Ortalama fayda sıfırdır"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Marjinal fayda sıfırdır."
           },
           {
-            "id": "1008_t1_13",
+            "id": 13,
             "soruMetni": "Aşağıdaki mal gruplarından hangisi tamamlayıcı mallara örnektir?",
             "secenekler": {
               "A": "Kırmızı et-beyaz et",
@@ -20826,10 +20826,10 @@ const splVeritabani = [
               "D": "Araba-benzin"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Araba-benzin."
           },
           {
-            "id": "1008_t1_14",
+            "id": 14,
             "soruMetni": "Aşağıdaki üretim faktörü ve geliri eşleştirmelerinden hangisi yanlıştır?",
             "secenekler": {
               "A": "Sermaye-rant",
@@ -20838,10 +20838,10 @@ const splVeritabani = [
               "D": "Girişimci-kar"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Sermaye-rant."
           },
           {
-            "id": "1008_t1_15",
+            "id": 15,
             "soruMetni": "Üretim olanakları eğrisinin iç kısmında yer alan bir nokta için aşağıdakilerden hangisi söylenebilir?",
             "secenekler": {
               "A": "Üretim tam kapasite çalışmaktadır",
@@ -20850,10 +20850,10 @@ const splVeritabani = [
               "D": "Üretim faktörleri eksik üretim yapmaktadır"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Üretim faktörleri eksik üretim yapmaktadır."
           },
           {
-            "id": "1008_t1_16",
+            "id": 16,
             "soruMetni": "Bireyin gelirinin arttığı bir durumda denge miktar ve denge fiyat hakkında aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
               "A": "Talep azalır",
@@ -20862,10 +20862,10 @@ const splVeritabani = [
               "D": "Arz azalır"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Malın denge fiyatı yükselir."
           },
           {
-            "id": "1008_t1_17",
+            "id": 17,
             "soruMetni": "Üretim maliyetlerinin arttığı bir durumda denge miktar ve denge fiyat hakkında aşağıdakilerden hangisi gerçekleşir?",
             "secenekler": {
               "A": "Arz eğrisi sola kayar",
@@ -20874,7 +20874,7 @@ const splVeritabani = [
               "D": "Talep artar"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Arz eğrisi sola kayar."
           }
         ]
       },
@@ -20884,7 +20884,7 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": "1008_t2_1",
+            "id": 21,
             "soruMetni": "Talep eğrisinin dikey eksene paralel olduğu bir durumda aşağıdakilerden hangisi söylenebilir?",
             "secenekler": {
               "A": "Talep eğrisi tam inelastiktir",
@@ -20893,10 +20893,10 @@ const splVeritabani = [
               "D": "Talep sonsuz esnektir."
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Talep eğrisi tam inelastiktir."
           },
           {
-            "id": "1008_t2_2",
+            "id": 22,
             "soruMetni": "Tam rekabet piyasası ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Kısa dönem ve uzun dönem firma dengeleri farklıdır",
@@ -20905,10 +20905,10 @@ const splVeritabani = [
               "D": "Denge koşulu MC=P=MR dir"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Marjinal maliyet eğrisi yatay eksene paraleldir.."
           },
           {
-            "id": "1008_t2_3",
+            "id": 23,
             "soruMetni": "Aşağıdakilerden hangisi monopol piyasası hakkında yanlış bir bilgidir?",
             "secenekler": {
               "A": "Tek satıcı, çok sayıda alıcı vardır",
@@ -20917,10 +20917,10 @@ const splVeritabani = [
               "D": "Marjinal gelir eğrisi ortalama gelir eğrisinin altındadır"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Üretilen malın yakın ikamesi vardır."
           },
           {
-            "id": "1008_t2_4",
+            "id": 24,
             "soruMetni": "Aşağıdakilerden hangisi monopolcü rekabet piyasası hakkında yanlış bir bilgidir?",
             "secenekler": {
               "A": "Monopol ve tam rekabet piyasasının özelliklerini taşır",
@@ -20929,10 +20929,10 @@ const splVeritabani = [
               "D": "Piyasaya giriş çıkış serbesttir"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Piyasada çok satıcı tek alıcı vardır."
           },
           {
-            "id": "1008_t2_5",
+            "id": 25,
             "soruMetni": "Aşağıdakilerden hangisi oligopol piyasası hakkında doğru bir bilgidir?",
             "secenekler": {
               "A": "Piyasaya giriş-çıkış serbesttir",
@@ -20941,10 +20941,10 @@ const splVeritabani = [
               "D": "Anlaşma yapan firmalar tröst oluşturur"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Anlaşma yapan firmalar tröst oluşturur."
           },
           {
-            "id": "1008_t2_6",
+            "id": 26,
             "soruMetni": "Bir malın fiyatı 8 liradan 16 liraya çıktığında talep miktarı 20 birimden 10 birime düşmüştür. Bu malın talebinin fiyat esnekliği kaçtır?",
             "secenekler": {
               "A": "-0,5",
@@ -20953,10 +20953,10 @@ const splVeritabani = [
               "D": "0"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: -0,5."
           },
           {
-            "id": "1008_t2_7",
+            "id": 27,
             "soruMetni": "Üretici dengesi hangi iki eğrinin teğet olduğu noktada gerçekleşmektedir?",
             "secenekler": {
               "A": "Talep Eğrisi – Arz Eğrisi",
@@ -20965,10 +20965,10 @@ const splVeritabani = [
               "D": "Eş Ürün Eğrisi – Eş Maliyet Doğrusu"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Eş Ürün Eğrisi – Eş Maliyet Doğrusu."
           },
           {
-            "id": "1008_t2_8",
+            "id": 28,
             "soruMetni": "Tüketici dengesi hangi iki eğrinin teğet olduğu noktada gerçekleşmektedir?",
             "secenekler": {
               "A": "Talep Eğrisi – Arz Eğrisi",
@@ -20977,10 +20977,10 @@ const splVeritabani = [
               "D": "Eş Ürün Eğrisi – Eş Maliyet Doğrusu"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Bütçe Doğrusu – Kayıtsızlık Eğrisi."
           },
           {
-            "id": "1008_t2_9",
+            "id": 29,
             "soruMetni": "Sermaye ve emek gücü arasındaki ikame ilişkisini gösteren eş ürün eğrisinin eğimi aşağıdakilerden hangisine eşittir?",
             "secenekler": {
               "A": "Marjinal Dönüşüm Oranı",
@@ -20989,10 +20989,10 @@ const splVeritabani = [
               "D": "Marjinal İkame Oranı"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Marjinal Teknik İkame Oranı."
           },
           {
-            "id": "1008_t2_10",
+            "id": 30,
             "soruMetni": "Talep eğrisi aşağıdaki gibi olan bir ürünün, miktarının 40 birim olduğu noktada fiyat esnekliği nedir? 𝑄= 20𝑃−2",
             "secenekler": {
               "A": "-1",
@@ -21001,10 +21001,10 @@ const splVeritabani = [
               "D": "+2"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: -2."
           },
           {
-            "id": "1008_t2_11",
+            "id": 31,
             "soruMetni": "X malı ile Y malı arasındaki ilişki hakkında ne söylenebilir?",
             "secenekler": {
               "A": "Y malının fiyatı azaldığında X malına olan talep artacağından X ve Y malları tamamlayıcı",
@@ -21013,10 +21013,10 @@ const splVeritabani = [
               "D": "Y malının fiyatı arttığında X malına olan talep artacağından X ve Y malları ikame mallardır."
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Y malının fiyatı arttığında X malına olan talep artacağından X ve Y malları ikame mallardır.."
           },
           {
-            "id": "1008_t2_12",
+            "id": 32,
             "soruMetni": "İKİNCİ BÖLÜM SORULARI 1. Aşağıdakilerden hangisi paranın fonksiyonlarından birisi değildir?",
             "secenekler": {
               "A": "Değişim aracı olma",
@@ -21025,10 +21025,10 @@ const splVeritabani = [
               "D": "Standart olma"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Standart olma."
           },
           {
-            "id": "1008_t2_13",
+            "id": 33,
             "soruMetni": "Aşağıdakilerden hangisi parada olması gereken özelliklerden birisi değildir?",
             "secenekler": {
               "A": "Taklit edilmemelidir",
@@ -21037,10 +21037,10 @@ const splVeritabani = [
               "D": "Dayanıklı olmalıdır"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Bölünebilir olmamalıdır."
           },
           {
-            "id": "1008_t2_14",
+            "id": 34,
             "soruMetni": "“Kötü para iyi parayı kovar” temelindeki görüş aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Gresham Kanunu",
@@ -21049,10 +21049,10 @@ const splVeritabani = [
               "D": "Lorenz Kanunu"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Gresham Kanunu."
           },
           {
-            "id": "1008_t2_15",
+            "id": 35,
             "soruMetni": "I- Parayı talep eden kişi sayısı II- Ödeme sistemlerinin değişmesi III- Faiz oranları Yukarıdakilerden hangileri para talebini etkileyen faktörlerdendir?",
             "secenekler": {
               "A": "Yalnız I",
@@ -21061,10 +21061,10 @@ const splVeritabani = [
               "D": "I-II-III"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: I-II-III."
           },
           {
-            "id": "1008_t2_16",
+            "id": 36,
             "soruMetni": "Aşağıdaki bilgilerden hangisi doğrudur?",
             "secenekler": {
               "A": "Cambridge Yaklaşımı’na göre servet tutma isteği para talebini etkilemektedir",
@@ -21073,10 +21073,10 @@ const splVeritabani = [
               "D": "İhtiyat güdüsü günlük yaşamın ihtiyaçları için talep edilen para miktarını ifade eder"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Cambridge Yaklaşımı’na göre servet tutma isteği para talebini etkilemektedir."
           },
           {
-            "id": "1008_t2_17",
+            "id": 37,
             "soruMetni": "Likidite Tuzağı ile ilgili aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
               "A": "Marshall ve Pigou tarafından geliştirilmiştir",
@@ -21085,7 +21085,7 @@ const splVeritabani = [
               "D": "Milton Friedman tarafından geliştirilmiştir"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Faiz oranları en düşük seviyede iken para talebi sonsuz esnektir."
           }
         ]
       },
@@ -21095,7 +21095,7 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": "1008_t3_1",
+            "id": 41,
             "soruMetni": "Modern Miktar Teorisi’ne göre aşağıdaki bilgilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Enflasyon beklentileri para talebini etkiler",
@@ -21104,10 +21104,10 @@ const splVeritabani = [
               "D": "Monetarist Para Talebi teorisidir"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Beşerî sermaye para talebini etkilemez."
           },
           {
-            "id": "1008_t3_2",
+            "id": 42,
             "soruMetni": "Aşağıdakilerden hangisi Merkez Bankası’nın görevlerinden değildir?",
             "secenekler": {
               "A": "Banknot ve para basmak",
@@ -21116,10 +21116,10 @@ const splVeritabani = [
               "D": "Madeni para basmak"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Madeni para basmak."
           },
           {
-            "id": "1008_t3_3",
+            "id": 43,
             "soruMetni": "Aşağıdakilerden hangisi ekonomi politikasının araçlarından biri değildir?",
             "secenekler": {
               "A": "Para politikası",
@@ -21128,10 +21128,10 @@ const splVeritabani = [
               "D": "Dış ticaret politikaları"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Tam istihdam politikası."
           },
           {
-            "id": "1008_t3_4",
+            "id": 44,
             "soruMetni": "Aşağıdakilerden hangisi para politikasının araçlarından değildir?",
             "secenekler": {
               "A": "Reeskont oranı",
@@ -21140,10 +21140,10 @@ const splVeritabani = [
               "D": "İç borçlanma"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: İç borçlanma."
           },
           {
-            "id": "1008_t3_5",
+            "id": 45,
             "soruMetni": "Aşağıdaki bilgilerden hangisi doğru değildir?",
             "secenekler": {
               "A": "Genişletici para politikaları, faiz oranlarını yükseltir",
@@ -21152,10 +21152,10 @@ const splVeritabani = [
               "D": "Genişletici para politikalarında para arzı arttırılır"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Genişletici para politikaları, faiz oranlarını yükseltir."
           },
           {
-            "id": "1008_t3_6",
+            "id": 46,
             "soruMetni": "Keynesyen para talebi teorisine göre aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Ekonomik birimler işlem saikiyle para talep ederler",
@@ -21164,10 +21164,10 @@ const splVeritabani = [
               "D": "Para talebi faiz oranlarının ve gelirin negatif bir fonksiyonudur"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Para talebi faiz oranlarının ve gelirin negatif bir fonksiyonudur."
           },
           {
-            "id": "1008_t3_7",
+            "id": 47,
             "soruMetni": "Taylor Kuralı ile ilgili aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Reel faiz oranı arttıkça nominal faiz oranı da artar",
@@ -21176,10 +21176,10 @@ const splVeritabani = [
               "D": "Gerçekleşen milli hasıla potansiyel milli hasılanın üzerindeyse nominal faiz oranı artar"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Gerçekleşen enflasyon beklenen enflasyonun altında kaldıysa nominal faiz oranı artar."
           },
           {
-            "id": "1008_t3_8",
+            "id": 48,
             "soruMetni": "Merkez bankası bağımsızlığıyla ilgili aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Bağımsızlık için amaç bağımsızlığı şarttır",
@@ -21188,10 +21188,10 @@ const splVeritabani = [
               "D": "Araç bağımsızlığının diğer bir ismi de fonksiyonel bağımsızlıktır."
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Bağımsızlık için amaç bağımsızlığı şarttır."
           },
           {
-            "id": "1008_t3_9",
+            "id": 49,
             "soruMetni": "Repo ve ters repoya ilişkin aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Bir menkul kıymetin işlem başlangıç valöründe satılıp, bitiş tarihinde geri alınmasına repo",
@@ -21200,10 +21200,10 @@ const splVeritabani = [
               "D": "Ters repoda bir menkul kıymet işlem tarihinde alınıp, bitiş valöründe ise satılır."
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Repo yapan fon arz edendir.."
           },
           {
-            "id": "1008_t3_10",
+            "id": 50,
             "soruMetni": "Fisher Para Talep Teorisine göre aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
               "A": "Fiyatlar genel düzeyi aşağı ve yukarı yönlü esnektir.",
@@ -21212,10 +21212,10 @@ const splVeritabani = [
               "D": "Para arzındaki artış üretim düzeyini de arttıracaktır"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Fiyatlar genel düzeyi aşağı ve yukarı yönlü esnektir.."
           },
           {
-            "id": "1008_t3_11",
+            "id": 51,
             "soruMetni": "Cambridge Para Talep Teorisi’ne göre aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "A.C. Pigou tarafından ortaya atılmıştır",
@@ -21224,10 +21224,10 @@ const splVeritabani = [
               "D": "Para talebinin temel nedenlerinden biri spekülasyon saikidir."
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Para talebinin temel nedenlerinden biri spekülasyon saikidir.."
           },
           {
-            "id": "1008_t3_12",
+            "id": 52,
             "soruMetni": "ÜÇÜNCÜ BÖLÜM SORULARI 1. Maliye politikalarıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
               "A": "Enflasyon halinde genişletici maliye politikaları uygulanmalıdır",
@@ -21236,10 +21236,10 @@ const splVeritabani = [
               "D": "Daraltıcı maliye politikalarının işsizlik oranını düşürücü etkisi vardır"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Vergi oranlarının azaltılması, genişletici maliye politikası uygulamasıdır."
           },
           {
-            "id": "1008_t3_13",
+            "id": 53,
             "soruMetni": "Aşağıdakilerden hangisi Klasik ekonomistlerin görüşlerinden biri değildir?",
             "secenekler": {
               "A": "Müdahale olmaksızın piyasa sorunları ortadan kalkabilir",
@@ -21248,10 +21248,10 @@ const splVeritabani = [
               "D": "Para ve maliye politikalarının etkinliği sınırlıdır"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Bütçe denkliğini sağlamak mümkün değildir."
           },
           {
-            "id": "1008_t3_14",
+            "id": 54,
             "soruMetni": "Monetarist görüşe göre hangisi söylenemez?",
             "secenekler": {
               "A": "Para politikası uygulamalarında önemli olan para arzını kontrol etmektir",
@@ -21260,10 +21260,10 @@ const splVeritabani = [
               "D": "Para arzı arttığında nominal GSYH artar"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Para kısa dönemde nötrdür."
           },
           {
-            "id": "1008_t3_15",
+            "id": 55,
             "soruMetni": "Keynesyen görüşe göre aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Devletin ekonomiye müdahalesi gereklidir",
@@ -21272,10 +21272,10 @@ const splVeritabani = [
               "D": "Ekonomi eksik istihdamdadır"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Fiyat ve ücretler esnektir."
           },
           {
-            "id": "1008_t3_16",
+            "id": 56,
             "soruMetni": "IS-LM analizine göre genişletici para politikasının uygulandığı durumda aşağıdakilerden hangisi gerçekleşmez?",
             "secenekler": {
               "A": "LM eğrisi sağa kayar",
@@ -21284,10 +21284,10 @@ const splVeritabani = [
               "D": "Faiz oranları azalır"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Yeni denge noktasında milli gelir değişmez."
           },
           {
-            "id": "1008_t3_17",
+            "id": 57,
             "soruMetni": "IS-LM analizine göre vergi oranları arttırıldığında aşağıdakilerden hangisi gerçekleşmez?",
             "secenekler": {
               "A": "IS eğrisi sola kayar",
@@ -21296,7 +21296,7 @@ const splVeritabani = [
               "D": "LM eğrisi sağa kayar"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: LM eğrisi sağa kayar."
           }
         ]
       },
@@ -21306,7 +21306,7 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": "1008_t4_1",
+            "id": 61,
             "soruMetni": "Gelirinin %80’ini tüketime ayıran bir tüketici için transfer harcamalarında görülen 500 birimlik bir artış gelir düzeyini kaç birim arttırır?",
             "secenekler": {
               "A": "400",
@@ -21315,10 +21315,10 @@ const splVeritabani = [
               "D": "2000"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: 2000."
           },
           {
-            "id": "1008_t4_2",
+            "id": 62,
             "soruMetni": "Politika etkisizliği kavramı hangi iktisadi yaklaşım için geçerlidir?",
             "secenekler": {
               "A": "Monetarist Yaklaşım",
@@ -21327,10 +21327,10 @@ const splVeritabani = [
               "D": "Yeni Keynesyen Yaklaşım"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Yeni Klasik Yaklaşım."
           },
           {
-            "id": "1008_t4_3",
+            "id": 63,
             "soruMetni": "Aşağıdakilerden hangisi maliye politikasının amaçları arasında değildir?",
             "secenekler": {
               "A": "Ekonomik İstikrar",
@@ -21339,10 +21339,10 @@ const splVeritabani = [
               "D": "Faiz Oranı İstikrarı"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Faiz Oranı İstikrarı."
           },
           {
-            "id": "1008_t4_4",
+            "id": 64,
             "soruMetni": "IS eğrisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "IS eğrisi üzerindeki noktalarda yatırım-tasarruf eşitliği söz konusudur.",
@@ -21351,10 +21351,10 @@ const splVeritabani = [
               "D": "IS eğrisi genişletici maliye politikası sonucunda sağa kayar"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: IS eğrisinin solundaki noktalarda mal arz fazlası vardır.."
           },
           {
-            "id": "1008_t4_5",
+            "id": 65,
             "soruMetni": "Harcama çarpanı ile ilgili aşağıdakilerden hangisi doğrudur?",
             "secenekler": {
               "A": "Marjinal tüketim eğiliminin artması haracama çarpanını arttırır",
@@ -21363,10 +21363,10 @@ const splVeritabani = [
               "D": "Otonom tüketim miktarının artması harcama çarpanını arttırır"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Marjinal tüketim eğiliminin artması haracama çarpanını arttırır."
           },
           {
-            "id": "1008_t4_6",
+            "id": 66,
             "soruMetni": "DÖRDÜNCÜ BÖLÜM SORULARI 1. Aşağıdaki faktörlerden hangisi kişi başına düşen GSYH’yi etkilememektedir?",
             "secenekler": {
               "A": "Nüfus yapısı",
@@ -21375,10 +21375,10 @@ const splVeritabani = [
               "D": "Kaynakların etkin dağılımı"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Otonom yatırım."
           },
           {
-            "id": "1008_t4_7",
+            "id": 67,
             "soruMetni": "Aşağıdakilerden hangisi kamu gelirleri arasında gösterilemez?",
             "secenekler": {
               "A": "Sübvansiyonlar",
@@ -21387,10 +21387,10 @@ const splVeritabani = [
               "D": "Vergi cezaları"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Sübvansiyonlar."
           },
           {
-            "id": "1008_t4_8",
+            "id": 68,
             "soruMetni": "Aşağıdakilerden hangisi kamu giderleri arasında gösterilemez?",
             "secenekler": {
               "A": "Cari harcamalar",
@@ -21399,10 +21399,10 @@ const splVeritabani = [
               "D": "Değişken harcamalar"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Değişken harcamalar."
           },
           {
-            "id": "1008_t4_9",
+            "id": 69,
             "soruMetni": "Aşağıdakilerden hangisi TCMB rezervlerinin piyasadaki rolü hakkında yanlış bir bilgidir?",
             "secenekler": {
               "A": "Merkez Bankasına manevra alanı sağlar",
@@ -21411,10 +21411,10 @@ const splVeritabani = [
               "D": "İç dengeyi bozucu etkileri bulunmaktadır"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: İç dengeyi bozucu etkileri bulunmaktadır."
           },
           {
-            "id": "1008_t4_10",
+            "id": 70,
             "soruMetni": "GSMH ile GSYH arasındaki fark aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Amortismanlar",
@@ -21423,10 +21423,10 @@ const splVeritabani = [
               "D": "Kurumlar Vergisi"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Dış Alem Net Faktör Gelirleri."
           },
           {
-            "id": "1008_t4_11",
+            "id": 71,
             "soruMetni": "Bir ekonomideki tüm üretim faktörlerinin tam kullanım kapasiteleri doğrultusunda istihdam edilmesi ile ulaşılabilecek çıktının ifadesi aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Fiili GSYH",
@@ -21435,10 +21435,10 @@ const splVeritabani = [
               "D": "Potansiyel GSYH"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Potansiyel GSYH."
           },
           {
-            "id": "1008_t4_12",
+            "id": 72,
             "soruMetni": "Aşağıdakilerden hangisi milli gelirin tam olarak yansıtamadığı konulardan birisi değildir?",
             "secenekler": {
               "A": "Çevre sorunları",
@@ -21447,10 +21447,10 @@ const splVeritabani = [
               "D": "Ürün kalitesindeki gelişmeler"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Üretim faktörlerinin geliri."
           },
           {
-            "id": "1008_t4_13",
+            "id": 73,
             "soruMetni": "Aşağıdakilerden hangisi yatırım kararını etkileyen faktörlerden birisi değildir?",
             "secenekler": {
               "A": "Teknolojik gelişmeler",
@@ -21459,10 +21459,10 @@ const splVeritabani = [
               "D": "Otonom Tüketim"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Otonom Tüketim."
           },
           {
-            "id": "1008_t4_14",
+            "id": 74,
             "soruMetni": "Daha fazla paranın daha az malı kovaladığı enflasyon türü aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Talep Enflasyonu",
@@ -21471,10 +21471,10 @@ const splVeritabani = [
               "D": "Ilımlı enflasyon"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Talep Enflasyonu."
           },
           {
-            "id": "1008_t4_15",
+            "id": 75,
             "soruMetni": "Aşağıdakilerden hangisi doğal işsizlik oranını etkileyen faktörlerden birisi değildir?",
             "secenekler": {
               "A": "Demografik değişimler",
@@ -21483,10 +21483,10 @@ const splVeritabani = [
               "D": "Devlet politikaları"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Maliyet analizi."
           },
           {
-            "id": "1008_t4_16",
+            "id": 76,
             "soruMetni": "Eksik talep işsizliği olarak da bilinen işsizlik türü aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Konjonktürel İşsizlik",
@@ -21495,10 +21495,10 @@ const splVeritabani = [
               "D": "Doğal İşsizlik"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Konjonktürel İşsizlik."
           },
           {
-            "id": "1008_t4_17",
+            "id": 77,
             "soruMetni": "Gini katsayısı ile ilgili olarak şağıdakilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Gini katsayısı 0’a yaklaştıkça gelir eşitsizliği azalır",
@@ -21507,7 +21507,7 @@ const splVeritabani = [
               "D": "Gini katsayısı 1’den büyük olabilir"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Gini katsayısı 1’den büyük olabilir."
           }
         ]
       },
@@ -21517,7 +21517,7 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": "1008_t5_1",
+            "id": 81,
             "soruMetni": "Aşağıdakilerden hangisi işsizlik türlerinden değildir?",
             "secenekler": {
               "A": "Arızi işsizlik",
@@ -21526,10 +21526,10 @@ const splVeritabani = [
               "D": "Konjonktürel işsizlik"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Arz işsizliği."
           },
           {
-            "id": "1008_t5_2",
+            "id": 82,
             "soruMetni": "Hiperenflasyonla ilgili aşağıdakilerden hangisi doğru değildir?",
             "secenekler": {
               "A": "Genellikle savaş ve doğal afet zamanlarındaki politikalardan kaynaklanır",
@@ -21538,10 +21538,10 @@ const splVeritabani = [
               "D": "Gelir ve servet dağılımı olumsuz etkilenir"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Yerli parar yabancı paranın yerini alır."
           },
           {
-            "id": "1008_t5_3",
+            "id": 83,
             "soruMetni": "Aşağıdakilerden hangisi enflasyonun maliyetlerinden değildir?",
             "secenekler": {
               "A": "Kösele maliyeti",
@@ -21550,10 +21550,10 @@ const splVeritabani = [
               "D": "Gelir eşitsizliği"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Yerli paranın değer kazanması."
           },
           {
-            "id": "1008_t5_4",
+            "id": 84,
             "soruMetni": "Aşağıdakilerden hangisi merkez bankasının yükümlülüklerinden değildir?",
             "secenekler": {
               "A": "Emisyon",
@@ -21562,10 +21562,10 @@ const splVeritabani = [
               "D": "Serbest rezervler"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Hazineden alacaklar."
           },
           {
-            "id": "1008_t5_5",
+            "id": 85,
             "soruMetni": "Aşağıdakilerden hangisi Covid-19 salgınının etkilerinden değildir?",
             "secenekler": {
               "A": "Tüketici güven endeksinde düşüş",
@@ -21574,10 +21574,10 @@ const splVeritabani = [
               "D": "İşsizlikteki artış"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Hizmet sektörü güven endeksinde artış."
           },
           {
-            "id": "1008_t5_6",
+            "id": 86,
             "soruMetni": "BEŞİNCİ BÖLÜM SORULARI 1. Aşağıdakilerden hangisi ödemeler bilançosunun kalemlerinden değildir?",
             "secenekler": {
               "A": "Cari İşlemler Hesabı",
@@ -21586,10 +21586,10 @@ const splVeritabani = [
               "D": "Sermaye Hesabı"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: Döviz Kuru Hesabı."
           },
           {
-            "id": "1008_t5_7",
+            "id": 87,
             "soruMetni": "Aşağıdakilerden hangisi yerli ve yabancı paranın direkt olarak birbirinin cinsinden ifade edilmesini tanımlar?",
             "secenekler": {
               "A": "Nominal Kur",
@@ -21598,10 +21598,10 @@ const splVeritabani = [
               "D": "Dolaysız Kur"
             },
             "dogruCevap": "B",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap B) şıkkıdır: Düz Kur."
           },
           {
-            "id": "1008_t5_8",
+            "id": 88,
             "soruMetni": "Merkez Bankaları tarafından kur seviyesinin sürekli takip edilip müdahale edildiği karma kur sistemi aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Kayan Kur Sistemi",
@@ -21610,10 +21610,10 @@ const splVeritabani = [
               "D": "Ortak Dalgalanma Sistemi"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Kayan Kur Sistemi."
           },
           {
-            "id": "1008_t5_9",
+            "id": 89,
             "soruMetni": "Esnek kur sistemi hakkında aşağıdaki bilgilerden hangisi doğrudur?",
             "secenekler": {
               "A": "Ödemeler dengesinde devlet müdahalesine gerek kalmaz",
@@ -21622,10 +21622,10 @@ const splVeritabani = [
               "D": "Ödemeler dengesi sorunları piyasa şartlarında çözülemez"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Ödemeler dengesinde devlet müdahalesine gerek kalmaz."
           },
           {
-            "id": "1008_t5_10",
+            "id": 90,
             "soruMetni": "Belirlenen alt ve üst limitle döviz kurunun dalgalanmaya bırakıldığı kur rejimi aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Bant Kuru",
@@ -21634,10 +21634,10 @@ const splVeritabani = [
               "D": "Döviz Kuru Bandı"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Döviz Kuru Bandı."
           },
           {
-            "id": "1008_t5_11",
+            "id": 91,
             "soruMetni": "Aşağıdakilerden hangisi dış ticaret politikası araçlarından biri değildir?",
             "secenekler": {
               "A": "Açık piyasa işlemleri",
@@ -21646,10 +21646,10 @@ const splVeritabani = [
               "D": "Gümrük tarifeleri"
             },
             "dogruCevap": "A",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap A) şıkkıdır: Açık piyasa işlemleri."
           },
           {
-            "id": "1008_t5_12",
+            "id": 92,
             "soruMetni": "Sabit kur sisteminde uygulanan para ve maliye politikalarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Maliye politikası uygulaması milli gelir düzeyini yükseltir",
@@ -21658,10 +21658,10 @@ const splVeritabani = [
               "D": "Para politikaları etkindir"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Para politikaları etkindir."
           },
           {
-            "id": "1008_t5_13",
+            "id": 93,
             "soruMetni": "Esnek kur sisteminde uygulanan para ve maliye politikaları için hangisi söylenemez?",
             "secenekler": {
               "A": "Para politikaları etkindir",
@@ -21670,10 +21670,10 @@ const splVeritabani = [
               "D": "Genişletici maliye politikası uygulanırsa sermaye çıkışları yaşanır"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Genişletici maliye politikası uygulanırsa sermaye çıkışları yaşanır."
           },
           {
-            "id": "1008_t5_14",
+            "id": 94,
             "soruMetni": "Dış borç stokunda en büyük pay aşağıdakilerden hangisine aittir?",
             "secenekler": {
               "A": "TCMB",
@@ -21682,10 +21682,10 @@ const splVeritabani = [
               "D": "Özel Sektör"
             },
             "dogruCevap": "D",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap D) şıkkıdır: Özel Sektör."
           },
           {
-            "id": "1008_t5_15",
+            "id": 95,
             "soruMetni": "Aşağıdakilerden hangisi dış ticaret dengesi ile ilgili bir gösterge değildir?",
             "secenekler": {
               "A": "İhracat",
@@ -21694,10 +21694,10 @@ const splVeritabani = [
               "D": "İhracatın İthalatı Karşılama Oranı"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: GSYH."
           },
           {
-            "id": "1008_t5_16",
+            "id": 96,
             "soruMetni": "Leontief paradoksu aşağıdakilerden hangisini kapsamaktadır?",
             "secenekler": {
               "A": "ABD’nin hem sermaye yoğun hem de emek yoğun mal ithal etmesi",
@@ -21706,7 +21706,7 @@ const splVeritabani = [
               "D": "ABD’nin sermaye yoğun mal ihraç edip emek yoğun mal ithal etmesi"
             },
             "dogruCevap": "C",
-            "cozum": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+            "cozum": "Doğru cevap C) şıkkıdır: ABD’nin emek yoğun mal ihraç edip sermaye yoğun mal ithal etmesi."
           }
         ]
       }
