@@ -61,25 +61,1340 @@ const splVeritabani = [
       "duzey3",
       "turev"
     ],
-    "aciklama": "1002 - Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları - Resmi SPL Müfredat Temel Testi (1 Test, 1 Soru)",
+    "aciklama": "Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (1002) - Müfredat Konu Başlıklarına Göre Sıralı Resmi 5 Test (100 Tamamen Özgün ve Benzersiz Soru)",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: 1002 - Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları Temel Değerlendirme Testi",
+        "testAdi": "Test 1: 1.1. Sermaye Piyasası Kanunu (Temel Hükümler, Şirketler, İhraçlar ve İzahname)",
         "testTuru": "konu",
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "1002 - Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları müfredatına ilişkin temel mevzuat ve uygulama değerlendirmesi.",
+            "soruMetni": "6362 sayılı Sermaye Piyasası Kanunu uyarınca, aşağıdakilerden hangisi Kanunun temel amaçları arasında YER ALMAZ?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
-              "B": "Yönetmelik ve Genelge Esasları",
-              "C": "Borsa İstanbul İşleyiş Kuralları",
-              "D": "Takasbank ve MKK Saklama Düzenlemeleri",
-              "E": "Ticaret Kanunu Genel Hükümleri"
+              "A": "Sermaye piyasasının güvenli, şeffaf, etkin, istikrarlı, adil ve rekabetçi bir ortamda işlemesini sağlamak",
+              "B": "Yatırımcıların hak ve menfaatlerini korumak",
+              "C": "Halka açık şirketlerin ticari kâr marjlarını ve satış fiyatlarını doğrudan belirlemek",
+              "D": "Sermaye piyasasının gelişmesini sağlamak",
+              "E": "Piyasada etkin denetim ve şeffaflığı tesis etmek"
+            },
+            "dogruCevap": "C",
+            "cozum": "SPKn m. 1 uyarınca Kanunun amacı piyasaların güvenli, şeffaf ve adil işlemesini sağlamak ve yatırımcıyı korumaktır; şirketlerin ticari kâr marjlarını veya fiyatlarını belirlemek SPK'nın görevi değildir."
+          },
+          {
+            "id": 2,
+            "soruMetni": "6362 sayılı SPKn uyarınca, sermaye piyasası araçlarının halka arz edilebilmesi için onaylanması zorunlu olan belge aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Faaliyet Raporu",
+              "C": "Esas Sözleşme",
+              "D": "Bağımsız Denetim Sözleşmesi",
+              "E": "Sirküler Duyurusu"
             },
             "dogruCevap": "A",
-            "cozum": "Bu soru ilgili dersin resmi müfredat kapsamını temel almaktadır."
+            "cozum": "SPKn m. 4 uyarınca sermaye piyasası araçlarının halka arzı veya borsada işlem görmesi için SPK tarafından izahnamenin onaylanması zorunludur."
+          },
+          {
+            "id": 3,
+            "soruMetni": "SPKn uyarınca onaylanan izahnamenin yayımlandığı tarihten itibaren geçerlilik süresi azami kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "SPKn m. 5 uyarınca onaylı bir izahname yayımlandığı tarihten itibaren 12 ay boyunca yapılacak ihraçlar için geçerlidir."
+          },
+          {
+            "id": 4,
+            "soruMetni": "6362 sayılı Kanun uyarınca, kaydileştirilen sermaye piyasası araçlarına ilişkin hakların takibi ve merkezi saklanması hangi kurum nezdinde yürütülür?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu A.Ş. (MKK)",
+              "B": "İstanbul Takas ve Saklama Bankası A.Ş. (Takasbank)",
+              "C": "Borsa İstanbul A.Ş.",
+              "D": "Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu (SPL)",
+              "E": "Türkiye Sermaye Piyasaları Birliği (TSPB)"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 13 uyarınca sermaye piyasası araçlarının kaydileştirilmesi ve hak sahipliği takibi MKK nezdinde hak sahipleri bazında yürütülür."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Halka açık anonim ortaklıklarda kayıtlı sermaye tavanının geçerlilik süresi SPK düzenlemelerine göre en fazla kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "3 Yıl",
+              "C": "5 Yıl",
+              "D": "7 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "SPKn m. 18 uyarınca halka açık şirketlerde kayıtlı sermaye tavanı izni en fazla 5 yıl için verilir. Bu süre sonunda tavanın uzatılması için genel kurul kararı gerekir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Halka açık anonim ortaklıklarda yönetim kurulu kararıyla kâr payı avansı dağıtılabilmesi için esas sözleşmede hüküm bulunması ve hangi organdan yetki alınması şarttır?",
+            "secenekler": {
+              "A": "Genel Kurul",
+              "B": "Denetim Komitesi",
+              "C": "SPK Başkanlığı",
+              "D": "Borsa Yönetim Kurulu",
+              "E": "Bağımsız Denetçi"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 20 uyarınca kâr payı avansı dağıtılabilmesi için esas sözleşmede hüküm bulunması ve ilgili yıl ile sınırlı olmak üzere Genel Kurul tarafından yönetim kuruluna yetki verilmesi zorunludur."
+          },
+          {
+            "id": 7,
+            "soruMetni": "SPKn m. 21 uyarınca örtülü kazanç aktarımı yasağına aykırı davranan şirket ilgililerine SPK tarafından kazancın iadesi için tanınan azami süre kaç gündür?",
+            "secenekler": {
+              "A": "10 Gün",
+              "B": "15 Gün",
+              "C": "30 Gün",
+              "D": "60 Gün",
+              "E": "90 Gün"
+            },
+            "dogruCevap": "C",
+            "cozum": "SPKn m. 21 uyarınca örtülü kazanç aktarımı yapıldığı tespit edilen tutarın 30 gün içinde ortaklığa iadesi zorunludur."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Payları borsada işlem gören halka açık ortaklıkların Genel Kurul toplantılarına elektronik ortamda katılım imkânı sağlamaları hangi kanun ve düzenleme gereğince ZORUNLUDUR?",
+            "secenekler": {
+              "A": "6102 sayılı Türk Ticaret Kanunu m. 1527",
+              "B": "5549 sayılı Suç Gelirlerinin Aklanmasının Önlenmesi Hakkında Kanun",
+              "C": "6362 sayılı SPKn m. 101",
+              "D": "Borçlar Kanunu m. 45",
+              "E": "Bankacılık Kanunu m. 12"
+            },
+            "dogruCevap": "A",
+            "cozum": "TTK m. 1527 uyarınca payları borsada işlem gören şirketlerin genel kurullarında Elektronik Genel Kurul Sistemi (EGKS) uygulaması zorunludur."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Sermaye Piyasası Kanunu uyarınca, halka açık ortaklıkların sermaye artırımlarında mevcut ortakların yeni pay alma haklarına verilen ad aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Rüçhan Hakkı",
+              "B": "Ayrılma Hakkı",
+              "C": "Alım Teklifi Hakkı",
+              "D": "Satma Hakkı",
+              "E": "Tasfiye Payı Hakkı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Ortakların bedelli sermaye artırımlarında yeni paylardan öncelikle pay alma hakkı Rüçhan Hakkı olarak adlandırılır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "SPKn uyarınca, kitle fonlaması platformlarının kurulması ve faaliyete geçmesi için kimden izin alınması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Sermaye Piyasası Kurulu (SPK)",
+              "B": "Borsa İstanbul A.Ş.",
+              "C": "Ticaret Bakanlığı",
+              "D": "Hazine ve Maliye Bakanlığı",
+              "E": "Merkezi Kayıt Kuruluşu"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 35/A uyarınca Kitle Fonlaması Platformlarının kurulması ve listeye alınması SPK iznine tabidir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Payları ilk defa halka arz edilecek anonim ortaklıkların izahnamesinde yer alan finansal tabloların hangi standartlara uygun olarak hazırlanması şarttır?",
+            "secenekler": {
+              "A": "Kamu Gözetimi Kurumu (KGK) tarafından yayımlanan Türkiye Muhasebe Standartları / TMS - TFRS",
+              "B": "Vergi Usul Kanunu (VUK) Muhasebe Tekdüzen Hesap Planı",
+              "C": "ABD Genel Kabul Görmüş Muhasebe İlkeleri (US GAAP)",
+              "D": "Alman Ticaret Kanunu (HGB) Standartları",
+              "E": "Avrupa Merkez Bankası Standartları"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPK düzenlemeleri uyarınca finansal tablolar TMS/TFRS standartlarına uygun hazırlanır ve bağımsız denetimden geçer."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Halka açık anonim ortaklıkların genel kurul toplantı ilanı, Türk Ticaret Kanunu ve SPK mevzuatı uyarınca toplantı gününden en az kaç hafta önce yapılmalıdır?",
+            "secenekler": {
+              "A": "1 Hafta",
+              "B": "2 Hafta",
+              "C": "3 Hafta",
+              "D": "4 Hafta",
+              "E": "6 Hafta"
+            },
+            "dogruCevap": "C",
+            "cozum": "Halka açık şirketlerde Genel Kurul çağrısı, ilan ve toplantı günleri hariç olmak üzere toplantı tarihinden en az 3 hafta önce KAP'ta ve şirketin internet sitesinde yayımlanır."
+          },
+          {
+            "id": 13,
+            "soruMetni": "SPKn uyarınca sermaye piyasası araçlarının halka arzında izahnameden sorumlu olan kişiler aşağıdakilerden hangisinde doğru verilmiştir?",
+            "secenekler": {
+              "A": "İhraççı ve halka arz eden; ayrıca zararın kendi kusurundan kaynaklandığını ispat edemeyen yetkili lider sermaye piyasası kurumu",
+              "B": "Sadece bağımsız denetim kuruluşu",
+              "C": "Sadece Borsa İstanbul Yönetim Kurulu",
+              "D": "Yalnızca şirketin en büyük hissedarı",
+              "E": "Sadece Merkezi Kayıt Kuruluşu"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 10 uyarınca izahnamede yer alan yanlış veya eksik bilgilerden doğan zararlardan ihraççı ve halka arz eden sorumludur."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Halka açık olmayan bir anonim ortaklığın pay sahibi sayısının kaça ulaşması halinde ortaklık kendiliğinden halka açılmış sayılır ve SPKn hükümlerine tabi olur?",
+            "secenekler": {
+              "A": "100 Pay Sahibi",
+              "B": "250 Pay Sahibi",
+              "C": "500 Pay Sahibi",
+              "D": "750 Pay Sahibi",
+              "E": "1000 Pay Sahibi"
+            },
+            "dogruCevap": "C",
+            "cozum": "SPKn m. 16 uyarınca pay sahibi sayısı 500'ü aşan anonim ortaklıkların payları halka arz olunmuş sayılır ve Kanun hükümlerine tabi olur."
+          },
+          {
+            "id": 15,
+            "soruMetni": "SPKn uyarınca, halka açık ortaklıkların bağış ve yardım yapabilmesi için aşağıdakilerden hangisi ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Esas sözleşmede hüküm bulunması ve Genel Kurul tarafından sınır belirlenmesi",
+              "B": "Sadece Genel Müdürün onay vermesi",
+              "C": "Borsa Başkanı tarafından özel izin verilmesi",
+              "D": "Bağış tutarının şirket sermayesinin %50'sini aşması",
+              "E": "Ticaret Bakanlığından izin alınması"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 19 uyarınca bağış yapılabilmesi için esas sözleşmede hüküm bulunması ve yıllık bağış sınırının Genel Kurulca belirlenmesi şarttır."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Halka açık anonim şirketlerde ortakların oy hakkına ilişkin sınırlamalar ve imtiyazlarla ilgili aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yönetim kuruluna aday gösterme imtiyazı hariç, oyda imtiyaz Kurul kararıyla kısıtlanabilir veya kaldırılabilir.",
+              "B": "Her pay sahibine eşit oy hakkı verilmesi imkânsızdır.",
+              "C": "Oyda imtiyaz hiçbir şekilde devredilemez.",
+              "D": "Tüm paylar oy hakkından yosundur.",
+              "E": "İmtiyazlı paylar borsa kotundan hemen çıkarılır."
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 28 uyarınca makul bir gerekçenin varlığı halinde SPK oyda imtiyazları kısıtlamaya yetkilidir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Sermaye Piyasası Kanunu uyarınca kurulan Yatırımcı Tazmin Merkezi (YTM) hangi durumda devreye girer?",
+            "secenekler": {
+              "A": "Yatırım kuruluşlarının yatırımdan doğan zararlarını tazmin etmek için",
+              "B": "Yatırım kuruluşlarının sermaye piyasası faaliyetlerinden kaynaklanan nakit ödeme veya sermaye piyasası araçları teslim yükümlülüklerini yerine getirememesi halinde",
+              "C": "Hisse senedi fiyatı düşen yatırımcıya tazminat ödemek için",
+              "D": "Şirketlerin iflasını önlemek için kredi sağlamak amacıyla",
+              "E": "Borsa işlemlerinde oluşan komisyonları geri ödemek için"
+            },
+            "dogruCevap": "B",
+            "cozum": "SPKn m. 82 uyarınca YTM, yatırım kuruluşlarının acz haline düşmesi veya iflası durumunda müşterilerine ait nakit ve menkul kıymet teslim yükümlülüklerini tazmin eder."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Yatırımcı Tazmin Merkezi (YTM) tarafından her bir yatırımcıya ödenecek azami tazminat tutarı yasal sınıra tabidir. Bu sınırla ilgili aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yatırımcı tazmin tutarı üst sınırı her yıl yeniden değerleme oranında artırılır.",
+              "B": "Sınırsız tazminat ödenir.",
+              "C": "Tazminat ödemesi sadece döviz cinsinden yapılır.",
+              "D": "Yalnızca kurum yöneticileri tazmin edilir.",
+              "E": "Tazminat başvurusu 10 yıl sonra zaman aşımına uğramaz."
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 84 uyarınca YTM tazminat üst sınırı her yıl yeniden değerleme oranında güncellenir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Sermaye Piyasası Kanunu uyarınca kurulmuş olan Türkiye Sermaye Piyasaları Birliği (TSPB) ne tür bir kuruluştur?",
+            "secenekler": {
+              "A": "Kamu kurumu niteliğinde meslek kuruluşu",
+              "B": "Özel hukuk anonim şirketi",
+              "C": "Sermaye piyasası vakfı",
+              "D": "Uluslararası sivil toplum örgütü",
+              "E": "Bağımsız denetim derneği"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 74 uyarınca TSPB, tüzel kişiliği haiz kamu kurumu niteliğinde bir meslek kuruluşudur."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Sermaye piyasasında bağımsız denetim, derecelendirme ve değerleme faaliyetinde bulunacak kurumların SPK listesine alınması için kimden onay alması gerekir?",
+            "secenekler": {
+              "A": "Sermaye Piyasası Kurulu (SPK)",
+              "B": "Borsa İstanbul",
+              "C": "Hazine ve Maliye Bakanlığı",
+              "D": "Türkiye Değerleme Uzmanları Birliği",
+              "E": "Ticaret Odaları"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 62 uyarınca sermaye piyasasında dışarıdan hizmet sunan denetim, değerleme ve derecelendirme kuruluşlarının SPK standartlarına uyması ve Kurul listesinde yer alması zorunludur."
+          }
+        ]
+      },
+      {
+        "testId": 2,
+        "testAdi": "Test 2: 1.1. Sermaye Piyasası Kanunu (Denetim, Tedbirler, Suçlar ve İdari Yaptırımlar)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "6362 sayılı SPKn m. 106 uyarınca, doğrudan veya dolaylı olarak sermaye piyasası araçları hakkında içsel bilgi veya teferruatlı bilgiye sahip kişilerin bu bilgileri kullanarak menfaat sağlaması fiiline ne ad verilir?",
+            "secenekler": {
+              "A": "Bilgi Suiistimali (Insider Trading)",
+              "B": "Piyasa Dolandırıcılığı (Manipülasyon)",
+              "C": "Örtülü Kazanç Aktarımı",
+              "D": "Usulsüz Halka Arz",
+              "E": "Güveni Kötüye Kullanma"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 106 uyarınca henüz kamuya açıklanmamış içsel bilgilere dayanarak işlem yapıp menfaat temin edilmesi 'Bilgi Suiistimali' suçunu oluşturur."
+          },
+          {
+            "id": 2,
+            "soruMetni": "SPKn m. 106 kapsamındaki Bilgi Suiistimali (Insider Trading) suçunu işleyen failler hakkında verilecek hapis cezasının yasal ALT sınırı kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "4 Yıl",
+              "E": "5 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "SPKn m. 106 uyarınca bilgi suiistimali suçunu işleyen kişilere 3 yıldan 5 yıla kadar hapis veya adli para cezası verilir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "SPKn m. 107/1 uyarınca, sermaye piyasası araçlarının fiyatlarına, fiyat değişimlerine, arz ve taleplerine ilişkin olarak yapay piyasa oluşturmak amacıyla alım-satım yapılması fiiline ne ad verilir?",
+            "secenekler": {
+              "A": "İşleme Dayalı Piyasa Dolandırıcılığı",
+              "B": "Bilgiye Dayalı Piyasa Dolandırıcılığı",
+              "C": "Örtülü Kazanç Aktarımı",
+              "D": "Usulsüz Halka Arz",
+              "E": "Güveni Kötüye Kullanma"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 107/1 uyarınca alım-satım yapmak, emir vermek suretiyle fiyatı etkilemek İşleme Dayalı Piyasa Dolandırıcılığı suçudur."
+          },
+          {
+            "id": 4,
+            "soruMetni": "SPKn m. 107/2 uyarınca, sermaye piyasası araçlarının fiyatını, değerini veya yatırımcıların kararlarını etkilemek amacıyla yalan, yanlış veya yanıltıcı haber verme, yorum yapma fiili hangi suçu oluşturur?",
+            "secenekler": {
+              "A": "Bilgiye Dayalı Piyasa Dolandırıcılığı",
+              "B": "İşleme Dayalı Piyasa Dolandırıcılığı",
+              "C": "Bilgi Suiistimali",
+              "D": "Zararı Tazmin Suçu",
+              "E": "Emsale Aykırılık Suçu"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 107/2 uyarınca yalan haber, asılsız yorum veya bilgi yayarak fiyatları etkilemek Bilgiye Dayalı Piyasa Dolandırıcılığı suçunu oluşturur."
+          },
+          {
+            "id": 5,
+            "soruMetni": "SPKn m. 107/1 kapsamında İşleme Dayalı Piyasa Dolandırıcılığı suçunu işleyen kişinin pişmanlık göstererek elde ettiği menfaati tazmin etmesi haliyle ilgili 'Etkin Pişmanlık' hükümlerine göre soruşturma başlamadan önce menfaati hazineye ödemesi halinde durum ne olur?",
+            "secenekler": {
+              "A": "Hakkında ceza verilmez (Ceza verilmesine yer olmadığına karar verilir).",
+              "B": "Cezası 1/2 oranında indirilir.",
+              "C": "Cezası 1/3 oranında indirilir.",
+              "D": "Sadece adli para cezasına çevrilir.",
+              "E": "Etkin pişmanlık hükümleri uygulanmaz."
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 107/3 uyarınca soruşturma başlamadan önce elde edilen menfaatin 2 katı tutarındaki miktar Hazineye ödendiğinde ceza verilmez."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Piyasa Dolandırıcılığı (m. 107/1) suçunda soruşturma başladıktan sonra fakat kovuşturma (dava) açılmadan önce etkin pişmanlıktan yararlanarak Hazineye ödeme yapılması halinde ceza indirimi ne oranda uygulanır?",
+            "secenekler": {
+              "A": "Cezanın yarısı (1/2) indirilir.",
+              "B": "Cezanın üçte ikisi (2/3) indirilir.",
+              "C": "Cezanın üçte biri (1/3) indirilir.",
+              "D": "Cezanın dörtte biri (1/4) indirilir.",
+              "E": "Ceza tamamen kaldırılır."
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 107/3 uyarınca soruşturma safhasında ödeme yapıldığında ceza 1/2 oranında indirilir."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Piyasa Dolandırıcılığı suçunda mahkeme aşamasında (kovuşturma başlatıldıktan sonra) hüküm verilinceye kadar ödeme yapılması halinde ceza indirimi ne orandadır?",
+            "secenekler": {
+              "A": "Cezanın üçte biri (1/3) indirilir.",
+              "B": "Cezanın yarısı (1/2) indirilir.",
+              "C": "Cezanın altıda biri (1/6) indirilir.",
+              "D": "Cezanın beşte biri (1/5) indirilir.",
+              "E": "İndirim uygulanmaz."
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 107/3 uyarınca kovuşturma başladıktan sonra hüküm verilinceye kadar ödeme yapıldığında verilen ceza 1/3 oranında indirilir."
+          },
+          {
+            "id": 8,
+            "soruMetni": "SPKn m. 109 uyarınca SPK'dan izin almaksızın sermaye piyasası faaliyetinde bulunan veya yetki belgesi olmadan aracılık yapan kişilere verilecek ceza hangisidir?",
+            "secenekler": {
+              "A": "2 yıldan 5 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece idari para cezası",
+              "C": "100.000 TL maktu ceza",
+              "D": "6 ay hapis cezası",
+              "E": "Kapatma cezası"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 109/2 uyarınca yetkisiz sermaye piyasası faaliyetinde bulunan kişiler 2 yıldan 5 yıla kadar hapis cezası ile cezalandırılır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "SPKn m. 115 uyarınca Örtülü Kazanç Aktarımı suçunu işleyen halka açık şirket yöneticileri hakkında uygulanacak ceza sınırı nedir?",
+            "secenekler": {
+              "A": "3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "1 yıldan 3 yıla kadar hapis",
+              "C": "Sadece görevden alma kararı",
+              "D": "500.000 TL adli para cezası",
+              "E": "10 yıla kadar hapis"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 115 uyarınca örtülü kazanç aktarımı fiilini işleyenler güveni kötüye kullanma suçunun nitelikli halinden (3 yıldan 8 yıla kadar hapis) cezalandırılır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "SPKn uyarınca sermaye piyasası suçlarında (m. 106, 107, 109, 115) Cumhuriyet Başsavcılığı tarafından soruşturma açılabilmesi için ön şart aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "SPK tarafından Cumhuriyet Başsavcılığına yazılı suç duyurusunda bulunulması (İhbar/Rapor yazılması)",
+              "B": "Herhangi bir vatandaşın ihbar etmesi",
+              "C": "Borsa İstanbul'un suç duyurusu",
+              "D": "Ticaret Bakanlığı müfettiş raporu",
+              "E": "Polis fezlekesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 115 uyarınca sermaye piyasası suçlarının soruşturulması SPK tarafından yapılacak yazılı yazılı başvuruya (suç duyurusuna) bağlıdır."
+          },
+          {
+            "id": 11,
+            "soruMetni": "SPKn uyarınca hukuka aykırı borsa işlemlerinin tespiti durumunda SPK'nın uygulayabileceği geçici makul tedbirler arasında aşağıdakilerden hangisi YER ALMAZ?",
+            "secenekler": {
+              "A": "İlgili şahıslara geçici veya sürekli olarak borsa işlem yasağı getirilmesi",
+              "B": "Takas takibinin yapılması ve pozisyon kısıtlaması getirilmesi",
+              "C": "İlgililerin hesaplarının dondurulması veya kısıtlanması",
+              "D": "İlgili kişilerin tüm mal varlıklarına mahkeme kararsız doğrudan el konulması",
+              "E": "Depo şartı veya özkaynak oranının artırılması"
+            },
+            "dogruCevap": "D",
+            "cozum": "SPKn m. 101 uyarınca idari tedbirler kapsamında işlem yasağı, depo şartı, internet erişim kısıtlaması uygulanabilir; ancak doğrudan mahkeme kararı olmadan mal varlığına el konulamaz."
+          },
+          {
+            "id": 12,
+            "soruMetni": "SPK tarafından hakkında geçici borsa işlem yasağı uygulanan kişilerin bu yasağının azami süresi mevzuat uyarınca kaç yıldır?",
+            "secenekler": {
+              "A": "2 Yıl",
+              "B": "1 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "Süresizdir"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPK Kararı uyarınca geçici işlem yasağı 6 ay süreyle verilir, gerektiğinde bu süre en fazla 2 yıla kadar uzatılabilir."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Mevzuata aykırı olarak internet üzerinden yetkisiz kaldıraçlı işlem (Forex) yaptıran veya yurt dışı sitelere erişim sağlayan platformlara karşı SPK ne tür bir işlem yapar?",
+            "secenekler": {
+              "A": "Bilgi Teknolojileri ve İletişim Kurumu'na (BTK) başvurarak erişimin engellenmesini sağlar.",
+              "B": "Doğrudan web sitesini satın alır.",
+              "C": "Şirkete ortak olur.",
+              "D": "Sadece uyarı yazısı gönderir.",
+              "E": "İnternet servis sağlayıcılarını kapatır."
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 99 uyarınca yetkisiz Forex yayını yapan sitelerin erişimi SPK'nın BTK'ya başvurusu ile engellenir."
+          },
+          {
+            "id": 14,
+            "soruMetni": "SPKn uyarınca Kurul tarafından verilen İdari Para Cezalarına karşı itiraz ve dava açma süresi kararın tebliğinden itibaren kaç gündür ve hangi mahkemede dava açılır?",
+            "secenekler": {
+              "A": "30 Gün - İdare Mahkemesi",
+              "B": "15 Gün - Sulh Ceza Hakimliği",
+              "C": "60 Gün - Asliye Hukuk Mahkemesi",
+              "D": "7 Gün - Ticaret Mahkemesi",
+              "E": "90 Gün - Danıştay"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPK İdari Para Cezalarına karşı kararın tebliğ tarihinden itibaren 30 gün içinde İdare Mahkemesinde iptal davası açılabilir."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Halka açık bir ortaklığın mali durumunun zayıflaması veya yükümlülüklerini karşılayamaması halinde SPK'nın alabileceği tedbirler arasında aşağıdakilerden hangisi YER ALMAZ?",
+            "secenekler": {
+              "A": "Şirket yöneticilerini görevden alıp yerine yeni üyeler atamak",
+              "B": "Şirketin sermaye artırmasını veya azaltmasını istemek",
+              "C": "Sermaye piyasası faaliyetlerini geçici veya sürekli olarak durdurmak",
+              "D": "Şirket ortaklarının tüm kişisel banka hesaplarını kamulaştırmak",
+              "E": "Özel bağımsız denetim yaptırılmasını istemek"
+            },
+            "dogruCevap": "D",
+            "cozum": "SPKn m. 96-97 uyarınca SPK idari tedbirler uygulayabilir ancak ortakların kişisel mal varlığını kamulaştırma yetkisi yoktur."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Sermaye piyasası araçlarının fiyatını etkileyebilecek emniyeti ihlal eden ve sır saklama yükümlülüğüne aykırı hareket eden kişilere ilişkin fiiller hangi kanun kapsamında suç teşkil eder?",
+            "secenekler": {
+              "A": "6362 sayılı SPKn m. 111",
+              "B": "Türk Ceza Kanunu m. 150",
+              "C": "Vergi Usul Kanunu m. 359",
+              "D": "Çek Kanunu m. 5",
+              "E": "İcra İflas Kanunu m. 331"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 111 uyarınca Kurul ve borsa personelinin veya yetkililerin sır saklama yükümlülüğünü ihlal etmesi adli cezayı gerektiren bir suçtur."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Sermaye Piyasası Kurulu denetçilerinin incelemeleri sırasında defter, belge ve kayıtları vermeyen veya incelemeyi engelleyen kişilere verilecek ceza nedir?",
+            "secenekler": {
+              "A": "1 yıldan 3 yıla kadar hapis cezası (SPKn m. 112)",
+              "B": "Sadece 1.000 TL para cezası",
+              "C": "Uyarma cezası",
+              "D": "6 ay borsa yasağı",
+              "E": "Ceza verilmez"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 112 uyarınca denetim ve incelemeyi engelleyen veya belgeleri gizleyen kişilere 1 yıldan 3 yıla kadar hapis cezası verilir."
+          },
+          {
+            "id": 18,
+            "soruMetni": "SPKn m. 103 uyarınca Kurul tarafından belirlenen düzenlemelere, standartlara ve kararlara aykırı hareket eden tüzel kişilere uygulanan yaptırım türü hangisidir?",
+            "secenekler": {
+              "A": "İdari Para Cezası",
+              "B": "Hapis Cezası",
+              "C": "Müadelesiz Kapatma",
+              "D": "Sadece Sözlü Uyarı",
+              "E": "Trafikten Men"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 103 uyarınca Kurul düzenlemelerine aykırılık hallerinde Kanunda belirlenen maktu veya nispi İdari Para Cezaları uygulanır."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Sermaye Piyasası Kanunu uyarınca, hakkında ihbar veya denetim başlatılan şahıslara ilişkin olarak takas alacaklarının dondurulması veya tedbir konulması yetkisi kime aittir?",
+            "secenekler": {
+              "A": "Sermaye Piyasası Kurulu (SPK)",
+              "B": "Borsa İstanbul",
+              "C": "Milli Piyango İdaresi",
+              "D": "Şirket Genel Müdürü",
+              "E": "Valilikler"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 101 uyarınca takas alacaklarının dondurulması ve hesaba tedbir konulması yetkisi SPK'ya aittir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "İşleme Dayalı Piyasa Dolandırıcılığı (m. 107/1) suçunda failler hakkında uygulanacak adli para cezası miktarı en az ne kadar olmalıdır?",
+            "secenekler": {
+              "A": "Suçun işlenmesiyle elde edilen menfaatin miktarından az olamaz.",
+              "B": "En fazla 10.000 TL olabilir.",
+              "C": "Şirket sermayesinin %1'i kadardır.",
+              "D": "Sabit 50.000 TL'dir.",
+              "E": "Adli para cezası uygulanmaz."
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 107/1 uyarınca verilecek adli para cezasının miktarı, temin edilen menfaatten az olamaz."
+          }
+        ]
+      },
+      {
+        "testId": 3,
+        "testAdi": "Test 3: 1.2. Kamunun Aydınlatılmasına İlişkin Tebliğler ve 1.2.1. Özel Durumlar Tebliği (II-15.1)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Özel Durumlar Tebliği (II-15.1) uyarınca, ihraççının sermaye piyasası araçlarının değerini, fiyatını veya yatırımcıların yatırım kararlarını etkileyebilecek henüz kamuya açıklanmamış olay ve bilgilere ne ad verilir?",
+            "secenekler": {
+              "A": "İçsel Bilgi",
+              "B": "Sürekli Bilgi",
+              "C": "Periyodik Bilgi",
+              "D": "Genel Bilgi",
+              "E": "Özel İlan"
+            },
+            "dogruCevap": "A",
+            "cozum": "II-15.1 sayılı Tebliğ m. 4 uyarınca fiyat veya yatırım kararlarını etkileyebilecek henüz açıklanmamış detaylı bilgilere 'İçsel Bilgi' denir."
+          },
+          {
+            "id": 2,
+            "soruMetni": "II-15.1 sayılı Özel Durumlar Tebliği uyarınca, ihraççıların içsel bilgilerin kamuya açıklanmasını erteleyebilmesi için aşağıdaki şartlardan hangisinin varlığı ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Ertelemenin ihraççının meşru haklarının korunması için gerekli olması, kamunun yanıltılmasına yol açmaması ve bilginin gizliliğinin korunabilmesi",
+              "B": "Sadece Genel Müdürün sözlü onay vermesi",
+              "C": "Borsa İstanbul Yönetim Kurulunun kararı",
+              "D": "Şirketin sermayesinin 100 milyon TL'yi aşması",
+              "E": "Ertelemenin en az 1 yıl sürmesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 6 uyarınca erteleme için: 1) Meşru çıkar korunmalı, 2) Kamu yanıltılmamalı, 3) Gizlilik sağlanmalıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "İçsel bilginin kamuya açıklanmasının ertelenmesi halinde, erteleme sebepleri ortadan kalktığında ihraççı KAP'ta nasıl bir açıklama yapar?",
+            "secenekler": {
+              "A": "İçsel bilgi ile birlikte erteleme kararı ve erteleme gerekçeleri derhal Kamuyu Aydınlatma Platformu'nda (KAP) açıklanır.",
+              "B": "Sadece SPK'ya gizli bir dilekçe verilir.",
+              "C": "Açıklama 1 yıl sonra yapılır.",
+              "D": "Erteleme detayları KAP'ta açıklanmaz.",
+              "E": "Sadece genel kurulda okunur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 6/3 uyarınca erteleme sebebi kalktığında özel durum açıklaması yapılırken erteleme kararı ve gerekçesi de yayımlanır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Ertelenen içsel bilginin gizliliğinin korunamadığı veya sızdığı tespiti yapıldığında ihraççı ne yapmakla yükümlüdür?",
+            "secenekler": {
+              "A": "Özel durum açıklamasını DERHAL KAP'ta yapmakla yükümlüdür.",
+              "B": "Erteleme süresini 6 ay daha uzatır.",
+              "C": "Borsadaki işlemleri 3 gün durdurur.",
+              "D": "SPK'dan ceza indirimi ister.",
+              "E": "Hiçbir açıklama yapmaz."
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 6/4 uyarınca ertelenen bilginin gizliliği bozulduğunda derhal KAP'ta özel durum açıklaması yapılması şarttır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Özel Durumlar Tebliği uyarınca, ihraççı nezdinde idari sorumluluğu bulunan kişilerin ve bunlarla yakından ilişkili kişilerin ihraççı paylarındaki işlemlerine ilişkin bildirim sınırı ve esası nedir?",
+            "secenekler": {
+              "A": "Bir takvim yılı içinde yapılan işlemlerin toplam tutarı SPK tarafından belirlenen eşiğe ulaştığında KAP'ta açıklanır.",
+              "B": "İdari sorumlular hiçbir şekilde işlem yapamaz.",
+              "C": "İşlemler sadece yıllık faaliyet raporunda gösterilir.",
+              "D": "Bildirim 5 yıl sonra yapılır.",
+              "E": "Sadece banka transferleri bildirilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 11 uyarınca idari sorumluluğu bulunan kişilerin işlemleri belirlenen tutarlık eşiği aştığında KAP'ta ilan edilir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "İhraççıların içsel bilgiye erişimi olan kişilerin listesini oluşturması ve bu listeyi güncellemesi kimin sorumluluğundadır?",
+            "secenekler": {
+              "A": "İhraççının Yönetim Kurulu",
+              "B": "Borsa İstanbul",
+              "C": "Merkezi Kayıt Kuruluşu",
+              "D": "Bağımsız Denetim Şirketi",
+              "E": "Ticaret Sicil Gazetesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 7 uyarınca İçsel Bilgiye Erişimi Olanlar Listesi ihraççı yönetim kurulu tarafından hazırlanır ve istendiğinde SPK'ya sunulur."
+          },
+          {
+            "id": 7,
+            "soruMetni": "İçsel Bilgiye Erişimi Olanlar Listesinde yer alan bilgilerin ve değişikliklerin SPK veya MKK talep ettiğinde gönderilme yükümlülüğü kaç yıl süreyle saklanır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "3 Yıl",
+              "C": "5 Yıl",
+              "D": "8 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Tebliğ m. 7 uyarınca içsel bilgiye erişimi olanlar listesi ve güncellemeleri en az 5 yıl süreyle saklanır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Basın-yayın organlarında veya kamuoyunda ihraççı hakkında çıkan haber veya söylentilere ilişkin ihraççının KAP'ta doğrulama açıklaması yapma yükümlülüğü hangi durumda doğar?",
+            "secenekler": {
+              "A": "Haber veya söylenti yatırımcıların kararlarını veya sermaye piyasası araçlarının fiyatını etkileyebilecek önemde olduğunda",
+              "B": "Her çıkan magazin haberinde",
+              "C": "Sadece yurt dışı gazetelerde haber çıktığında",
+              "D": "Yılda bir kez toplu olarak",
+              "E": "Haber asılsız olsa bile hiçbir zaman açıklama yapılmaz"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 9 uyarınca fiyata veya yatırım kararına etki edebilecek önemdeki haber ve söylentilerin doğru veya asılsız olduğuna dair KAP'ta açıklama yapılması zorunludur."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Özel Durumlar Tebliği uyarınca ihraççıların geleceğe yönelik değerlendirmelerini (beklentilerini) kamuya açıklamasıyla ilgili aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Geleceğe yönelik değerlendirmeler yönetim kurulu kararına dayanmalı ve yılda en fazla 4 kez kamuya açıklanabilir.",
+              "B": "Geleceğe yönelik değerlendirmeler kesinleşmiş garanti veriler olmalıdır.",
+              "C": "Geleceğe yönelik açıklama yapılması yasaktır.",
+              "D": "Açıklama sadece sözlü televizyon yayınında yapılır.",
+              "E": "Sadece 10 yıllık planlar açıklanabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 10 uyarınca geleceğe yönelik değerlendirmeler yönetim kurulu kararıyla veya yetkili yöneticilerin onayıyla KAP'ta açıklanabilir ve yılda azami 4 kez güncellenebilir."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Halka açık bir şirketin doğrudan veya dolaylı olarak sermayesindeki veya oy haklarındaki payın %5, %10, %15, %20, %25, %33, %50, %67 veya %95 sınırlarına ulaşması veya bu sınırların altına düşmesi halinde bildirimi kim yapar?",
+            "secenekler": {
+              "A": "İşlemi gerçekleştiren gerçek veya tüzel kişi (MKK tarafından otomatik yapılır veya ilgili kişi bildirir).",
+              "B": "Sadece Borsa Başkanı",
+              "C": "Ticaret Bakanlığı",
+              "D": "Maliye Müfettişi",
+              "E": "Şirket Çaycısı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 12 uyarınca oy haklarındaki önemli pay sahipliği değişiklikleri MKK tarafından veya ilgili ortak tarafından KAP'ta açıklanır."
+          },
+          {
+            "id": 11,
+            "soruMetni": "İhraççıların kamuya yapacakları özel durum açıklamalarının dili ve gönderim ortamı aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Türkçe olarak Elektronik İmza ile Kamuyu Aydınlatma Platformu'na (KAP) gönderilir.",
+              "B": "Sadece İngilizce olarak gazete ilanı yapılır.",
+              "C": "Posta yoluyla SPK'ya iletilir.",
+              "D": "Şirket panosuna asılır.",
+              "E": "Sadece TV kanallarında altyazı geçilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Özel durum açıklamaları güvenli elektronik imza ile KAP sistemine yayımlanmak üzere iletilir."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Özel Durumlar Tebliği uyarınca, kamuya açıklanan özel durum açıklamalarının şirketin kendi internet sitesinde yayımlanma ve saklanma süresi en az kaç yıldır?",
+            "secenekler": {
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "5 Yıl",
+              "D": "8 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "C",
+            "cozum": "Tebliğ m. 13 uyarınca kamuya açıklanan özel durum açıklamaları şirketin internet sitesinde en az 5 yıl süreyle güncel olarak tutulur."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Özel Durumlar Tebliği uyarınca, ihraççının yönetim kontrolünü elinde tutan ortakların kendi aralarında yaptıkları oy sözleşmeleri veya yönetim kurulu üyeliği aday gösterme anlaşmaları KAP'ta açıklanmalı mıdır?",
+            "secenekler": {
+              "A": "Evet, sözleşmenin imzalandığı tarihte derhal KAP'ta açıklanması zorunludur.",
+              "B": "Hayır, gizli kalması zorunludur.",
+              "C": "Sadece Genel Kurulda söylenir.",
+              "D": "Sadece şirket tasfiye edilirken açıklanır.",
+              "E": "Sadece mahkeme isterse verilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 12 uyarınca oy haklarının kullanımına ilişkin anlaşmalar ve kontrol değişiklikleri derhal kamuya açıklanır."
+          },
+          {
+            "id": 14,
+            "soruMetni": "İhraççıların konsolide olmayan finansal tablolarını KAP'ta yayımlama süresi hesap döneminin bitiminden itibaren en geç kaç gündür?",
+            "secenekler": {
+              "A": "30 Gün",
+              "B": "60 Gün",
+              "C": "70 Gün",
+              "D": "90 Gün",
+              "E": "120 Gün"
+            },
+            "dogruCevap": "C",
+            "cozum": "Finansal Raporlama Tebliği (II-14.1) uyarınca konsolide olmayan yıllık finansal tablolar en geç 70 gün içinde KAP'ta yayımlanır."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Halka açık ortaklıkların konsolide yıllık finansal tablolarını KAP'ta yayımlama azami süresi kaç gündür?",
+            "secenekler": {
+              "A": "30 Gün",
+              "B": "60 Gün",
+              "C": "70 Gün",
+              "D": "90 Gün",
+              "E": "120 Gün"
+            },
+            "dogruCevap": "D",
+            "cozum": "Finansal Raporlama Tebliği uyarınca konsolide yıllık finansal raporların KAP'ta ilanı için azami süre 90 gündür."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Aşağıdakilerden hangisi Sürekli Bilgiler kapsamında KAP'ta yayımlanması zorunlu olan hususlardan biri DEĞİLDİR?",
+            "secenekler": {
+              "A": "Şirketin genel kurul kararları ve tasfiye durumları",
+              "B": "Sermaye artırımı ve azaltımı kararları",
+              "C": "Şirket çalışanlarının günlük öğle yemeği menüsü",
+              "D": "Unvan ve adres değişiklikleri",
+              "E": "Kar payı dağıtım kararları"
+            },
+            "dogruCevap": "C",
+            "cozum": "Şirket içindeki rutin operasyonel detaylar (yemek menüsü vb.) kamuyu aydınlatma kapsamında değildir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Özel durum açıklamalarının mesai saatleri dışında gerçekleşmesi durumunda KAP'a bildirim zamanı nasıl olmalıdır?",
+            "secenekler": {
+              "A": "Olay gerçekleştiği anda zaman kaybetmeksizin derhal KAP'a iletilir.",
+              "B": "Ertesi gün mesai başlangıcına kadar beklenir.",
+              "C": "Pazartesi sabahına kadar ertelenir.",
+              "D": "Hafta sonu açıklama yapılması yasaktır.",
+              "E": "SPK'nın açılacağı saat beklenir."
+            },
+            "dogruCevap": "A",
+            "cozum": "KAP sistemi 7/24 esasına göre çalışır; özel durum oluşturan bilgi ortaya çıktığında derhal gönderilmesi esastır."
+          },
+          {
+            "id": 18,
+            "soruMetni": "İhraççıların KAP bildirimlerinde yanıltıcı veya eksik bilgi vermeleri halinde doğacak zararlardan kimler sorumludur?",
+            "secenekler": {
+              "A": "İhraççı şirket ve açıklamada imzası bulunan idari sorumlular",
+              "B": "Sadece KAP yazılımını yapan mühendisler",
+              "C": "Sadece Borsa İstanbul",
+              "D": "Sadece MKK çalışanları",
+              "E": "Hiç kimse sorumlu tutulamaz"
+            },
+            "dogruCevap": "A",
+            "cozum": "KAP bildirimlerinin doğruluğundan ihraççı şirket ve bildirimi imzalayan idari sorumlular mevzuat uyarınca sorumludur."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Özel Durumlar Tebliği uyarınca, ihraççının faaliyetlerini kısmen veya tamamen durdurması veya durdurulması kararı alınması halinde durum KAP'ta nasıl açıklanır?",
+            "secenekler": {
+              "A": "Karar alındığı anda Derhal Özel Durum Açıklaması olarak yayımlanır.",
+              "B": "Yıl sonunda faaliyet raporuna eklenir.",
+              "C": "Sadece işçilere bildirilir.",
+              "D": "Borsa kotundan çıkana kadar açıklanmaz.",
+              "E": "Gizli tutulur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Faaliyetlerin durması veya durdurulması içsel bilgi niteliğinde olup derhal KAP'ta ilan edilir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Halka açık şirketlerin İlişkili Taraf İşlemleri (II-17.1 / II-15.1) kapsamında varlık transferi işlemlerinde bağımsız değerleme yaptırma yükümlülüğü oran eşiği yüzde kaçtır?",
+            "secenekler": {
+              "A": "İşlem tutarının toplam varlıklara veya hasılata oranının %10'a ulaşması veya aşması halinde",
+              "B": "%1 oranında",
+              "C": "%50 oranında",
+              "D": "%75 oranında",
+              "E": "%100 oranında"
+            },
+            "dogruCevap": "A",
+            "cozum": "İlişkili taraf işlemlerinde tutarın aktif büyüklüğe veya hasılata oranının %10'u aşması durumunda bağımsız değerleme raporu hazırlanması ve KAP'ta açıklanması zorunludur."
+          }
+        ]
+      },
+      {
+        "testId": 4,
+        "testAdi": "Test 4: 1.3. Halka Açık Ortaklıklar ve 1.3.1. Kurumsal Yönetim Tebliği (II-17.1)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Kurumsal Yönetim Tebliği (II-17.1) uyarınca, Borsa İstanbul'da işlem gören halka açık şirketler piyasa değerleri ve fiili dolaşımdaki pay değerlerine göre kaç gruba ayrılır?",
+            "secenekler": {
+              "A": "3 Grup (1. Grup, 2. Grup, 3. Grup)",
+              "B": "2 Grup",
+              "C": "4 Grup",
+              "D": "5 Grup",
+              "E": "Gruplandırma yapılmaz"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kurumsal Yönetim Tebliği uyarınca halka açık şirketler 1., 2. ve 3. Grup olarak sistemli şekilde sınıflandırılır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "II-17.1 sayılı Tebliğ gereğince, 1. Grup ve 2. Grup halka açık şirketlerin yönetim kurulunda yer alması gereken Bağımsız Yönetim Kurulu Üye sayısı ve oranı en az ne olmalıdır?",
+            "secenekler": {
+              "A": "Toplam üye sayısının 1/3'ünden az olamaz ve her halükarda 2 üyeden az olamaz.",
+              "B": "Sadece 1 üye olması yeterlidir.",
+              "C": "Tüm üyelerin bağımsız olması şarttır.",
+              "D": "En az 5 üye olmalıdır.",
+              "E": "Bağımsız üye zorunluluğu yoktur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Kurumsal Yönetim İlkeleri m. 4.3.4 uyarınca bağımsız üye sayısı toplam üye sayısının üçte birinden az olamaz ve her halükarda 2 üyeden az olamaz."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Kurumsal Yönetim Tebliği uyarınca, bağımsız yönetim kurulu üyelerinin görev süresi tek seferde en fazla kaç yıl için seçilebilir?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "1 Yıl",
+              "C": "5 Yıl",
+              "D": "6 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "A",
+            "cozum": "Bağımsız yönetim kurulu üyeleri en fazla 3 yıl için seçilebilir ve tekrar aday gösterilip seçilmeleri mümkündür."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Bir bağımsız yönetim kurulu üyesinin aynı şirkette veya şirket grubunda son 10 yıl içerisinde toplam kaç yıldan fazla bağımsız üye olarak görev yapmamış olması şarttır?",
+            "secenekler": {
+              "A": "6 Yıl",
+              "B": "3 Yıl",
+              "C": "5 Yıl",
+              "D": "8 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kurumsal Yönetim İlkeleri m. 4.3.6 uyarınca son 10 yıl içinde 6 yıldan fazla bağımsız üyelik yapan kişi bağımsızlığını kaybeder."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Kurumsal Yönetim Tebliği uyarınca, Yönetim Kurulu bünyesinde oluşturulması ZORUNLU olan komiteler arasında aşağıdakilerden hangisi YER ALMAZ?",
+            "secenekler": {
+              "A": "Sosyal Etkinlik ve Spor Komitesi",
+              "B": "Denetimden Sorumlu Komite",
+              "C": "Kurumsal Yönetim Komitesi",
+              "D": "Riskin Erken Saptanması Komitesi",
+              "E": "Aday Gösterme ve Ücret Komitesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Zorunlu komiteler: Denetim, Kurumsal Yönetim, Riskin Erken Saptanması, Aday Gösterme ve Ücret komiteleridir. Spor komitesi yasal zorunluluk değildir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Yönetim kurulu bünyesinde kurulan Denetimden Sorumlu Komitenin üyeleri ve yapısı hakkında aşağıdakilerden hangisi ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Komitenin tüm üyelerinin Bağımsız Yönetim Kurulu Üyelerinden oluşması zorunludur.",
+              "B": "Sadece komite başkanı bağımsız olmalıdır.",
+              "C": "Genel müdür komite başkanı olur.",
+              "D": "Üyelerin en az yarısı icracı olmalıdır.",
+              "E": "Dışarıdan uzmanlardan seçilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Kurumsal Yönetim İlkeleri m. 4.5.3 uyarınca Denetimden Sorumlu Komitenin bütün üyeleri bağımsız yönetim kurulu üyeleri arasından seçilmelidir."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Kurumsal Yönetim Tebliği uyarınca, bir yönetim kurulu üyesi aynı anda en fazla kaç komitenin başkanı olabilir?",
+            "secenekler": {
+              "A": "Sadece 1 Komite",
+              "B": "2 Komite",
+              "C": "3 Komite",
+              "D": "Tüm Komiteler",
+              "E": "Sınırlama yoktur"
+            },
+            "dogruCevap": "A",
+            "cozum": "Bir yönetim kurulu üyesi birden fazla komitede görev alabilir ancak yalnızca 1 komitenin başkanı olabilir."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Yönetim Kurulu Başkanı ile Genel Müdürün (İcra Başkanı) aynı kişi olması durumunda bu durumun gerekçesi nerede açıklanmalıdır?",
+            "secenekler": {
+              "A": "KAP'ta ve Yıllık Kurumsal Yönetim Uyum Raporunda gerekçesiyle açıklanmalıdır.",
+              "B": "Ticaret Sicil Gazetesinde ilan edilir.",
+              "C": "Gerekçe açıklamaya gerek yoktur.",
+              "D": "SPK'dan ceza alınır.",
+              "E": "Sadece mahkemeye bildirilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Kurumsal Yönetim İlkeleri uyarınca YK başkanı ile İcra başkanı aynı kişi ise bu durum gerekçelendirilerek KAP'ta açıklanmalıdır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Kurumsal Yönetim Tebliği uyarınca oluşturulan Yatırımcı İlişkileri Bölüm Yöneticisinin haiz olması gereken lisans belgesi aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "SPL Düzey 3 Lisansı ve Kurumsal Yönetim Derecelendirme Lisansı",
+              "B": "Sadece Düzey 1 Lisansı",
+              "C": "Türev Araçlar Lisansı",
+              "D": "Gayrimenkul Değerleme Lisansı",
+              "E": "Lisans zorunluluğu yoktur"
+            },
+            "dogruCevap": "A",
+            "cozum": "Yatırımcı ilişkileri bölüm yöneticisinin tam zamanlı çalışması, SPL Düzey 3 ve Kurumsal Yönetim Derecelendirme lisanslarına sahip olması şarttır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Aşağıdakilerden hangisi genel kabul görmüş Kurumsal Yönetim İlkelerinin temel 4 ayağı (prensibi) arasında YER ALMAZ?",
+            "secenekler": {
+              "A": "Şeffaflık",
+              "B": "Hesap Verebilirlik",
+              "C": "Sorumluluk",
+              "D": "Adillik (Eşitlik)",
+              "E": "Gizlilik ve Bilgi Saklama"
+            },
+            "dogruCevap": "E",
+            "cozum": "Kurumsal Yönetimin 4 ana ilkesi: Şeffaflık, Adillik, Hesap Verebilirlik ve Sorumluluktur. Gizlilik ve bilgi saklama temel ilke değildir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Bağımsız yönetim kurulu üyelerinin bağımsızlığını kaybetmesi veya istifa etmesi durumunda yeni bağımsız üye seçilinceye kadar geçecek süre içinde en geç ne zaman seçim yapılmalıdır?",
+            "secenekler": {
+              "A": "Yapılacak ilk Genel Kurul toplantısına kadar geçici üye atanır veya ilk Genel Kurulda seçilir.",
+              "B": "Şirket derhal kapatılır.",
+              "C": "3 yıl boyunca boş kalır.",
+              "D": "SPK doğrudan atama yapar.",
+              "E": "Yönetim kurulu kararları geçersiz sayılır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Bağımsız üyelik boşaldığında yönetim kurulu ilk genel kurula kadar görev yapmak üzere geçici atama yapabilir veya ilk genel kurulda seçim tamamlanır."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Kurumsal Yönetim Tebliği uyarınca, Ücretlendirme Politikası ve yönetim kurulu üyelerine verilen her türlü menfaatlerin açıklandığı organ aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Genel Kurul toplantısında ayrı bir madde olarak ortakların bilgisine sunulur ve internet sitesinde yayımlanır.",
+              "B": "Sadece yönetim kurulunun gizli kasasında saklanır.",
+              "C": "Sadece vergi dairesine bildirilir.",
+              "D": "Açıklanması yasaktır.",
+              "E": "Sadece bankalara verilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Ücretlendirme politikası Genel Kurulda ortakların bilgisine sunulur ve şirket internet sitesinde açıklanır."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Halka açık ortaklıklarda Riskin Erken Saptanması Komitesi kaç ayda bir yönetim kuruluna rapor sunmakla yükümlüdür?",
+            "secenekler": {
+              "A": "2 Ayda Bir",
+              "B": "Her Ay",
+              "C": "6 Ayda Bir",
+              "D": "Yılda Bir",
+              "E": "3 Yılda Bir"
+            },
+            "dogruCevap": "A",
+            "cozum": "TTK m. 378 ve Tebliğ uyarınca Riskin Erken Saptanması Komitesi her 2 ayda bir durumu değerlendirir ve raporunu yönetim kuruluna sunar."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Kurumsal Yönetim Tebliğinde belirtilen bağımsız yönetim kurulu üyesi adaylarının belirlenmesi sürecinde aday tekliflerini değerlendiren komite hangisidir?",
+            "secenekler": {
+              "A": "Aday Gösterme Komitesi (veya bu görevi üstlenen Kurumsal Yönetim Komitesi)",
+              "B": "Bütçe Komitesi",
+              "C": "Disiplin Komitesi",
+              "D": "Satın Alma Komitesi",
+              "E": "Pazarlama Komitesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Aday Gösterme Komitesi bağımsız üye adaylık tekliflerini değerlendirip raporunu yönetim kuruluna sunar."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Borsa İstanbul BIST-50 endeksinde yer alan 1. Grup halka açık şirketlerde yönetim kurulunda kadın üye oranı için tavsiye edilen hedef oran en az yüzde kaçtır?",
+            "secenekler": {
+              "A": "%25",
+              "B": "%10",
+              "C": "%15",
+              "D": "%33",
+              "E": "%50"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kurumsal Yönetim İlkeleri m. 4.3.9 uyarınca yönetim kurulunda kadın üye oranının en az %25 olması hedefi belirlenir ve politika oluşturulur."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Kurumsal Yönetim Tebliği uyarınca, şirketlerin internet sitelerinde bilgilendirme politikası ve ortaklık yapısı en az kaç yıllık geçmişi kapsayacak şekilde yayımlanmalıdır?",
+            "secenekler": {
+              "A": "5 Yıl",
+              "B": "1 Yıl",
+              "C": "3 Yıl",
+              "D": "7 Yıl",
+              "E": "10 Yıl"
+            },
+            "dogruCevap": "A",
+            "cozum": "Şirket internet sitesinde Kurumsal Yönetim bölümünde son 5 yıla ait açıklamalar ve bilgiler bulundurulur."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Halka açık şirketlerde Kurumsal Yönetim Uyum Raporu (URF) ve Kurumsal Yönetim Bilgi Formu (KYBF) hangi platformda ve ne zaman yayımlanır?",
+            "secenekler": {
+              "A": "KAP'ta yıllık faaliyet raporu ile birlikte yayımlanır.",
+              "B": "Sadece Ticaret Sicil Gazetesinde bassılır.",
+              "C": "SPK binasına asılır.",
+              "D": "5 yılda bir yayımlanır.",
+              "E": "Sadece şirket içi e-posta ile duyurulur."
+            },
+            "dogruCevap": "A",
+            "cozum": "URF ve KYBF şablonları yıllık finansal rapor ilan süresi içinde KAP'ta açıklanır."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Kurumsal Yönetim İlkelerine uyum durumunu derecelendiren ve not veren bağımsız kurumlara ne ad verilir?",
+            "secenekler": {
+              "A": "Kurumsal Yönetim Derecelendirme Kuruluşları",
+              "B": "Kredi Derecelendirme Şirketleri",
+              "C": "Gayrimenkul Değerleme Şirketleri",
+              "D": "Portföy Saklama Şirketleri",
+              "E": "Varlık Kiralama Şirketleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPK tarafından yetkilendirilen Kurumsal Yönetim Derecelendirme Kuruluşları şirketlerin ilkelere uyumunu notlandırır."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Kurumsal Yönetim Tebliği uyarınca, yönetim kurulu toplantı nisabı (karar alma yeter sayısı) esas sözleşmede aksine ağırlaştırılmış bir oran yoksa nasıl belirlenir?",
+            "secenekler": {
+              "A": "Yönetim kurulu üye tam sayısının çoğunluğu ile toplanır ve kararlar katılanların çoğunluğu ile alınır.",
+              "B": "Tüm üyelerin oybirliği şarttır.",
+              "C": "Tek bir üyenin onayı yeterlidir.",
+              "D": "Genel kurul kararı olmadan karar alınamaz.",
+              "E": "SPK temsilcisinin oyu şarttır."
+            },
+            "dogruCevap": "A",
+            "cozum": "TTK ve SPK ilkeleri uyarınca üye tam sayısının çoğunluğu ile toplanılır ve katılanların çoğunluğu ile karar verilir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Yönetim kurulu üyelerine verilen performans ödemeleri ve hisse senedi opsiyonları konusunda bağımsız üyelere ilişkin kısıtlama nedir?",
+            "secenekler": {
+              "A": "Bağımsız yönetim kurulu üyelerinin ücretlendirilmesinde hisse senedi opsiyonları veya şirketin performansına dayalı ödeme planları KULLANILAMAZ.",
+              "B": "Bağımsız üyelere sadece hisse senedi verilir.",
+              "C": "Performans ödemesi zorunludur.",
+              "D": "Ücret ödenmesi yasaktır.",
+              "E": "Sadece kâr payı verilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Kurumsal Yönetim İlkeleri m. 4.6.3 uyarınca tarafsızlığı korumak amacıyla bağımsız üyelere kâra veya performansa dayalı prim ve opsiyon verilemez."
+          }
+        ]
+      },
+      {
+        "testId": 5,
+        "testAdi": "Test 5: 1.3. Halka Açık Ortaklıklar Tebliğleri (Pay Alım Teklifi, Ortaklıktan Çıkarma ve Önemli Nitelikteki İşlemler)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Pay Alım Teklifi Tebliği (II-26.1) uyarınca, halka açık bir ortaklıkta doğrudan veya dolaylı olarak oy haklarının yüzde kaçına sahip olunması durumunda yönetim kontrolü elde edilmiş sayılır ve Zorunlu Pay Alım Teklifi doğar?",
+            "secenekler": {
+              "A": "%50 ve üzeri oy hakkı",
+              "B": "%10 oy hakkı",
+              "C": "%25 oy hakkı",
+              "D": "%75 oy hakkı",
+              "E": "%90 oy hakkı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Pay Alım Teklifi Tebliği m. 11 uyarınca tek başına veya birlikte hareket ederek oy haklarının %50'sinden fazlasının elde edilmesi veya yönetim kurulunda çoğunluğu seçme hakkı kontrolü doğurur."
+          },
+          {
+            "id": 2,
+            "soruMetni": "II-26.1 sayılı Tebliğ gereğince, zorunlu pay alım teklifi zorunluluğunun doğduğu tarihten itibaren en geç kaç iş günü içinde SPK'ya pay alım teklifi bilgi formu onayı için başvurulmalıdır?",
+            "secenekler": {
+              "A": "6 İş Günü",
+              "B": "10 İş Günü",
+              "C": "15 İş Günü",
+              "D": "30 İş Günü",
+              "E": "60 İş Günü"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 13 uyarınca zorunlu pay alım teklifi doğduğunda 6 iş günü içinde SPK'ya başvuru yapılması zorunludur."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Zorunlu pay alım teklifinde teklif fiyatı belirlenirken dikkate alınan geçmiş borsa fiyatları dönemi aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Pay alım teklif zorunluluğunun doğduğu tarihten önceki 6 aylık dönemde oluşan günlük düzeltilmiş ağırlıklı ortalama borsa fiyatlarının ortalaması",
+              "B": "Son 1 haftalık fiyat",
+              "C": "Son 3 yıllık en yüksek fiyat",
+              "D": "Nominal değer (1 TL)",
+              "E": "Sadece son gün kapanış fiyatı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 15 uyarınca teklif fiyatı, zorunluluğun doğduğu tarihten önceki 6 aylık borsa ağırlıklı ortalama fiyatından düşük olamaz."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Ortaklıktan Çıkarma ve Satma Hakları Tebliği (II-27.2) uyarınca, hakim ortağın diğer ortakları ortaklıktan çıkarma hakkını kazanabilmesi için yasal oy hakkı eşiği yüzde kaçtır?",
+            "secenekler": {
+              "A": "%95",
+              "B": "%50",
+              "C": "%75",
+              "D": "%80",
+              "E": "%90"
+            },
+            "dogruCevap": "A",
+            "cozum": "II-27.2 Tebliği m. 4 uyarınca oy haklarının en az %95'ine sahip olan ana ortak diğer ortakları ihraç etme (ortaklıktan çıkarma) hakkına sahip olur."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Ortaklıktan Çıkarma Tebliği kapsamında, %95 oy eşiği aşıldığında azınlık ortakların paylarını hakim ortağa satma (Satma Hakkı) süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "1 Ay",
+              "C": "6 Ay",
+              "D": "12 Ay",
+              "E": "24 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 6 uyarınca çıkarma ve satma hakları 3 aylık hak düşürücü süre içinde kullanılır."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Önemli Nitelikteki İşlemler ve Ayrılma Hakkı Tebliği (II-23.3) uyarınca aşağıdakilerden hangisi halka açık şirketlerde Önemli Nitelikteki İşlem sayılır?",
+            "secenekler": {
+              "A": "Birleşme, bölünme işlemlerine taraf olunması veya tür değiştirilmesi",
+              "B": "Sıradan hammadde alım sözleşmesi",
+              "C": "Ofis mobilyası yenilenmesi",
+              "D": "Personel maaşlarının ödenmesi",
+              "E": "Rutine bağlı müşteri faturası kesilmesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "II-23.3 m. 4 uyarınca birleşme, bölünme, malvarlığının devri, faaliyet konusunun değişmesi önemli nitelikte işlemdir."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Önemli Nitelikteki İşlemlerin Genel Kurulda onaylanmasında toplantı ve karar nisaplarıyla ilgili aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Esas sözleşmede daha ağır nisap yoksa, genel kurul oy haklarının en az %75'inin olumlu oyu ile karar alınır.",
+              "B": "Basit çoğunluk yetmektedir.",
+              "C": "Yalnızca yönetim kurulu kararı yeterlidir.",
+              "D": "Genel kurula gerek yoktur.",
+              "E": "Tek bir ortağın oyu yeterlidir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 8 uyarınca önemli nitelikteki işlemler genel kurulda katılan oy haklarının %75'inin olumlu oyu ile karara bağlanır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Önemli Nitelikteki İşleme İlişkin Genel Kurul toplantısına katılarak OLUMSUZ oy kullanan ve muhalefet şerhini tutanağa işleten pay sahiplerine tanınan hak hangisidir?",
+            "secenekler": {
+              "A": "Ayrılma Hakkı (Paylarını şirkete geri satıp ayrılma hakkı)",
+              "B": "Pay Alım Teklifi Hakkı",
+              "C": "Rüçhan Hakkı",
+              "D": "Tasfiye Hakkı",
+              "E": "Temettü Artırım Hakkı"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 24 uyarınca önemli işleme olumsuz oy verip şerh düşen ortaklar paylarını şirkete satarak ayrılma hakkını kullanır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Ayrılma hakkı kullanım fiyatı, önemli nitelikteki işlemin kamuya açıklandığı tarihten önceki son kaç gündeki borsa ağırlıklı ortalama fiyatı olarak belirlenir?",
+            "secenekler": {
+              "A": "Kamuya açıklama tarihinden önceki 30 gün içinde oluşan düzeltilmiş ağırlıklı ortalama fiyat",
+              "B": "Son 1 yıllık fiyat",
+              "C": "Son 1 gündeki fiyat",
+              "D": "Nominal tutar",
+              "E": "Değerleme raporundaki en düşük fiyat"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn ve II-23.3 m. 10 uyarınca ayrılma hakkı fiyatı kararın açıklanmasından önceki 30 günlük borsa ortalama fiyatıdır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sermaye Piyasası Kanunu uyarınca, Ayrılma Hakkı kullanımlarının şirketin katlanamayacağı boyutta mali yük getirmesi ihtimaline karşı Genel Kurul kararına ne eklenebilir?",
+            "secenekler": {
+              "A": "Ayrılma hakkı kullanımına bağlı üst sınır tutarı (Ayrılma hakkı maliyeti sınırı aştığında işlemden vazgeçme şartı)",
+              "B": "Ayrılma hakkının tamamen iptal edildiği hükmü",
+              "C": "Ortaklara ceza kesilmesi maddesi",
+              "D": "Borsa kapama şartı",
+              "E": "Vergi muafiyeti maddesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Genel kurul kararına üst limit konulabilir; ayrılma hakkı talepleri bu limiti aşarsa şirket işlemden vazgeçebilir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Pay Tebliği (VII-128.1) uyarınca, halka açık anonim ortaklıkların bedelli sermaye artırımlarında izahname onaylanması başvurusunda hazırlanan değerleme raporları kime sunulur?",
+            "secenekler": {
+              "A": "Sermaye Piyasası Kuruluna sunulur ve KAP'ta ilan edilir.",
+              "B": "Gizli olarak vergi dairesine sunulur.",
+              "C": "Sadece rakiplere verilir.",
+              "D": "Belediyeye onaylatılır.",
+              "E": "Sunulma zorunluluğu yoktur."
+            },
+            "dogruCevap": "A",
+            "cozum": "VII-128.1 sayılı Tebliğ uyarınca sermaye artırımlarında ilgili raporlar SPK onayına sunulur ve KAP'ta yayımlanır."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Pay Alım Teklifi Tebliği uyarınca, zorunlu pay alım teklifinden muafiyet sağlanabilecek durumlar arasında aşağıdakilerden hangisi YER ALIR?",
+            "secenekler": {
+              "A": "Finansal yeniden yapılandırma veya mülkiyetin kredi karşılığı bankaya geçmesi hali",
+              "B": "Sadece ortakların keyfi kararı",
+              "C": "Borsa fiyatının yükselmesi",
+              "D": "Şirketin kâr etmesi",
+              "E": "Genel müdürün değişmesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 18 uyarınca bankaların alacak karşılığı pay alması veya finansal yapılandırmalarda SPK teklif zorunluluğundan muafiyet verebilir."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Pay Alım Teklifinde teklif süresi (yatırımcıların kabul süresi) en az ve en fazla kaç iş günüdür?",
+            "secenekler": {
+              "A": "En az 10 iş günü, en fazla 20 iş günü",
+              "B": "En az 1 iş günü, en fazla 5 iş günü",
+              "C": "En az 30 iş günü, en fazla 60 iş günü",
+              "D": "En az 2 iş günü, en fazla 3 iş günü",
+              "E": "En az 15 iş günü, en fazla 45 iş günü"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 17 uyarınca pay alım teklif süresi 10 iş gününden az ve 20 iş gününden fazla olamaz."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Önemli Nitelikteki İşlemler Tebliği uyarınca, şirketin aktif toplamının en az yüzde kaçını oluşturan varlıkların devredilmesi veya kiraya verilmesi Önemli Nitelikte İşlem sayılır?",
+            "secenekler": {
+              "A": "%50 ve üzeri",
+              "B": "%10",
+              "C": "%20",
+              "D": "%30",
+              "E": "%75"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 5 uyarınca aktif büyüklüğünün veya sürdürülen faaliyetlerin %50'sini aşan varlık devirleri önemli nitelikte işlemdir."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Ortaklıktan çıkarma hakkını kullanan hakim ortağın satılmayan payların bedellerini nereye yatırması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Takasbank nezdinde açılacak blokajlı özel hesaba yatırılır.",
+              "B": "Kendi şahsi banka hesabında tutar.",
+              "C": "Kasa nakdi olarak tutulur.",
+              "D": "Yurt dışı hesaba aktarılır.",
+              "E": "Vergi dairesine ödenir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Ortaklıktan Çıkarma Tebliği uyarınca pay bedelleri nemalandırılmak üzere Takasbank nezdinde açılan özel hesaba depo edilir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Ayrılma hakkını kullanmak isteyen ortak hakkını en geç kaç gün içinde şirkete bildirmelidir?",
+            "secenekler": {
+              "A": "Genel Kurul tarihinden itibaren en geç 6 iş günü içinde",
+              "B": "30 gün sonra",
+              "C": "1 yıl içinde",
+              "D": "Aynı gün 1 saat içinde",
+              "E": "Süre sınırı yoktur"
+            },
+            "dogruCevap": "A",
+            "cozum": "II-23.3 m. 9 uyarınca ayrılma hakkı kullanımı genel kurul tarihinden itibaren 6 iş günü içinde şirkete bildirilir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Halka açık bir anonim şirketin borsada işlem gören paylarını kendi isteğiyle borsa kotundan çıkarması (Kottan Çıkarma) işleminde hangi tebliğ hükümleri uygulanır?",
+            "secenekler": {
+              "A": "Borsa İstanbul Korttan Çıkarma Yönergesi ve Ortaklıktan Çıkarma / Pay Alım Teklifi Tebliği",
+              "B": "İcra İflas Kanunu",
+              "C": "Çevre Kanunu",
+              "D": "İş Kanunu",
+              "E": "Karayolları Trafik Kanunu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kottan çıkarma kararlarında Borsa yönergeleri ile SPK pay alım teklifi ve hakim ortaklık düzenlemeleri esas alınır."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Pay Alım Teklifinde gönüllü pay alım teklifi (Gönüllü Çağrı) yapan kişi tekliften vazgeçebilir mi?",
+            "secenekler": {
+              "A": "SPK onayı ile ve haklı sebeplerin bulunması halinde teklif süresi başlamadan önce vazgeçebilir.",
+              "B": "Hiçbir şekilde vazgeçemez.",
+              "C": "İstediği an anında vazgeçer.",
+              "D": "Sadece genel kurul onaylarsa vazgeçer.",
+              "E": "Sadece borsa kapatılırsa vazgeçer."
+            },
+            "dogruCevap": "A",
+            "cozum": "Gönüllü pay alım teklifinde SPK'nın uygun görmesi şartıyla ve haklı gerekçelerle tekliften cayıma izin verilebilir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Halka açık şirketlerin kayıtlı sermaye tavanı içinde yapacakları tahsisli sermaye artırımlarında rüçhan haklarının kısıtlanması kararı hangi organ tarafından alınır?",
+            "secenekler": {
+              "A": "Yönetim Kurulu (Esas sözleşmede yetki verilmişse)",
+              "B": "Ticaret Bakanlığı",
+              "C": "Borsa İstanbul",
+              "D": "Maliye Bakanlığı",
+              "E": "Bağımsız Denetçi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kayıtlı sermaye sisteminde esas sözleşme ile yetkilendirilmişse Yönetim Kurulu rüçhan haklarını kısıtlayarak sermaye artırımı yapabilir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Ortaklıktan çıkarma hakkı sürecinde değerleme raporunu hazırlayacak değerleme kuruluşunu kim seçer ve görevlendirir?",
+            "secenekler": {
+              "A": "Şirketin Yönetim Kurulu (SPK listesindeki bağımsız değerleme kuruluşları arasından)",
+              "B": "En küçük ortak",
+              "C": "Belediye Encümeni",
+              "D": "Vergi Dairesi Müdürü",
+              "E": "Ticaret Odası Başkanı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ uyarınca değerleme raporu SPK tarafından yetkilendirilmiş bağımsız değerleme kuruluşlarına yönetim kurulunca hazırlattırılır."
           }
         ]
       }
