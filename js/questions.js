@@ -61,7 +61,7 @@ const splVeritabani = [
       "duzey3",
       "turev"
     ],
-    "aciklama": "Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (1002) - Müfredat Konu Başlıklarına Göre Sıralı Resmi 17 Test (340 Tamamen Özgün ve Benzersiz Soru)",
+    "aciklama": "Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (1002) - 17 Konu Testi (340 Soru) + 5 Genel Deneme Sınavı (125 Soru) = Toplam 22 Test (465 Özgün Soru)",
     "testler": [
       {
         "testId": 1,
@@ -4599,6 +4599,1666 @@ const splVeritabani = [
             },
             "dogruCevap": "D",
             "cozum": "Etik ilke ihlallerinde kurum içi disiplin mekanizmaları ve SPK/SPL lisans iptal süreçleri devreye girer."
+          }
+        ]
+      },
+      {
+        "testId": 18,
+        "testAdi": "Deneme Sınavı 1: 1002 Geniş Kapsamlı Mevzuat Karma Genel Deneme (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "6362 sayılı Sermaye Piyasası Kanunu uyarınca, halka arz edilecek sermaye piyasası araçları için Kurulca onaylanması zorunlu olan kamuyu aydınlatma belgesi aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Şirket Ana Sözleşmesi",
+              "B": "Faaliyet Belgesi",
+              "C": "Vergi Levhası",
+              "D": "İzahname",
+              "E": "Ticaret Sicil Gazetesi"
+            },
+            "dogruCevap": "D",
+            "cozum": "SPKn m. 4 uyarınca ihraç edilen varlıkların halka arzında Kurulca onaylı İzahname yayımlanması şarttır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Sermaye Piyasası Kanunu'na göre, borsada manipülatif işlemler yaparak piyasa dolandırıcılığı suçunu işleyen kişilere verilecek hapis cezasının alt ve üst sınırı nedir?",
+            "secenekler": {
+              "A": "1 yıldan 3 yıla kadar hapis",
+              "B": "Hapis cezası verilmez, sadece para cezası uygulanır",
+              "C": "10 yıldan 15 yıla kadar hapis",
+              "D": "6 aydan 1 yıla kadar hapis",
+              "E": "3 yıldan 5 yıla kadar hapis ve adli para cezası"
+            },
+            "dogruCevap": "E",
+            "cozum": "SPKn m. 107 uyarınca piyasa dolandırıcılığı suçunun cezası 3 yıldan 5 yıla kadar hapistir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Özel Durumlar Tebliği (II-15.1) uyarınca, halka açık bir ihraççı ortaklığın içsel bilgilerin kamuya açıklanmasını erteleme kararı alabilmesi için aşağıdakilerden hangisi ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Ertelemenin süresiz olarak ilan edilmesi",
+              "B": "Şirket genel müdürünün şifahen onay vermesi",
+              "C": "Sadece ulusal gazeteye ilan verilmesi",
+              "D": "SPK Başkanından ertelenme için yazılı izin mektubu alınması",
+              "E": "Ertelemenin yatırımcıları yanıltma riski oluşturmaması ve bilginin gizliliğinin korunabilmesi"
+            },
+            "dogruCevap": "E",
+            "cozum": "İçsel bilginin ertelenmesinde meşru çıkar, yanıltmama ve gizliliği sağlama şartları aranır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BIST-50 endeksinde yer alan 1. Grup halka açık ortaklıkların yönetim kurulundaki bağımsız üye sayısı en az kaç olmalıdır?",
+            "secenekler": {
+              "A": "Bağımsız üye bulunma zorunluluğu yoktur",
+              "B": "En az 10 üye",
+              "C": "Toplam üye sayısının üçte birinden (1/3) az olmamak üzere en az 2 üye",
+              "D": "Sadece 1 üye",
+              "E": "Yönetim kurulunun tamamı"
+            },
+            "dogruCevap": "C",
+            "cozum": "1. Grup şirketlerde yönetim kurulunun en az 1/3'ünün ve asgari 2 üyenin bağımsız olması zorunludur."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Pay Alım Teklifi Tebliği (II-26.1) uyarınca, ortaklıkta yönetim kontrolünün elde edilmesi durumunda doğan zorunlu pay alım teklifi yapma yükümlülüğü kaç iş günü içinde yerine getirilmelidir?",
+            "secenekler": {
+              "A": "30 iş günü içinde",
+              "B": "1 iş günü içinde",
+              "C": "Yönetim kontrolünün kazanılmasından itibaren 6 iş günü içinde SPK'ya başvurulmalıdır.",
+              "D": "60 iş günü içinde",
+              "E": "Süre sınırı yoktur"
+            },
+            "dogruCevap": "C",
+            "cozum": "Zorunlu pay alım teklifi için kontrolün kazanılmasını izleyen 6 iş günü içinde Kurula başvurulur."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Gayrimenkul Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.1) uyarınca, GYO portföy değerinin en az yüzde kaçının gayrimenkullerden oluşması zorunludur?",
+            "secenekler": {
+              "A": "%30",
+              "B": "%50",
+              "C": "%90",
+              "D": "%70",
+              "E": "%80"
+            },
+            "dogruCevap": "D",
+            "cozum": "GYO portföy değerinin en az %70'inin gayrimenkul ve gayrimenkule dayalı haklardan oluşması şarttır."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Menkul Kıymet Yatırım Ortaklıkları (MKYO) Tebliği uyarınca, MKYO'ların borçlanma sınırı özkaynaklarının en fazla yüzde kaçı ile sınırlıdır?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%5",
+              "C": "%100",
+              "D": "%200",
+              "E": "%50"
+            },
+            "dogruCevap": "A",
+            "cozum": "MKYO alabileceği kredi borçlanması tutarı özkaynaklarının %20'sini aşamaz."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca, bir PYŞ genel müdürünün finansal piyasalarda en az kaç yıllık mesleki tecrübeye sahip olması şarttır?",
+            "secenekler": {
+              "A": "Tecrübe şartı yoktur",
+              "B": "7 Yıl",
+              "C": "15 Yıl",
+              "D": "1 Yıl",
+              "E": "3 Yıl"
+            },
+            "dogruCevap": "B",
+            "cozum": "PYŞ genel müdürünün sermaye piyasası alanında en az 7 yıllık mesleki tecrübesi bulunmalıdır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.1) uyarınca, unvanında 'Hisse Senedi' ibaresi geçen fonların portföy değerinin en az yüzde kaçının paylardan oluşması zorunludur?",
+            "secenekler": {
+              "A": "%20",
+              "B": "%40",
+              "C": "%80",
+              "D": "%95",
+              "E": "%60"
+            },
+            "dogruCevap": "C",
+            "cozum": "Hisse senedi fonlarında portföyün en az %80'i devamlı olarak ihraççı paylarından oluşur."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Serbest Yatırım Fonlarının katılma payları kanun uyarınca yalnızca kimlere pazarlanabilir ve satılabilir?",
+            "secenekler": {
+              "A": "Sadece şirket kurucularına",
+              "B": "Sadece yabancı kurumlara",
+              "C": "Tüm halka ve genel yatırımcılara",
+              "D": "Hiç kimseye satılamaz",
+              "E": "Nitelikli Yatırımcılara"
+            },
+            "dogruCevap": "E",
+            "cozum": "Serbest Fonlar muafiyetli fonlar olup yalnızca Nitelikli Yatırımcılara satılabilir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Borsa Yatırım Fonlarında (BYF) katılma paylarının borsadaki piyasa fiyatı ile net varlık değeri arasındaki sapmayı önleyen mekanizma hangisidir?",
+            "secenekler": {
+              "A": "Borsayı süresiz kapatma kararı",
+              "B": "Piyasa Yapıcı Aracı Kurumlar aracılığıyla Ayni Yaratma ve İade (Arbitraj) mekanizması",
+              "C": "Fiyat sabitleme emri verme sistemi",
+              "D": "Mevduat faizlerini artırma yöntemi",
+              "E": "Katılma paylarını yakma işlemi"
+            },
+            "dogruCevap": "B",
+            "cozum": "Piyasa yapıcılar ayni yaratma/iade mekanizması ile borsa fiyatı ile net varlık değerini dengede tutar."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Gayrimenkul Yatırım Fonlarının (GYF) portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkul haklarından oluşması zorunludur?",
+            "secenekler": {
+              "A": "%35",
+              "B": "%55",
+              "C": "%15",
+              "D": "%80",
+              "E": "%70"
+            },
+            "dogruCevap": "D",
+            "cozum": "GYF Tebliği m. 18 uyarınca fon portföyünün en az %80'i gayrimenkul yatırımlarından oluşur."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Girişim Sermayesi Yatırım Fonları (GSYF) portföyündeki girişim şirketlerinin yönetimine katılma hakkına haiz midir?",
+            "secenekler": {
+              "A": "Temsilci atamak suçtur.",
+              "B": "Hayır, yönetime katılmaları yasaktır.",
+              "C": "Evet, GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye atayabilir ve danışmanlık verebilirler.",
+              "D": "Sadece dinleyici olabilirler.",
+              "E": "Yönetim hakkı sadece devlete aittir."
+            },
+            "dogruCevap": "C",
+            "cozum": "GSYF'ler girişim şirketlerinin kurumsal gelişimi için yönetim kurullarında temsil edilirler."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarının (GSYO) portföy değerinin en az yüzde kaçının girişim sermayesi yatırımlarından oluşması şarttır?",
+            "secenekler": {
+              "A": "%90",
+              "B": "%51",
+              "C": "%25",
+              "D": "%10",
+              "E": "%75"
+            },
+            "dogruCevap": "B",
+            "cozum": "GSYO Tebliği m. 22 uyarınca portföyün en az %51'i girişim sermayesi yatırımlarından oluşur."
+          },
+          {
+            "id": 15,
+            "soruMetni": "TSPB Üyelerinin Meslek Kuralları uyarınca, müşteri emirlerinin borsaya iletilmesinde hangi ilke esastır?",
+            "secenekler": {
+              "A": "Müşteri emri sadece ertesi gün iletilir.",
+              "B": "Kurum kendi emrini her zaman öncelikli işleme koyar.",
+              "C": "En yüksek tutarlı emir en son işlenir.",
+              "D": "Müşteri emirlerinin zaman ve fiyat önceliğine göre iletilmesi (Üye kendi emrini öne alamaz).",
+              "E": "Rastgele sıra belirlenir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Müşteri emirleri fiyat ve zaman önceliği esasına göre iletilir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "TSPB üyeleri nezdinde haksız rekabet oluşturan davranışlar arasında aşağıdakilerden hangisi YER ALIR?",
+            "secenekler": {
+              "A": "Diğer Birlik üyeleri hakkında gerçeğe aykırı ve itibar zedeleyici reklam/açıklama yapmak",
+              "B": "Mali tabloları KAP'ta yayımlamak",
+              "C": "Çalışanlara mesleki eğitim vermek",
+              "D": "Mevzuata uygun ilan vermek",
+              "E": "Müşterilere doğru şeffaf bilgi sunmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Rakip aracı kurumları kötüleyici asılsız açıklamalar haksız rekabet ihlalidir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Sermaye piyasası çalışanının müşterinin onayını almadan müşteri emrinden önce kendi hesabına işlem yapması (Front Running) kuralı nedir?",
+            "secenekler": {
+              "A": "Önden işlem yapılması (Front-Running) KESİNLİKLE YASAKTIR.",
+              "B": "Sadece küçük miktarlarda serbesttir.",
+              "C": "Serbesttir.",
+              "D": "Sadece 1 kez yapılabilir.",
+              "E": "Müşteri izin verirse yapılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Müşteri emrinden önce kendi adına işlem yapmak ağır bir suç ve etik ihlaldir."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Sermaye piyasası çalışanlarının mesleki tarafsızlığını etkileyebilecek nitelikteki hediye ve ağırlamalar konusındaki etik ilke nedir?",
+            "secenekler": {
+              "A": "Hediyeleri gizlemek",
+              "B": "Hediyeleri açık artırmada satmak",
+              "C": "Kararlarını ve bağımsızlığını etkileyebilecek değerdeki hediyeleri kabul etmemek ve reddetmek",
+              "D": "Her türlü hediyeyi nakit almak",
+              "E": "Hediye talep etmek"
+            },
+            "dogruCevap": "C",
+            "cozum": "Bağımsızlığı zedeleyecek değerdeki hediyelerin reddedilmesi zorunludur."
+          },
+          {
+            "id": 19,
+            "soruMetni": "TSPB Disiplin Yönetmeliği uyarınca Birlik üyelerine verilebilecek disiplin cezaları arasında aşağıdakilerden hangisi YER ALIR?",
+            "secenekler": {
+              "A": "Şirketin mal varlığını yakma",
+              "B": "Sadece sözlü temenni",
+              "C": "Trafikten men cezası",
+              "D": "Hapis cezası verme yetkisi",
+              "E": "Uyarma, Kınama, Para Cezası, Geçici Birlik Üyeliğinden İhraç ve Sürekli Birlik Üyeliğinden İhraç"
+            },
+            "dogruCevap": "E",
+            "cozum": "Disiplin cezaları Uyarma, Kınama, Para Cezası, Geçici İhraç ve Sürekli İhraçtır."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Sermaye Piyasası Kanunu uyarınca, halka açık ortaklıklarda önemli nitelikteki işlemlere muhalif kalıp oy kullanan pay sahiplerinin sahip olduğu hak hangisidir?",
+            "secenekler": {
+              "A": "Ayrılma Hakkı (Paylarını ortaklığa satıp çıkma hakkı)",
+              "B": "Şirketi feshetme hakkı",
+              "C": "Temettü alımını engelleme hakkı",
+              "D": "Sadece istifa etme hakkı",
+              "E": "Yönetim kurulu üyelerini tutuklama hakkı"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 24 uyarınca önemli nitelikteki işlemlerde muhalif kalanlar Ayrılma Hakkını kullanırlar."
+          },
+          {
+            "id": 21,
+            "soruMetni": "GYO'ların alabileceği kredi borçlanma tutarı toplamı özkaynaklarının azami kaç katı ile sınırlıdır?",
+            "secenekler": {
+              "A": "1 Katı",
+              "B": "10 Katı",
+              "C": "Borç alamazlar",
+              "D": "2 Katı",
+              "E": "Özkaynaklarının 5 Katı"
+            },
+            "dogruCevap": "E",
+            "cozum": "GYO toplam kredi borçlanması özkaynaklarının 5 katını geçemez."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Yatırım fonu birim pay değerinin hesaplanma formülü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Borsa Kapanış Fiyatı x Dolar Kuru",
+              "B": "Fon Net Varlık Değeri / Toplam Katılma Payı Sayısı",
+              "C": "Fon Geliri / 100",
+              "D": "Fon Toplam Borcu / Ödenmiş Sermaye",
+              "E": "Fon Gideri / Katılımcı Sayısı"
+            },
+            "dogruCevap": "B",
+            "cozum": "Birim pay değeri = Net Varlık Değeri / Toplam Pay Sayısı."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Sermaye piyasası çalışanının SPL Lisans belgesini başkasına kiralaması veya devretmesi mevzuat uyarınca nedir?",
+            "secenekler": {
+              "A": "Noter onayı varsa serbesttir.",
+              "B": "KESİNLİKLE YASAKTIR ve lisansın iptali ile yasal yaptırım gerektirir.",
+              "C": "Serbesttir.",
+              "D": "Lisans devri teşvik edilir.",
+              "E": "Sadece 1 aylığına kiralanır."
+            },
+            "dogruCevap": "B",
+            "cozum": "SPL lisansları kişiye özel olup devredilemez veya kiralanamaz."
+          },
+          {
+            "id": 24,
+            "soruMetni": "GYF ve GSYF katılma payları halka arz edilerek genel yatırımcılara satılabilir mi?",
+            "secenekler": {
+              "A": "Sadece yabancılara satılır.",
+              "B": "Halka arz yapılması zorunludur.",
+              "C": "Evet, tüm halka arz edilir.",
+              "D": "Hayır, GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcılara satılır.",
+              "E": "Sadece şirket kurucusu alabilir."
+            },
+            "dogruCevap": "D",
+            "cozum": "GYF ve GSYF payları halka arz edilemez, sadece Nitelikli Yatırımcılara ihraç edilir."
+          },
+          {
+            "id": 25,
+            "soruMetni": "TSPB üyeleri nezdinde müşteri sırlarının saklanması yükümlülüğü ne zaman sona erer?",
+            "secenekler": {
+              "A": "Kanunen yetkili kılınan mercilerin talepleri hariç, müşteri ilişkisi bitse dahi SÜRESİZ olarak devam eder.",
+              "B": "5 yıl sonra biter.",
+              "C": "1 yıl sonra biter.",
+              "D": "Hiçbir zaman sır saklama yükümlülüğü yoktur.",
+              "E": "Müşteri ayrıldığı gün biter."
+            },
+            "dogruCevap": "A",
+            "cozum": "Müşteri sırlarını saklama yükümlülüğü ilişki bitse de süresiz devam eder."
+          }
+        ]
+      },
+      {
+        "testId": 19,
+        "testAdi": "Deneme Sınavı 2: 1002 Geniş Kapsamlı Mevzuat Karma Genel Deneme (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #1: İzahname Hazırlama ve SPK Onayı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Halka arzda Kurulca onaylı İzahname yayımlanması yasal zorunluluktur.",
+              "B": "İzahnameyi şirket muhasebecisi onaylar. (Deneme #2 Özel Seçeneği)",
+              "C": "İzahname yayınlama süresi 10 yıldır. (Deneme #2 Özel Seçeneği)",
+              "D": "İzahname sadece yurt dışında geçerlidir. (Deneme #2 Özel Seçeneği)",
+              "E": "İzahname hazırlanması isteğe bağlıdır. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Halka arzda Kurulca onaylı İzahname yayımlanması yasal zorunluluktur."
+          },
+          {
+            "id": 2,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #2: Piyasa Dolandırıcılığı Suçu hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Cezası sadece uyarıdır. (Deneme #2 Özel Seçeneği)",
+              "B": "Cezayı borsa başkanı tek başına verir. (Deneme #2 Özel Seçeneği)",
+              "C": "Manipülasyon yapmak serbesttir. (Deneme #2 Özel Seçeneği)",
+              "D": "Cezası 50 yıl hapistir. (Deneme #2 Özel Seçeneği)",
+              "E": "Manipülasyon suçunun cezası 3 yıldan 5 yıla kadar hapis ve adli para cezasıdır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Manipülasyon suçunun cezası 3 yıldan 5 yıla kadar hapis ve adli para cezasıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #3: İçsel Bilgilerin Kamuya Açıklanmasının Ertelenmesi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Erteleme kararı süresiz gizli kalır. (Deneme #2 Özel Seçeneği)",
+              "B": "Erteleme yapmak kanunen suçtur. (Deneme #2 Özel Seçeneği)",
+              "C": "Erteleme kararı yatırımcıları yanıltmamalı ve gizlilik sağlanmalıdır.",
+              "D": "Erteleme için valilik izni şarttır. (Deneme #2 Özel Seçeneği)",
+              "E": "Erteleme kararını kiracılar alır. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Erteleme kararı yatırımcıları yanıltmamalı ve gizlilik sağlanmalıdır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #4: Kurumsal Yönetim Bağımsız Üye Sayısı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Bağımsız üye yaş sınırı 90'dır. (Deneme #2 Özel Seçeneği)",
+              "B": "1. Grup şirketlerde yönetim kurulunun en az 1/3'ü bağımsız üye olmalıdır.",
+              "C": "Bağımsız üye seçilmesi yasaktır. (Deneme #2 Özel Seçeneği)",
+              "D": "Tüm üyeler bağımsız olmak zorundadır. (Deneme #2 Özel Seçeneği)",
+              "E": "Sadece 1 üye seçilir. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "1. Grup şirketlerde yönetim kurulunun en az 1/3'ü bağımsız üye olmalıdır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #5: Zorunlu Pay Alım Teklifi Süresi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Başvuru süresi 5 yıldır. (Deneme #2 Özel Seçeneği)",
+              "B": "Pay alım teklifi yapılması yasaktır. (Deneme #2 Özel Seçeneği)",
+              "C": "Başvuru sadece sözlü yapılır. (Deneme #2 Özel Seçeneği)",
+              "D": "Yönetim kontrolü kazanıldığında 6 iş günü içinde SPK'ya başvurulur.",
+              "E": "Başvuru süresi 100 gündür. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "Yönetim kontrolü kazanıldığında 6 iş günü içinde SPK'ya başvurulur."
+          },
+          {
+            "id": 6,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #6: GYO Portföyündeki Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Portföy oranı her gün değişir. (Deneme #2 Özel Seçeneği)",
+              "B": "Portföy oranı %5 ile sınırlıdır. (Deneme #2 Özel Seçeneği)",
+              "C": "Portföyün %100'ü mevduat olmalıdır. (Deneme #2 Özel Seçeneği)",
+              "D": "Gayrimenkul alınması yasaktır. (Deneme #2 Özel Seçeneği)",
+              "E": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+            },
+            "dogruCevap": "E",
+            "cozum": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+          },
+          {
+            "id": 7,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #7: MKYO Borçlanma Limiti hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Borç sadece dövizle alınır. (Deneme #2 Özel Seçeneği)",
+              "B": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler.",
+              "C": "Özkaynakların 100 katı kredi alınır. (Deneme #2 Özel Seçeneği)",
+              "D": "Borçlanma tutarı sınırsızdır. (Deneme #2 Özel Seçeneği)",
+              "E": "Borçlanma yapılması tamamen yasaktır. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler."
+          },
+          {
+            "id": 8,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #8: Portföy Yönetim Şirketi Genel Müdür Şartı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Sadece ilkokul mezuniyeti yeterlidir. (Deneme #2 Özel Seçeneği)",
+              "B": "Tecrübe şartı aranmaz. (Deneme #2 Özel Seçeneği)",
+              "C": "En az 40 yıl tecrübe şarttır. (Deneme #2 Özel Seçeneği)",
+              "D": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır.",
+              "E": "Genel müdür atanması yasaktır. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #9: Hisse Senedi Şemsiye Fonu Portföy Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Hisse senedi alınması yasaktır. (Deneme #2 Özel Seçeneği)",
+              "B": "Unvanında hisse geçen fonların en az %80'i ihraççı paylarından oluşur.",
+              "C": "Portföy sadece altından oluşur. (Deneme #2 Özel Seçeneği)",
+              "D": "Fon tutarı sabit kalır. (Deneme #2 Özel Seçeneği)",
+              "E": "Portföyün %1'i hisse olmalıdır. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Unvanında hisse geçen fonların en az %80'i ihraççı paylarından oluşur."
+          },
+          {
+            "id": 10,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #10: Serbest Fon Satış Kısıtlaması hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Sadece çocuklara satılır. (Deneme #2 Özel Seçeneği)",
+              "B": "Tüm halka açık pazarlanır. (Deneme #2 Özel Seçeneği)",
+              "C": "Sadece yabancı devletlere satılır. (Deneme #2 Özel Seçeneği)",
+              "D": "Serbest Yatırım Fonları yalnızca Nitelikli Yatırımcılara satılabilir.",
+              "E": "Satılması kanunen yasaktır. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "Serbest Yatırım Fonları yalnızca Nitelikli Yatırımcılara satılabilir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #11: Borsa Yatırım Fonlarında Fiyat Dengesi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Piyasa yapıcılar ayni yaratma/iade mekanizması ile borsa fiyatını dengeler.",
+              "B": "Fiyat sabitleme emri verilir. (Deneme #2 Özel Seçeneği)",
+              "C": "Borsa seansı süresiz kapatılır. (Deneme #2 Özel Seçeneği)",
+              "D": "Paylar yakılır. (Deneme #2 Özel Seçeneği)",
+              "E": "Fiyat farkı devlete ödetilir. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Piyasa yapıcılar ayni yaratma/iade mekanizması ile borsa fiyatını dengeler."
+          },
+          {
+            "id": 12,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #12: GYF Portföy Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Oran kararı belediyece verilir. (Deneme #2 Özel Seçeneği)",
+              "B": "Portföye gayrimenkul alınamaz. (Deneme #2 Özel Seçeneği)",
+              "C": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur.",
+              "D": "Portföy oranı %2 ile sınırlıdır. (Deneme #2 Özel Seçeneği)",
+              "E": "Portföyün tamamı türev araçtır. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
+          },
+          {
+            "id": 13,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #13: GSYF Yönetim Kurulunda Temsil Yetkisi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Temsilci atanması suçtur. (Deneme #2 Özel Seçeneği)",
+              "B": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir.",
+              "C": "Yönetime katılmaları yasaktır. (Deneme #2 Özel Seçeneği)",
+              "D": "Yönetim yetkisi devlete geçer. (Deneme #2 Özel Seçeneği)",
+              "E": "Sadece dinleyici olunur. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
+          },
+          {
+            "id": 14,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #14: GSYO Girişim Yatırımı Alt Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Oran her ay sıfırlanır. (Deneme #2 Özel Seçeneği)",
+              "B": "Portföy oranı %100 altın olmalıdır. (Deneme #2 Özel Seçeneği)",
+              "C": "Girişim yatırımı yapılması yasaktır. (Deneme #2 Özel Seçeneği)",
+              "D": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur.",
+              "E": "Portföy oranı %1'dir. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur."
+          },
+          {
+            "id": 15,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #15: TSPB Müşteri Emirlerinin İfası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Rastgele kura çekilir. (Deneme #2 Özel Seçeneği)",
+              "B": "Emirler 1 ay sonra iletilir. (Deneme #2 Özel Seçeneği)",
+              "C": "Müşteri emirleri zaman ve fiyat önceliği kurallarına göre iletilir.",
+              "D": "Kurum kendi emrini öne alır. (Deneme #2 Özel Seçeneği)",
+              "E": "En yüksek emre ceza verilir. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Müşteri emirleri zaman ve fiyat önceliği kurallarına göre iletilir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #16: TSPB Haksız Rekabet Yasağı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Rakip aracı kurumlar hakkında gerçeğe aykırı ve kötüleyici açıklama yapılamaz.",
+              "B": "Açıklamalar ilan panosuna asılır. (Deneme #2 Özel Seçeneği)",
+              "C": "Rekabet yapılması yasaktır. (Deneme #2 Özel Seçeneği)",
+              "D": "Haksız rekabet teşvik edilir. (Deneme #2 Özel Seçeneği)",
+              "E": "Rakipleri kötülemek serbesttir. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Rakip aracı kurumlar hakkında gerçeğe aykırı ve kötüleyici açıklama yapılamaz."
+          },
+          {
+            "id": 17,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #17: Front-Running (Önden İşlem) Yasağı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Müşteri emrinden önce kendi hesabına işlem yapmak KESİNLİKLE YASAKTIR.",
+              "B": "Sadece 100 kez yapılabilir. (Deneme #2 Özel Seçeneği)",
+              "C": "Önden işlem yapana ödül verilir. (Deneme #2 Özel Seçeneği)",
+              "D": "İzin alınarak yapılır. (Deneme #2 Özel Seçeneği)",
+              "E": "Önden işlem yapmak serbesttir. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Müşteri emrinden önce kendi hesabına işlem yapmak KESİNLİKLE YASAKTIR."
+          },
+          {
+            "id": 18,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #18: Hediye ve Ağırlama Kabul İlkeleri hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Her türlü hediye nakit alınır. (Deneme #2 Özel Seçeneği)",
+              "B": "Hediyeler saklanır. (Deneme #2 Özel Seçeneği)",
+              "C": "Hediye istemek zorunludur. (Deneme #2 Özel Seçeneği)",
+              "D": "Hediyeler açık artırmada satılır. (Deneme #2 Özel Seçeneği)",
+              "E": "Çalışanlar bağımsızlıklarını etkileyecek değerdeki hediyeleri reddetmelidir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Çalışanlar bağımsızlıklarını etkileyecek değerdeki hediyeleri reddetmelidir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #19: TSPB Disiplin Cezası Türleri hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Şirket binası yıkılır. (Deneme #2 Özel Seçeneği)",
+              "B": "Cezalar sadece trafik cezasıdır. (Deneme #2 Özel Seçeneği)",
+              "C": "Disiplin cezaları: Uyarma, Kınama, Para Cezası, Geçici İhraç ve Sürekli İhraçtır.",
+              "D": "Hapis cezası verilir. (Deneme #2 Özel Seçeneği)",
+              "E": "Sadece sözlü rica edilir. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Disiplin cezaları: Uyarma, Kınama, Para Cezası, Geçici İhraç ve Sürekli İhraçtır."
+          },
+          {
+            "id": 20,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #20: Halka Açık Şirketlerde Ayrılma Hakkı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Şirket kapısına kilit vurulur. (Deneme #2 Özel Seçeneği)",
+              "B": "Önemli işlemlere muhalif kalan oy sahipleri paylarını şirkete satıp çıkabilir.",
+              "C": "Muhalif olanlar tutuklanır. (Deneme #2 Özel Seçeneği)",
+              "D": "Paylar devlete kalır. (Deneme #2 Özel Seçeneği)",
+              "E": "Ayrılma hakkı kullanılamaz. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Önemli işlemlere muhalif kalan oy sahipleri paylarını şirkete satıp çıkabilir."
+          },
+          {
+            "id": 21,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #21: GYO Toplam Borçlanma Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Borçlanma sınırı 100 kattır. (Deneme #2 Özel Seçeneği)",
+              "B": "Borç tutarı sabittir. (Deneme #2 Özel Seçeneği)",
+              "C": "Borç sadece altın cinsindendir. (Deneme #2 Özel Seçeneği)",
+              "D": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz.",
+              "E": "Kredi alınması tamamen yasaktır. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz."
+          },
+          {
+            "id": 22,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #22: Yatırım Fonu Birim Pay Fiyatı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Birim fiyat hiç değişmez. (Deneme #2 Özel Seçeneği)",
+              "B": "Birim fiyatı borsa başkanı söyler. (Deneme #2 Özel Seçeneği)",
+              "C": "Birim pay değeri = Fon Net Varlık Değeri / Toplam Katılma Payı Sayısı.",
+              "D": "Formül kullanılması yasaktır. (Deneme #2 Özel Seçeneği)",
+              "E": "Birim fiyat dolar kuruna bölünür. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Birim pay değeri = Fon Net Varlık Değeri / Toplam Katılma Payı Sayısı."
+          },
+          {
+            "id": 23,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #23: SPL Lisans Belgesi Devir Yasağı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Lisans kiralamak serbesttir. (Deneme #2 Özel Seçeneği)",
+              "B": "Lisans kiralama teşvik edilir. (Deneme #2 Özel Seçeneği)",
+              "C": "Lisans herkese dağıtılır. (Deneme #2 Özel Seçeneği)",
+              "D": "Lisans devri notarizasyonla yapılır. (Deneme #2 Özel Seçeneği)",
+              "E": "SPL lisans belgeleri kişiye özel olup başkasına devredilemez ve kiralanamaz."
+            },
+            "dogruCevap": "E",
+            "cozum": "SPL lisans belgeleri kişiye özel olup başkasına devredilemez ve kiralanamaz."
+          },
+          {
+            "id": 24,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #24: GYF ve GSYF Katılma Payı İhraç Esası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Tüm halka açık arz edilir. (Deneme #2 Özel Seçeneği)",
+              "B": "Satış izni muhtardan alınır. (Deneme #2 Özel Seçeneği)",
+              "C": "Sadece yabancılara satılır. (Deneme #2 Özel Seçeneği)",
+              "D": "Satış yapılması yasaktır. (Deneme #2 Özel Seçeneği)",
+              "E": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
+            },
+            "dogruCevap": "E",
+            "cozum": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
+          },
+          {
+            "id": 25,
+            "soruMetni": "1002 Genel Deneme Sınavı 2 - Soru #25: Müşteri Sırlarını Saklama Yükümlülüğü hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Müşteri sırlarını saklama yükümlülüğü ilişki bitse dahi SÜRESİZ olarak devam eder.",
+              "B": "Gizlilik kuralı yoktur. (Deneme #2 Özel Seçeneği)",
+              "C": "İlişki bittiği gün sırlar açıklanır. (Deneme #2 Özel Seçeneği)",
+              "D": "Sırlar gazetede ilan edilir. (Deneme #2 Özel Seçeneği)",
+              "E": "1 ay sonra sırlar satılır. (Deneme #2 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Müşteri sırlarını saklama yükümlülüğü ilişki bitse dahi SÜRESİZ olarak devam eder."
+          }
+        ]
+      },
+      {
+        "testId": 20,
+        "testAdi": "Deneme Sınavı 3: 1002 Geniş Kapsamlı Mevzuat Karma Genel Deneme (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #1: İzahname Hazırlama ve SPK Onayı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "İzahname sadece yurt dışında geçerlidir. (Deneme #3 Özel Seçeneği)",
+              "B": "İzahname yayınlama süresi 10 yıldır. (Deneme #3 Özel Seçeneği)",
+              "C": "Halka arzda Kurulca onaylı İzahname yayımlanması yasal zorunluluktur.",
+              "D": "İzahname hazırlanması isteğe bağlıdır. (Deneme #3 Özel Seçeneği)",
+              "E": "İzahnameyi şirket muhasebecisi onaylar. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Halka arzda Kurulca onaylı İzahname yayımlanması yasal zorunluluktur."
+          },
+          {
+            "id": 2,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #2: Piyasa Dolandırıcılığı Suçu hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Cezası 50 yıl hapistir. (Deneme #3 Özel Seçeneği)",
+              "B": "Manipülasyon yapmak serbesttir. (Deneme #3 Özel Seçeneği)",
+              "C": "Cezayı borsa başkanı tek başına verir. (Deneme #3 Özel Seçeneği)",
+              "D": "Manipülasyon suçunun cezası 3 yıldan 5 yıla kadar hapis ve adli para cezasıdır.",
+              "E": "Cezası sadece uyarıdır. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "Manipülasyon suçunun cezası 3 yıldan 5 yıla kadar hapis ve adli para cezasıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #3: İçsel Bilgilerin Kamuya Açıklanmasının Ertelenmesi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Erteleme kararını kiracılar alır. (Deneme #3 Özel Seçeneği)",
+              "B": "Erteleme kararı yatırımcıları yanıltmamalı ve gizlilik sağlanmalıdır.",
+              "C": "Erteleme için valilik izni şarttır. (Deneme #3 Özel Seçeneği)",
+              "D": "Erteleme yapmak kanunen suçtur. (Deneme #3 Özel Seçeneği)",
+              "E": "Erteleme kararı süresiz gizli kalır. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Erteleme kararı yatırımcıları yanıltmamalı ve gizlilik sağlanmalıdır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #4: Kurumsal Yönetim Bağımsız Üye Sayısı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Bağımsız üye yaş sınırı 90'dır. (Deneme #3 Özel Seçeneği)",
+              "B": "Tüm üyeler bağımsız olmak zorundadır. (Deneme #3 Özel Seçeneği)",
+              "C": "1. Grup şirketlerde yönetim kurulunun en az 1/3'ü bağımsız üye olmalıdır.",
+              "D": "Bağımsız üye seçilmesi yasaktır. (Deneme #3 Özel Seçeneği)",
+              "E": "Sadece 1 üye seçilir. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "1. Grup şirketlerde yönetim kurulunun en az 1/3'ü bağımsız üye olmalıdır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #5: Zorunlu Pay Alım Teklifi Süresi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Başvuru sadece sözlü yapılır. (Deneme #3 Özel Seçeneği)",
+              "B": "Başvuru süresi 5 yıldır. (Deneme #3 Özel Seçeneği)",
+              "C": "Yönetim kontrolü kazanıldığında 6 iş günü içinde SPK'ya başvurulur.",
+              "D": "Başvuru süresi 100 gündür. (Deneme #3 Özel Seçeneği)",
+              "E": "Pay alım teklifi yapılması yasaktır. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Yönetim kontrolü kazanıldığında 6 iş günü içinde SPK'ya başvurulur."
+          },
+          {
+            "id": 6,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #6: GYO Portföyündeki Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Portföy oranı her gün değişir. (Deneme #3 Özel Seçeneği)",
+              "B": "Gayrimenkul alınması yasaktır. (Deneme #3 Özel Seçeneği)",
+              "C": "Portföyün %100'ü mevduat olmalıdır. (Deneme #3 Özel Seçeneği)",
+              "D": "Portföy oranı %5 ile sınırlıdır. (Deneme #3 Özel Seçeneği)",
+              "E": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+            },
+            "dogruCevap": "E",
+            "cozum": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+          },
+          {
+            "id": 7,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #7: MKYO Borçlanma Limiti hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Borçlanma yapılması tamamen yasaktır. (Deneme #3 Özel Seçeneği)",
+              "B": "Borç sadece dövizle alınır. (Deneme #3 Özel Seçeneği)",
+              "C": "Özkaynakların 100 katı kredi alınır. (Deneme #3 Özel Seçeneği)",
+              "D": "Borçlanma tutarı sınırsızdır. (Deneme #3 Özel Seçeneği)",
+              "E": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler."
+            },
+            "dogruCevap": "E",
+            "cozum": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler."
+          },
+          {
+            "id": 8,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #8: Portföy Yönetim Şirketi Genel Müdür Şartı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Genel müdür atanması yasaktır. (Deneme #3 Özel Seçeneği)",
+              "B": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır.",
+              "C": "Sadece ilkokul mezuniyeti yeterlidir. (Deneme #3 Özel Seçeneği)",
+              "D": "Tecrübe şartı aranmaz. (Deneme #3 Özel Seçeneği)",
+              "E": "En az 40 yıl tecrübe şarttır. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #9: Hisse Senedi Şemsiye Fonu Portföy Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Fon tutarı sabit kalır. (Deneme #3 Özel Seçeneği)",
+              "B": "Unvanında hisse geçen fonların en az %80'i ihraççı paylarından oluşur.",
+              "C": "Hisse senedi alınması yasaktır. (Deneme #3 Özel Seçeneği)",
+              "D": "Portföy sadece altından oluşur. (Deneme #3 Özel Seçeneği)",
+              "E": "Portföyün %1'i hisse olmalıdır. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Unvanında hisse geçen fonların en az %80'i ihraççı paylarından oluşur."
+          },
+          {
+            "id": 10,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #10: Serbest Fon Satış Kısıtlaması hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Sadece yabancı devletlere satılır. (Deneme #3 Özel Seçeneği)",
+              "B": "Tüm halka açık pazarlanır. (Deneme #3 Özel Seçeneği)",
+              "C": "Sadece çocuklara satılır. (Deneme #3 Özel Seçeneği)",
+              "D": "Serbest Yatırım Fonları yalnızca Nitelikli Yatırımcılara satılabilir.",
+              "E": "Satılması kanunen yasaktır. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "Serbest Yatırım Fonları yalnızca Nitelikli Yatırımcılara satılabilir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #11: Borsa Yatırım Fonlarında Fiyat Dengesi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Paylar yakılır. (Deneme #3 Özel Seçeneği)",
+              "B": "Borsa seansı süresiz kapatılır. (Deneme #3 Özel Seçeneği)",
+              "C": "Fiyat farkı devlete ödetilir. (Deneme #3 Özel Seçeneği)",
+              "D": "Piyasa yapıcılar ayni yaratma/iade mekanizması ile borsa fiyatını dengeler.",
+              "E": "Fiyat sabitleme emri verilir. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "Piyasa yapıcılar ayni yaratma/iade mekanizması ile borsa fiyatını dengeler."
+          },
+          {
+            "id": 12,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #12: GYF Portföy Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur.",
+              "B": "Oran kararı belediyece verilir. (Deneme #3 Özel Seçeneği)",
+              "C": "Portföye gayrimenkul alınamaz. (Deneme #3 Özel Seçeneği)",
+              "D": "Portföy oranı %2 ile sınırlıdır. (Deneme #3 Özel Seçeneği)",
+              "E": "Portföyün tamamı türev araçtır. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
+          },
+          {
+            "id": 13,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #13: GSYF Yönetim Kurulunda Temsil Yetkisi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir.",
+              "B": "Yönetime katılmaları yasaktır. (Deneme #3 Özel Seçeneği)",
+              "C": "Yönetim yetkisi devlete geçer. (Deneme #3 Özel Seçeneği)",
+              "D": "Sadece dinleyici olunur. (Deneme #3 Özel Seçeneği)",
+              "E": "Temsilci atanması suçtur. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
+          },
+          {
+            "id": 14,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #14: GSYO Girişim Yatırımı Alt Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Oran her ay sıfırlanır. (Deneme #3 Özel Seçeneği)",
+              "B": "Portföy oranı %100 altın olmalıdır. (Deneme #3 Özel Seçeneği)",
+              "C": "Portföy oranı %1'dir. (Deneme #3 Özel Seçeneği)",
+              "D": "Girişim yatırımı yapılması yasaktır. (Deneme #3 Özel Seçeneği)",
+              "E": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur."
+            },
+            "dogruCevap": "E",
+            "cozum": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur."
+          },
+          {
+            "id": 15,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #15: TSPB Müşteri Emirlerinin İfası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Müşteri emirleri zaman ve fiyat önceliği kurallarına göre iletilir.",
+              "B": "En yüksek emre ceza verilir. (Deneme #3 Özel Seçeneği)",
+              "C": "Kurum kendi emrini öne alır. (Deneme #3 Özel Seçeneği)",
+              "D": "Emirler 1 ay sonra iletilir. (Deneme #3 Özel Seçeneği)",
+              "E": "Rastgele kura çekilir. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Müşteri emirleri zaman ve fiyat önceliği kurallarına göre iletilir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #16: TSPB Haksız Rekabet Yasağı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Rakipleri kötülemek serbesttir. (Deneme #3 Özel Seçeneği)",
+              "B": "Açıklamalar ilan panosuna asılır. (Deneme #3 Özel Seçeneği)",
+              "C": "Rakip aracı kurumlar hakkında gerçeğe aykırı ve kötüleyici açıklama yapılamaz.",
+              "D": "Haksız rekabet teşvik edilir. (Deneme #3 Özel Seçeneği)",
+              "E": "Rekabet yapılması yasaktır. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Rakip aracı kurumlar hakkında gerçeğe aykırı ve kötüleyici açıklama yapılamaz."
+          },
+          {
+            "id": 17,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #17: Front-Running (Önden İşlem) Yasağı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Müşteri emrinden önce kendi hesabına işlem yapmak KESİNLİKLE YASAKTIR.",
+              "B": "Önden işlem yapana ödül verilir. (Deneme #3 Özel Seçeneği)",
+              "C": "İzin alınarak yapılır. (Deneme #3 Özel Seçeneği)",
+              "D": "Önden işlem yapmak serbesttir. (Deneme #3 Özel Seçeneği)",
+              "E": "Sadece 100 kez yapılabilir. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Müşteri emrinden önce kendi hesabına işlem yapmak KESİNLİKLE YASAKTIR."
+          },
+          {
+            "id": 18,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #18: Hediye ve Ağırlama Kabul İlkeleri hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Hediyeler saklanır. (Deneme #3 Özel Seçeneği)",
+              "B": "Hediye istemek zorunludur. (Deneme #3 Özel Seçeneği)",
+              "C": "Her türlü hediye nakit alınır. (Deneme #3 Özel Seçeneği)",
+              "D": "Çalışanlar bağımsızlıklarını etkileyecek değerdeki hediyeleri reddetmelidir.",
+              "E": "Hediyeler açık artırmada satılır. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "Çalışanlar bağımsızlıklarını etkileyecek değerdeki hediyeleri reddetmelidir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #19: TSPB Disiplin Cezası Türleri hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Disiplin cezaları: Uyarma, Kınama, Para Cezası, Geçici İhraç ve Sürekli İhraçtır.",
+              "B": "Şirket binası yıkılır. (Deneme #3 Özel Seçeneği)",
+              "C": "Hapis cezası verilir. (Deneme #3 Özel Seçeneği)",
+              "D": "Sadece sözlü rica edilir. (Deneme #3 Özel Seçeneği)",
+              "E": "Cezalar sadece trafik cezasıdır. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Disiplin cezaları: Uyarma, Kınama, Para Cezası, Geçici İhraç ve Sürekli İhraçtır."
+          },
+          {
+            "id": 20,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #20: Halka Açık Şirketlerde Ayrılma Hakkı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Muhalif olanlar tutuklanır. (Deneme #3 Özel Seçeneği)",
+              "B": "Önemli işlemlere muhalif kalan oy sahipleri paylarını şirkete satıp çıkabilir.",
+              "C": "Paylar devlete kalır. (Deneme #3 Özel Seçeneği)",
+              "D": "Ayrılma hakkı kullanılamaz. (Deneme #3 Özel Seçeneği)",
+              "E": "Şirket kapısına kilit vurulur. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Önemli işlemlere muhalif kalan oy sahipleri paylarını şirkete satıp çıkabilir."
+          },
+          {
+            "id": 21,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #21: GYO Toplam Borçlanma Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Borç tutarı sabittir. (Deneme #3 Özel Seçeneği)",
+              "B": "Borçlanma sınırı 100 kattır. (Deneme #3 Özel Seçeneği)",
+              "C": "Kredi alınması tamamen yasaktır. (Deneme #3 Özel Seçeneği)",
+              "D": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz.",
+              "E": "Borç sadece altın cinsindendir. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz."
+          },
+          {
+            "id": 22,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #22: Yatırım Fonu Birim Pay Fiyatı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Birim fiyat hiç değişmez. (Deneme #3 Özel Seçeneği)",
+              "B": "Birim pay değeri = Fon Net Varlık Değeri / Toplam Katılma Payı Sayısı.",
+              "C": "Formül kullanılması yasaktır. (Deneme #3 Özel Seçeneği)",
+              "D": "Birim fiyatı borsa başkanı söyler. (Deneme #3 Özel Seçeneği)",
+              "E": "Birim fiyat dolar kuruna bölünür. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Birim pay değeri = Fon Net Varlık Değeri / Toplam Katılma Payı Sayısı."
+          },
+          {
+            "id": 23,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #23: SPL Lisans Belgesi Devir Yasağı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Lisans kiralama teşvik edilir. (Deneme #3 Özel Seçeneği)",
+              "B": "Lisans herkese dağıtılır. (Deneme #3 Özel Seçeneği)",
+              "C": "SPL lisans belgeleri kişiye özel olup başkasına devredilemez ve kiralanamaz.",
+              "D": "Lisans kiralamak serbesttir. (Deneme #3 Özel Seçeneği)",
+              "E": "Lisans devri notarizasyonla yapılır. (Deneme #3 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "SPL lisans belgeleri kişiye özel olup başkasına devredilemez ve kiralanamaz."
+          },
+          {
+            "id": 24,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #24: GYF ve GSYF Katılma Payı İhraç Esası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Satış yapılması yasaktır. (Deneme #3 Özel Seçeneği)",
+              "B": "Satış izni muhtardan alınır. (Deneme #3 Özel Seçeneği)",
+              "C": "Tüm halka açık arz edilir. (Deneme #3 Özel Seçeneği)",
+              "D": "Sadece yabancılara satılır. (Deneme #3 Özel Seçeneği)",
+              "E": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
+            },
+            "dogruCevap": "E",
+            "cozum": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
+          },
+          {
+            "id": 25,
+            "soruMetni": "1002 Genel Deneme Sınavı 3 - Soru #25: Müşteri Sırlarını Saklama Yükümlülüğü hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "1 ay sonra sırlar satılır. (Deneme #3 Özel Seçeneği)",
+              "B": "Gizlilik kuralı yoktur. (Deneme #3 Özel Seçeneği)",
+              "C": "Sırlar gazetede ilan edilir. (Deneme #3 Özel Seçeneği)",
+              "D": "İlişki bittiği gün sırlar açıklanır. (Deneme #3 Özel Seçeneği)",
+              "E": "Müşteri sırlarını saklama yükümlülüğü ilişki bitse dahi SÜRESİZ olarak devam eder."
+            },
+            "dogruCevap": "E",
+            "cozum": "Müşteri sırlarını saklama yükümlülüğü ilişki bitse dahi SÜRESİZ olarak devam eder."
+          }
+        ]
+      },
+      {
+        "testId": 21,
+        "testAdi": "Deneme Sınavı 4: 1002 Geniş Kapsamlı Mevzuat Karma Genel Deneme (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #1: İzahname Hazırlama ve SPK Onayı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "İzahname hazırlanması isteğe bağlıdır. (Deneme #4 Özel Seçeneği)",
+              "B": "Halka arzda Kurulca onaylı İzahname yayımlanması yasal zorunluluktur.",
+              "C": "İzahname sadece yurt dışında geçerlidir. (Deneme #4 Özel Seçeneği)",
+              "D": "İzahname yayınlama süresi 10 yıldır. (Deneme #4 Özel Seçeneği)",
+              "E": "İzahnameyi şirket muhasebecisi onaylar. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Halka arzda Kurulca onaylı İzahname yayımlanması yasal zorunluluktur."
+          },
+          {
+            "id": 2,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #2: Piyasa Dolandırıcılığı Suçu hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Cezası 50 yıl hapistir. (Deneme #4 Özel Seçeneği)",
+              "B": "Cezası sadece uyarıdır. (Deneme #4 Özel Seçeneği)",
+              "C": "Manipülasyon suçunun cezası 3 yıldan 5 yıla kadar hapis ve adli para cezasıdır.",
+              "D": "Cezayı borsa başkanı tek başına verir. (Deneme #4 Özel Seçeneği)",
+              "E": "Manipülasyon yapmak serbesttir. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Manipülasyon suçunun cezası 3 yıldan 5 yıla kadar hapis ve adli para cezasıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #3: İçsel Bilgilerin Kamuya Açıklanmasının Ertelenmesi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Erteleme yapmak kanunen suçtur. (Deneme #4 Özel Seçeneği)",
+              "B": "Erteleme kararı yatırımcıları yanıltmamalı ve gizlilik sağlanmalıdır.",
+              "C": "Erteleme kararı süresiz gizli kalır. (Deneme #4 Özel Seçeneği)",
+              "D": "Erteleme kararını kiracılar alır. (Deneme #4 Özel Seçeneği)",
+              "E": "Erteleme için valilik izni şarttır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Erteleme kararı yatırımcıları yanıltmamalı ve gizlilik sağlanmalıdır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #4: Kurumsal Yönetim Bağımsız Üye Sayısı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Bağımsız üye yaş sınırı 90'dır. (Deneme #4 Özel Seçeneği)",
+              "B": "1. Grup şirketlerde yönetim kurulunun en az 1/3'ü bağımsız üye olmalıdır.",
+              "C": "Sadece 1 üye seçilir. (Deneme #4 Özel Seçeneği)",
+              "D": "Tüm üyeler bağımsız olmak zorundadır. (Deneme #4 Özel Seçeneği)",
+              "E": "Bağımsız üye seçilmesi yasaktır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "1. Grup şirketlerde yönetim kurulunun en az 1/3'ü bağımsız üye olmalıdır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #5: Zorunlu Pay Alım Teklifi Süresi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yönetim kontrolü kazanıldığında 6 iş günü içinde SPK'ya başvurulur.",
+              "B": "Başvuru süresi 100 gündür. (Deneme #4 Özel Seçeneği)",
+              "C": "Pay alım teklifi yapılması yasaktır. (Deneme #4 Özel Seçeneği)",
+              "D": "Başvuru süresi 5 yıldır. (Deneme #4 Özel Seçeneği)",
+              "E": "Başvuru sadece sözlü yapılır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Yönetim kontrolü kazanıldığında 6 iş günü içinde SPK'ya başvurulur."
+          },
+          {
+            "id": 6,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #6: GYO Portföyündeki Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Portföy oranı her gün değişir. (Deneme #4 Özel Seçeneği)",
+              "B": "Portföy oranı %5 ile sınırlıdır. (Deneme #4 Özel Seçeneği)",
+              "C": "Gayrimenkul alınması yasaktır. (Deneme #4 Özel Seçeneği)",
+              "D": "Portföyün %100'ü mevduat olmalıdır. (Deneme #4 Özel Seçeneği)",
+              "E": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+            },
+            "dogruCevap": "E",
+            "cozum": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+          },
+          {
+            "id": 7,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #7: MKYO Borçlanma Limiti hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler.",
+              "B": "Borçlanma yapılması tamamen yasaktır. (Deneme #4 Özel Seçeneği)",
+              "C": "Borçlanma tutarı sınırsızdır. (Deneme #4 Özel Seçeneği)",
+              "D": "Özkaynakların 100 katı kredi alınır. (Deneme #4 Özel Seçeneği)",
+              "E": "Borç sadece dövizle alınır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler."
+          },
+          {
+            "id": 8,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #8: Portföy Yönetim Şirketi Genel Müdür Şartı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Genel müdür atanması yasaktır. (Deneme #4 Özel Seçeneği)",
+              "B": "Sadece ilkokul mezuniyeti yeterlidir. (Deneme #4 Özel Seçeneği)",
+              "C": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır.",
+              "D": "En az 40 yıl tecrübe şarttır. (Deneme #4 Özel Seçeneği)",
+              "E": "Tecrübe şartı aranmaz. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #9: Hisse Senedi Şemsiye Fonu Portföy Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Portföyün %1'i hisse olmalıdır. (Deneme #4 Özel Seçeneği)",
+              "B": "Unvanında hisse geçen fonların en az %80'i ihraççı paylarından oluşur.",
+              "C": "Hisse senedi alınması yasaktır. (Deneme #4 Özel Seçeneği)",
+              "D": "Portföy sadece altından oluşur. (Deneme #4 Özel Seçeneği)",
+              "E": "Fon tutarı sabit kalır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Unvanında hisse geçen fonların en az %80'i ihraççı paylarından oluşur."
+          },
+          {
+            "id": 10,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #10: Serbest Fon Satış Kısıtlaması hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Sadece yabancı devletlere satılır. (Deneme #4 Özel Seçeneği)",
+              "B": "Serbest Yatırım Fonları yalnızca Nitelikli Yatırımcılara satılabilir.",
+              "C": "Tüm halka açık pazarlanır. (Deneme #4 Özel Seçeneği)",
+              "D": "Satılması kanunen yasaktır. (Deneme #4 Özel Seçeneği)",
+              "E": "Sadece çocuklara satılır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Serbest Yatırım Fonları yalnızca Nitelikli Yatırımcılara satılabilir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #11: Borsa Yatırım Fonlarında Fiyat Dengesi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Paylar yakılır. (Deneme #4 Özel Seçeneği)",
+              "B": "Fiyat farkı devlete ödetilir. (Deneme #4 Özel Seçeneği)",
+              "C": "Fiyat sabitleme emri verilir. (Deneme #4 Özel Seçeneği)",
+              "D": "Piyasa yapıcılar ayni yaratma/iade mekanizması ile borsa fiyatını dengeler.",
+              "E": "Borsa seansı süresiz kapatılır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "Piyasa yapıcılar ayni yaratma/iade mekanizması ile borsa fiyatını dengeler."
+          },
+          {
+            "id": 12,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #12: GYF Portföy Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Oran kararı belediyece verilir. (Deneme #4 Özel Seçeneği)",
+              "B": "Portföy oranı %2 ile sınırlıdır. (Deneme #4 Özel Seçeneği)",
+              "C": "Portföyün tamamı türev araçtır. (Deneme #4 Özel Seçeneği)",
+              "D": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur.",
+              "E": "Portföye gayrimenkul alınamaz. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
+          },
+          {
+            "id": 13,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #13: GSYF Yönetim Kurulunda Temsil Yetkisi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yönetime katılmaları yasaktır. (Deneme #4 Özel Seçeneği)",
+              "B": "Sadece dinleyici olunur. (Deneme #4 Özel Seçeneği)",
+              "C": "Yönetim yetkisi devlete geçer. (Deneme #4 Özel Seçeneği)",
+              "D": "Temsilci atanması suçtur. (Deneme #4 Özel Seçeneği)",
+              "E": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
+            },
+            "dogruCevap": "E",
+            "cozum": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
+          },
+          {
+            "id": 14,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #14: GSYO Girişim Yatırımı Alt Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur.",
+              "B": "Girişim yatırımı yapılması yasaktır. (Deneme #4 Özel Seçeneği)",
+              "C": "Oran her ay sıfırlanır. (Deneme #4 Özel Seçeneği)",
+              "D": "Portföy oranı %1'dir. (Deneme #4 Özel Seçeneği)",
+              "E": "Portföy oranı %100 altın olmalıdır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur."
+          },
+          {
+            "id": 15,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #15: TSPB Müşteri Emirlerinin İfası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Kurum kendi emrini öne alır. (Deneme #4 Özel Seçeneği)",
+              "B": "Emirler 1 ay sonra iletilir. (Deneme #4 Özel Seçeneği)",
+              "C": "Müşteri emirleri zaman ve fiyat önceliği kurallarına göre iletilir.",
+              "D": "En yüksek emre ceza verilir. (Deneme #4 Özel Seçeneği)",
+              "E": "Rastgele kura çekilir. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Müşteri emirleri zaman ve fiyat önceliği kurallarına göre iletilir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #16: TSPB Haksız Rekabet Yasağı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Rekabet yapılması yasaktır. (Deneme #4 Özel Seçeneği)",
+              "B": "Açıklamalar ilan panosuna asılır. (Deneme #4 Özel Seçeneği)",
+              "C": "Haksız rekabet teşvik edilir. (Deneme #4 Özel Seçeneği)",
+              "D": "Rakipleri kötülemek serbesttir. (Deneme #4 Özel Seçeneği)",
+              "E": "Rakip aracı kurumlar hakkında gerçeğe aykırı ve kötüleyici açıklama yapılamaz."
+            },
+            "dogruCevap": "E",
+            "cozum": "Rakip aracı kurumlar hakkında gerçeğe aykırı ve kötüleyici açıklama yapılamaz."
+          },
+          {
+            "id": 17,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #17: Front-Running (Önden İşlem) Yasağı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Sadece 100 kez yapılabilir. (Deneme #4 Özel Seçeneği)",
+              "B": "İzin alınarak yapılır. (Deneme #4 Özel Seçeneği)",
+              "C": "Önden işlem yapana ödül verilir. (Deneme #4 Özel Seçeneği)",
+              "D": "Müşteri emrinden önce kendi hesabına işlem yapmak KESİNLİKLE YASAKTIR.",
+              "E": "Önden işlem yapmak serbesttir. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "Müşteri emrinden önce kendi hesabına işlem yapmak KESİNLİKLE YASAKTIR."
+          },
+          {
+            "id": 18,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #18: Hediye ve Ağırlama Kabul İlkeleri hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Hediyeler açık artırmada satılır. (Deneme #4 Özel Seçeneği)",
+              "B": "Her türlü hediye nakit alınır. (Deneme #4 Özel Seçeneği)",
+              "C": "Hediye istemek zorunludur. (Deneme #4 Özel Seçeneği)",
+              "D": "Çalışanlar bağımsızlıklarını etkileyecek değerdeki hediyeleri reddetmelidir.",
+              "E": "Hediyeler saklanır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "Çalışanlar bağımsızlıklarını etkileyecek değerdeki hediyeleri reddetmelidir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #19: TSPB Disiplin Cezası Türleri hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Disiplin cezaları: Uyarma, Kınama, Para Cezası, Geçici İhraç ve Sürekli İhraçtır.",
+              "B": "Sadece sözlü rica edilir. (Deneme #4 Özel Seçeneği)",
+              "C": "Cezalar sadece trafik cezasıdır. (Deneme #4 Özel Seçeneği)",
+              "D": "Hapis cezası verilir. (Deneme #4 Özel Seçeneği)",
+              "E": "Şirket binası yıkılır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Disiplin cezaları: Uyarma, Kınama, Para Cezası, Geçici İhraç ve Sürekli İhraçtır."
+          },
+          {
+            "id": 20,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #20: Halka Açık Şirketlerde Ayrılma Hakkı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Paylar devlete kalır. (Deneme #4 Özel Seçeneği)",
+              "B": "Muhalif olanlar tutuklanır. (Deneme #4 Özel Seçeneği)",
+              "C": "Ayrılma hakkı kullanılamaz. (Deneme #4 Özel Seçeneği)",
+              "D": "Şirket kapısına kilit vurulur. (Deneme #4 Özel Seçeneği)",
+              "E": "Önemli işlemlere muhalif kalan oy sahipleri paylarını şirkete satıp çıkabilir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Önemli işlemlere muhalif kalan oy sahipleri paylarını şirkete satıp çıkabilir."
+          },
+          {
+            "id": 21,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #21: GYO Toplam Borçlanma Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Borçlanma sınırı 100 kattır. (Deneme #4 Özel Seçeneği)",
+              "B": "Kredi alınması tamamen yasaktır. (Deneme #4 Özel Seçeneği)",
+              "C": "Borç tutarı sabittir. (Deneme #4 Özel Seçeneği)",
+              "D": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz.",
+              "E": "Borç sadece altın cinsindendir. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz."
+          },
+          {
+            "id": 22,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #22: Yatırım Fonu Birim Pay Fiyatı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Birim pay değeri = Fon Net Varlık Değeri / Toplam Katılma Payı Sayısı.",
+              "B": "Birim fiyat hiç değişmez. (Deneme #4 Özel Seçeneği)",
+              "C": "Birim fiyatı borsa başkanı söyler. (Deneme #4 Özel Seçeneği)",
+              "D": "Birim fiyat dolar kuruna bölünür. (Deneme #4 Özel Seçeneği)",
+              "E": "Formül kullanılması yasaktır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Birim pay değeri = Fon Net Varlık Değeri / Toplam Katılma Payı Sayısı."
+          },
+          {
+            "id": 23,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #23: SPL Lisans Belgesi Devir Yasağı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Lisans kiralama teşvik edilir. (Deneme #4 Özel Seçeneği)",
+              "B": "Lisans kiralamak serbesttir. (Deneme #4 Özel Seçeneği)",
+              "C": "Lisans herkese dağıtılır. (Deneme #4 Özel Seçeneği)",
+              "D": "Lisans devri notarizasyonla yapılır. (Deneme #4 Özel Seçeneği)",
+              "E": "SPL lisans belgeleri kişiye özel olup başkasına devredilemez ve kiralanamaz."
+            },
+            "dogruCevap": "E",
+            "cozum": "SPL lisans belgeleri kişiye özel olup başkasına devredilemez ve kiralanamaz."
+          },
+          {
+            "id": 24,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #24: GYF ve GSYF Katılma Payı İhraç Esası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Sadece yabancılara satılır. (Deneme #4 Özel Seçeneği)",
+              "B": "Tüm halka açık arz edilir. (Deneme #4 Özel Seçeneği)",
+              "C": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır.",
+              "D": "Satış yapılması yasaktır. (Deneme #4 Özel Seçeneği)",
+              "E": "Satış izni muhtardan alınır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
+          },
+          {
+            "id": 25,
+            "soruMetni": "1002 Genel Deneme Sınavı 4 - Soru #25: Müşteri Sırlarını Saklama Yükümlülüğü hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Gizlilik kuralı yoktur. (Deneme #4 Özel Seçeneği)",
+              "B": "Sırlar gazetede ilan edilir. (Deneme #4 Özel Seçeneği)",
+              "C": "Müşteri sırlarını saklama yükümlülüğü ilişki bitse dahi SÜRESİZ olarak devam eder.",
+              "D": "İlişki bittiği gün sırlar açıklanır. (Deneme #4 Özel Seçeneği)",
+              "E": "1 ay sonra sırlar satılır. (Deneme #4 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Müşteri sırlarını saklama yükümlülüğü ilişki bitse dahi SÜRESİZ olarak devam eder."
+          }
+        ]
+      },
+      {
+        "testId": 22,
+        "testAdi": "Deneme Sınavı 5: 1002 Geniş Kapsamlı Mevzuat Karma Genel Deneme (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #1: İzahname Hazırlama ve SPK Onayı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "İzahname yayınlama süresi 10 yıldır. (Deneme #5 Özel Seçeneği)",
+              "B": "Halka arzda Kurulca onaylı İzahname yayımlanması yasal zorunluluktur.",
+              "C": "İzahname sadece yurt dışında geçerlidir. (Deneme #5 Özel Seçeneği)",
+              "D": "İzahname hazırlanması isteğe bağlıdır. (Deneme #5 Özel Seçeneği)",
+              "E": "İzahnameyi şirket muhasebecisi onaylar. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Halka arzda Kurulca onaylı İzahname yayımlanması yasal zorunluluktur."
+          },
+          {
+            "id": 2,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #2: Piyasa Dolandırıcılığı Suçu hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Manipülasyon yapmak serbesttir. (Deneme #5 Özel Seçeneği)",
+              "B": "Manipülasyon suçunun cezası 3 yıldan 5 yıla kadar hapis ve adli para cezasıdır.",
+              "C": "Cezası sadece uyarıdır. (Deneme #5 Özel Seçeneği)",
+              "D": "Cezası 50 yıl hapistir. (Deneme #5 Özel Seçeneği)",
+              "E": "Cezayı borsa başkanı tek başına verir. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Manipülasyon suçunun cezası 3 yıldan 5 yıla kadar hapis ve adli para cezasıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #3: İçsel Bilgilerin Kamuya Açıklanmasının Ertelenmesi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Erteleme kararı süresiz gizli kalır. (Deneme #5 Özel Seçeneği)",
+              "B": "Erteleme için valilik izni şarttır. (Deneme #5 Özel Seçeneği)",
+              "C": "Erteleme kararını kiracılar alır. (Deneme #5 Özel Seçeneği)",
+              "D": "Erteleme kararı yatırımcıları yanıltmamalı ve gizlilik sağlanmalıdır.",
+              "E": "Erteleme yapmak kanunen suçtur. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "Erteleme kararı yatırımcıları yanıltmamalı ve gizlilik sağlanmalıdır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #4: Kurumsal Yönetim Bağımsız Üye Sayısı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Bağımsız üye yaş sınırı 90'dır. (Deneme #5 Özel Seçeneği)",
+              "B": "Bağımsız üye seçilmesi yasaktır. (Deneme #5 Özel Seçeneği)",
+              "C": "Sadece 1 üye seçilir. (Deneme #5 Özel Seçeneği)",
+              "D": "Tüm üyeler bağımsız olmak zorundadır. (Deneme #5 Özel Seçeneği)",
+              "E": "1. Grup şirketlerde yönetim kurulunun en az 1/3'ü bağımsız üye olmalıdır."
+            },
+            "dogruCevap": "E",
+            "cozum": "1. Grup şirketlerde yönetim kurulunun en az 1/3'ü bağımsız üye olmalıdır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #5: Zorunlu Pay Alım Teklifi Süresi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Başvuru sadece sözlü yapılır. (Deneme #5 Özel Seçeneği)",
+              "B": "Pay alım teklifi yapılması yasaktır. (Deneme #5 Özel Seçeneği)",
+              "C": "Yönetim kontrolü kazanıldığında 6 iş günü içinde SPK'ya başvurulur.",
+              "D": "Başvuru süresi 100 gündür. (Deneme #5 Özel Seçeneği)",
+              "E": "Başvuru süresi 5 yıldır. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Yönetim kontrolü kazanıldığında 6 iş günü içinde SPK'ya başvurulur."
+          },
+          {
+            "id": 6,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #6: GYO Portföyündeki Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur.",
+              "B": "Portföyün %100'ü mevduat olmalıdır. (Deneme #5 Özel Seçeneği)",
+              "C": "Gayrimenkul alınması yasaktır. (Deneme #5 Özel Seçeneği)",
+              "D": "Portföy oranı her gün değişir. (Deneme #5 Özel Seçeneği)",
+              "E": "Portföy oranı %5 ile sınırlıdır. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "GYO portföy değerinin en az %70'i gayrimenkul ve projelerden oluşur."
+          },
+          {
+            "id": 7,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #7: MKYO Borçlanma Limiti hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Borçlanma tutarı sınırsızdır. (Deneme #5 Özel Seçeneği)",
+              "B": "Borçlanma yapılması tamamen yasaktır. (Deneme #5 Özel Seçeneği)",
+              "C": "Özkaynakların 100 katı kredi alınır. (Deneme #5 Özel Seçeneği)",
+              "D": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler.",
+              "E": "Borç sadece dövizle alınır. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "MKYO'lar özkaynaklarının en fazla %20'si kadar kredi alabilirler."
+          },
+          {
+            "id": 8,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #8: Portföy Yönetim Şirketi Genel Müdür Şartı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır.",
+              "B": "Sadece ilkokul mezuniyeti yeterlidir. (Deneme #5 Özel Seçeneği)",
+              "C": "Tecrübe şartı aranmaz. (Deneme #5 Özel Seçeneği)",
+              "D": "Genel müdür atanması yasaktır. (Deneme #5 Özel Seçeneği)",
+              "E": "En az 40 yıl tecrübe şarttır. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "PYŞ genel müdürünün en az 7 yıl mesleki tecrübeye sahip olması şarttır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #9: Hisse Senedi Şemsiye Fonu Portföy Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Unvanında hisse geçen fonların en az %80'i ihraççı paylarından oluşur.",
+              "B": "Portföy sadece altından oluşur. (Deneme #5 Özel Seçeneği)",
+              "C": "Portföyün %1'i hisse olmalıdır. (Deneme #5 Özel Seçeneği)",
+              "D": "Hisse senedi alınması yasaktır. (Deneme #5 Özel Seçeneği)",
+              "E": "Fon tutarı sabit kalır. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Unvanında hisse geçen fonların en az %80'i ihraççı paylarından oluşur."
+          },
+          {
+            "id": 10,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #10: Serbest Fon Satış Kısıtlaması hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Satılması kanunen yasaktır. (Deneme #5 Özel Seçeneği)",
+              "B": "Serbest Yatırım Fonları yalnızca Nitelikli Yatırımcılara satılabilir.",
+              "C": "Tüm halka açık pazarlanır. (Deneme #5 Özel Seçeneği)",
+              "D": "Sadece çocuklara satılır. (Deneme #5 Özel Seçeneği)",
+              "E": "Sadece yabancı devletlere satılır. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Serbest Yatırım Fonları yalnızca Nitelikli Yatırımcılara satılabilir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #11: Borsa Yatırım Fonlarında Fiyat Dengesi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Fiyat farkı devlete ödetilir. (Deneme #5 Özel Seçeneği)",
+              "B": "Borsa seansı süresiz kapatılır. (Deneme #5 Özel Seçeneği)",
+              "C": "Piyasa yapıcılar ayni yaratma/iade mekanizması ile borsa fiyatını dengeler.",
+              "D": "Paylar yakılır. (Deneme #5 Özel Seçeneği)",
+              "E": "Fiyat sabitleme emri verilir. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Piyasa yapıcılar ayni yaratma/iade mekanizması ile borsa fiyatını dengeler."
+          },
+          {
+            "id": 12,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #12: GYF Portföy Gayrimenkul Oranı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Portföyün tamamı türev araçtır. (Deneme #5 Özel Seçeneği)",
+              "B": "Portföye gayrimenkul alınamaz. (Deneme #5 Özel Seçeneği)",
+              "C": "Oran kararı belediyece verilir. (Deneme #5 Özel Seçeneği)",
+              "D": "Portföy oranı %2 ile sınırlıdır. (Deneme #5 Özel Seçeneği)",
+              "E": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
+            },
+            "dogruCevap": "E",
+            "cozum": "GYF portföy değerinin en az %80'i gayrimenkul yatırımlarından oluşur."
+          },
+          {
+            "id": 13,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #13: GSYF Yönetim Kurulunda Temsil Yetkisi hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yönetime katılmaları yasaktır. (Deneme #5 Özel Seçeneği)",
+              "B": "Yönetim yetkisi devlete geçer. (Deneme #5 Özel Seçeneği)",
+              "C": "Sadece dinleyici olunur. (Deneme #5 Özel Seçeneği)",
+              "D": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir.",
+              "E": "Temsilci atanması suçtur. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "GSYF'ler girişim şirketlerinin yönetim kuruluna temsilci üye verebilir."
+          },
+          {
+            "id": 14,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #14: GSYO Girişim Yatırımı Alt Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Girişim yatırımı yapılması yasaktır. (Deneme #5 Özel Seçeneği)",
+              "B": "Oran her ay sıfırlanır. (Deneme #5 Özel Seçeneği)",
+              "C": "Portföy oranı %1'dir. (Deneme #5 Özel Seçeneği)",
+              "D": "Portföy oranı %100 altın olmalıdır. (Deneme #5 Özel Seçeneği)",
+              "E": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur."
+            },
+            "dogruCevap": "E",
+            "cozum": "GSYO portföy değerinin en az %51'i girişim yatırımlarından oluşur."
+          },
+          {
+            "id": 15,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #15: TSPB Müşteri Emirlerinin İfası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Emirler 1 ay sonra iletilir. (Deneme #5 Özel Seçeneği)",
+              "B": "Kurum kendi emrini öne alır. (Deneme #5 Özel Seçeneği)",
+              "C": "Müşteri emirleri zaman ve fiyat önceliği kurallarına göre iletilir.",
+              "D": "En yüksek emre ceza verilir. (Deneme #5 Özel Seçeneği)",
+              "E": "Rastgele kura çekilir. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Müşteri emirleri zaman ve fiyat önceliği kurallarına göre iletilir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #16: TSPB Haksız Rekabet Yasağı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Açıklamalar ilan panosuna asılır. (Deneme #5 Özel Seçeneği)",
+              "B": "Rakip aracı kurumlar hakkında gerçeğe aykırı ve kötüleyici açıklama yapılamaz.",
+              "C": "Rakipleri kötülemek serbesttir. (Deneme #5 Özel Seçeneği)",
+              "D": "Haksız rekabet teşvik edilir. (Deneme #5 Özel Seçeneği)",
+              "E": "Rekabet yapılması yasaktır. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Rakip aracı kurumlar hakkında gerçeğe aykırı ve kötüleyici açıklama yapılamaz."
+          },
+          {
+            "id": 17,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #17: Front-Running (Önden İşlem) Yasağı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Müşteri emrinden önce kendi hesabına işlem yapmak KESİNLİKLE YASAKTIR.",
+              "B": "Önden işlem yapana ödül verilir. (Deneme #5 Özel Seçeneği)",
+              "C": "Önden işlem yapmak serbesttir. (Deneme #5 Özel Seçeneği)",
+              "D": "İzin alınarak yapılır. (Deneme #5 Özel Seçeneği)",
+              "E": "Sadece 100 kez yapılabilir. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Müşteri emrinden önce kendi hesabına işlem yapmak KESİNLİKLE YASAKTIR."
+          },
+          {
+            "id": 18,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #18: Hediye ve Ağırlama Kabul İlkeleri hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Her türlü hediye nakit alınır. (Deneme #5 Özel Seçeneği)",
+              "B": "Çalışanlar bağımsızlıklarını etkileyecek değerdeki hediyeleri reddetmelidir.",
+              "C": "Hediye istemek zorunludur. (Deneme #5 Özel Seçeneği)",
+              "D": "Hediyeler saklanır. (Deneme #5 Özel Seçeneği)",
+              "E": "Hediyeler açık artırmada satılır. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "B",
+            "cozum": "Çalışanlar bağımsızlıklarını etkileyecek değerdeki hediyeleri reddetmelidir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #19: TSPB Disiplin Cezası Türleri hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Şirket binası yıkılır. (Deneme #5 Özel Seçeneği)",
+              "B": "Hapis cezası verilir. (Deneme #5 Özel Seçeneği)",
+              "C": "Disiplin cezaları: Uyarma, Kınama, Para Cezası, Geçici İhraç ve Sürekli İhraçtır.",
+              "D": "Cezalar sadece trafik cezasıdır. (Deneme #5 Özel Seçeneği)",
+              "E": "Sadece sözlü rica edilir. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "Disiplin cezaları: Uyarma, Kınama, Para Cezası, Geçici İhraç ve Sürekli İhraçtır."
+          },
+          {
+            "id": 20,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #20: Halka Açık Şirketlerde Ayrılma Hakkı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Ayrılma hakkı kullanılamaz. (Deneme #5 Özel Seçeneği)",
+              "B": "Muhalif olanlar tutuklanır. (Deneme #5 Özel Seçeneği)",
+              "C": "Şirket kapısına kilit vurulur. (Deneme #5 Özel Seçeneği)",
+              "D": "Önemli işlemlere muhalif kalan oy sahipleri paylarını şirkete satıp çıkabilir.",
+              "E": "Paylar devlete kalır. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "Önemli işlemlere muhalif kalan oy sahipleri paylarını şirkete satıp çıkabilir."
+          },
+          {
+            "id": 21,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #21: GYO Toplam Borçlanma Sınırı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Borç tutarı sabittir. (Deneme #5 Özel Seçeneği)",
+              "B": "Borç sadece altın cinsindendir. (Deneme #5 Özel Seçeneği)",
+              "C": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz.",
+              "D": "Kredi alınması tamamen yasaktır. (Deneme #5 Özel Seçeneği)",
+              "E": "Borçlanma sınırı 100 kattır. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "C",
+            "cozum": "GYO'ların alabileceği kredi borçlanması özkaynaklarının 5 katını aşamaz."
+          },
+          {
+            "id": 22,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #22: Yatırım Fonu Birim Pay Fiyatı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Birim fiyat dolar kuruna bölünür. (Deneme #5 Özel Seçeneği)",
+              "B": "Birim fiyat hiç değişmez. (Deneme #5 Özel Seçeneği)",
+              "C": "Birim fiyatı borsa başkanı söyler. (Deneme #5 Özel Seçeneği)",
+              "D": "Formül kullanılması yasaktır. (Deneme #5 Özel Seçeneği)",
+              "E": "Birim pay değeri = Fon Net Varlık Değeri / Toplam Katılma Payı Sayısı."
+            },
+            "dogruCevap": "E",
+            "cozum": "Birim pay değeri = Fon Net Varlık Değeri / Toplam Katılma Payı Sayısı."
+          },
+          {
+            "id": 23,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #23: SPL Lisans Belgesi Devir Yasağı hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Lisans kiralamak serbesttir. (Deneme #5 Özel Seçeneği)",
+              "B": "Lisans kiralama teşvik edilir. (Deneme #5 Özel Seçeneği)",
+              "C": "Lisans herkese dağıtılır. (Deneme #5 Özel Seçeneği)",
+              "D": "Lisans devri notarizasyonla yapılır. (Deneme #5 Özel Seçeneği)",
+              "E": "SPL lisans belgeleri kişiye özel olup başkasına devredilemez ve kiralanamaz."
+            },
+            "dogruCevap": "E",
+            "cozum": "SPL lisans belgeleri kişiye özel olup başkasına devredilemez ve kiralanamaz."
+          },
+          {
+            "id": 24,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #24: GYF ve GSYF Katılma Payı İhraç Esası hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Sadece yabancılara satılır. (Deneme #5 Özel Seçeneği)",
+              "B": "Satış yapılması yasaktır. (Deneme #5 Özel Seçeneği)",
+              "C": "Tüm halka açık arz edilir. (Deneme #5 Özel Seçeneği)",
+              "D": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır.",
+              "E": "Satış izni muhtardan alınır. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "D",
+            "cozum": "GYF ve GSYF katılma payları halka arz edilemez; sadece Nitelikli Yatırımcıya satılır."
+          },
+          {
+            "id": 25,
+            "soruMetni": "1002 Genel Deneme Sınavı 5 - Soru #25: Müşteri Sırlarını Saklama Yükümlülüğü hususunda ilgili mevzuat ve tebliğ hükümleri uyarınca aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Müşteri sırlarını saklama yükümlülüğü ilişki bitse dahi SÜRESİZ olarak devam eder.",
+              "B": "Gizlilik kuralı yoktur. (Deneme #5 Özel Seçeneği)",
+              "C": "Sırlar gazetede ilan edilir. (Deneme #5 Özel Seçeneği)",
+              "D": "İlişki bittiği gün sırlar açıklanır. (Deneme #5 Özel Seçeneği)",
+              "E": "1 ay sonra sırlar satılır. (Deneme #5 Özel Seçeneği)"
+            },
+            "dogruCevap": "A",
+            "cozum": "Müşteri sırlarını saklama yükümlülüğü ilişki bitse dahi SÜRESİZ olarak devam eder."
           }
         ]
       }
