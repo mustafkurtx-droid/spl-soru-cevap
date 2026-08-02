@@ -61,7 +61,7 @@ const splVeritabani = [
       "duzey3",
       "turev"
     ],
-    "aciklama": "Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (1002) - Müfredat Konu Başlıklarına Göre Sıralı Resmi 10 Test (200 Tamamen Özgün ve Benzersiz Soru)",
+    "aciklama": "Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (1002) - Müfredat Konu Başlıklarına Göre Sıralı Resmi 14 Test (280 Tamamen Özgün ve Benzersiz Soru)",
     "testler": [
       {
         "testId": 1,
@@ -2730,6 +2730,1074 @@ const splVeritabani = [
             },
             "dogruCevap": "B",
             "cozum": "Tüm fon tüzük ve bilgilendirme dokümanı değişiklikleri KAP'ta duyurulmak zorundadır."
+          }
+        ]
+      },
+      {
+        "testId": 11,
+        "testAdi": "Test 11: 1.4.5. Borsa Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.2)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Borsa Yatırım Fonlarına İlişkin Esaslar Tebliği uyarınca, Borsa Yatırım Fonlarının (BYF) temel ayırt edici özelliği aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Yönetim kurulunun bağımsız üyelerden oluşma zorunluluğunun olmaması",
+              "B": "Takip edilen bir endeksin performansını yansıtmak amacıyla kurulması ve katılma paylarının borsada hisse senedi gibi işlem görmesi",
+              "C": "Sadece gayrimenkul alım satımı yapması",
+              "D": "Katılma paylarının sadece banka gişelerinden fiziki nakit karşılığı satılması",
+              "E": "Tüzel kişiliğinin şirket şeklinde tescil edilmesi"
+            },
+            "dogruCevap": "B",
+            "cozum": "BYF'ler bir endeksi takip eder ve katılma payları Borsa İstanbul nezdinde borsa seans süresince hisse senedi gibi alınıp satılır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Borsa Yatırım Fonlarında ayni katılma payı oluşturulması (katılma payı yaratılması) ve iadesi işlemleri hangi taraflar arasında gerçekleştirilir?",
+            "secenekler": {
+              "A": "Kurucu / Portföy Yöneticisi ile Yetkili Aracı Kurumlar (Piyasa Yapıcılar) arasında ayni sepet varlık karşılığında yapılır.",
+              "B": "Borsa güvenlik amiri ile şirket avukatı arasında yapılır.",
+              "C": "Fiziki altın teslimi ile noter arasında yapılır.",
+              "D": "Sadece Merkez Bankası ile Hazine arasında yapılır.",
+              "E": "Küçük yatırımcı ile belediye arasında yapılır."
+            },
+            "dogruCevap": "A",
+            "cozum": "BYF'lerde ayni yaratım ve iade işlemleri yetkili aracı kurumlar üzerinden endeks varlık sepeti teslimiyle gerçekleştirilir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "BYF portföyünün devamlı olarak en az yüzde kaçının takip edilen endeks kapsamındaki sermaye piyasası araçlarından oluşması zorunludur?",
+            "secenekler": {
+              "A": "%65",
+              "B": "%95",
+              "C": "%30",
+              "D": "%45",
+              "E": "%80"
+            },
+            "dogruCevap": "E",
+            "cozum": "BYF Tebliği m. 5 uyarınca fon portföy değerinin en az %80'i devamlı olarak takip edilen endeks bileşenlerinden oluşur."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Borsa Yatırım Fonlarında borsa pazarında sürekli fiyat kotasyonu vererek fon paylarının likiditesini ve fiyat dengesini sağlayan kuruma ne ad verilir?",
+            "secenekler": {
+              "A": "Gayrimenkul Değerleme Şirketi",
+              "B": "Derecelendirme Kuruluşu",
+              "C": "Kitle Fonlama Platformu",
+              "D": "Piyasa Yapıcı Aracı Kurum",
+              "E": "Portföy Saklayıcısı Kurum"
+            },
+            "dogruCevap": "D",
+            "cozum": "Piyasa yapıcı aracı kurumlar borsada alış-satış kotasyonu vererek fon net varlık değeri ile borsa fiyatı arasındaki makası daraltır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "BYF'lerin takip edeceği endeksin taşıması gereken temel nitelikler arasında aşağıdakilerden hangisi YER ALIR?",
+            "secenekler": {
+              "A": "Endeksin sadece yılda bir kez hesaplanması",
+              "B": "Endeksin tek bir şahsın gizli kararlarına göre değişmesi",
+              "C": "Endeksin tarafsız, şeffaf, hesaplama yöntemlerinin açık ve geniş kitlelerce erişilebilir olması",
+              "D": "Endekste sadece tek bir şirketin payının bulunması",
+              "E": "Endeksin hesaplanmasının yasaklanmış olması"
+            },
+            "dogruCevap": "C",
+            "cozum": "BYF endeksleri şeffaf, bağımsız kurallara göre hesaplanan ve kamuoyuna açık endeksler olmak zorundadır."
+          },
+          {
+            "id": 6,
+            "soruMetni": "BYF katılma paylarının borsa pazarındaki fiyatı ile Fon Net Varlık Değeri (FNVD) arasındaki sapmaları önlemek amacıyla uygulanan mekanizma hangisidir?",
+            "secenekler": {
+              "A": "Borsa İşlemlerini 1 Yıl Durdurma",
+              "B": "Vergi Muafiyeti İptali",
+              "C": "Mevduat Faizi Artırma",
+              "D": "Ayni Yaratma ve İade (Arbitraj) Mekanizması",
+              "E": "Sermaye Azaltımı"
+            },
+            "dogruCevap": "D",
+            "cozum": "Yetkili aracı kurumlar ayni yaratma/iade mekanizması sayesinde piyasadaki arz-talep sapmalarını engeller."
+          },
+          {
+            "id": 7,
+            "soruMetni": "BYF'lerin izahname ve bilgilendirme dokümanlarının kamuya açıklanma ortamı aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Belediye bülteni",
+              "B": "Kamuyu Aydınlatma Platformu (KAP) ve kurucunun internet sitesi",
+              "C": "Sadece kurucu binasındaki pano",
+              "D": "Sadece Ticaret Sicil Gazetesi",
+              "E": "Televizyon reklam kuşağı"
+            },
+            "dogruCevap": "B",
+            "cozum": "BYF izahnamesi, yatırımcı bilgi formu ve günlük fiyata ilişkin gösterge net varlık değerleri KAP'ta açıklanır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "BYF'lerde 'Gösterge Net Varlık Değeri' (iNAV) seans süresince hangi sıklıkla hesaplanır ve ilan edilir?",
+            "secenekler": {
+              "A": "Ayda bir kez seans kapanışından sonra",
+              "B": "Yılda bir kez bilanço döneminde",
+              "C": "Borsa seansı süresince anlık veya gün içinde belirli kısa aralıklarla (gün içi gösterge değer)",
+              "D": "Hiç hesaplanmaz",
+              "E": "Sadece fon kurulurken"
+            },
+            "dogruCevap": "C",
+            "cozum": "iNAV (Indicative Net Asset Value) seans esnasında yatırımcılara anlık değer takibi imkânı sunar."
+          },
+          {
+            "id": 9,
+            "soruMetni": "BYF portföyünden borsa dışı türev araçlara veya tezgahüstü sözleşmelere yatırım yapılması durumunda karşı taraf riski kısıtlaması nedir?",
+            "secenekler": {
+              "A": "Kısıtlama sadece bankalara uygulanır.",
+              "B": "Karşı taraf riski kabul edilmez, borsa kapatılır.",
+              "C": "Tezgahüstü türev işlem yapılması tamamen serbesttir.",
+              "D": "Tezgahüstü türev işlemlerde karşı taraf riski fon net varlık değerinin %10'unu aşamaz.",
+              "E": "Karşı taraf riski %100 olabilir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Fon portföy yönetimi kuralları gereği tezgahüstü türevlerde tek bir karşı taraf riski %10 ile sınırlıdır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Kaldıraçlı veya Ters (Ayı) Borsa Yatırım Fonları hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Takip edilen endeksin günlük getirisinin belirli bir katını (kaldıraçlı) veya tersini (short/ayı) hedefleyen fon türleridir.",
+              "B": "İzahname hazırlanmadan ihraç edilirler.",
+              "C": "Risk barındırmayan sabit getirili fonlardır.",
+              "D": "Sadece gayrimenkul kiralarlar.",
+              "E": "Sadece devlet kurumlarınca satın alınır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Kaldıraçlı ve ters BYF'ler endeksin günlük performansının katını veya ters yönünü takip eden özel fonlardır."
+          },
+          {
+            "id": 11,
+            "soruMetni": "BYF'lerin unvanında hangi ibarenin bulunması mevzuat gereğince ZORUNLUDUR?",
+            "secenekler": {
+              "A": "'Sigorta Acenteliği'",
+              "B": "'Mevduat Bankası'",
+              "C": "'Borsa Yatırım Fonu' ibaresi ve takip edilen endeksin adı",
+              "D": "'Müteahhitlik Anonim Şirketi'",
+              "E": "'Döviz Bürosu'"
+            },
+            "dogruCevap": "C",
+            "cozum": "BYF unvanında fonun türü olan 'Borsa Yatırım Fonu' ve referans alınan endeks ismi yer almak zorundadır."
+          },
+          {
+            "id": 12,
+            "soruMetni": "BYF katılma paylarının borsa pazarında alım satımı sırasında ödenen işlem komisyonları ve kuralları hangi kurumun esaslarına tabidir?",
+            "secenekler": {
+              "A": "Sanayi Odasına",
+              "B": "Tüketici Mahkemesine",
+              "C": "Karayolları Genel Müdürlüğüne",
+              "D": "Belediye zabıta tarifesine",
+              "E": "Borsa İstanbul A.Ş. ve ilgili aracı kurum düzenlemelerine"
+            },
+            "dogruCevap": "E",
+            "cozum": "Borsadaki tüm işlemler gibi BYF pay alım satımları da Borsa İstanbul borsa payı ve aracı kurum komisyon tarifelerine tabidir."
+          },
+          {
+            "id": 13,
+            "soruMetni": "BYF portföyündeki varlıkların saklanması kimin denetiminde ve sorumluluğunda yürütülür?",
+            "secenekler": {
+              "A": "Noter Katibi",
+              "B": "Belediye Başkanı",
+              "C": "Şirket Güvenlik Görevlisi",
+              "D": "İl Emniyet Müdürü",
+              "E": "Portföy Saklayıcısı Kurum (Takasbank / Yetkili Saklama Bankaları)"
+            },
+            "dogruCevap": "E",
+            "cozum": "BYF varlıkları yetkili portföy saklayıcısı nezdinde saklanır."
+          },
+          {
+            "id": 14,
+            "soruMetni": "BYF'lerin hesap dönemi sonu yıllık finansal raporlarının bağımsız denetimden geçme ve yayımlanma süresi kaç gündür?",
+            "secenekler": {
+              "A": "Hesap dönemini takip eden en geç 60 gün içinde",
+              "B": "Bağımsız denetim yapılmaz",
+              "C": "180 gün içinde",
+              "D": "10 gün içinde",
+              "E": "120 gün içinde"
+            },
+            "dogruCevap": "A",
+            "cozum": "Yatırım fonlarında olduğu gibi BYF yıllık bağımsız denetim raporları 60 gün içinde KAP'ta açıklanır."
+          },
+          {
+            "id": 15,
+            "soruMetni": "BYF'lerin tasfiye olunması durumunda borsa kotesindeki katılma payları ne olur?",
+            "secenekler": {
+              "A": "Paylar şirketin kurucusuna bedelsiz devredilir.",
+              "B": "Borsa kotundan çıkarılır, borsa işlemleri durdurulur ve tasfiye bakiyesi nakden pay sahiplerine dağıtılır.",
+              "C": "Paylar yakılır.",
+              "D": "Devlete devredilir.",
+              "E": "Paylar süresiz olarak borsada işlem görmeye devam eder."
+            },
+            "dogruCevap": "B",
+            "cozum": "Tasfiye kararı alınan BYF'nin borsa kotasyonuna son verilir ve bakiye nakden katılımcılara iade edilir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Fiziki Altın veya Kıymetli Maden Takip Eden BYF'lerde portföyde tutulan kıymetli madenlerin saklandığı borsa piyasası hangisidir?",
+            "secenekler": {
+              "A": "Ziraat Odası Deposu",
+              "B": "Şirket Merkezindeki Çelik Kasa",
+              "C": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası (KMKTP) Saklama Kasaları",
+              "D": "Semt Pazarı",
+              "E": "Liman Antreposu"
+            },
+            "dogruCevap": "C",
+            "cozum": "Altın ve kıymetli maden BYF'lerinin dayanak altınları Borsa İstanbul KMKTP tonozlarında saklanır."
+          },
+          {
+            "id": 17,
+            "soruMetni": "BYF kurucusunun fon yönetim yetkisini başka bir Portföy Yönetim Şirketine (PYŞ) devretmesi kimin onayına tabidir?",
+            "secenekler": {
+              "A": "Sanayi Odası",
+              "B": "Sermaye Piyasası Kurulu (SPK)",
+              "C": "Valilik",
+              "D": "Ticaret Bakanlığı",
+              "E": "Belediye Meclisi"
+            },
+            "dogruCevap": "B",
+            "cozum": "Fon yönetiminin devri esas sözleşme/tüzük değişikliği gerektirdiğinden SPK iznine tabidir."
+          },
+          {
+            "id": 18,
+            "soruMetni": "BYF'lerin katılma payı ihracında tavan pay sayısı sınırı var mıdır?",
+            "secenekler": {
+              "A": "İzahnamede ihraç tavanı belirlenir; tavan aşıldığında SPK'ya tavan artırımı başvurusu yapılır.",
+              "B": "Tavan belirlemek yasaktır.",
+              "C": "Sınırsız ihraç yapılır, izin gerekmez.",
+              "D": "Tavan sadece Merkez Bankasınca belirlenir.",
+              "E": "En fazla 100 adet ihraç edilebilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "İzahnamede yazılı ihraç tavanına ulaşıldığında Kuruldan ek ihraç tavanı onayı alınır."
+          },
+          {
+            "id": 19,
+            "soruMetni": "BYF'lerin yıllık fon işletim gideri kesintisi oranı nerede ilan edilir?",
+            "secenekler": {
+              "A": "Gizli tutulur.",
+              "B": "Sadece borsa kapandıktan sonra söylenir.",
+              "C": "Kesinti yapılması yasaktır.",
+              "D": "Fon İçtüzüğü, İzahname ve Yatırımcı Bilgi Formunda açıkça belirtilir.",
+              "E": "Sadece vergi dairesine bildirilir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Fon gider kesintileri kamuya açıklanan bilgilendirme dokümanlarında açıkça ilan edilir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Yabancı bir Borsa Yatırım Fonunun (Foreign ETF) Türkiye'de borsada kotasyon alıp işlem görmesi kimin iznine tabidir?",
+            "secenekler": {
+              "A": "Gümrük Müdürlüğü yazısı",
+              "B": "Sadece Dışişleri Bakanlığı yazısı",
+              "C": "Konsolosluk onayı",
+              "D": "İzin alınamaz",
+              "E": "SPK Onayı ve Borsa İstanbul Yönetim Kurulu Kararı"
+            },
+            "dogruCevap": "E",
+            "cozum": "Yabancı sermaye piyasası araçlarının Türkiye'de kote olması SPK tebliği ve Borsa İstanbul kararına tabidir."
+          }
+        ]
+      },
+      {
+        "testId": 12,
+        "testAdi": "Test 12: 1.4.6. Gayrimenkul Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.3)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Gayrimenkul Yatırım Fonlarına İlişkin Esaslar Tebliği uyarınca, GYF'lerin portföy değerinin en az yüzde kaçının gayrimenkul yatırımlarından oluşması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "%80",
+              "B": "%38",
+              "C": "%72",
+              "D": "%18",
+              "E": "%58"
+            },
+            "dogruCevap": "A",
+            "cozum": "GYF Tebliği m. 18 uyarınca fon toplam değerinin en az %80'i gayrimenkul ve gayrimenkule dayalı haklardan oluşmak zorundadır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Gayrimenkul Yatırım Fonları (GYF) katılma payları kimlere ihraç edilip satılabilir?",
+            "secenekler": {
+              "A": "Hiç kimseye satılamaz",
+              "B": "Sadece yabancı fonlara",
+              "C": "Nitelikli Yatırımcılara (Halka arz edilmeksizin)",
+              "D": "Sadece şirket kurucularına",
+              "E": "Tüm halka açık genel yatırımcılara"
+            },
+            "dogruCevap": "C",
+            "cozum": "GYF katılma payları halka arz edilmeksizin yalnızca Nitelikli Yatırımcılara satılabilir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "GYF'lerin doğrudan inşaat yapması veya müteahhitlik taahhüdü altına girmesi serbest midir?",
+            "secenekler": {
+              "A": "Sadece yurt dışında müteahhitlik yaparlar.",
+              "B": "Hayır, GYF'ler kendi personeliyle inşaat yapamazlar; projeleri yüklenici müteahhit firmalara yaptırmak zorundadırlar.",
+              "C": "Evet, inşaat şirketi olarak çalışırlar.",
+              "D": "Sadece konut inşaatı yapabilirler.",
+              "E": "İnşaat yapmaları tamamen serbesttir."
+            },
+            "dogruCevap": "B",
+            "cozum": "GYF'ler müteahhitlik yapamaz, gayrimenkul projelerinin inşaatını bağımsız 3. taraf yüklenicilere yaptırmakla yükümlüdür."
+          },
+          {
+            "id": 4,
+            "soruMetni": "GYF portföyüne alınacak gayrimenkullerin değerlemesi için yetkili gayrimenkul değerleme kuruluşundan ekspertiz raporu alınma zamanı hangisidir?",
+            "secenekler": {
+              "A": "Değerleme raporu alınmaz",
+              "B": "Sadece fon tasfiye edilirken",
+              "C": "Alım/satım işlemlerinden önce ve ayrıca her takvim yılı sonu itibariyle",
+              "D": "Sadece kiracı değiştiğinde",
+              "E": "10 yılda bir"
+            },
+            "dogruCevap": "C",
+            "cozum": "GYF Tebliği m. 23 uyarınca alım-satımlarda ve her yıl sonu itibariyle yetkili gayrimenkul değerleme raporu alınır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "GYF'lerin süreli mi yoksa süresiz mi kurulabileceği hususunda aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Süre kararı belediyece verilir.",
+              "B": "En fazla 3 aylık kurulurlar.",
+              "C": "Sadece 1 yıllığına kurulabilirler.",
+              "D": "Sadece süresiz olmak zorundadırlar.",
+              "E": "GYF'ler süreli veya süresiz olarak kurulabilirler."
+            },
+            "dogruCevap": "E",
+            "cozum": "Fon bilgilendirme dokümanlarında yer almak şartıyla GYF'ler süreli veya süresiz kurulabilir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "GYF'lerin katılım payı satışına başlandığı tarihi takip eden en geç ne kadar süre içinde asgari portföy büyüklüğü şartına ulaşması zorunludur?",
+            "secenekler": {
+              "A": "10 yıl içinde",
+              "B": "5 yıl içinde",
+              "C": "1 Yıl içinde",
+              "D": "Süre sınırı yoktur",
+              "E": "1 ay içinde"
+            },
+            "dogruCevap": "C",
+            "cozum": "GYF'ler katılım payı satış başlangıcından itibaren 1 yıl içinde yasal asgari portföy büyüklüğüne ulaşmalıdır."
+          },
+          {
+            "id": 7,
+            "soruMetni": "GYF portföyünde bulunan gayrimenkullerin tapuda tescili kimin adına yapılır?",
+            "secenekler": {
+              "A": "Şirket müdürünün şahsi adına",
+              "B": "Tapuya tescil edilmez",
+              "C": "SPK Başkanının adına",
+              "D": "Belediye adına",
+              "E": "Fonun kendi tüzel kişiliği haiz addolunan adı nezdinde (GYF adına tapuya tescil edilir)."
+            },
+            "dogruCevap": "E",
+            "cozum": "SPKn m. 54 uyarınca GYF'ler tapu tescilinde sınırlı tüzel kişiliği haiz addolunur ve fon adına tapu tescili yapılır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "GYF'lerin borçlanma (kredi kullanma) sınırı fon toplam değerinin en fazla yüzde kaçı ile sınırlıdır?",
+            "secenekler": {
+              "A": "%100'ünü aşamaz.",
+              "B": "%10'unu aşamaz.",
+              "C": "Sınırlama yoktur.",
+              "D": "Fon toplam değerinin %50'sini aşamaz.",
+              "E": "Borçlanma yapılması tamamen yasaktır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Tebliğ m. 20 uyarınca GYF'lerin alabileceği krediler fon toplam değerinin %50'sini geçemez."
+          },
+          {
+            "id": 9,
+            "soruMetni": "GYF bilgilendirme dokümanlarında (İhraç Belgesi ve Yatırımcı Bilgi Formu) yer alması zorunlu ana unsurlar hangileridir?",
+            "secenekler": {
+              "A": "Sadece banka hesap numarası",
+              "B": "Şehir haritası",
+              "C": "Fonun yatırım stratejisi, gayrimenkul alım esasları, fon süresi, gider kesintileri ve risk tanımları",
+              "D": "Şirket çalışanlarının kişisel özgeçmişleri",
+              "E": "Müteahhit firmanın reklam broşürleri"
+            },
+            "dogruCevap": "C",
+            "cozum": "İhraç Belgesinde yatırımcıyı ilgilendiren tüm strateji, şartlar ve risk tanımları açıkça belirtilir."
+          },
+          {
+            "id": 10,
+            "soruMetni": "GYF portföyünden elde edilen kârın veya iradın katılma payı sahiplerine dağıtılması kuralı nedir?",
+            "secenekler": {
+              "A": "Fon bilgilendirme dokümanlarında belirtilen esaslar çerçevesinde nakden veya yeni pay verilerek dağıtılabilir.",
+              "B": "Dağıtım kararı mahkemece verilir.",
+              "C": "Kâr sadece devlete ödenir.",
+              "D": "Kâr dağıtılması yasaktır.",
+              "E": "Kârın tamamı fon yöneticisine prim verilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "GYF kâr payı dağıtım esasları İhraç Belgesinde düzenlenir ve yatırımcılara ödenir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "GYF'lerin portföy saklama hizmetini yürüten yetkili saklayıcı kurum kimdir?",
+            "secenekler": {
+              "A": "Şehir Müzesi",
+              "B": "Emniyet Kasası",
+              "C": "Mülki İdare Amirliği",
+              "D": "SPK tarafından yetkilendirilmiş bir Portföy Saklayıcısı Kurum (Takasbank veya Yetkili Bankalar)",
+              "E": "Fon Yöneticisinin Şahsi Kasası"
+            },
+            "dogruCevap": "D",
+            "cozum": "GYF tapu hakları ve nakit varlıkları yetkili portföy saklayıcısı nezdinde izlenir."
+          },
+          {
+            "id": 12,
+            "soruMetni": "GYF portföyüne alınan arsa ve araziler üzerinde inşaat projesinin başlatılması için gerekli resmi belge nedir?",
+            "secenekler": {
+              "A": "Sadece mimar çizimi",
+              "B": "Elektrik faturası",
+              "C": "Sadece muhtar yazısı",
+              "D": "Vergi levhası",
+              "E": "İlgili belediye veya kamu kurumundan alınan İnşaat Ruhsatı (Yapı Ruhsatı)"
+            },
+            "dogruCevap": "E",
+            "cozum": "Proje geliştirmede yasal İnşaat Ruhsatının alınmış olması veya onaylı imar planının bulunması şarttır."
+          },
+          {
+            "id": 13,
+            "soruMetni": "GYF'lerin portföylerinde bulunan gayrimenkulleri üçüncü kişilere kiraya vermesi durumunda kira sözleşmelerinin süresi ve şartları nasıl belirlenir?",
+            "secenekler": {
+              "A": "Kira verilemez.",
+              "B": "Piyasa emsallerine uygun olarak ve basiretli tacir ilkelerine göre portföy yöneticisi tarafından belirlenir.",
+              "C": "Sadece 1 günlük kiralama yapılır.",
+              "D": "Kira bedeli sıfır TL olmalıdır.",
+              "E": "Kira kararı belediye meclisince alınır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Kiralama işlemleri emsale uygun şartlarda fon menfaatine yapılır."
+          },
+          {
+            "id": 14,
+            "soruMetni": "GYF'lerin portföylerindeki varlıkları teminat göstermeleri veya üzerlerinde rehin tesis etmeleri hangi durumda mümkündür?",
+            "secenekler": {
+              "A": "Yalnızca fon adına kredi kullanımı veya gayrimenkul alımının finansmanı amacıyla teminat gösterilebilir.",
+              "B": "Sadece yabancı bankalara verilir.",
+              "C": "Teminat verilmesi tamamen yasaktır.",
+              "D": "3. kişilerin borçlarına süresiz teminat verilir.",
+              "E": "Şirket yöneticisinin kişisel borcu için gösterilebilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "GYF varlıkları sadece fonun kendi finansman ihtiyacı için rehnedilebilir; 3. şahıslara teminat verilemez."
+          },
+          {
+            "id": 15,
+            "soruMetni": "GYF'lerin portföy oranlarında oluşan geçici uyumsuzluklarda SPK'nın verdiği düzeltme süresi azami kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "6 Ay",
+              "C": "5 Yıl",
+              "D": "2 Yıl",
+              "E": "Süre verilmez"
+            },
+            "dogruCevap": "B",
+            "cozum": "GYF Tebliği uyarınca portföy oran uyumsuzluklarında SPK ihlalin giderilmesi için 6 aya kadar süre verebilir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "GYF katılma payı sahipleri fon yönetiminde söz sahibi midir?",
+            "secenekler": {
+              "A": "Katılımcıların hiçbir hakkı yoktur.",
+              "B": "Fon yönetimi Kurucu/Portföy Yöneticisine aittir; ancak Yatırımcıları Koruma Kararları çerçevesinde Bilgilendirme ve Kar Kurullarına katılabilirler.",
+              "C": "Katılımcılar her gün toplanıp karar alır.",
+              "D": "Katılımcılar şirketi doğrudan tek başlarına yönetir.",
+              "E": "Yönetim dışarıya devredilir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Katılımcılar fon tüzüğünde belirtilen hakları ve komitelerdeki temsiliyetlerini kullanırlar."
+          },
+          {
+            "id": 17,
+            "soruMetni": "GYF'lerin yıllık finansal tablolarının bağımsız denetimi zorunlu mudur?",
+            "secenekler": {
+              "A": "Evet, her yıl sonu itibariyle bağımsız denetim yapılması ve KAP'ta yayımlanması zorunludur.",
+              "B": "Sadece 10 yılda bir yapılır.",
+              "C": "Sadece Maliye Bakanlığı denetler.",
+              "D": "İsteğe bağlıdır.",
+              "E": "Hayır, denetim yapılmaz."
+            },
+            "dogruCevap": "A",
+            "cozum": "GYF yıllık bilançoları bağımsız denetimden geçmek zorundadır."
+          },
+          {
+            "id": 18,
+            "soruMetni": "GYF tasfiye sürecine girdiğinde fon portföyündeki gayrimenkuller nasıl nakde çevrilir?",
+            "secenekler": {
+              "A": "Gayrimenkuller yakılır.",
+              "B": "Satış yapılması yasaktır.",
+              "C": "Gayrimenkuller devlete kalır.",
+              "D": "Ekspertiz değerleri dikkate alınarak basiretli satış yöntemiyle nakde çevrilir ve bedel katılımcılara payları oranında ödenir.",
+              "E": "Gayrimenkuller bedelsiz dağıtılır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Tasfiye bakiyesi ekspertiz satışlarıyla nakde dönüştürülüp yatırımcılara dağıtılır."
+          },
+          {
+            "id": 19,
+            "soruMetni": "GYF'lerin isim veya strateji değişiklikleri yapabilmesi için hangi belgenin değiştirilmesi gerekir?",
+            "secenekler": {
+              "A": "Değişiklik yapılamaz.",
+              "B": "Sadece gazete ilanı verilir.",
+              "C": "Pasaport değişimi yapılır.",
+              "D": "Sadece muhtar onayı alınır.",
+              "E": "İhraç Belgesinin SPK tarafından onaylanması gerekir."
+            },
+            "dogruCevap": "E",
+            "cozum": "İhraç belgesi tadili SPK onayına tabidir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "GYF'lerin aynı fon içinde farklı yatırımcı gruplarına farklı haklar tanıyan pay grupları oluşturması mümkün müdür?",
+            "secenekler": {
+              "A": "Pay grubu suçtur.",
+              "B": "Sadece kamu kurumlarına pay grubu verilir.",
+              "C": "Hayır, imkânsızdır.",
+              "D": "Evet, İhraç Belgesinde belirtilmek kaydıyla farklı pay grupları oluşturulabilir.",
+              "E": "Sadece yabancılara özel grup kurulur."
+            },
+            "dogruCevap": "D",
+            "cozum": "Fon içtüzüğü ve ihraç belgesinde yazılı olmak kaydıyla farklı pay grupları ihraç edilebilir."
+          }
+        ]
+      },
+      {
+        "testId": 13,
+        "testAdi": "Test 13: 1.4.7. Girişim Sermayesi Yatırım Fonlarına İlişkin Esaslar Tebliği (III-52.4)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Girişim Sermayesi Yatırım Fonlarına İlişkin Esaslar Tebliği uyarınca, GSYF portföy değerinin en az yüzde kaçının girişim sermayesi yatırımlarından oluşması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "%12",
+              "B": "%68",
+              "C": "%52",
+              "D": "%32",
+              "E": "%80"
+            },
+            "dogruCevap": "E",
+            "cozum": "GSYF Tebliği m. 19 uyarınca fon toplam değerinin en az %80'i girişim sermayesi yatırımlarından oluşur."
+          },
+          {
+            "id": 2,
+            "soruMetni": "GSYF'lerin katılma payları kimlere pazarlanabilir ve ihraç edilebilir?",
+            "secenekler": {
+              "A": "Tüm halka açık halka arz ile satılır.",
+              "B": "Yalnızca Nitelikli Yatırımcılara satılabilir.",
+              "C": "Sadece yurtdışındaki kurumlara satılır.",
+              "D": "Sadece şirket çalışanlarına verilir.",
+              "E": "Satış yapılması yasaktır."
+            },
+            "dogruCevap": "B",
+            "cozum": "GSYF katılma payları halka arz edilmeksizin sadece Nitelikli Yatırımcılara satılabilir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "GSYF'lerin yatırım yapabileceği 'Girişim Şirketi' vasfını taşıyan kurumlar hangileridir?",
+            "secenekler": {
+              "A": "Türkiye'de kurulu veya gelişme potansiyeli bulunan, halka açık olmayan veya BİAŞ Gelişen İşletmeler Piyasası'nda (GİP) işlem gören anonim ve limited şirketler",
+              "B": "Tasfiye halindeki müflis şirketler",
+              "C": "Tüm kamu belediye idareleri",
+              "D": "BİST-30 dev holdingleri",
+              "E": "Yabancı devlet hazineleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "GSYF'ler kurulma, büyüme aşamasındaki veya teknoloji hamlesi yapan girişim şirketlerine yatırım yaparlar."
+          },
+          {
+            "id": 4,
+            "soruMetni": "GSYF'lerin girişim şirketlerine yapabileceği sermaye takviyesi ve yatırımları arasında aşağıdakilerden hangisi YER ALIR?",
+            "secenekler": {
+              "A": "Şirket mallarını haczetmek",
+              "B": "Şirkete faizle tefecilik parası vermek",
+              "C": "Şirketi kapatıp binasını yıktırmak",
+              "D": "Girişim şirketlerinin paylarını satın almak, sermaye artırımına katılmak veya borç-özkaynak karması finansman temin etmek",
+              "E": "Sadece hediye çeki vermek"
+            },
+            "dogruCevap": "D",
+            "cozum": "GSYF doğrudan pay alımı, sermaye artırımı ve melez finansman yöntemleriyle yatırım yapar."
+          },
+          {
+            "id": 5,
+            "soruMetni": "GSYF'lerin katılım payı satış başlangıcından itibaren asgari portföy büyüklüğü tutarına ulaşma süresi azami ne kadardır?",
+            "secenekler": {
+              "A": "5 Yıl",
+              "B": "10 Yıl",
+              "C": "1 Ay",
+              "D": "1 Yıl",
+              "E": "3 Yıl"
+            },
+            "dogruCevap": "D",
+            "cozum": "GSYF'ler satış başlama tarihinden itibaren 1 yıl içinde yasal asgari fon büyüklüğünü yakalamak zorundadır."
+          },
+          {
+            "id": 6,
+            "soruMetni": "GSYF'lerin yatırım yaptıkları girişim şirketlerinin yönetim kurulunda temsil edilme ve danışmanlık sağlama hakları var mıdır?",
+            "secenekler": {
+              "A": "Yönetim yetkisi sadece devlete aittir.",
+              "B": "Hayır, yönetime katılmaları yasaktır.",
+              "C": "Sadece dinleyici olunabilir.",
+              "D": "Temsilci verilmesi suçtur.",
+              "E": "Evet, GSYF'ler girişim şirketlerinin yönetim kuruluna üye verebilir ve stratejik danışmanlık yapabilirler."
+            },
+            "dogruCevap": "E",
+            "cozum": "GSYF'ler yatırım yaptıkları şirketlerin kurumsal gelişimi için yönetime üye atayabilir."
+          },
+          {
+            "id": 7,
+            "soruMetni": "GSYF'lerin borçlanma sınırı (kredi kullanımı) fon toplam değerinin en fazla yüzde kaçı olabilir?",
+            "secenekler": {
+              "A": "%80",
+              "B": "%100",
+              "C": "%20",
+              "D": "%50",
+              "E": "%10"
+            },
+            "dogruCevap": "D",
+            "cozum": "GSYF kredi borçlanma sınırı fon toplam değerinin %50'si ile sınırlandırılmıştır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "GSYF'lerin yatırımlarını yurt dışında kurulu girişim şirketlerine yapabilme sınır eşiği portföy değerinin en fazla yüzde kaçıdır?",
+            "secenekler": {
+              "A": "%75",
+              "B": "%90",
+              "C": "%100",
+              "D": "%0 (Tamamen yasaktır)",
+              "E": "%15 (Veya ilgili ihraç belgesi kuralı uyarınca belirlenen sınır)"
+            },
+            "dogruCevap": "E",
+            "cozum": "GSYF'lerin yurt dışı girişim şirketlerine yapacağı yatırımlar mevzuattaki sınır kısıtlamalarına tabidir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "GSYF saklama hizmetleri hangi kuruluş tarafından yürütülür?",
+            "secenekler": {
+              "A": "SPK tarafından yetkilendirilmiş Portföy Saklayıcısı Kurum (Takasbank / Yetkili Bankalar)",
+              "B": "Belediye kasası",
+              "C": "Ticaret Odası",
+              "D": "Fon kurucusunun özel dairesi",
+              "E": "Noterlik"
+            },
+            "dogruCevap": "A",
+            "cozum": "GSYF payları ve varlıkları yetkili portföy saklayıcısı nezdinde saklanır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "GSYF'lerin fon süresi sonunda gerçekleşen çıkış (Exit) yöntemleri arasında aşağıdakilerden hangisi YER ALIR?",
+            "secenekler": {
+              "A": "Şirket fabrikasının ateşe verilmesi",
+              "B": "Şirketin devlete bağışlanması",
+              "C": "Girişim şirketinin paylarının halka arz edilmesi, kurucu ortaklara geri satılması veya stratejik yatırımcıya devredilmesi",
+              "D": "Tüm çalışanların işten çıkarılması",
+              "E": "Payların yok edilmesi"
+            },
+            "dogruCevap": "C",
+            "cozum": "GSYF çıkış stratejileri: Halka arz (IPO), stratejik satış veya kurucuya satış şeklinde gerçekleşir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "GSYF'lerin yatırım Komitesi (Yatırım Karar Organı) üyelerinin nitelikleri hususunda aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Komite kurulması yasaktır.",
+              "B": "Yatırım komitesi üyelerinin girişim sermayesi ve finans alanında gerekli tecrübe ve ehliyete sahip olması şarttır.",
+              "C": "Sadece yabancı uyruklular üye olur.",
+              "D": "Üyelerin ortaokul mezunu olması yeterlidir.",
+              "E": "Komite üyelerini mahkeme atar."
+            },
+            "dogruCevap": "B",
+            "cozum": "Yatırım kararlarını alan komite üyelerinin sektör tecrübesine sahip olması zorunludur."
+          },
+          {
+            "id": 12,
+            "soruMetni": "GSYF ihraç belgesinde değişiklik yapılması kimin onayına tabidir?",
+            "secenekler": {
+              "A": "Emniyet Müdürü",
+              "B": "Sermaye Piyasası Kurulu (SPK)",
+              "C": "Belediye Başkanı",
+              "D": "Vali",
+              "E": "Sanayi Odası"
+            },
+            "dogruCevap": "B",
+            "cozum": "İhraç belgesi tadillere ilişkin değişiklikler SPK onayına tabidir."
+          },
+          {
+            "id": 13,
+            "soruMetni": "GSYF'lerin portföy değerleme esasları çerçevesinde halka açık olmayan girişim şirketlerinin payları nasıl değerlenir?",
+            "secenekler": {
+              "A": "Değerleme yapılmaz",
+              "B": "Nominal değer üzerinden sabit tutularak",
+              "C": "SPK listesinde yer alan yetkili bağımsız değerleme kuruluşları tarafından hazırlanan Değerleme Raporlarına göre",
+              "D": "Şirket çaycısının tahminine göre",
+              "E": "Dolar kuruna bölünerek"
+            },
+            "dogruCevap": "C",
+            "cozum": "Halka açık olmayan girişim payları yetkili değerleme şirketlerince değerlenir."
+          },
+          {
+            "id": 14,
+            "soruMetni": "GSYF'lerin fon toplam gider oranı kısıtlamaları ve kesintileri nerede yayımlanır?",
+            "secenekler": {
+              "A": "Gizli tutulur.",
+              "B": "Sadece Maliye dairesine verilir.",
+              "C": "Kesinti yapılması suçtur.",
+              "D": "KAP'ta ve İhraç Belgesi dokümanlarında açıkça ilan edilir.",
+              "E": "Sadece 10 yıl sonra söylenir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Gider oranları ve komisyonlar kamuya duyurulur."
+          },
+          {
+            "id": 15,
+            "soruMetni": "GSYF'lerin süresi dolduğunda fonun tasfiyesi nasıl gerçekleştirilir?",
+            "secenekler": {
+              "A": "Tasfiye kararı alınamaz.",
+              "B": "Tasfiye parası devlete devredilir.",
+              "C": "Fon varlığı şirketin genel müdürüne kalır.",
+              "D": "Ödeme yapılmaz.",
+              "E": "Fon varlıkları nakde dönüştürülür ve katılımcıların payları oranında iade ödemesi yapılır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Tasfiye nakit bakiye katılımcılara dağıtılarak fon kapatılır."
+          },
+          {
+            "id": 16,
+            "soruMetni": "GSYF'lerin tek bir girişim şirketine yapabileceği yatırım tutarı fon toplam değerinin azami yüzde kaçını oluşturabilir?",
+            "secenekler": {
+              "A": "Sadece %5 yatırılabilir.",
+              "B": "İhraç belgesinde belirtilmek kaydıyla serbestçe belirlenebilir (Nitelikli yatırımcı fonu esnekliği).",
+              "C": "Yatırım yapılması yasaktır.",
+              "D": "%1 ile sınırlıdır.",
+              "E": "%100 tek şirkete yatırılamaz."
+            },
+            "dogruCevap": "B",
+            "cozum": "GSYF'lerde bilgilendirme dokümanlarında yazmak şartıyla esnek portföy dağılımı mümkündür."
+          },
+          {
+            "id": 17,
+            "soruMetni": "GSYF'lerin yıllık bağımsız denetim raporlarının yayımlanma süresi kaç gündür?",
+            "secenekler": {
+              "A": "Hesap dönemini takip eden 60 gün içinde KAP'ta yayımlanır.",
+              "B": "120 gün",
+              "C": "10 gün",
+              "D": "Denetim yapılmaz",
+              "E": "180 gün"
+            },
+            "dogruCevap": "A",
+            "cozum": "GSYF yıllık denetim raporları 60 gün içinde yayımlanır."
+          },
+          {
+            "id": 18,
+            "soruMetni": "GSYF'lerin katılma payı alım satımlarında TEFAS platformunda işlem görme zorunluluğu var mıdır?",
+            "secenekler": {
+              "A": "TEFAS kullanımı yasaktır.",
+              "B": "Sadece yabancılar TEFAS kullanır.",
+              "C": "Hayır, GSYF'ler nitelikli yatırımcı fonu olduğundan TEFAS'ta işlem görme zorunluluğu yoktur (İsteğe bağlıdır).",
+              "D": "TEFAS sistemi kapatılmıştır.",
+              "E": "Evet, TEFAS zorunludur."
+            },
+            "dogruCevap": "C",
+            "cozum": "Nitelikli yatırımcı fonlarında TEFAS zorunluluğu aranmaz."
+          },
+          {
+            "id": 19,
+            "soruMetni": "GSYF'lerde performans ücreti (Taşıma Hakkı / Carried Interest) alınması mümkün müdür?",
+            "secenekler": {
+              "A": "Hayır, performans ücreti KESİNLİKLE YASAKTIR.",
+              "B": "Sadece şirket çalışanlarına verilir.",
+              "C": "Evet, bilgilendirme dokümanlarında esasları belirtilmek kaydıyla performans ücreti alınabilir.",
+              "D": "Performans ücreti verilmesi suçtur.",
+              "E": "Sadece devlet performans ücreti alır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Girişim sermayesi fonlarında başarıya dayalı performans ücreti (carried interest) esası yaygındır."
+          },
+          {
+            "id": 20,
+            "soruMetni": "GSYF'lerin portföylerindeki girişim şirketlerine borç finansmanı sağlaması durumunda vadeli borç sınırları tebliğ hükümlerine tabi midir?",
+            "secenekler": {
+              "A": "Evet, borç finansmanı tebliğde belirlenmiş olan oran ve esaslar çerçevesinde sağlanabilir.",
+              "B": "Borç sadece döviz olarak verilir.",
+              "C": "Hayır, borç verilmesi yasaktır.",
+              "D": "Borç verme kararı belediyece alınır.",
+              "E": "Sınırsız faizsiz borç verilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Girişim şirketlerine verilen borç finansmanı tebliğ sınırlamalarına uyulmak kaydıyla mümkündür."
+          }
+        ]
+      },
+      {
+        "testId": 14,
+        "testAdi": "Test 14: 1.4.8. Girişim Sermayesi Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.3)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Girişim Sermayesi Yatırım Ortaklıklarına İlişkin Esaslar Tebliği (III-48.3) uyarınca, GSYO'ların temel kuruluş amacı ve yapısı aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Doğrudan gayrimenkul kiralayan şirket yapısı",
+              "B": "Bankacılık ve mevduat toplama kurumu",
+              "C": "Sigorta acenteliği",
+              "D": "Döviz alım satım bürosu",
+              "E": "Girişim şirketlerine yatırım yapmak üzere kayıtlı sermaye şeklinde kurulan anonim ortaklık yapısı"
+            },
+            "dogruCevap": "E",
+            "cozum": "GSYO'lar girişim sermayesi yatırımları yapmak amacıyla kurulan kayıtlı sermayeli anonim ortaklıklardır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "GSYO Tebliği (III-48.3) uyarınca, GSYO'ların portföy değerinin en az yüzde kaçının girişim sermayesi yatırımlarından oluşması ZORUNLUDUR?",
+            "secenekler": {
+              "A": "%90",
+              "B": "%10",
+              "C": "%51",
+              "D": "%75",
+              "E": "%25"
+            },
+            "dogruCevap": "C",
+            "cozum": "III-48.3 m. 22 uyarınca GSYO portföy değerinin en az %51'inin girişim sermayesi yatırımlarından oluşması zorunludur."
+          },
+          {
+            "id": 3,
+            "soruMetni": "GSYO'ların yapabileceği faaliyetler arasında aşağıdakilerden hangisi YER ALIR?",
+            "secenekler": {
+              "A": "Tefecilik yapmak",
+              "B": "Sürekli olarak gayrimenkul komisyonculuğu yapmak",
+              "C": "Mevduat toplayıp faizle kredi dağıtmak",
+              "D": "Portföylerindeki girişim şirketlerinin yönetimine katılmak, danışmanlık vermek ve BİAŞ Gelişen İşletmeler Piyasası'nda (GİP) piyasa danışmanlığı yapmak",
+              "E": "İnşaat taahhüt işleri yapmak"
+            },
+            "dogruCevap": "D",
+            "cozum": "GSYO'lar girişim şirketlerine yönetim desteği, danışmanlık verebilir ve GİP piyasa danışmanlığı hizmeti sunabilirler."
+          },
+          {
+            "id": 4,
+            "soruMetni": "GSYO'ların halka açılmak veya halka arz edilmek üzere SPK'ya başvurmaları için belirlenen çıkarılmış sermaye halka açıklık oranı en az yüzde kaçtır?",
+            "secenekler": {
+              "A": "%25",
+              "B": "%50",
+              "C": "%5",
+              "D": "%10",
+              "E": "%35"
+            },
+            "dogruCevap": "A",
+            "cozum": "GSYO'ların çıkarılmış sermayelerinin en az %25'ini halka arz etmeleri veya nitelikli yatırımcılara satmaları şarttır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "GSYO Tebliği uyarınca, GSYO'ların borçlanma sınırı (kredi kullanımı) özkaynaklarının en fazla kaç katı olabilir?",
+            "secenekler": {
+              "A": "Borçlanma yapamazlar",
+              "B": "Özkaynaklarının 3 Katı",
+              "C": "10 Katı",
+              "D": "5 Katı",
+              "E": "1 Katı"
+            },
+            "dogruCevap": "B",
+            "cozum": "Tebliğ m. 28 uyarınca GSYO borçlanma sınırı özkaynaklarının 3 katı ile sınırlandırılmıştır."
+          },
+          {
+            "id": 6,
+            "soruMetni": "GSYO'ların yapamayacağı iş ve işlemler arasında aşağıdakilerden hangisi YER ALIR?",
+            "secenekler": {
+              "A": "Girişim şirketine sermaye aktarmak",
+              "B": "GİP piyasasında danışmanlık yapmak",
+              "C": "Kendi personeli ve iş makineleriyle doğrudan müteahhitlik/inşaat yapmak ve ticari faaliyette bulunmak",
+              "D": "Vadeli mevduat hesabı açmak",
+              "E": "Borsadaki sermaye piyasası araçlarına yatırım yapmak"
+            },
+            "dogruCevap": "C",
+            "cozum": "GSYO'lar inşaat taahhüt işleri yapamaz, doğrudan ticari işletme işletemezler."
+          },
+          {
+            "id": 7,
+            "soruMetni": "GSYO'ların yurt dışında kurulu girişim şirketlerine yatırım yapma sınırı portföy değerinin en fazla yüzde kaçı olabilir?",
+            "secenekler": {
+              "A": "%15",
+              "B": "%0 (Yasak)",
+              "C": "%100",
+              "D": "%50",
+              "E": "%80"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ m. 22 uyarınca GSYO'ların yurt dışı girişim şirketlerine yapabileceği yatırım portföyün %15'ini geçemez."
+          },
+          {
+            "id": 8,
+            "soruMetni": "GSYO'ların portföy saklama hizmetini hangi yetkili kurum nezdinde yürütmeleri zorunludur?",
+            "secenekler": {
+              "A": "Ticaret Odası",
+              "B": "Şirket Avukatının Şahsi Kasası",
+              "C": "İçişleri Bakanlığı",
+              "D": "Belediye Zabıta Amirliği",
+              "E": "SPK tarafından yetkilendirilmiş bir Portföy Saklayıcısı Kurum (Takasbank / Yetkili Saklama Bankaları)"
+            },
+            "dogruCevap": "E",
+            "cozum": "GSYO portföy varlıkları yetkili portföy saklayıcısı nezdinde saklanır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "GSYO'ların kurucu ortaklarında aranan dürüstlük ve mali güç şartları çerçevesinde aşağıdakilerden hangisi ZORUNLUDUR?",
+            "secenekler": {
+              "A": "Sadece yabancı dilde eğitim alması",
+              "B": "Diplomat olması",
+              "C": "80 yaşından büyük olması",
+              "D": "Milletvekili olması",
+              "E": "Müflis olmaması, sermaye piyasası suçlarından hüküm giymemiş olması ve mali güce sahip olması"
+            },
+            "dogruCevap": "E",
+            "cozum": "GSYO kurucularının dürüstlük, mesleki itibar ve müflis olmama şartlarını taşıması esastır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "GSYO'ların portföy sınırlaması aykırılıklarında (örneğin girişim oranının %51'in altına düşmesi) SPK'nın tanıdığı uyum süresi azami kaç aydır?",
+            "secenekler": {
+              "A": "10 Yıl",
+              "B": "Süre verilmez",
+              "C": "1 İş günü",
+              "D": "1 Yıl (Gerektiğinde ek süre verilebilir)",
+              "E": "5 Yıl"
+            },
+            "dogruCevap": "D",
+            "cozum": "GSYO portföy uyumsuzluklarında ihlalin giderilmesi için SPK 1 yıl süre verebilir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "GSYO'ların girişim şirketlerindeki yatırım paylarını satarak çıkış yapması (Exit) hangi yöntemlerle gerçekleşebilir?",
+            "secenekler": {
+              "A": "Şirketi ateşe vermek",
+              "B": "Payları yok etmek",
+              "C": "Çıkış yapılması yasaktır",
+              "D": "Girişim şirketini halka arz etmek, stratejik bir yatırımcıya satmak veya kurucu ortaklara devretmek",
+              "E": "Payları devlete bağışlamak"
+            },
+            "dogruCevap": "D",
+            "cozum": "Çıkış yöntemleri halka arz, blok satış ve kurucuya devir şeklinde yapılır."
+          },
+          {
+            "id": 12,
+            "soruMetni": "GSYO'ların sermaye artırımlarında rüçhan haklarının kısıtlanması kararı kim tarafından alınabilir?",
+            "secenekler": {
+              "A": "Belediye Meclisi",
+              "B": "Genel Kurul veya Esas Sözleşmede Yetki Verilmişse Yönetim Kurulu",
+              "C": "Borsa Güvenliği",
+              "D": "Ticaret Bakanlığı",
+              "E": "Vergi Dairesi"
+            },
+            "dogruCevap": "B",
+            "cozum": "Kayıtlı sermayeli GSYO'larda esas sözleşme yetkisiyle YK rüçhan haklarını kısıtlayabilir."
+          },
+          {
+            "id": 13,
+            "soruMetni": "GSYO'ların portföylerindeki halka açık olmayan girişim şirketlerinin değerlemesi ne zaman ve kime yaptırılır?",
+            "secenekler": {
+              "A": "Sadece şirket kurucusu değerler.",
+              "B": "Her yıl sonu itibariyle yetkili bağımsız gayrimenkul/finansal değerleme kuruluşlarına yaptırılır.",
+              "C": "10 yılda bir yaptırılır.",
+              "D": "Belediye tarafından değerlenir.",
+              "E": "Değerleme yaptırılmaz."
+            },
+            "dogruCevap": "B",
+            "cozum": "Yıl sonu bilançolarında yetkili değerleme raporu alınması şarttır."
+          },
+          {
+            "id": 14,
+            "soruMetni": "GSYO'ların kâr dağıtım politikalarına ilişkin kararı alan organ hangisidir?",
+            "secenekler": {
+              "A": "Milli Piyango Şube Müdürü",
+              "B": "Portföy Yöneticisi",
+              "C": "Borsa Güvenliği",
+              "D": "SPK Başkanı",
+              "E": "Genel Kurul"
+            },
+            "dogruCevap": "E",
+            "cozum": "Kâr dağıtımı Genel Kurul kararıyla onaylanır."
+          },
+          {
+            "id": 15,
+            "soruMetni": "GSYO'ların unvanında hangi ibarenin bulunması mevzuat gereğince ZORUNLUDUR?",
+            "secenekler": {
+              "A": "'Girişim Sermayesi Yatırım Ortaklığı' ibaresi",
+              "B": "'Döviz Bürosu'",
+              "C": "'Sigorta Acentesi'",
+              "D": "'Müteahhitlik Şirketi'",
+              "E": "'Mevduat Bankası'"
+            },
+            "dogruCevap": "A",
+            "cozum": "GSYO ticaret unvanında 'Girişim Sermayesi Yatırım Ortaklığı' ibaresini taşımak zorundadır."
+          },
+          {
+            "id": 16,
+            "soruMetni": "GSYO'ların faaliyet izinlerinin SPK tarafından iptal edilmesi halinde ortaklığın durumu ne olur?",
+            "secenekler": {
+              "A": "İşlemler süresiz durur.",
+              "B": "GSYO statüsünü kaybeder ve esas sözleşmesini değiştirerek statıden çıkmak veya tasfiye olmak zorundadır.",
+              "C": "Şirket binası kapatılır.",
+              "D": "Ortaklara hapis cezası verilir.",
+              "E": "Şirket devlete devredilir."
+            },
+            "dogruCevap": "B",
+            "cozum": "İzin iptalinde GSYO unvanı ve statüsü değiştirilir veya tasfiye sürecine girilir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "GSYO'ların yıllık ve 6 aylık finansal tablolarının bağımsız denetimden geçmesi ZORUNLU mudur?",
+            "secenekler": {
+              "A": "Evet, 6 aylık ve yıllık finansal tablolar bağımsız denetimden geçer ve KAP'ta ilan edilir.",
+              "B": "Hayır, denetim yapılmaz.",
+              "C": "İsteğe bağlıdır.",
+              "D": "Sadece 5 yılda bir yapılır.",
+              "E": "Sadece vergi dairesi denetler."
+            },
+            "dogruCevap": "A",
+            "cozum": "Halka açık GSYO'lar periyodik finansal denetim geçirmek zorundadır."
+          },
+          {
+            "id": 18,
+            "soruMetni": "GSYO'ların üçüncü kişiler lehine kefalet veya garanti vermesine ilişkin kısıtlama hangisidir?",
+            "secenekler": {
+              "A": "Kefalet verilmesi tamamen yasaktır.",
+              "B": "Kefalet kararı muhtardan alınır.",
+              "C": "Tüm şahıslara serbestçe kefil olunur.",
+              "D": "Yalnızca portföydeki girişim şirketleri lehine ve kendi yatırımı ile sınırlı teminat verebilir; 3. şahıslara kefalet veremez.",
+              "E": "Sadece yabancı şirketlere kefil olunur."
+            },
+            "dogruCevap": "D",
+            "cozum": "GSYO'lar sadece kendi girişim şirketlerinin borçlarına teminat verebilir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "GSYO yönetim kurulu üyelerinin en az kaçının bağımsız üye olması şarttır?",
+            "secenekler": {
+              "A": "Sadece 1 üye seçilir.",
+              "B": "Tüm üyeler bağımsız olmalıdır.",
+              "C": "Kurumsal Yönetim Tebliği ilkelerine göre en az 2 üye veya 1/3 bağımsız üye olması şarttır.",
+              "D": "En az 10 bağımsız üye seçilir.",
+              "E": "Bağımsız üye gerekmez."
+            },
+            "dogruCevap": "C",
+            "cozum": "Halka açık GSYO'larda Kurumsal Yönetim İlkeleri gereği bağımsız üye kuralı uygulanır."
+          },
+          {
+            "id": 20,
+            "soruMetni": "GSYO'ların kamuya yapacakları özel durum açıklamaları hangi platform üzerinden duyurulur?",
+            "secenekler": {
+              "A": "Televizyon kanalları",
+              "B": "Posta yoluyla",
+              "C": "Kamuyu Aydınlatma Platformu (KAP)",
+              "D": "Ticaret Sicil Gazetesi",
+              "E": "Belediye İlan Panosu"
+            },
+            "dogruCevap": "C",
+            "cozum": "Özel durum açıklamaları KAP üzerinden elektronik imza ile duyurulur."
           }
         ]
       }
