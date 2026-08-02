@@ -2,7 +2,10 @@
  * ============================================================================
  * SPL (Sermaye Piyasası Lisanslama) SORU VERİTABANI (questions.js)
  * ============================================================================
- * Doğrulandı: Geniş Kapsamlı Mevzuat Test 1 Soruları Tam Uyumlu Şekilde Güncellendi
+ * Sıralama Düzenlendi:
+ * Test 1 - 25: Sıralı Konu Testleri
+ * Test 26: Görsellerdeki Çıkmış Sorular Özel Paketi (20 Soru)
+ * Deneme 1 - 10 (Test 27 - 36): Genel Deneme Sınavları (25'er Soru)
  * ============================================================================
  */
 
@@ -10,11 +13,11 @@ const splVeritabani = [
   {
     "dersAdi": "Geniş Kapsamlı Sermaye Piyasası Mevzuatı",
     "kategori": "SPL Düzey 2 - 3 - Türev - Derecelendirme",
-    "aciklama": "6362 sayılı SPK Kanunu, Özel Durumlar, Kurumsal Yönetim, Yatırım Fonları, GYO, MKK ve TSPB Etik İlkeleri (25 Konu Testi + 10 Genel Deneme Sınavı - Toplam 750 Soru).",
+    "aciklama": "6362 sayılı SPK Kanunu, Özel Durumlar, Kurumsal Yönetim, Yatırım Fonları, GYO, MKK ve TSPB Etik İlkeleri (25 Konu Testi + 1 Çıkmış Sorular Paketi + 10 Genel Deneme - Toplam 770 Soru).",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: Geniş Kapsamlı Mevzuat Çıkmış Sorular Özel Paketi",
+        "testAdi": "Test 1: SPK Kanunu ve Temel Esaslar - I",
         "sorular": [
           {
             "id": 1,
@@ -6664,6 +6667,272 @@ const splVeritabani = [
       },
       {
         "testId": 26,
+        "testAdi": "Test 26: Görsellerdeki Çıkmış Sorular Özel Paketi (20 Soru)",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Aşağıdakilerden hangisi 6362 sayılı Sermaye Piyasası Kanunu'na göre sermaye piyasası kurumlarından biri değildir?",
+            "secenekler": {
+              "A": "Aracı Kurumlar",
+              "B": "Portföy Yönetim Şirketleri",
+              "C": "Kuyumcular ve Döviz Büroları",
+              "D": "Yatırım Ortaklıkları",
+              "E": "Borsa İstanbul"
+            },
+            "dogruCevap": "C",
+            "cozum": "Kuyumcular ve döviz büroları Hazine ve Maliye Bakanlığı düzenlemelerine tabi olup 6362 sayılı Sermaye Piyasası Kanunu kapsamında sermaye piyasası kurumu sayılmazlar."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Sermaye Piyasası Kurulu (SPK) hangi makam veya bakanlık ile ilişkilidir?",
+            "secenekler": {
+              "A": "Ticaret Bakanlığı",
+              "B": "Hazine ve Maliye Bakanlığı",
+              "C": "Cumhurbaşkanlığı",
+              "D": "Adalet Bakanlığı",
+              "E": "Türkiye Cumhuriyet Merkez Bankası"
+            },
+            "dogruCevap": "B",
+            "cozum": "Sermaye Piyasası Kurulu (SPK), Hazine ve Maliye Bakanlığı ile ilişkili özerk bir idari kurumdur."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Aşağıdakilerden hangisi 'diğer sermaye piyasası araçları' arasında yer alır?",
+            "secenekler": {
+              "A": "Tahvil",
+              "B": "Paylar",
+              "C": "Gayrimenkul sertifikaları",
+              "D": "Poliçe",
+              "E": "Borçlanma araçları depo sertifikaları"
+            },
+            "dogruCevap": "C",
+            "cozum": "Gayrimenkul sertifikaları, 6362 sayılı Kanunda 'diğer sermaye piyasası araçları' kategorisinde değerlendirilir."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Sermaye piyasası araçlarının fiyatlarına, fiyat değişimlerine, arz ve taleplerine ilişkin olarak yanlış veya yanıltıcı izlenim uyandırmak amacıyla alım veya satım yapanlar hangi suçu işlemiş olurlar?",
+            "secenekler": {
+              "A": "Bilgi suiistimali",
+              "B": "Piyasa dolandırıcılığı",
+              "C": "Spekülasyon",
+              "D": "Sahtecilik",
+              "E": "Sır saklama yükümlülüğünü ihlal"
+            },
+            "dogruCevap": "B",
+            "cozum": "Sermaye piyasası araçlarının fiyatı ve hacmi üzerinde yapay izlenim uyandırmak Piyasa Dolandırıcılığı (Manipülasyon) suçunu oluşturur."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Aşağıdakilerden hangisi Sermaye Piyasası Kanunu uyarınca yan hizmetler kapsamında yer alan faaliyetlerdendir?",
+            "secenekler": {
+              "A": "Portföy yöneticiliği",
+              "B": "Borçlanma veya başka yollardan finansman sağlanmasında aracılık hizmeti sunulması",
+              "C": "Sermaye piyasası araçlarının halka arzında yüklenimde bulunmaksızın satışa aracılık edilmesi",
+              "D": "Yatırım danışmanlığı",
+              "E": "Sermaye piyasası araçlarının müşteri namına saklanması"
+            },
+            "dogruCevap": "B",
+            "cozum": "Finansman sağlanmasında aracılık hizmeti sunulması kanunen yan hizmetler arasında sayılmıştır."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Gayrimenkul yatırım ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
+            "secenekler": {
+              "A": "10",
+              "B": "20",
+              "C": "25",
+              "D": "49",
+              "E": "75"
+            },
+            "dogruCevap": "C",
+            "cozum": "GYO Tebliği uyarınca ödenmiş veya çıkarılmış sermayelerinin en az %25'inin halka arz edilmiş olması zorunludur."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Sermaye piyasası araçlarını konu alan teminat sözleşmelerine ilişkin aşağıda yer alan ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "MKK nezdinde kayden izlenen sermaye piyasası araçlarını konu alan teminat sözleşmeleri yazılı şekilde yapılır",
+              "B": "Sözleşmede hüküm bulunması halinde, teminata konu olan sermaye piyasası aracının mülkiyeti teminat alan tarafa geçebilir",
+              "C": "Teminat konusu sermaye piyasası aracının teminat alana geçtiği sözleşmelerde, teminat alan taraf ilgili sermaye piyasası aracı üzerinde herhangi bir tasarruf yetkisi yoktur",
+              "D": "Teminat sözleşmesinin sona ermesi ile teminat konusu varlığın kendisinin veya eşdeğerinin iadesi yükümlülüğü öngörülmüştür",
+              "E": "Temerrüt halinde teminat konusu sermaye piyasası aracı resen satılır"
+            },
+            "dogruCevap": "C",
+            "cozum": "Teminatın mülkiyetinin teminat alana geçtiği hallerde teminat alan tarafın ilgili varlık üzerinde tasarruf yetkisi bulunur."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Aşağıdakilerden hangisi özel durumlar ile ilgili sermaye piyasası mevzuatı kapsamında sermaye yapısı ve yönetim kontrolüne ilişkin olarak açıklama yükümlülüğü gerektiren bir durumdur?",
+            "secenekler": {
+              "A": "Bir kurucuya ait yatırım fonlarının doğrudan ihraççı sermayesindeki payının %20'den %28'e yükselmesi",
+              "B": "Bir tüzel kişinin dolaylı olarak payları borsada işlem gören bir ihraççının sermayesindeki toplam oy haklarının %5'ten %8'e artması",
+              "C": "Bir gerçek kişinin doğrudan payları borsada işlem gören ihraççı sermayesindeki payının %35'ten %45'e yükselmesi",
+              "D": "Bir kurucuya ait yatırım fonlarının dolaylı oy haklarının %17'den %19'a yükselmesi",
+              "E": "Bir gerçek kişinin dolaylı payının %69'dan %86'ya yükselmesi"
+            },
+            "dogruCevap": "B",
+            "cozum": "Özel Durumlar Tebliğine göre oy haklarının %5, %10, %15, %20, %25, %33, %50, %67, %75 eşiklerini aşması veya altına düşmesi durumunda KAP açıklaması zorunludur."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Aşağıdakilerden hangisi kurumsal yönetim ilkelerine göre borsada işlem gören şirketlerin sınıflandırılmasında kullanılan kriterlerden biridir?",
+            "secenekler": {
+              "A": "Aktif büyüklüğü",
+              "B": "Kuruluş tarihi",
+              "C": "Faaliyet gösterdiği sektör",
+              "D": "Fiili dolaşımdaki pay değeri",
+              "E": "Son iki yılda sağladığı kar tutarı"
+            },
+            "dogruCevap": "D",
+            "cozum": "Kurumsal yönetim sınıflandırmasında ortalama piyasa değeri ile fiili dolaşımdaki pay değeri kıstas olarak alınır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Aşağıdakilerden hangisi kurumsal yönetim ilkeleri pay sahipleri ile ilgili ilkeler arasında yer almaz?",
+            "secenekler": {
+              "A": "Ortaklık yönetimi özel denetim yapılmasını zorlaştırıcı işlem yapmaktan kaçınır",
+              "B": "Oy hakkının kullanılmasını zorlaştırıcı uygulamalardan kaçınılır",
+              "C": "Azlık haklarının kullandırılmasına azami özen gösterilir",
+              "D": "Menfaat sahipleri, haklarının korunması ile ilgili şirket politikaları ve prosedürleri hakkında bilgilendirilir",
+              "E": "Kâr dağıtım politikasında pay sahiplerinin menfaatleri ile ortaklık menfaati arasında dengeli bir politika izlenir"
+            },
+            "dogruCevap": "D",
+            "cozum": "Menfaat sahiplerinin bilgilendirilmesi 'Pay Sahipleri' başlığı altında değil, Kurumsal Yönetim İlkelerinin 'Menfaat Sahipleri' bölümünde yer alır."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Değişken sermayeli yatırım ortaklıkları ile ilgili aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Değişken sermayeli yatırım ortaklıkları, sermayesi her zaman net aktif değerine eşit olan yatırım ortaklıklarıdır",
+              "B": "Net aktif değer, varlıkların toplamından borçların toplamının düşülmesi suretiyle bulunan tutarı ifade eder",
+              "C": "Değişken sermayeli yatırım ortaklıklarının paylarının itibari değeri bulunmaz",
+              "D": "Değişken sermayeli yatırım ortaklıkları, pay sahibinin talebi üzerine payları itfa etmek ve ortaklık sermayesinde buna karşılık gelen pay bedelini geri ödemekle yükümlüdür",
+              "E": "Değişken sermayeli yatırım ortaklığının payları, yatırımcı payları ile hamiline yazılı olması zorunlu olan kurucu paylarından oluşur"
+            },
+            "dogruCevap": "E",
+            "cozum": "Değişken sermayeli yatırım ortaklığının kurucu paylarının hamiline yazılı olma zorunluluğu yoktur."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Serbest fonlarla ilgili aşağıda yer alan ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Payları serbest fonların portföylerine alınacak yabancı fonlar için ilgili otoriteden izin alınmış olma şartı aranmaz",
+              "B": "Serbest fonlar için izahnamede hüküm bulunması ve Borsanın uygun görmesi şartı ile katılma payları Borsada işlem görebilir hükmü uygulanmaz",
+              "C": "Serbest fonların katılma paylarının satışını yapacak kuruluşlar, katılma payı satışlarının yeterli bilgi ve deneyime sahip personelce yapılmasını temin eder",
+              "D": "Serbest fonların pay fiyatlarının en az ayda bir kere hesaplanması ve yatırımcılara bildirilmesi zorunludur",
+              "E": "Unvanında 'hisse senedi' ibaresi yer alan serbest fonların ilgili şartlarla ihraç edilmesi mümkündür"
+            },
+            "dogruCevap": "A",
+            "cozum": "Serbest fon portföyüne alınacak yabancı fonların ilgili ülke otoritesinden yetkili/izinli olması şarttır."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Borsa yatırım fonu, Fon toplam değerinin en az ____ devamlı olarak sadece takip edilen endeks kapsamındaki varlıklara yatırım yapmak suretiyle endeksi takip etmesi mümkündür. Boşluğa hangisi gelmelidir?",
+            "secenekler": {
+              "A": "% 60",
+              "B": "% 70",
+              "C": "% 80",
+              "D": "% 90",
+              "E": "% 100"
+            },
+            "dogruCevap": "C",
+            "cozum": "Borsa Yatırım Fonları Tebliği (III-52.2) uyarınca BYF'ler fon toplam değerinin en az %80'ini endeks varlıklarında tutmak zorundadır."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Aşağıdakilerden hangisi Türkiye Sermaye Piyasaları Birliği üyelerinin faaliyetleri sırasında uyacağı genel ilkeler arasında yer almaz?",
+            "secenekler": {
+              "A": "Dürüst ve Adil Davranma İlkesi",
+              "B": "Bağımsızlık ve Tarafsızlık",
+              "C": "Mesleki Özen ve Titizlik İlkesi",
+              "D": "Saydamlık İlkesi",
+              "E": "Müşteriyi tanıma ilkesi"
+            },
+            "dogruCevap": "E",
+            "cozum": "Müşteriyi tanıma ilkesi genel bir etik meslek kuralı değil, operasyonel müşteri kabul prosedürüdür."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Şirket yönetiminin bütün hak sahiplerine karşı eşit davranmasını ifade eden Kurumsal Yönetim İlkesi aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Hakkaniyet (Adillik)",
+              "B": "Sorumluluk",
+              "C": "Dönemsellik",
+              "D": "Şeffaflık",
+              "E": "Hesap Verilebilirlik"
+            },
+            "dogruCevap": "A",
+            "cozum": "Yönetimin tüm ortaklara ve hak sahiplerine eşit muamele etmesi Hakkaniyet (Adillik) ilkesidir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Girişim sermayesi portföy yönetim şirketlerinde yatırım kararlarını almak üzere en az kaç kişilik bir Yatırım Komitesi oluşturulması zorunludur?",
+            "secenekler": {
+              "A": "3",
+              "B": "2",
+              "C": "5",
+              "D": "7",
+              "E": "1"
+            },
+            "dogruCevap": "A",
+            "cozum": "Girişim sermayesi ve gayrimenkul yatırım fonu/ortaklıklarında en az 3 kişilik Yatırım Komitesi oluşturulması zorunludur."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Halka açık anonim ortaklıklarda örtülü kazanç aktarımı yasağına aykırılık durumunda SPK aşağıdakilerden hangisini yapmaya yetkilidir?",
+            "secenekler": {
+              "A": "Şirketin tüm faaliyetlerini durdurmak",
+              "B": "Örtülü kazanç aktarımının faiziyle iadesi için dava açmak veya tedbir istemek",
+              "C": "Şirket hisselerini imha etmek",
+              "D": "Şirketi kamulaştırmak",
+              "E": "Yönetim kurulunu feshetmek"
+            },
+            "dogruCevap": "B",
+            "cozum": "SPK tespit edilen örtülü kazanç aktarımının faiziyle iadesi için dava açmaya ve tedbir kararı istemeye yetkilidir."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Kurumsal Yönetim Tebliğine göre Denetimden Sorumlu Komite başkanı ve üyeleri kimlerden oluşmalıdır?",
+            "secenekler": {
+              "A": "Tamamı Bağımsız Yönetim Kurulu Üyelerinden",
+              "B": "Genel Müdürden",
+              "C": "Büyük Ortaktan",
+              "D": "İç Denetçiden",
+              "E": "Mali Müşavirden"
+            },
+            "dogruCevap": "A",
+            "cozum": "Denetim komitesinin tamamı bağımsız yönetim kurulu üyelerinden oluşur."
+          },
+          {
+            "id": 19,
+            "soruMetni": "6362 sayılı Kanun uyarınca Bilgi Suiistimali (Insider Trading) suçu işleyen kişilere verilecek hapis cezasının alt sınırı kaç yıldır?",
+            "secenekler": {
+              "A": "3 Yıl",
+              "B": "1 Yıl",
+              "C": "2 Yıl",
+              "D": "5 Yıl",
+              "E": "6 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Bilgi suiistimali ve piyasa dolandırıcılığı suçlarında hapis cezasının alt sınırı 3 yıldır."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Halka açık anonim ortaklıklarda önemli nitelikteki işlemlere ilişkin genel kurulda muhalefet şerhi işleyen pay sahiplerinin sahip olduğu hak hangisidir?",
+            "secenekler": {
+              "A": "Ayrılma Hakkı",
+              "B": "Rüçhan Hakkı",
+              "C": "Bedelsiz Pay Hakkı",
+              "D": "Tasfiye Hakkı",
+              "E": "Kar Payı Hakkı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Önemli nitelikteki işlemlere muhalif kalan ortaklar ayrılma hakkına sahiptir."
+          }
+        ]
+      },
+      {
+        "testId": 27,
         "testAdi": "Deneme 1: Geniş Kapsamlı Mevzuat Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -6994,7 +7263,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 27,
+        "testId": 28,
         "testAdi": "Deneme 2: Geniş Kapsamlı Mevzuat Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -7325,7 +7594,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 28,
+        "testId": 29,
         "testAdi": "Deneme 3: Geniş Kapsamlı Mevzuat Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -7656,7 +7925,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 29,
+        "testId": 30,
         "testAdi": "Deneme 4: Geniş Kapsamlı Mevzuat Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -7987,7 +8256,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 30,
+        "testId": 31,
         "testAdi": "Deneme 5: Geniş Kapsamlı Mevzuat Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -8318,7 +8587,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 31,
+        "testId": 32,
         "testAdi": "Deneme 6: Geniş Kapsamlı Mevzuat Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -8649,7 +8918,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 32,
+        "testId": 33,
         "testAdi": "Deneme 7: Geniş Kapsamlı Mevzuat Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -8980,7 +9249,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 33,
+        "testId": 34,
         "testAdi": "Deneme 8: Geniş Kapsamlı Mevzuat Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -9311,7 +9580,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 34,
+        "testId": 35,
         "testAdi": "Deneme 9: Geniş Kapsamlı Mevzuat Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -9642,7 +9911,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 35,
+        "testId": 36,
         "testAdi": "Deneme 10: Geniş Kapsamlı Mevzuat Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -10081,11 +10350,11 @@ const splVeritabani = [
   {
     "dersAdi": "Sermaye Piyasasında Yatırım Kuruluşları",
     "kategori": "SPL Düzey 2 - 3 - Türev Araçlar Lisansı",
-    "aciklama": "Yatırım Hizmetleri Tebliği (III-37.1), Yatırım Kuruluşları Kuruluş Tebliği (III-39.1), Kaldıraçlı İşlemler, Kitle Fonlaması, Müşteri Hakları (25 Konu Testi + 10 Deneme Sınavı - Toplam 750 Soru).",
+    "aciklama": "Yatırım Hizmetleri Tebliği (III-37.1), Yatırım Kuruluşları Kuruluş Tebliği (III-39.1), Kaldıraçlı İşlemler, Kitle Fonlaması, Müşteri Hakları (25 Konu Testi + 1 Çıkmış Sorular Paketi + 10 Deneme - Toplam 770 Soru).",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: Çıkmış ve Benzer Sorular Özel Paketi",
+        "testAdi": "Test 1: Yatırım Kuruluşlarının Kuruluş ve Faaliyet Şartları",
         "sorular": [
           {
             "soruMetni": "Aracı kurumların ticaret unvanlarında yatırım hizmetleri ve faaliyetlerini göstermesi amacıyla aşağıdakilerden hangisinin bulunması zorunludur?",
@@ -16735,6 +17004,272 @@ const splVeritabani = [
       },
       {
         "testId": 26,
+        "testAdi": "Test 26: Görsellerdeki Çıkmış Sorular Özel Paketi (20 Soru)",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Aracı kurumların ticaret unvanlarında yatırım hizmetleri ve faaliyetlerini göstermesi amacıyla aşağıdakilerden hangisinin bulunması zorunludur?",
+            "secenekler": {
+              "A": "Menkul değerler veya menkul kıymetler",
+              "B": "Sadece sigorta",
+              "C": "Sadece yatırım",
+              "D": "Faktoring",
+              "E": "Döviz ve kıymetli maden"
+            },
+            "dogruCevap": "A",
+            "cozum": "Aracı kurumların ticaret unvanlarında 'menkul değerler' veya 'menkul kıymetler' ibarelerinden birinin yer alması şarttır. Geniş yetkili olanlar 'yatırım menkul değerler' kullanabilir."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Genel saklama faaliyetine ilişkin aşağıdaki ifadelerden hangisi söylenemez?",
+            "secenekler": {
+              "A": "Genel saklama hizmeti izni, sınırlı saklama hizmeti iznini kapsamaktadır",
+              "B": "Yatırım hizmet ve faaliyetlerinden bağımsız olarak saklama hizmeti sunulmasıdır",
+              "C": "Yatırım kuruluşlarının genel saklama hizmeti izni alarak diğer yatırım kuruluşlarına saklama hizmeti vermeleri mümkündür",
+              "D": "Geniş yetkili aracı kurumlar tarafından bu faaliyet yerine getirilebilmektedir",
+              "E": "Bankalar ile işlem aracılığı, portföy aracılığı, bireysel portföy yöneticiliği ve halka arza aracılık faaliyetlerinden herhangi birisini yapmaya yetkili aracı kurumlar tarafından yapılabilir"
+            },
+            "dogruCevap": "A",
+            "cozum": "Genel saklama hizmeti izni ile sınırlı saklama hizmeti izni farklı düzeydeki yetki belgeleridir; genel saklama izni otomatik olarak sınırlı saklamayı kapsamaz."
+          },
+          {
+            "id": 3,
+            "soruMetni": "'Kısmi yetkili aracı kurum' aşağıda yer alan yatırım hizmet ve faaliyetlerden hangisini yürütemez?",
+            "secenekler": {
+              "A": "İşlem aracılığı",
+              "B": "Yatırım danışmanlığı",
+              "C": "Sınırlı saklama",
+              "D": "Portföy aracılığı",
+              "E": "En iyi gayret aracılığı"
+            },
+            "dogruCevap": "D",
+            "cozum": "Portföy aracılığı (kendi nam ve hesabına alım-satım) yalnızca geniş yetkili aracı kurumlar tarafından yapılabilir; kısmi yetkili aracı kurumlar portföy aracılığı yapamaz."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Aşağıdakilerden hangisi aracı kurumlarda 'ihtisas personeli' kategorisinde yer almaz?",
+            "secenekler": {
+              "A": "Müşteri temsilcisi",
+              "B": "Borsa üye temsilcisi",
+              "C": "Araştırma uzmanı",
+              "D": "Kurumsal finansman uzmanı",
+              "E": "İç kontrol elemanı"
+            },
+            "dogruCevap": "E",
+            "cozum": "İç kontrol elemanı ve müfettişler 'İç Sistemler Personeli' kapsamındadır; pazarlama ve operasyon yürüten ihtisas personeli sınıfında yer almaz."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Aracı kurum genel müdür ve genel müdür yardımcılarının mali piyasalar veya işletmecilik alanında en az kaç yıl meslekî deneyime sahip olması gerekir?",
+            "secenekler": {
+              "A": "3 yıl",
+              "B": "5 yıl",
+              "C": "6 yıl",
+              "D": "7 yıl",
+              "E": "10 yıl"
+            },
+            "dogruCevap": "D",
+            "cozum": "Yatırım Kuruluşları Tebliğine göre aracı kurum genel müdürü ve genel müdür yardımcılarının en az 7 yıllık mesleki tecrübeye sahip olması zorunludur."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Aşağıdakilerden hangisi yatırım kuruluşu personellerine ait ilkelerden biri değildir?",
+            "secenekler": {
+              "A": "Mesleki Şüphe",
+              "B": "Sır Saklama",
+              "C": "Mesleki Özen ve Titizlik",
+              "D": "Dürüstlük",
+              "E": "Mesleki Yeterlilik"
+            },
+            "dogruCevap": "A",
+            "cozum": "'Mesleki Şüphecilik' bağımsız denetim standartlarına ait bir ilkedir; yatırım kuruluşu personeli meslek ilkeleri arasında yer almaz."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Müşteri şikâyetlerine ilişkin kayıtların tutulmasında, her bir şikâyete ilişkin kayıtların asgari olarak aşağıdakilerden hangisini içermesi gerekmez?",
+            "secenekler": {
+              "A": "Şikâyet sahibinin adı, soyadı, adresi ve hesap numarası",
+              "B": "Şikâyet tarihi",
+              "C": "Şikâyetin tam metni ve mevzuatın hangi hükümlerine aykırılık iddiasında olduğu",
+              "D": "Varsa şikâyete konu personelin ismi",
+              "E": "Şikâyete ilişkin olarak yatırım kuruluşu tarafından yapılan işlemlerin özeti"
+            },
+            "dogruCevap": "C",
+            "cozum": "Şikayet kaydında müşterinin hukuki mevzuat maddesi gerekçelendirmesi yapması aranmaz; sadece şikayet konusu ve özeti kaydedilir."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Aracı kurumun teminatlandırma politikasının yürütülmesinden ve gerekli değişikliklerin yapılmasından aşağıdakilerden hangisi sorumludur?",
+            "secenekler": {
+              "A": "Denetim kurulu",
+              "B": "Genel kurul",
+              "C": "İç kontrol personelleri",
+              "D": "Risk yönetim birimi",
+              "E": "Yönetim kurulu"
+            },
+            "dogruCevap": "D",
+            "cozum": "Teminatlandırma politikasının takibi ve riske göre güncellenmesinden risk yönetim birimi sorumludur."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Uygunluk testinde aşağıdakilerden hangisi/hangileri hakkında bilgi alınması gerekmemektedir?",
+            "secenekler": {
+              "A": "Yalnız I",
+              "B": "Yalnız III (Yatırımcının mali durumu)",
+              "C": "I ve II",
+              "D": "II ve III",
+              "E": "III ve IV"
+            },
+            "dogruCevap": "B",
+            "cozum": "Uygunluk testinde yatırımcının tecrübesi, riski ve yaş/meslek bilgisi sorulur; 'Mali Durum' bilgisi sadece Yerindelik Testinde aranır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Aşağıdakilerden hangisi halka arz aracılığı faaliyeti olarak nitelendirilemez?",
+            "secenekler": {
+              "A": "Halka arz edilecek sermaye piyasası araçlarının satışına yönelik organizasyonlar düzenlenmesi",
+              "B": "Sermaye piyasası araçlarının halka arz edilmeksizin satışı sırasında aracılık yapılması",
+              "C": "Sermaye piyasası araçlarının halka arz edilmesi ile ilgili olarak talep toplanması",
+              "D": "İzahnamenin onayı için sunulacak bilgi ve belgelerin hazırlanması",
+              "E": "Sermaye piyasası araçları için gişe hizmetlerinde bulunulması"
+            },
+            "dogruCevap": "E",
+            "cozum": "Gişe hizmetleri rutin bankacılık/operasyon hizmetidir; halka arz aracılığı faaliyeti niteliği taşımaz."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Yatırım ve kalkınma bankaları halka açık olmayan bir aracı kurumun tüm faaliyet izinlerinin iptali durumunda hangi araçta portföy aracılığı yapamaz?",
+            "secenekler": {
+              "A": "Pay",
+              "B": "Pay endeksi",
+              "C": "Paya dayalı türev araçları",
+              "D": "Borçlanma araçları",
+              "E": "Kaldıraçlı işlemler"
+            },
+            "dogruCevap": "E",
+            "cozum": "Yatırım ve kalkınma bankaları kaldıraçlı işlemlerde (Forex) portföy aracılığı yapamazlar."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Aşağıdakilerden hangisi faaliyet izni alınmasını gerektirecek nitelikte değerlendirilmeyen yan hizmet olarak nitelendirilemez?",
+            "secenekler": {
+              "A": "Servet yönetimi ve finansal planlama yapılması",
+              "B": "Aracılık yükleniminde bulunulması",
+              "C": "Sermaye piyasaları ile ilgili danışmanlık hizmetleri sunulması",
+              "D": "Borçlanma veya başka yollardan finansman sağlanmasında aracılık hizmeti sunulması",
+              "E": "Araştırma ve finansal analiz sunulması"
+            },
+            "dogruCevap": "B",
+            "cozum": "Aracılık yükleniminde bulunulması bir yan hizmet değil; ana yatırım hizmeti ve faaliyetidir."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Ses kayıtlarına ilişkin saklama süresi kaç yıldır?",
+            "secenekler": {
+              "A": "1",
+              "B": "3",
+              "C": "5",
+              "D": "10",
+              "E": "15"
+            },
+            "dogruCevap": "B",
+            "cozum": "Yatırım Hizmetleri Belge ve Kayıt Tebliğine göre telefon ve ses kayıtları en az 3 yıl süreyle saklanmalıdır."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Tezgahüstü işlemlerde müşteri emri formu yerine aşağıdaki formlardan hangisi düzenlenmesi gerekir?",
+            "secenekler": {
+              "A": "İşlem Sonuc Formu",
+              "B": "Türev Piyasalar Emir Takip Formu",
+              "C": "İşlem Talimat Formu",
+              "D": "Seans Takip Formu",
+              "E": "Türev Piyasalar Teminat Durum Raporu"
+            },
+            "dogruCevap": "C",
+            "cozum": "Tezgahüstü (OTC) türev ve sermaye piyasası işlemlerinde emir formu yerine İşlem Talimat Formu düzenlenir."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Kaldıraçlı işlemlerle (Forex) ilgili aşağıda yer alan ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Kaldıraçlı işlemler döviz, kıymetli maden ve Kurulca belirlenecek varlıklar üzerine yapılmaktadır",
+              "B": "Kaldıraçlı işlemlerde kaldıraç oranı pozisyonun ilk açıldığı sırada 10:1'i geçemeyecek şekilde belirlenmiştir",
+              "C": "Kaldıraçlı işlem gerçekleştirebilmek için başlangıç teminat tutarı olarak asgari 50.000 TL veya muadili döviz yatırılması gerekir",
+              "D": "İşlemlere başladıktan sonra zarar edilmesi neticesinde teminat tutarının 50.000 TL altına düşmesi durumunda mevcut işlemlere devam edilebilir",
+              "E": "İşlemlere başlamadan önce veya başladıktan sonra hesaptan nakit çekilmesi veya başka bir kuruma virman yapılması suretiyle başlangıç teminat tutarının 50.000 TL altına düşürülmesi halinde yeni pozisyon açılabilir"
+            },
+            "dogruCevap": "E",
+            "cozum": "Hesaptan nakit çekilerek teminat 50.000 TL altına düşürülürse yeni pozisyon açılamaz; bu nedenle E yanlıştır."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Sahip olunmayan sermaye piyasası araçlarının satılması, satışa ilişkin emrin verilmesi veya takas yükümlülüğünün ödünç alınan araçlarla yerine getirilmesi işlemine ne ad verilir?",
+            "secenekler": {
+              "A": "Örtülü açığa satış işlemi",
+              "B": "Çıplak açığa satış işlemi",
+              "C": "Açığa satış işlemi",
+              "D": "Gizli açığa satış işlemi",
+              "E": "Nakit açığa satış"
+            },
+            "dogruCevap": "C",
+            "cozum": "Sahip olunmayan araçların satılması veya takasın ödünç araçla kapatılması Açığa Satış işlemidir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Kredili alım, açığa satış ve ödünç alma ve verme işlemlerinde özkaynak olarak kabul edilecek varlıklardan Borsa Yatırım Fonu katılma paylarının özkaynak oranı % kaçtır?",
+            "secenekler": {
+              "A": "% 60",
+              "B": "% 75",
+              "C": "% 90",
+              "D": "% 80",
+              "E": "% 50"
+            },
+            "dogruCevap": "C",
+            "cozum": "Kredili işlemlerde BYF katılma payları %90 oranında özkaynak kabul edilir."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Paya Dayalı Kitle Fonlaması Tebliğine göre Yatırım Komitesi ile ilgili aşağıda yer alan ifadelerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Komite üyelerinin çoğunluğunun Sermaye Piyasası Faaliyetleri Düzey 3 Lisansına sahip olması gerekmektedir",
+              "B": "Üyelerin tamamının platformun ortaklarının ve yönetim kurulu üyeleri için aranan şartları sağlamış olması zorunludur",
+              "C": "Girişimciye ait projeye ilişkin fizibilite raporunu değerlendirmeyle görevlidir",
+              "D": "Yatırım komitesi üyeleri faaliyetleri karşılığında girişim şirketlerinden veya girişimcilerden herhangi bir ekonomik menfaat temin edemez",
+              "E": "Kampanyalara ilişkin hazırlanan kitle fonlaması bilgi formunu onaylamaktadır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kitle fonlaması yatırım komitesi üyelerinin çoğunluğunun Düzey 3 lisansına sahip olması zorunluluğu yoktur (en az 1 üyenin Düzey 3 lisansı olması yeterlidir)."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Platformlar tarafından üyelik işlemleri kapsamında kimlik bilgileri tespit ve teyit edilen üyelerin bilgilerinin aşağıdakilerden hangisine iletilmesi gerekir?",
+            "secenekler": {
+              "A": "Sermaye Piyasası Kurulu",
+              "B": "Borsa İstanbul A.Ş.",
+              "C": "Türkiye Cumhuriyet Merkez Bankası",
+              "D": "Merkezi Kayıt Kuruluşu (MKK)",
+              "E": "Takasbank"
+            },
+            "dogruCevap": "D",
+            "cozum": "Kitle fonlaması platformlarında üyelerin kimlik teyit bilgileri MKK nezdindeki sisteme aktarılır."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Aşağıdakilerden hangisi aracı kurumların genel müdür ve genel müdür yardımcılarında aranacak şartlardan biridir?",
+            "secenekler": {
+              "A": "Mali piyasalar veya işletmecilik alanında en az 7 yıllık mesleki tecrübeye sahip olunması",
+              "B": "En az doktora derecesine sahip olunması",
+              "C": "Banka yöneticisi olunması",
+              "D": "Sadece 35 yaşından büyük olunması",
+              "E": "Müfettişlik belgesi bulunması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Yatırım Kuruluşları Tebliğine göre genel müdür ve yardımcıları mali piyasalar veya işletmecilikte en az 7 yıl tecrübeli olmalıdır."
+          }
+        ]
+      },
+      {
+        "testId": 27,
         "testAdi": "Deneme 1: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -17065,7 +17600,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 27,
+        "testId": 28,
         "testAdi": "Deneme 2: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -17396,7 +17931,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 28,
+        "testId": 29,
         "testAdi": "Deneme 3: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -17727,7 +18262,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 29,
+        "testId": 30,
         "testAdi": "Deneme 4: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -18058,7 +18593,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 30,
+        "testId": 31,
         "testAdi": "Deneme 5: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -18389,7 +18924,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 31,
+        "testId": 32,
         "testAdi": "Deneme 6: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -18720,7 +19255,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 32,
+        "testId": 33,
         "testAdi": "Deneme 7: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -19051,7 +19586,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 33,
+        "testId": 34,
         "testAdi": "Deneme 8: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -19382,7 +19917,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 34,
+        "testId": 35,
         "testAdi": "Deneme 9: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
         "sorular": [
           {
@@ -19713,7 +20248,7 @@ const splVeritabani = [
         ]
       },
       {
-        "testId": 35,
+        "testId": 36,
         "testAdi": "Deneme 10: Yatırım Kuruluşları Genel Denemesi (25 Soru)",
         "sorular": [
           {
