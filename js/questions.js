@@ -2,14 +2,16 @@
  * ============================================================================
  * SPL (Sermaye Piyasası Lisanslama) SORU VERİTABANI (questions.js)
  * ============================================================================
- * Ders Adı Güncellendi: 'Yatırım Kuruluşları'
+ * SPK Resmi Modül Kodları Eklendi:
+ * 1002 - Geniş Kapsamlı Sermaye Piyasası Mevzuatı
+ * 1005 - Yatırım Kuruluşları
  * ============================================================================
  */
 
 const splVeritabani = [
   {
-    "dersAdi": "Geniş Kapsamlı Sermaye Piyasası Mevzuatı",
-    "kategori": "SPL Düzey 2 - 3 - Türev - Derecelendirme",
+    "dersAdi": "1002 - Geniş Kapsamlı Sermaye Piyasası Mevzuatı",
+    "kategori": "SPK Modül Kodu: 1002 | SPL Düzey 2 - 3 - Türev - Derecelendirme",
     "aciklama": "6362 sayılı SPK Kanunu, Özel Durumlar, Kurumsal Yönetim, Yatırım Fonları, GYO, MKK ve TSPB Etik İlkeleri (25 Konu Testi + 1 Çıkmış Sorular Paketi + 10 Genel Deneme - Toplam 770 Soru).",
     "testler": [
       {
@@ -10345,8 +10347,8 @@ const splVeritabani = [
     ]
   },
   {
-    "dersAdi": "Yatırım Kuruluşları",
-    "kategori": "SPL Düzey 2 - 3 - Türev Araçlar Lisansı",
+    "dersAdi": "1005 - Yatırım Kuruluşları",
+    "kategori": "SPK Modül Kodu: 1005 | SPL Düzey 2 - 3 - Türev Araçlar Lisansı",
     "aciklama": "Yatırım Hizmetleri Tebliği (III-37.1), Yatırım Kuruluşları Kuruluş Tebliği (III-39.1), Kaldıraçlı İşlemler, Kitle Fonlaması, Müşteri Hakları (25 Konu Testi + 1 Çıkmış Sorular Paketi + 10 Deneme - Toplam 770 Soru).",
     "testler": [
       {
