@@ -404,7 +404,7 @@
     Object.keys(qData.secenekler).forEach(optKey => {
       const optText = qData.secenekler[optKey];
       const btn = document.createElement('button');
-      btn.className = 'w-full text-left p-3.5 sm:p-4 rounded-xl option-btn flex items-center space-x-3 text-sm sm:text-base';
+      btn.className = 'w-full text-left p-4 sm:p-4.5 rounded-2xl option-btn flex items-start space-x-3.5 text-base sm:text-lg leading-snug';
       
       const isSelected = selectedOption === optKey;
       if (isSelected) btn.classList.add('selected');
@@ -424,8 +424,8 @@
       };
 
       btn.innerHTML = `
-        <span class="option-letter flex-shrink-0">${optKey}</span>
-        <span class="flex-grow">${optText}</span>
+        <span class="option-letter flex-shrink-0 font-extrabold text-base sm:text-lg">${optKey}</span>
+        <span class="flex-grow pt-0.5">${optText}</span>
       `;
       container.appendChild(btn);
     });
@@ -455,7 +455,7 @@
 
     questions.forEach((qData, qIndex) => {
       const qBox = document.createElement('div');
-      qBox.className = 'bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 p-5 sm:p-6 shadow-sm';
+      qBox.className = 'bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 p-5 sm:p-7 shadow-sm';
       
       const selectedOption = state.userAnswers[qData.id];
 
@@ -470,9 +470,9 @@
         }
 
         optionsHtml += `
-          <button data-qid="${qData.id}" data-opt="${optKey}" class="w-full text-left p-3 rounded-xl option-btn ${stateClass} flex items-center space-x-3 text-sm mb-2">
-            <span class="option-letter">${optKey}</span>
-            <span>${optText}</span>
+          <button data-qid="${qData.id}" data-opt="${optKey}" class="w-full text-left p-3.5 sm:p-4 rounded-xl option-btn ${stateClass} flex items-start space-x-3.5 text-base sm:text-lg leading-snug mb-2.5">
+            <span class="option-letter flex-shrink-0 font-extrabold text-base">${optKey}</span>
+            <span class="flex-grow pt-0.5">${optText}</span>
           </button>
         `;
       });
@@ -480,17 +480,17 @@
       let solutionHtml = '';
       if (state.examMode === 'instant' && selectedOption && qData.cozum) {
         solutionHtml = `
-          <div class="mt-4 p-3 rounded-xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 text-emerald-800 dark:text-emerald-200 text-xs">
-            <strong>Çözüm:</strong> ${qData.cozum}
+          <div class="mt-4 p-4 rounded-xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 text-emerald-800 dark:text-emerald-200 text-base">
+            <strong class="block mb-1 text-emerald-700 dark:text-emerald-400 font-bold"><i class="fa-solid fa-lightbulb mr-1"></i> Çözüm:</strong> ${qData.cozum}
           </div>
         `;
       }
 
       qBox.innerHTML = `
-        <div class="font-bold text-slate-900 dark:text-white mb-3 text-base">
+        <div class="font-bold text-slate-900 dark:text-white mb-4 text-lg sm:text-xl leading-relaxed question-stem-text">
           Soru ${qIndex + 1}: ${qData.soruMetni}
         </div>
-        <div class="space-y-2">
+        <div class="space-y-2.5">
           ${optionsHtml}
         </div>
         ${solutionHtml}
@@ -624,15 +624,15 @@
       if (filter === 'empty' && !isEmpty) return;
 
       const qCard = document.createElement('div');
-      qCard.className = 'bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 p-5 sm:p-6 shadow-sm';
+      qCard.className = 'bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700 p-5 sm:p-7 shadow-sm';
 
       let statusBadge = '';
       if (isEmpty) {
-        statusBadge = `<span class="px-2.5 py-1 rounded-md text-xs font-bold bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300">Boş Bırakıldı</span>`;
+        statusBadge = `<span class="px-3 py-1 rounded-lg text-xs font-bold bg-slate-100 dark:bg-slate-700 text-slate-600 dark:text-slate-300">Boş Bırakıldı</span>`;
       } else if (isCorrect) {
-        statusBadge = `<span class="px-2.5 py-1 rounded-md text-xs font-bold bg-emerald-100 dark:bg-emerald-950 text-emerald-600 dark:text-emerald-400"><i class="fa-solid fa-check mr-1"></i> Doğru</span>`;
+        statusBadge = `<span class="px-3 py-1 rounded-lg text-xs font-bold bg-emerald-100 dark:bg-emerald-950 text-emerald-600 dark:text-emerald-400"><i class="fa-solid fa-check mr-1"></i> Doğru</span>`;
       } else {
-        statusBadge = `<span class="px-2.5 py-1 rounded-md text-xs font-bold bg-rose-100 dark:bg-rose-950 text-rose-600 dark:text-rose-400"><i class="fa-solid fa-xmark mr-1"></i> Yanlış</span>`;
+        statusBadge = `<span class="px-3 py-1 rounded-lg text-xs font-bold bg-rose-100 dark:bg-rose-950 text-rose-600 dark:text-rose-400"><i class="fa-solid fa-xmark mr-1"></i> Yanlış</span>`;
       }
 
       let optionsListHtml = '';
@@ -647,28 +647,28 @@
         }
 
         optionsListHtml += `
-          <div class="p-3 rounded-xl border ${optStyle} flex items-center space-x-3 text-sm">
-            <span class="w-7 h-7 rounded-lg bg-slate-100 dark:bg-slate-700 flex items-center justify-center font-bold text-xs">${optKey}</span>
-            <span>${text}</span>
+          <div class="p-3.5 sm:p-4 rounded-xl border ${optStyle} flex items-start space-x-3.5 text-base sm:text-lg leading-snug">
+            <span class="w-8 h-8 rounded-lg bg-slate-100 dark:bg-slate-700 flex items-center justify-center font-bold text-sm flex-shrink-0">${optKey}</span>
+            <span class="pt-0.5">${text}</span>
           </div>
         `;
       });
 
       qCard.innerHTML = `
         <div class="flex items-center justify-between mb-3">
-          <span class="text-xs font-bold text-slate-400">Soru ${idx + 1}</span>
+          <span class="text-sm font-bold text-slate-400">Soru ${idx + 1}</span>
           ${statusBadge}
         </div>
-        <h4 class="text-base font-bold text-slate-900 dark:text-white mb-4">
+        <h4 class="text-lg sm:text-xl font-bold text-slate-900 dark:text-white mb-4 leading-relaxed question-stem-text">
           ${q.soruMetni}
         </h4>
-        <div class="space-y-2 mb-4">
+        <div class="space-y-2.5 mb-4">
           ${optionsListHtml}
         </div>
         ${q.cozum ? `
-          <div class="p-3.5 rounded-xl bg-sky-50 dark:bg-sky-950/40 border border-sky-200 dark:border-sky-800/60 text-sky-900 dark:text-sky-200 text-xs">
-            <strong class="block mb-1 text-sky-700 dark:text-sky-300"><i class="fa-solid fa-lightbulb"></i> Çözüm Açıklaması:</strong>
-            ${q.cozum}
+          <div class="p-4 rounded-xl bg-sky-50 dark:bg-sky-950/40 border border-sky-200 dark:border-sky-800/60 text-sky-900 dark:text-sky-200 text-base sm:text-lg">
+            <strong class="block mb-1 text-sky-700 dark:text-sky-300 font-bold"><i class="fa-solid fa-lightbulb mr-1"></i> Çözüm Açıklaması:</strong>
+            <span class="leading-relaxed">${q.cozum}</span>
           </div>
         ` : ''}
       `;
@@ -790,6 +790,45 @@
       updateViewButtonsState();
       renderQuizView();
     };
+
+    // Font Size Adjuster Buttons
+    const btnFontNormal = document.getElementById('font-size-normal-btn');
+    const btnFontLg = document.getElementById('font-size-lg-btn');
+    const btnFontXl = document.getElementById('font-size-xl-btn');
+
+    function applyFontSize(size) {
+      state.fontSize = size;
+      try { localStorage.setItem('spl_font_size', size); } catch (e) {}
+
+      const quizView = document.getElementById('quiz-view');
+      if (quizView) {
+        quizView.classList.remove('font-size-lg', 'font-size-xl');
+        if (size === 'lg') quizView.classList.add('font-size-lg');
+        if (size === 'xl') quizView.classList.add('font-size-xl');
+      }
+
+      if (btnFontNormal && btnFontLg && btnFontXl) {
+        btnFontNormal.className = 'px-2.5 py-1 rounded-lg text-xs font-extrabold transition text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white';
+        btnFontLg.className = 'px-2.5 py-1 rounded-lg text-sm font-extrabold transition text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white';
+        btnFontXl.className = 'px-2.5 py-1 rounded-lg text-base font-black transition text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white';
+
+        if (size === 'normal') {
+          btnFontNormal.className = 'px-2.5 py-1 rounded-lg text-xs font-extrabold transition bg-white dark:bg-slate-800 text-sky-600 dark:text-sky-400 shadow-sm';
+        } else if (size === 'lg') {
+          btnFontLg.className = 'px-2.5 py-1 rounded-lg text-sm font-extrabold transition bg-white dark:bg-slate-800 text-sky-600 dark:text-sky-400 shadow-sm';
+        } else if (size === 'xl') {
+          btnFontXl.className = 'px-2.5 py-1 rounded-lg text-base font-black transition bg-white dark:bg-slate-800 text-sky-600 dark:text-sky-400 shadow-sm';
+        }
+      }
+    }
+
+    if (btnFontNormal) btnFontNormal.onclick = () => applyFontSize('normal');
+    if (btnFontLg) btnFontLg.onclick = () => applyFontSize('lg');
+    if (btnFontXl) btnFontXl.onclick = () => applyFontSize('xl');
+
+    // Initial Font Size Application
+    const savedFontSize = (function() { try { return localStorage.getItem('spl_font_size') || 'normal'; } catch(e) { return 'normal'; } })();
+    applyFontSize(savedFontSize);
 
     // Previous / Next Buttons
     document.getElementById('prev-question-btn').onclick = () => {

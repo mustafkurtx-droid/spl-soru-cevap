@@ -251,14 +251,24 @@
             </button>
           </div>
 
-          <!-- View Type Toggle (Single vs List) -->
-          <div class="flex bg-slate-100 dark:bg-slate-900 p-1 rounded-xl border border-slate-200 dark:border-slate-700">
-            <button id="view-single-btn" class="px-3 py-1.5 rounded-lg font-semibold transition bg-white dark:bg-slate-800 text-sky-600 dark:text-sky-400 shadow-sm">
-              Tekli
-            </button>
-            <button id="view-list-btn" class="px-3 py-1.5 rounded-lg font-semibold transition text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white">
-              Liste
-            </button>
+          <!-- View Type Toggle (Single vs List) & Font Size Adjuster -->
+          <div class="flex flex-wrap items-center gap-2">
+            <div class="flex bg-slate-100 dark:bg-slate-900 p-1 rounded-xl border border-slate-200 dark:border-slate-700">
+              <button id="view-single-btn" class="px-3 py-1.5 rounded-lg font-semibold transition bg-white dark:bg-slate-800 text-sky-600 dark:text-sky-400 shadow-sm">
+                Tekli
+              </button>
+              <button id="view-list-btn" class="px-3 py-1.5 rounded-lg font-semibold transition text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white">
+                Liste
+              </button>
+            </div>
+
+            <!-- Font Size Adjuster Controls -->
+            <div class="flex items-center bg-slate-100 dark:bg-slate-900 p-1 rounded-xl border border-slate-200 dark:border-slate-700" title="Yazı Boyutu Ayarı">
+              <span class="px-2 text-xs font-bold text-slate-400"><i class="fa-solid fa-text-height"></i></span>
+              <button id="font-size-normal-btn" class="px-2.5 py-1 rounded-lg text-xs font-extrabold transition bg-white dark:bg-slate-800 text-sky-600 dark:text-sky-400 shadow-sm" title="Normal Yazı">A</button>
+              <button id="font-size-lg-btn" class="px-2.5 py-1 rounded-lg text-sm font-extrabold transition text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white" title="Büyük Yazı (A+)">A+</button>
+              <button id="font-size-xl-btn" class="px-2.5 py-1 rounded-lg text-base font-black transition text-slate-600 dark:text-slate-400 hover:text-slate-900 dark:hover:text-white" title="Çok Büyük Yazı (A++)">A++</button>
+            </div>
           </div>
         </div>
 
@@ -300,21 +310,21 @@
             </div>
 
             <!-- Question Text -->
-            <div id="question-text" class="text-base sm:text-lg font-semibold text-slate-900 dark:text-white leading-relaxed mb-6">
+            <div id="question-text" class="text-lg sm:text-xl md:text-2xl font-bold text-slate-900 dark:text-white leading-relaxed mb-6">
               Soru metni yükleniyor...
             </div>
 
             <!-- Options List (A, B, C, D, E) -->
-            <div id="options-container" class="space-y-3 mb-6">
+            <div id="options-container" class="space-y-3.5 mb-6">
               <!-- Dynamic JS Buttons -->
             </div>
 
             <!-- Solution Explanation Box (Instant Mode or Post-Test) -->
-            <div id="solution-box" class="hidden mt-6 p-4 rounded-xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-800/60 text-emerald-900 dark:text-emerald-200 text-sm">
-              <div class="font-bold flex items-center gap-2 mb-1 text-emerald-700 dark:text-emerald-400">
+            <div id="solution-box" class="hidden mt-6 p-5 rounded-2xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-800/60 text-emerald-900 dark:text-emerald-200 text-base sm:text-lg">
+              <div class="font-bold flex items-center gap-2 mb-2 text-base sm:text-lg text-emerald-700 dark:text-emerald-400">
                 <i class="fa-solid fa-lightbulb"></i> Çözüm ve Açıklama:
               </div>
-              <p id="solution-text" class="leading-relaxed">
+              <p id="solution-text" class="leading-relaxed text-base sm:text-lg">
                 Çözüm açıklaması burada görünür.
               </p>
             </div>
@@ -476,7 +486,7 @@
   </footer>
 
   <!-- JAVASCRIPT FILES -->
-  <script src="js/questions.js?v=20260802_37"></script>
-  <script src="js/app.js?v=20260802_37"></script>
+  <script src="js/questions.js?v=20260802_38"></script>
+  <script src="js/app.js?v=20260802_38"></script>
 </body>
 </html>
