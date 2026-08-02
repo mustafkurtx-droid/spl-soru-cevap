@@ -116,16 +116,41 @@
       </div>
 
       <!-- Search & Filter Bar -->
-      <div class="flex flex-col sm:flex-row items-center justify-between gap-4 mb-6">
+      <div class="flex flex-col md:flex-row md:items-center justify-between gap-4 mb-4">
         <h3 class="text-xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
           <i class="fa-solid fa-book-bookmark text-sky-500"></i> SPL Dersleri
         </h3>
 
         <!-- Search Input -->
-        <div class="relative w-full sm:w-72">
+        <div class="relative w-full md:w-80">
           <i class="fa-solid fa-magnifying-glass absolute left-3.5 top-1/2 -translate-y-1/2 text-slate-400 text-sm"></i>
-          <input type="text" id="course-search-input" placeholder="Ders ara..." class="w-full pl-10 pr-4 py-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-white text-sm focus:outline-none focus:ring-2 focus:ring-sky-500">
+          <input type="text" id="course-search-input" placeholder="Ders adı veya modül kodu ara..." class="w-full pl-10 pr-4 py-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-800 text-slate-900 dark:text-white text-sm focus:outline-none focus:ring-2 focus:ring-sky-500">
         </div>
+      </div>
+
+      <!-- Level Multi-Select Filter Bar -->
+      <div id="level-filter-bar" class="flex flex-wrap items-center gap-2 mb-6 p-3 rounded-2xl bg-slate-100/80 dark:bg-slate-800/80 border border-slate-200/80 dark:border-slate-700/80 shadow-xs">
+        <span class="text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400 mr-1 flex items-center gap-1.5">
+          <i class="fa-solid fa-filter text-sky-500"></i> Lisans Seviyesi:
+        </span>
+        <button data-level="all" class="level-filter-btn active px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all shadow-xs bg-sky-500 text-white border border-sky-500 cursor-pointer">
+          Tüm Dersler
+        </button>
+        <button data-level="duzey1" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer">
+          <span class="w-2.5 h-2.5 rounded-full bg-blue-500"></span> Düzey 1
+        </button>
+        <button data-level="duzey2" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer">
+          <span class="w-2.5 h-2.5 rounded-full bg-emerald-500"></span> Düzey 2
+        </button>
+        <button data-level="duzey3" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer">
+          <span class="w-2.5 h-2.5 rounded-full bg-purple-500"></span> Düzey 3
+        </button>
+        <button data-level="turev" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer">
+          <span class="w-2.5 h-2.5 rounded-full bg-amber-500"></span> Türev Araçlar
+        </button>
+        <button data-level="gayrimenkul" class="level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer">
+          <span class="w-2.5 h-2.5 rounded-full bg-rose-500"></span> Gayrimenkul Değerleme
+        </button>
       </div>
 
       <!-- Course Cards Container -->
@@ -447,7 +472,7 @@
   </footer>
 
   <!-- JAVASCRIPT FILES -->
-  <script src="js/questions.js?v=20260802_8"></script>
-  <script src="js/app.js?v=20260802_8"></script>
+  <script src="js/questions.js?v=20260802_9"></script>
+  <script src="js/app.js?v=20260802_9"></script>
 </body>
 </html>

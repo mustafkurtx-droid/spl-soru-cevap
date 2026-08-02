@@ -104,8 +104,27 @@
     return null;
   }
 
+  function updateLevelFilterUI() {
+    document.querySelectorAll('.level-filter-btn').forEach(btn => {
+      const lvl = btn.getAttribute('data-level');
+      if (lvl === 'all') {
+        if (state.selectedLevels.length === 0) {
+          btn.className = 'level-filter-btn active px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all shadow-xs bg-sky-500 text-white border border-sky-500 cursor-pointer';
+        } else {
+          btn.className = 'level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 cursor-pointer';
+        }
+      } else {
+        if (state.selectedLevels.includes(lvl)) {
+          btn.className = 'level-filter-btn active px-3.5 py-1.5 rounded-xl text-xs font-bold transition-all shadow-md bg-sky-500 text-white border border-sky-500 flex items-center gap-1.5 cursor-pointer scale-105';
+        } else {
+          btn.className = 'level-filter-btn px-3.5 py-1.5 rounded-xl text-xs font-semibold transition-all bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:border-sky-500 flex items-center gap-1.5 cursor-pointer';
+        }
+      }
+    });
+  }
+
   // --- 1. DERS SEÇİM EKRANI RENDER ---
-  function renderCourseView() {
+    function renderCourseView() {
     switchView('course-view');
     const container = document.getElementById('course-cards-container');
     const searchInput = document.getElementById('course-search-input');
@@ -116,15 +135,32 @@
     const progress = getProgressData();
     container.innerHTML = '';
 
-    const filteredCourses = window.splVeritabani.filter(c => 
-      c.dersAdi.toLowerCase().includes(query) || (c.aciklama && c.aciklama.toLowerCase().includes(query))
-    );
+    const filteredCourses = window.splVeritabani.filter(c => {
+      const matchesSearch = !query || c.dersAdi.toLowerCase().includes(query) || 
+                            (c.aciklama && c.aciklama.toLowerCase().includes(query)) ||
+                            (c.kategori && c.kategori.toLowerCase().includes(query));
+      
+      let matchesLevel = true;
+      if (state.selectedLevels && state.selectedLevels.length > 0) {
+        matchesLevel = state.selectedLevels.some(lvl => {
+          if (c.duzeyler && c.duzeyler.includes(lvl)) return true;
+          const cat = (c.kategori || '').toLowerCase();
+          if (lvl === 'duzey1' && (cat.includes('düzey 1') || cat.includes('duzey 1'))) return true;
+          if (lvl === 'duzey2' && (cat.includes('düzey 2') || cat.includes('duzey 2'))) return true;
+          if (lvl === 'duzey3' && (cat.includes('düzey 3') || cat.includes('duzey 3'))) return true;
+          if (lvl === 'turev' && cat.includes('türev')) return true;
+          if (lvl === 'gayrimenkul' && cat.includes('gayrimenkul')) return true;
+          return false;
+        });
+      }
+      return matchesSearch && matchesLevel;
+    });
 
     if (filteredCourses.length === 0) {
       container.innerHTML = `
-        <div class="col-span-2 text-center py-12 text-slate-500">
-          <i class="fa-solid fa-folder-open text-4xl mb-3 block"></i>
-          Arama kriterine uygun ders bulunamadı.
+        <div class="col-span-2 text-center py-12 text-slate-500 dark:text-slate-400">
+          <i class="fa-solid fa-folder-open text-4xl mb-3 block opacity-50"></i>
+          Seçilen arama veya lisans kriterine uygun ders bulunamadı.
         </div>
       `;
       return;
@@ -136,8 +172,17 @@
       const completedTestCount = Object.keys(courseProgress).length;
       const totalTestCount = course.testler ? course.testler.length : 0;
 
+      const levelBadgesHtml = (course.duzeyler || []).map(l => {
+        if (l === 'duzey1') return '<span class="px-2 py-0.5 text-[11px] font-bold rounded-md bg-blue-100 dark:bg-blue-950/80 text-blue-700 dark:text-blue-300 border border-blue-300/40">Düzey 1</span>';
+        if (l === 'duzey2') return '<span class="px-2 py-0.5 text-[11px] font-bold rounded-md bg-emerald-100 dark:bg-emerald-950/80 text-emerald-700 dark:text-emerald-300 border border-emerald-300/40">Düzey 2</span>';
+        if (l === 'duzey3') return '<span class="px-2 py-0.5 text-[11px] font-bold rounded-md bg-purple-100 dark:bg-purple-950/80 text-purple-700 dark:text-purple-300 border border-purple-300/40">Düzey 3</span>';
+        if (l === 'turev') return '<span class="px-2 py-0.5 text-[11px] font-bold rounded-md bg-amber-100 dark:bg-amber-950/80 text-amber-700 dark:text-amber-300 border border-amber-300/40">Türev</span>';
+        if (l === 'gayrimenkul') return '<span class="px-2 py-0.5 text-[11px] font-bold rounded-md bg-rose-100 dark:bg-rose-950/80 text-rose-700 dark:text-rose-300 border border-rose-300/40">Gayrimenkul</span>';
+        return '';
+      }).join(' ');
+
       const card = document.createElement('div');
-      card.className = 'bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700/80 p-6 shadow-sm card-hover-effect cursor-pointer flex flex-col justify-between';
+      card.className = 'bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700/80 p-6 shadow-sm card-hover-effect cursor-pointer flex flex-col justify-between transition-all';
       card.onclick = () => {
         state.selectedCourseIndex = originalIndex;
         renderTestView(originalIndex);
@@ -145,10 +190,10 @@
 
       card.innerHTML = `
         <div>
-          <div class="flex items-center justify-between mb-3">
-            <span class="px-3 py-1 text-xs font-semibold rounded-lg bg-sky-100 dark:bg-sky-950 text-sky-700 dark:text-sky-300">
-              ${course.kategori || 'Lisanslama'}
-            </span>
+          <div class="flex items-center justify-between mb-3 flex-wrap gap-2">
+            <div class="flex items-center gap-1.5 flex-wrap">
+              ${levelBadgesHtml || `<span class="px-3 py-1 text-xs font-semibold rounded-lg bg-sky-100 dark:bg-sky-950 text-sky-700 dark:text-sky-300">${course.kategori || 'SPL Lisans'}</span>`}
+            </div>
             <span class="text-xs font-medium text-slate-400">
               <i class="fa-solid fa-layer-group text-sky-500 mr-1"></i> ${totalTestCount} Paket Test
             </span>
@@ -170,6 +215,7 @@
           </span>
         </div>
       `;
+
       container.appendChild(card);
     });
   }
@@ -633,6 +679,25 @@
       renderTestView(state.selectedCourseIndex);
     };
     document.getElementById('res-back-to-tests-btn').onclick = () => renderTestView(state.selectedCourseIndex);
+
+    // Level Multi-Select Filter Buttons
+    document.querySelectorAll('.level-filter-btn').forEach(btn => {
+      btn.onclick = () => {
+        const lvl = btn.getAttribute('data-level');
+        if (lvl === 'all') {
+          state.selectedLevels = [];
+        } else {
+          const idx = state.selectedLevels.indexOf(lvl);
+          if (idx > -1) {
+            state.selectedLevels.splice(idx, 1);
+          } else {
+            state.selectedLevels.push(lvl);
+          }
+        }
+        updateLevelFilterUI();
+        renderCourseView();
+      };
+    });
 
     // Search Input Event
     const searchInput = document.getElementById('course-search-input');

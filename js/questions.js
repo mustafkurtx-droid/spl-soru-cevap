@@ -2,7 +2,8 @@
  * ============================================================================
  * SPL (Sermaye Piyasası Lisanslama) SORU VERİTABANI (questions.js)
  * ============================================================================
- * Tüm SPL Düzey 3 ve Türev Araçlar Lisansı Modülleri Tam Liste (Modül 1001 - 1010)
+ * Modül Lisans Seviyeleri (duzeyler) Eklendi:
+ * duzey1, duzey2, duzey3, turev, gayrimenkul
  * ============================================================================
  */
 
@@ -10238,6 +10239,11 @@ const splVeritabani = [
           }
         ]
       }
+    ],
+    "duzeyler": [
+      "duzey2",
+      "duzey3",
+      "turev"
     ]
   },
   {
@@ -20471,6 +20477,11 @@ const splVeritabani = [
           }
         ]
       }
+    ],
+    "duzeyler": [
+      "duzey2",
+      "duzey3",
+      "turev"
     ]
   },
   {
@@ -20568,6 +20579,10 @@ const splVeritabani = [
           }
         ]
       }
+    ],
+    "duzeyler": [
+      "duzey3",
+      "turev"
     ]
   },
   {
@@ -20607,6 +20622,10 @@ const splVeritabani = [
           }
         ]
       }
+    ],
+    "duzeyler": [
+      "duzey2",
+      "duzey3"
     ]
   },
   {
@@ -20633,6 +20652,10 @@ const splVeritabani = [
           }
         ]
       }
+    ],
+    "duzeyler": [
+      "duzey2",
+      "duzey3"
     ]
   },
   {
@@ -20659,6 +20682,11 @@ const splVeritabani = [
           }
         ]
       }
+    ],
+    "duzeyler": [
+      "duzey1",
+      "duzey2",
+      "duzey3"
     ]
   },
   {
@@ -20685,6 +20713,10 @@ const splVeritabani = [
           }
         ]
       }
+    ],
+    "duzeyler": [
+      "duzey3",
+      "turev"
     ]
   },
   {
@@ -20711,6 +20743,9 @@ const splVeritabani = [
           }
         ]
       }
+    ],
+    "duzeyler": [
+      "duzey3"
     ]
   },
   {
@@ -20737,6 +20772,9 @@ const splVeritabani = [
           }
         ]
       }
+    ],
+    "duzeyler": [
+      "duzey3"
     ]
   },
   {
@@ -20763,6 +20801,10 @@ const splVeritabani = [
           }
         ]
       }
+    ],
+    "duzeyler": [
+      "duzey3",
+      "gayrimenkul"
     ]
   }
 ];
