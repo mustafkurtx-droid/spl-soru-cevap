@@ -8743,24 +8743,8694 @@ const splVeritabani = [
       "duzey3",
       "turev"
     ],
-    "aciklama": "Borçlanma Araçları (Devlet Tahvili, Hazine Bonosu, Özel Sektör Tahvili), Eurobondlar, Kira Sertifikaları (Sukuk), Varlık ve İpotek Teminatlı Menkul Kıymetler.",
+    "aciklama": "Sermaye Piyasası Araçları 2 (1004) - İzahname, Satış Tebliği, VTMK/İTMK, Kira Sertifikaları (VKŞ), Gayrimenkul Sertifikaları, Varrantlar ve Yabancı Araçlar. 25 Konu Testi, 1 Çıkmış Sorular Paketi (Test 26) ve 10 Genel Deneme Sınavı. (Toplam 36 Test)",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: Sermaye Piyasası Araçları 2 Temel Esaslar",
+        "testAdi": "Test 1: İzahname ve İhraç Belgesi Tebliği (II-5.1) - I",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #1: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #1 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 1
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #2: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #2 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 2
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #3: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #3 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 3
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #4: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #4 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 4
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #5: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #5 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 5
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #6: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #6 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 6
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #7: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #7 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 7
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #8: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #8 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 8
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #9: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #9 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 9
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #10: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #10 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 10
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #11: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #11 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 11
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #12: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #12 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 12
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #13: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #13 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 13
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #14: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #14 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 14
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #15: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #15 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 15
+          }
+        ]
+      },
+      {
+        "testId": 2,
+        "testAdi": "Test 2: İzahname ve İhraç Belgesi Tebliği (II-5.1) - II",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #16: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #16 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 16
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #17: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #17 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 17
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #18: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #18 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 18
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #19: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #19 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 19
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #20: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #20 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 20
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #21: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #21 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 21
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #22: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #22 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 22
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #23: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #23 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 23
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #24: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #24 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 24
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #25: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #25 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 25
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #26: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #26 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 26
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #27: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #27 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 27
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #28: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #28 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 28
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #29: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #29 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 29
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #30: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #30 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 30
+          }
+        ]
+      },
+      {
+        "testId": 3,
+        "testAdi": "Test 3: İzahname Muafiyetleri ve Onay Süreçleri",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #31: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #31 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 31
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #32: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #32 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 32
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #33: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #33 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 33
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #34: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #34 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 34
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #35: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #35 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 35
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #36: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #36 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 36
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #37: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #37 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 37
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #38: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #38 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 38
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #39: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #39 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 39
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #40: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #40 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 40
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #41: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #41 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 41
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #42: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #42 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 42
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #43: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #43 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 43
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #44: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #44 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 44
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #45: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #45 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 45
+          }
+        ]
+      },
+      {
+        "testId": 4,
+        "testAdi": "Test 4: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) - I",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #46: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #46 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 46
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #47: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #47 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 47
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #48: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #48 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 48
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #49: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #49 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 49
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #50: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #50 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 50
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #51: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #51 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 51
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #52: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #52 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 52
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #53: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #53 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 53
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #54: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #54 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 54
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #55: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #55 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 55
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #56: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #56 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 56
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #57: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #57 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 57
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #58: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #58 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 58
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #59: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #59 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 59
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #60: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #60 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 60
+          }
+        ]
+      },
+      {
+        "testId": 5,
+        "testAdi": "Test 5: Halka Arz Satış Yöntemleri ve Tahsisat Esasları",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #61: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #61 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 61
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #62: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #62 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 62
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #63: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #63 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 63
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #64: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #64 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 64
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #65: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #65 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 65
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #66: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #66 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 66
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #67: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #67 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 67
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #68: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #68 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 68
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #69: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #69 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 69
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #70: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #70 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 70
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #71: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #71 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 71
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #72: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #72 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 72
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #73: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #73 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 73
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #74: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #74 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 74
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #75: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #75 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 75
+          }
+        ]
+      },
+      {
+        "testId": 6,
+        "testAdi": "Test 6: Halka Arz Satış Süreleri ve Sirküler Düzenleme",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #76: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #76 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 76
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #77: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #77 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 77
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #78: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #78 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 78
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #79: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #79 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 79
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #80: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #80 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 80
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #81: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #81 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 81
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #82: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #82 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 82
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #83: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #83 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 83
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #84: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #84 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 84
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #85: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #85 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 85
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #86: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #86 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 86
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #87: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #87 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 87
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #88: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #88 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 88
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #89: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #89 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 89
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #90: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #90 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 90
+          }
+        ]
+      },
+      {
+        "testId": 7,
+        "testAdi": "Test 7: Varlık Finansmanına İlişkin Menkul Kıymetler (VFF ve KFF)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #91: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #91 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 91
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #92: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #92 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 92
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #93: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #93 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 93
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #94: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #94 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 94
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #95: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #95 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 95
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #96: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #96 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 96
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #97: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #97 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 97
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #98: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #98 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 98
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #99: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #99 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 99
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #100: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #100 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 100
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #101: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #101 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 101
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #102: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #102 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 102
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #103: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #103 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 103
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #104: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #104 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 104
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #105: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #105 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 105
+          }
+        ]
+      },
+      {
+        "testId": 8,
+        "testAdi": "Test 8: Varlığa veya İpoteğe Dayalı Menkul Kıymetler (III-58.1)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #106: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #106 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 106
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #107: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #107 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 107
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #108: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #108 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 108
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #109: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #109 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 109
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #110: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #110 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 110
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #111: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #111 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 111
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #112: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #112 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 112
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #113: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #113 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 113
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #114: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #114 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 114
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #115: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #115 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 115
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #116: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #116 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 116
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #117: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #117 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 117
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #118: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #118 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 118
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #119: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #119 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 119
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #120: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #120 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 120
+          }
+        ]
+      },
+      {
+        "testId": 9,
+        "testAdi": "Test 9: Teminatlı Menkul Kıymetler Tebliği (III-59.1) ve VTMK",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #121: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #121 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 121
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #122: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #122 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 122
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #123: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #123 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 123
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #124: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #124 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 124
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #125: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #125 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 125
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #126: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #126 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 126
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #127: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #127 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 127
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #128: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #128 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 128
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #129: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #129 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 129
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #130: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #130 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 130
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #131: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #131 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 131
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #132: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #132 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 132
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #133: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #133 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 133
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #134: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #134 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 134
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #135: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #135 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 135
+          }
+        ]
+      },
+      {
+        "testId": 10,
+        "testAdi": "Test 10: Teminatlı Menkul Kıymetlerde Teminat Uyum İlkeleri",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #136: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #136 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 136
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #137: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #137 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 137
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #138: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #138 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 138
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #139: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #139 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 139
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #140: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #140 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 140
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #141: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #141 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 141
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #142: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #142 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 142
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #143: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #143 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 143
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #144: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #144 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 144
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #145: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #145 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 145
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #146: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #146 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 146
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #147: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #147 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 147
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #148: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #148 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 148
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #149: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #149 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 149
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #150: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #150 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 150
+          }
+        ]
+      },
+      {
+        "testId": 11,
+        "testAdi": "Test 11: Faizsiz Finans Araçları ve Kavramsal Çerçeve",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #151: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #151 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 151
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #152: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #152 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 152
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #153: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #153 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 153
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #154: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #154 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 154
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #155: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #155 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 155
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #156: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #156 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 156
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #157: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #157 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 157
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #158: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #158 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 158
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #159: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #159 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 159
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #160: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #160 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 160
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #161: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #161 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 161
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #162: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #162 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 162
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #163: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #163 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 163
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #164: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #164 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 164
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #165: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #165 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 165
+          }
+        ]
+      },
+      {
+        "testId": 12,
+        "testAdi": "Test 12: Kira Sertifikaları Tebliği (III-61.1) ve Türleri",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #166: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #166 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 166
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #167: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #167 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 167
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #168: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #168 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 168
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #169: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #169 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 169
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #170: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #170 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 170
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #171: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #171 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 171
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #172: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #172 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 172
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #173: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #173 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 173
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #174: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #174 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 174
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #175: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #175 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 175
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #176: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #176 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 176
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #177: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #177 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 177
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #178: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #178 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 178
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #179: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #179 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 179
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #180: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #180 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 180
+          }
+        ]
+      },
+      {
+        "testId": 13,
+        "testAdi": "Test 13: Varlık Kiralama Şirketleri (VKŞ) Kurucuları ve Esasları",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #181: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #181 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 181
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #182: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #182 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 182
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #183: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #183 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 183
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #184: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #184 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 184
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #185: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #185 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 185
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #186: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #186 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 186
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #187: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #187 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 187
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #188: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #188 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 188
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #189: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #189 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 189
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #190: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #190 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 190
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #191: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #191 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 191
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #192: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #192 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 192
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #193: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #193 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 193
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #194: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #194 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 194
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #195: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #195 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 195
+          }
+        ]
+      },
+      {
+        "testId": 14,
+        "testAdi": "Test 14: Gayrimenkul Sertifikaları Tebliği (VII-128.2) - I",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #196: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #196 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 196
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #197: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #197 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 197
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #198: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #198 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 198
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #199: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #199 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 199
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #200: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #200 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 200
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #201: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #201 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 201
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #202: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #202 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 202
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #203: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #203 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 203
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #204: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #204 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 204
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #205: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #205 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 205
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #206: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #206 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 206
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #207: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #207 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 207
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #208: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #208 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 208
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #209: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #209 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 209
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #210: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #210 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 210
+          }
+        ]
+      },
+      {
+        "testId": 15,
+        "testAdi": "Test 15: Gayrimenkul Sertifikalarında Edim Türleri ve Raporlar",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #211: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #211 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 211
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #212: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #212 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 212
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #213: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #213 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 213
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #214: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #214 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 214
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #215: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #215 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 215
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #216: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #216 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 216
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #217: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #217 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 217
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #218: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #218 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 218
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #219: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #219 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 219
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #220: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #220 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 220
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #221: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #221 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 221
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #222: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #222 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 222
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #223: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #223 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 223
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #224: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #224 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 224
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #225: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #225 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 225
+          }
+        ]
+      },
+      {
+        "testId": 16,
+        "testAdi": "Test 16: Varrantlar ve Yatırım Kuruluşu Sertifikaları (VII-128.3) - I",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #226: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #226 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 226
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #227: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #227 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 227
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #228: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #228 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 228
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #229: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #229 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 229
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #230: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #230 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 230
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #231: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #231 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 231
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #232: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #232 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 232
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #233: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #233 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 233
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #234: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #234 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 234
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #235: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #235 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 235
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #236: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #236 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 236
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #237: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #237 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 237
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #238: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #238 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 238
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #239: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #239 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 239
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #240: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #240 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 240
+          }
+        ]
+      },
+      {
+        "testId": 17,
+        "testAdi": "Test 17: Varrant Dayanak Varlıkları ve Ortaklık Varrantları",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #241: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #241 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 241
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #242: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #242 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 242
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #243: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #243 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 243
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #244: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #244 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 244
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #245: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #245 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 245
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #246: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #246 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 246
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #247: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #247 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 247
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #248: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #248 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 248
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #249: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #249 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 249
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #250: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #250 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 250
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #251: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #251 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 251
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #252: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #252 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 252
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #253: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #253 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 253
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #254: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #254 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 254
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #255: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #255 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 255
+          }
+        ]
+      },
+      {
+        "testId": 18,
+        "testAdi": "Test 18: Bonus Sertifikalar ve İskontolu Sertifikalar",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #256: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #256 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 256
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #257: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #257 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 257
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #258: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #258 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 258
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #259: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #259 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 259
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #260: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #260 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 260
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #261: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #261 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 261
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #262: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #262 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 262
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #263: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #263 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 263
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #264: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #264 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 264
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #265: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #265 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 265
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #266: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #266 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 266
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #267: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #267 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 267
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #268: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #268 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 268
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #269: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #269 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 269
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #270: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #270 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 270
+          }
+        ]
+      },
+      {
+        "testId": 19,
+        "testAdi": "Test 19: Yabancı Sermaye Piyasası Araçları ve Halka Arz Şartları",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #271: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #271 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 271
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #272: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #272 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 272
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #273: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #273 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 273
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #274: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #274 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 274
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #275: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #275 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 275
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #276: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #276 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 276
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #277: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #277 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 277
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #278: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #278 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 278
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #279: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #279 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 279
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #280: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #280 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 280
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #281: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #281 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 281
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #282: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #282 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 282
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #283: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #283 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 283
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #284: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #284 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 284
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #285: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #285 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 285
+          }
+        ]
+      },
+      {
+        "testId": 20,
+        "testAdi": "Test 20: Depo Sertifikaları (Depositary Receipts) ve İşleyişi",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #286: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #286 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 286
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #287: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #287 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 287
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #288: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #288 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 288
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #289: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #289 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 289
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #290: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #290 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 290
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #291: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #291 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 291
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #292: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #292 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 292
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #293: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #293 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 293
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #294: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #294 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 294
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #295: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #295 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 295
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #296: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #296 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 296
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #297: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #297 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 297
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #298: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #298 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 298
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #299: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #299 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 299
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #300: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #300 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 300
+          }
+        ]
+      },
+      {
+        "testId": 21,
+        "testAdi": "Test 21: Projeye Dayalı Menkul Kıymetler (PDMK) Tebliği",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #301: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #301 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 301
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #302: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #302 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 302
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #303: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #303 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 303
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #304: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #304 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 304
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #305: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #305 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 305
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #306: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #306 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 306
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #307: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #307 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 307
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #308: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #308 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 308
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #309: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #309 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 309
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #310: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #310 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 310
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #311: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #311 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 311
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #312: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #312 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 312
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #313: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #313 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 313
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #314: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #314 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 314
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #315: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #315 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 315
+          }
+        ]
+      },
+      {
+        "testId": 22,
+        "testAdi": "Test 22: Teminatlı İhraç Esasları (III-60.1) ve Teminat Yöneticisi",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #316: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #316 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 316
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #317: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #317 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 317
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #318: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #318 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 318
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #319: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #319 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 319
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #320: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #320 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 320
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #321: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #321 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 321
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #322: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #322 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 322
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #323: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #323 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 323
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #324: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #324 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 324
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #325: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #325 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 325
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #326: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #326 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 326
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #327: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #327 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 327
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #328: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #328 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 328
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #329: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #329 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 329
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #330: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #330 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 330
+          }
+        ]
+      },
+      {
+        "testId": 23,
+        "testAdi": "Test 23: Borçlanma Araçları İhraç Şartları ve Vade Esasları",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #331: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #331 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 331
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #332: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #332 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 332
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #333: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #333 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 333
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #334: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #334 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 334
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #335: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #335 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 335
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #336: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #336 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 336
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #337: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #337 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 337
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #338: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #338 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 338
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #339: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #339 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 339
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #340: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #340 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 340
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #341: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #341 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 341
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #342: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #342 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 342
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #343: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #343 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 343
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #344: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #344 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 344
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #345: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #345 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 345
+          }
+        ]
+      },
+      {
+        "testId": 24,
+        "testAdi": "Test 24: Özel İhraç Türleri ve Nitelikli Yatırımcı Satışları",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #346: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #346 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 346
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #347: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #347 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 347
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #348: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #348 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 348
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #349: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #349 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 349
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #350: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #350 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 350
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #351: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #351 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 351
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #352: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #352 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 352
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #353: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #353 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 353
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #354: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #354 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 354
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #355: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #355 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 355
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #356: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #356 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 356
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #357: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #357 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 357
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #358: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #358 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 358
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #359: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #359 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 359
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #360: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #360 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 360
+          }
+        ]
+      },
+      {
+        "testId": 25,
+        "testAdi": "Test 25: Genel Sermaye Piyasası Araçları 2 Değerlendirme Testi",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #361: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #361 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 361
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #362: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #362 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 362
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #363: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #363 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 363
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #364: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #364 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 364
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #365: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #365 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 365
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #366: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #366 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 366
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #367: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #367 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 367
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #368: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #368 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 368
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #369: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #369 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 369
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #370: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #370 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 370
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #371: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #371 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 371
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #372: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #372 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 372
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #373: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #373 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 373
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #374: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #374 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 374
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #375: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #375 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 375
+          }
+        ]
+      },
+      {
+        "testId": 26,
+        "testAdi": "Test 26: PDF'deki Çıkmış Örnek Sorular Özel Paketi (24 Soru)",
+        "testTuru": "konu",
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "1004 - Sermaye Piyasası Araçları 2 kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
+            "soruMetni": "Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
             "secenekler": {
-              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
-              "B": "Sadece mevduat bankaları işlem yapabilir",
-              "C": "Garanti getiri vaat etmek serbesttir",
-              "D": "Tüm işlemler gizli yürütülür",
-              "E": "Tebliğler bakanlıkça çıkarılır"
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca halka arz edilecek payların nominal değerinin en az %15'inin yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur. [Kazanım: II-5.2 Halka Arz Tahsisat Esasları]"
+          },
+          {
+            "id": 2,
+            "soruMetni": "Aşağıdaki durumlardan hangisinde izahname düzenlenmesi zorunluluğundan muafiyet tanınmıştır?",
+            "secenekler": {
+              "A": "Payları borsada işlem gören şirketlerin 12 aylık dönemde ödenmiş sermayelerinin %10'undan az kısmını temsil eden bedelli pay ihracında",
+              "B": "Payların ilk defa halka arz edilmesinde",
+              "C": "Halka açık olmayan anonim ortaklığın borçlanma aracı ihracında",
+              "D": "Genel kurula sunulacak tüm sermaye artırımlarında",
+              "E": "Niteliksiz yatırımcılara yapılan tüm satışlarda"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
+            "cozum": "İzahname ve İhraç Belgesi Tebliği (II-5.1) m. 6 uyarınca borsada işlem gören payların 12 aylık dönemde %10'undan az kısmını oluşturan bedelli pay ihraçları izahname muafiyetine tabidir. [Kazanım: II-5.1 İzahname Muafiyetleri]"
+          },
+          {
+            "id": 3,
+            "soruMetni": "Halka açık olmayan ortaklıkların paylarının ilk defa halka arzında, 16 Mayıs - 15 Ağustos dönemi kapsamında payların halka arz edilmesi halinde, izahnamede aşağıdaki finansal tablolardan hangisine yer verilmesi gereklidir?",
+            "secenekler": {
+              "A": "Son 3 yıllık ve en son 3 aylık (ara dönem) finansal tablolar",
+              "B": "Sadece son 1 yıllık finansal tablolar",
+              "C": "Son 5 yıllık denetlenmiş tablolar",
+              "D": "Sadece 6 aylık yönetim raporları",
+              "E": "Geleceğe yönelik proprojeksiyon raporları"
+            },
+            "dogruCevap": "A",
+            "cozum": "İzahname Tebliği ekindeki finansal tablo hazırlama takvimine göre 16 Mayıs - 15 Ağustos tarihleri arasındaki halka arzlarda son 3 yıllık ve en son ilk 3 aylık ara dönem finansal tablolar yayımlanır. [Kazanım: II-5.1 Finansal Tablo Dönemleri]"
+          },
+          {
+            "id": 4,
+            "soruMetni": "Aşağıdakilerden hangisi halka arz satış yöntemlerinden biri DEĞİLDİR?",
+            "secenekler": {
+              "A": "Tahsisli Satış",
+              "B": "Talep Toplanmaksızın Satış",
+              "C": "Fiyat Teklifi Alarak Talep Toplama Yöntemi",
+              "D": "Sabit Fiyatla Talep Toplama Yöntemi",
+              "E": "Borsada Satış"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tahsisli satış, halka arz edilmeksizin doğrudan belirlenen kişilere yapılan satıştır; halka arz satış yöntemi değildir. [Kazanım: II-5.2 Satış Yöntemleri]"
+          },
+          {
+            "id": 5,
+            "soruMetni": "İzahnamesi onaylanan bir şirket için sermaye piyasası araçlarının halka arz satış süresi en az ve en fazla kaç iş günüdür?",
+            "secenekler": {
+              "A": "En az 2 iş günü, en fazla 20 iş günü",
+              "B": "En az 1 iş günü, en fazla 5 iş günü",
+              "C": "En az 3 iş günü, en fazla 30 iş günü",
+              "D": "En az 5 iş günü, en fazla 10 iş günü",
+              "E": "En az 10 iş günü, en fazla 60 iş günü"
+            },
+            "dogruCevap": "A",
+            "cozum": "Sermaye Piyasası Araçlarının Satışı Tebliği uyarınca halka arz satış süresi en az 2 iş günü, en fazla 20 iş günü olarak belirlenir. [Kazanım: II-5.2 Satış Süreleri]"
+          },
+          {
+            "id": 6,
+            "soruMetni": "Sermaye piyasası araçlarının halka arzı öncesinde tasarruf sahiplerine satış şartlarını ve detaylarını duyuran ilan metnine ne ad verilir?",
+            "secenekler": {
+              "A": "Sirküler (Tasarruf Sahiplerine Satış Duyurusu)",
+              "B": "İzahname",
+              "C": "İhraç Belgesi",
+              "D": "Faaliyet Raporu",
+              "E": "Derecelendirme Raporu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Halka arzda izahnamenin yanı sıra alım-satım yerlerini ve şartlarını duyuran ilan belgesi Sirküler (Tasarruf Sahiplerine Satış Duyurusu) olarak adlandırılır. [Kazanım: II-5.2 Sirküler Esasları]"
+          },
+          {
+            "id": 7,
+            "soruMetni": "Aşağıdaki kuruluşlardan hangisi bir fon kurmaksızın doğrudan kendi bilançosundaki varlıklara dayalı Varlığa İpotekle Dayalı Menkul Kıymet (VİDMK) ihraç edebilir?",
+            "secenekler": {
+              "A": "İpotek Finansmanı Kuruluşu",
+              "B": "Gayrimenkul Yatırım Ortaklığı",
+              "C": "Portföy Yönetim Şirketi",
+              "D": "Faktöring Şirketleri",
+              "E": "Aracı Kurumlar"
+            },
+            "dogruCevap": "A",
+            "cozum": "İpotek Finansmanı Kuruluşları fon kurmaksızın kendi bilançolarında yer alan ipotekli alacaklara dayalı VİDMK ihraç etme yetkisine sahiptir. [Kazanım: III-58.1 İTMK ve VİDMK İhraççıları]"
+          },
+          {
+            "id": 8,
+            "soruMetni": "Aşağıdakilerden hangisi İpotek Teminatlı Menkul Kıymet (İTMK) ihracına teminat olarak gösterilemez?",
+            "secenekler": {
+              "A": "Sigorta şirketlerinin alacakları",
+              "B": "Hazine ve Maliye Bakanlığınca kurulan varlık kiralama şirketleri tarafından ihraç edilen kira sertifikaları",
+              "C": "Bankaların sicilde ipotek tesis edilmek suretiyle teminat altına alınmış konut finansman alacakları",
+              "D": "Devlet iç borçlanma senetleri (DİBS)",
+              "E": "İpotek finansmanı kuruluşlarının konut kredisi alacakları"
+            },
+            "dogruCevap": "A",
+            "cozum": "İTMK Tebliği (III-59.1) uyarınca teminat havuzuna sadece konut ve yapı finansmanı alacakları, DİBS ve onaylı kira sertifikaları alınabilir; sigorta şirketlerinin alacakları teminat olamaz. [Kazanım: III-59.1 İTMK Teminat Varlıkları]"
+          },
+          {
+            "id": 9,
+            "soruMetni": "Aşağıdakilerden hangisi Varlık Teminatlı Menkul Kıymet (VTMK) ihracında teminat havuzuna karşılık gösterilemez?",
+            "secenekler": {
+              "A": "Vadesi 3 aydan kısa mevduat hesapları",
+              "B": "Finansman şirketlerinin tüketici kredilerinden kaynaklanan alacakları",
+              "C": "Bankaların tüketici kredilerinden kaynaklanan alacakları",
+              "D": "TCMB tarafından ihraç edilen likidite senetleri",
+              "E": "Sigortalanmış faktöring alacakları"
+            },
+            "dogruCevap": "A",
+            "cozum": "VTMK Tebliği (III-59.1) gereğince 3 aydan kısa süreli mevduat hesapları teminat havuzuna aktarılamaz. [Kazanım: III-59.1 VTMK Teminat Varlıkları]"
+          },
+          {
+            "id": 10,
+            "soruMetni": "Aşağıdaki kuruluşlardan hangisi münhasıran yalnızca İpotek Teminatlı Menkul Kıymet (İTMK) ihraç etmeye yetkilidir?",
+            "secenekler": {
+              "A": "Konut Finansmanı Kuruluşu",
+              "B": "Konut Finansmanı Fonu",
+              "C": "Finansal Kiralama Şirketleri",
+              "D": "Faktöring Şirketleri",
+              "E": "Portföy Yönetim Şirketleri"
+            },
+            "dogruCevap": "A",
+            "cozum": "Konut Finansmanı Kuruluşları bilançolarındaki konut kredisi varlıklarına dayalı İTMK ihraç edebilir. [Kazanım: III-59.1 İTMK İhraç Yetkisi]"
+          },
+          {
+            "id": 11,
+            "soruMetni": "Varlık Teminatlı Menkul Kıymetler (VTMK) ihracına ilişkin teminat uyum ilkelerinin ihlalinin ihraççı tarafından tespit edilmesi halinde, kaç ay içinde uyumun yeniden sağlanması zorunludur?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "4 Ay",
+              "E": "5 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Teminatlı Menkul Kıymetler Tebliği uyarınca teminat uyum ilkelerindeki eksikliklerin ihraççı tarafından tespiti halinde en geç 1 ay içinde uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum İlkeleri]"
+          },
+          {
+            "id": 12,
+            "soruMetni": "Aşağıdaki faizsiz finansman yöntemlerinden hangisinde kâr/faiz veya ek bir karşılık söz konusu DEĞİLDİR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Karz-ı Hasen (güzel borç), borç verene hiçbir ilave karşılık, menfaat veya kâr payı sağlamayan karşılıksız borç verme yöntemidir. [Kazanım: Faizsiz Finans Kavramsal Çerçeve]"
+          },
+          {
+            "id": 13,
+            "soruMetni": "Kira Sertifikaları Tebliği (III-61.1) uyarınca aşağıdakilerden hangisi tarafından Varlık Kiralama Şirketi (VKŞ) kurulamaz?",
+            "secenekler": {
+              "A": "Gayrimenkul Yatırım Fonları",
+              "B": "Bankalar",
+              "C": "Portföy aracılığı yapan aracı kurumlar",
+              "D": "İpotek finansmanı kuruluşları",
+              "E": "Payları borsada işlem gören Gayrimenkul Yatırım Ortaklıkları (GYO)"
+            },
+            "dogruCevap": "A",
+            "cozum": "VKŞ kurabilecek kuruluşlar III-61.1 sayılı Tebliğde sayılmıştır. Gayrimenkul Yatırım Fonlarının VKŞ kurma yetkisi bulunmamaktadır. [Kazanım: III-61.1 VKŞ Kurucuları]"
+          },
+          {
+            "id": 14,
+            "soruMetni": "Kira sertifikası ihraç etmek üzere münhasıran anonim şirket şeklinde kurulan sermaye piyasası kurumuna ne ad verilir?",
+            "secenekler": {
+              "A": "Varlık Kiralama Şirketi (VKŞ)",
+              "B": "Portföy Yönetim Şirketi",
+              "C": "Fon Kullanıcısı",
+              "D": "Kaynak Kuruluş",
+              "E": "Portföy Saklama Şirketi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kira sertifikaları sadece VKŞ (Varlık Kiralama Şirketleri) tarafından ihraç edilebilen özel amaçlı sermaye piyasası aracıdır. [Kazanım: III-61.1 VKŞ Tanımı]"
+          },
+          {
+            "id": 15,
+            "soruMetni": "Bir emtianın önceden anlaşılan bir kâr payı üzerinden fon ihtiyacı olan tarafa vadeli satılması, fon ihtiyacı olan tarafın da bu emtiayı peşin olarak üçüncü bir tarafa satmasıyla finansman sağlayan İslami finansman yöntemi hangisidir?",
+            "secenekler": {
+              "A": "Murabaha (Teverruk)",
+              "B": "İcara",
+              "C": "İstısna",
+              "D": "Mudaraba",
+              "E": "Müşaraka"
+            },
+            "dogruCevap": "A",
+            "cozum": "Alım-satıma dayalı kira sertifikası ihracında da kullanılan maliyet+kâr marjlı vadeli satış yöntemi Murabaha olarak adlandırılır. [Kazanım: Faizsiz Finans Yöntemleri]"
+          },
+          {
+            "id": 16,
+            "soruMetni": "Gayrimenkul sertifikaları ihracında aşağıdaki raporlardan hangisi düzenlenemez / yer almaz?",
+            "secenekler": {
+              "A": "Risk tespit raporu",
+              "B": "Yatırımcı bilgi formu",
+              "C": "Fizibilite raporu",
+              "D": "İnşaat ilerleme raporu",
+              "E": "Gayrimenkul değerleme raporu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Gayrimenkul Sertifikaları Tebliği (VII-128.2) kapsamında değerleme, fizibilite, inşaat ilerleme ve fiyat tespit raporları düzenlenir; 'Risk tespit raporu' isimli bir belge yoktur. [Kazanım: VII-128.2 Gayrimenkul Sertifikası Raporları]"
+          },
+          {
+            "id": 17,
+            "soruMetni": "Gayrimenkul sertifikaları ihracına ilişkin aşağıdaki ifadelerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Gayrimenkul sertifikaları yurt içinde halka arz edilerek, halka arz edilmeksizin veya yurt dışında ihraç edilebilir.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece halka açık şirketlerce ihraç edilir.",
+              "D": "İhraç süresi sınırsızdır.",
+              "E": "Yalnızca bankalar ihraç edebilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Gayrimenkul sertifikaları yurt içinde halka arz edilerek, halka arz edilmeksizin veya yurt dışında ihraç edilme imkânına sahiptir. [Kazanım: VII-128.2 Gayrimenkul Sertifikası İhraç Şekilleri]"
+          },
+          {
+            "id": 18,
+            "soruMetni": "Gayrimenkul sertifikalarının sunduğu edimler hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Edimler asli edim (bağımsız bölümün mülkiyeti) ve tali edim (nakdi ödeme) olarak sınıflandırılır.",
+              "B": "Sadece nakdi edim mevcuttur.",
+              "C": "Edim seçeneği bulunmamaktadır.",
+              "D": "Asli edim sadece ortaklık payıdır.",
+              "E": "Tali edim kullanımı zorunludur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin edinilmesi asli edim, inşaat sonunda satıştan elde edilecek tutarın nakden ödenmesi tali edimdir. [Kazanım: VII-128.2 Edim Türleri]"
+          },
+          {
+            "id": 19,
+            "soruMetni": "SPK düzenlemeleri uyarınca yatırım kuruluşu varantlarına dayanak teşkil eden varlık veya göstergeler arasında aşağıdakilerden hangisi yer ALMAZ?",
+            "secenekler": {
+              "A": "Gayrimenkul sertifikası",
+              "B": "Emtia",
+              "C": "Kıymetli maden",
+              "D": "BİST-100 endeksinde yer alan paylar",
+              "E": "Konvertibl döviz"
+            },
+            "dogruCevap": "A",
+            "cozum": "Varantlar Tebliği (VII-128.3) uyarınca paylar, endeksler, döviz, emtia ve kıymetli madenler dayanak varlık olabilir; gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varant Dayanak Varlıkları]"
+          },
+          {
+            "id": 20,
+            "soruMetni": "Dayanak varlığı almaktansa yatırımcıları sertifika almaya teşvik eden ve dayanak fiyatının önceden belirlenmiş bariyerin altına düşmemesi halinde belirli bir geri ödeme fiyatını garanti eden sermaye piyasası aracı hangisidir?",
+            "secenekler": {
+              "A": "Bonus Sertifikalar (Prim ödeyen sertifika)",
+              "B": "Yatırım kuruluşu varantı",
+              "C": "İskontolu Sertifikalar",
+              "D": "Ortaklık Varantı",
+              "E": "Endeks Sertifikaları"
+            },
+            "dogruCevap": "A",
+            "cozum": "Bariyer seviyesi koruması sağlayarak kâr/geri ödeme imkânı sunan yatırım kuruluşu sertifikaları Bonus Sertifika olarak adlandırılır. [Kazanım: VII-128.3 Sertifika Türleri]"
+          },
+          {
+            "id": 21,
+            "soruMetni": "Ortaklık varantları hakkında aşağıdakilerden hangisi söylenebilir / DOĞRUDUR?",
+            "secenekler": {
+              "A": "Payları borsada işlem gören veya ilk defa halka arz edilecek ortaklıklar tarafından sadece kendi payları üzerine yazılı olarak ihraç edilebilir.",
+              "B": "Başka şirket payları üzerine ihraç edilebilir.",
+              "C": "Vadesi 10 yıldan fazla olabilir.",
+              "D": "Yalnızca aracı kurumlar ihraç edebilir.",
+              "E": "Devredilmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Ortaklık varantları, ihraççı ortaklığın sadece kendi paylarını alma hakkı veren ve ihraççı ortaklık tarafından çıkarılan sermaye piyasası araçlarıdır. [Kazanım: VII-128.3 Ortaklık Varantları]"
+          },
+          {
+            "id": 22,
+            "soruMetni": "Aşağıdakilerden hangisi Türkiye’de yabancı sermaye piyasası araçlarının halka arz edilebilmesi için gereken ön şartlardan biri DEĞİLDİR?",
+            "secenekler": {
+              "A": "Yabancı ortaklıkların pay dışındaki ihraçlarında başvuru tarihinden önceki 1 yıl içerisinde bir derecelendirme kuruluşundan AAA notu alması zorunluluğu",
+              "B": "Borsada işlem görme başvurusunun veya ihracının reddedilmemiş olması",
+              "C": "TL hariç herhangi başka bir para biriminden ihraç edilmiş olması",
+              "D": "Devir veya tedavülünü kısıtlayıcı haklar bulunmaması",
+              "E": "İhraç edildikleri ülkede mali haklar ile ilgili işlem ve ödemelere kısıtlama bulunmaması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Yabancı Sermaye Piyasası Araçları Tebliği uyarınca AAA notu şartı yoktur; en az yatırım yapılabilir (investment grade) seviyesinde kredi notu almak yeterlidir. [Kazanım: Yabancı Sermaye Piyasası Araçları Şartları]"
+          },
+          {
+            "id": 23,
+            "soruMetni": "Aşağıdakilerden hangisi depo sertifikalarının (Depositary Receipts) yatırımcıya sağladığı faydalardan biri DEĞİLDİR?",
+            "secenekler": {
+              "A": "İşlem gördüğü ülkenin düzenlemelerine tabi olması sonucunda yatırımcıların saat ve takas riskleriyle karşılaşarak mağdur olması",
+              "B": "Doğrudan yabancı menkul kıymetlere yatırım yapmaya kıyasla daha düşük maliyet sunması",
+              "C": "Yabancı hisse senedinin yerel piyasasındaki fiyatıyla işlem gördüğü için saat/kur farkından arbitraj imkânı sağlaması",
+              "D": "İşlem gördüğü piyasanın kendi para birimi cinsinden ihraç edilip alım satıma konu olması",
+              "E": "Uluslararası sermaye piyasalarından finansman imkânı sunması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Depo sertifikaları yerel saklama ve yerel para birimi kolaylığı sunarak yatırımcının saat, takas ve yabancı mevzuat karmaşasını ortadan kaldırır; mağduriyet bir fayda değildir. [Kazanım: Depo Sertifikaları İşleyişi]"
+          },
+          {
+            "id": 24,
+            "soruMetni": "Projeye Dayalı Menkul Kıymetler (PDMK) ihraç etmek amacıyla oluşturulan fonun yönetimi ve mal varlığının korunmasından kim sorumludur?",
+            "secenekler": {
+              "A": "Proje Finansmanı Fonu Kurucusu ve Teminat Yöneticisi",
+              "B": "MKK Genel Müdürlüğü",
+              "C": "Borsa İstanbul Yönetim Kurulu",
+              "D": "Ticaret Bakanlığı",
+              "E": "Kamu Gözetimi Kurumu"
+            },
+            "dogruCevap": "A",
+            "cozum": "PDMK Tebliği uyarınca Proje Finansmanı Fonu kurucusu ve Teminat Yöneticisi fon mal varlığı ile teminatların korunması ve yönetiminden sorumludur. [Kazanım: PDMK Tebliği Esasları]"
+          }
+        ]
+      },
+      {
+        "testId": 27,
+        "testAdi": "Deneme 1: Sermaye Piyasası Araçları 2 Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #376: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #376 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 400
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #377: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #377 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 401
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #378: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #378 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 402
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #379: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #379 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 403
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #380: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #380 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 404
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #381: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #381 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 405
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #382: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #382 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 406
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #383: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #383 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 407
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #384: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #384 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 408
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #385: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #385 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 409
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #386: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #386 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 410
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #387: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #387 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 411
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #388: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #388 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 412
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #389: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #389 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 413
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #390: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #390 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 414
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #391: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #391 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 415
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #392: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #392 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 416
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #393: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #393 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 417
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #394: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #394 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 418
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #395: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #395 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 419
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #396: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #396 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 420
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #397: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #397 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 421
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #398: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #398 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 422
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #399: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #399 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 423
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #400: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #400 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 424
+          }
+        ]
+      },
+      {
+        "testId": 28,
+        "testAdi": "Deneme 2: Sermaye Piyasası Araçları 2 Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #401: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #401 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 425
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #402: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #402 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 426
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #403: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #403 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 427
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #404: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #404 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 428
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #405: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #405 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 429
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #406: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #406 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 430
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #407: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #407 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 431
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #408: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #408 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 432
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #409: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #409 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 433
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #410: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #410 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 434
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #411: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #411 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 435
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #412: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #412 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 436
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #413: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #413 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 437
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #414: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #414 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 438
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #415: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #415 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 439
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #416: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #416 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 440
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #417: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #417 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 441
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #418: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #418 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 442
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #419: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #419 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 443
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #420: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #420 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 444
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #421: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #421 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 445
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #422: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #422 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 446
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #423: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #423 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 447
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #424: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #424 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 448
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #425: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #425 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 449
+          }
+        ]
+      },
+      {
+        "testId": 29,
+        "testAdi": "Deneme 3: Sermaye Piyasası Araçları 2 Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #426: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #426 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 450
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #427: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #427 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 451
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #428: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #428 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 452
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #429: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #429 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 453
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #430: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #430 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 454
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #431: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #431 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 455
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #432: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #432 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 456
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #433: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #433 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 457
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #434: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #434 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 458
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #435: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #435 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 459
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #436: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #436 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 460
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #437: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #437 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 461
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #438: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #438 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 462
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #439: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #439 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 463
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #440: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #440 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 464
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #441: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #441 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 465
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #442: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #442 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 466
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #443: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #443 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 467
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #444: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #444 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 468
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #445: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #445 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 469
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #446: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #446 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 470
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #447: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #447 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 471
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #448: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #448 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 472
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #449: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #449 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 473
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #450: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #450 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 474
+          }
+        ]
+      },
+      {
+        "testId": 30,
+        "testAdi": "Deneme 4: Sermaye Piyasası Araçları 2 Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #451: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #451 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 475
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #452: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #452 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 476
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #453: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #453 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 477
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #454: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #454 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 478
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #455: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #455 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 479
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #456: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #456 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 480
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #457: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #457 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 481
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #458: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #458 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 482
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #459: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #459 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 483
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #460: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #460 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 484
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #461: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #461 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 485
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #462: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #462 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 486
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #463: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #463 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 487
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #464: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #464 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 488
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #465: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #465 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 489
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #466: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #466 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 490
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #467: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #467 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 491
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #468: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #468 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 492
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #469: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #469 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 493
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #470: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #470 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 494
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #471: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #471 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 495
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #472: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #472 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 496
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #473: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #473 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 497
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #474: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #474 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 498
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #475: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #475 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 499
+          }
+        ]
+      },
+      {
+        "testId": 31,
+        "testAdi": "Deneme 5: Sermaye Piyasası Araçları 2 Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #476: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #476 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 500
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #477: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #477 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 501
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #478: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #478 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 502
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #479: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #479 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 503
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #480: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #480 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 504
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #481: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #481 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 505
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #482: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #482 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 506
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #483: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #483 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 507
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #484: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #484 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 508
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #485: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #485 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 509
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #486: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #486 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 510
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #487: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #487 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 511
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #488: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #488 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 512
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #489: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #489 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 513
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #490: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #490 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 514
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #491: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #491 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 515
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #492: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #492 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 516
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #493: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #493 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 517
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #494: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #494 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 518
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #495: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #495 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 519
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #496: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #496 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 520
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #497: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #497 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 521
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #498: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #498 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 522
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #499: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #499 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 523
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #500: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #500 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 524
+          }
+        ]
+      },
+      {
+        "testId": 32,
+        "testAdi": "Deneme 6: Sermaye Piyasası Araçları 2 Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #501: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #501 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 525
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #502: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #502 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 526
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #503: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #503 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 527
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #504: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #504 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 528
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #505: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #505 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 529
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #506: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #506 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 530
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #507: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #507 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 531
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #508: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #508 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 532
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #509: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #509 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 533
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #510: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #510 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 534
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #511: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #511 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 535
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #512: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #512 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 536
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #513: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #513 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 537
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #514: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #514 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 538
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #515: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #515 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 539
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #516: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #516 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 540
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #517: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #517 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 541
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #518: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #518 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 542
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #519: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #519 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 543
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #520: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #520 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 544
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #521: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #521 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 545
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #522: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #522 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 546
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #523: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #523 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 547
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #524: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #524 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 548
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #525: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #525 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 549
+          }
+        ]
+      },
+      {
+        "testId": 33,
+        "testAdi": "Deneme 7: Sermaye Piyasası Araçları 2 Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #526: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #526 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 550
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #527: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #527 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 551
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #528: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #528 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 552
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #529: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #529 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 553
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #530: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #530 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 554
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #531: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #531 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 555
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #532: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #532 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 556
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #533: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #533 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 557
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #534: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #534 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 558
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #535: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #535 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 559
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #536: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #536 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 560
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #537: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #537 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 561
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #538: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #538 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 562
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #539: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #539 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 563
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #540: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #540 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 564
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #541: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #541 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 565
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #542: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #542 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 566
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #543: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #543 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 567
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #544: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #544 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 568
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #545: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #545 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 569
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #546: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #546 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 570
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #547: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #547 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 571
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #548: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #548 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 572
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #549: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #549 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 573
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #550: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #550 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 574
+          }
+        ]
+      },
+      {
+        "testId": 34,
+        "testAdi": "Deneme 8: Sermaye Piyasası Araçları 2 Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #551: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #551 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 575
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #552: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #552 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 576
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #553: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #553 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 577
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #554: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #554 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 578
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #555: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #555 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 579
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #556: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #556 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 580
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #557: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #557 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 581
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #558: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #558 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 582
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #559: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #559 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 583
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #560: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #560 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 584
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #561: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #561 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 585
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #562: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #562 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 586
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #563: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #563 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 587
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #564: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #564 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 588
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #565: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #565 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 589
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #566: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #566 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 590
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #567: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #567 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 591
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #568: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #568 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 592
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #569: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #569 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 593
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #570: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #570 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 594
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #571: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #571 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 595
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #572: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #572 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 596
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #573: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #573 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 597
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #574: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #574 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 598
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #575: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #575 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 599
+          }
+        ]
+      },
+      {
+        "testId": 35,
+        "testAdi": "Deneme 9: Sermaye Piyasası Araçları 2 Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #576: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #576 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 600
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #577: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #577 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 601
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #578: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #578 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 602
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #579: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #579 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 603
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #580: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #580 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 604
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #581: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #581 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 605
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #582: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #582 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 606
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #583: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #583 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 607
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #584: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #584 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 608
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #585: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #585 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 609
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #586: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #586 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 610
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #587: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #587 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 611
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #588: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #588 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 612
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #589: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #589 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 613
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #590: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #590 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 614
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #591: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #591 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 615
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #592: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #592 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 616
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #593: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #593 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 617
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #594: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #594 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 618
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #595: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #595 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 619
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #596: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #596 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 620
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #597: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #597 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 621
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #598: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #598 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 622
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #599: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #599 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 623
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #600: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #600 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 624
+          }
+        ]
+      },
+      {
+        "testId": 36,
+        "testAdi": "Deneme 10: Sermaye Piyasası Araçları 2 Genel Denemesi (25 Soru)",
+        "testTuru": "deneme",
+        "sorular": [
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #601: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #601 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 625
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #602: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #602 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 626
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #603: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #603 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 627
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #604: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #604 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 628
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #605: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #605 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 629
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #606: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #606 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 630
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #607: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #607 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 631
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #608: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #608 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 632
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #609: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #609 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 633
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #610: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #610 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 634
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #611: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #611 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 635
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #612: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #612 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 636
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #613: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #613 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 637
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #614: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #614 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 638
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #615: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #615 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 639
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #616: Kira Sertifikaları Tebliği (III-61.1) uyarınca Varlık Kiralama Şirketleri (VKŞ) hangi hukuki yapıda kurulmak zorundadır?",
+            "secenekler": {
+              "A": "Anonim Şirket",
+              "B": "Limited Şirket",
+              "C": "Komandit Şirket",
+              "D": "Kollektif Şirket",
+              "E": "Kooperatif"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #616 Açıklaması: VKŞ'ler münhasıran kira sertifikası ihraç etmek üzere anonim şirket şeklinde kurulur. [Kazanım: III-61.1 VKŞ Hukuki Yapısı]",
+            "id": 640
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #617: Gayrimenkul Sertifikaları Tebliği (VII-128.2) uyarınca bağımsız bölümün mülkiyetinin edinilmesi edimi ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "Asli Edim",
+              "B": "Tali Edim",
+              "C": "Nakdi Edim",
+              "D": "Rüçhan Edimi",
+              "E": "Geçici Edim"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #617 Açıklaması: Gayrimenkul sertifikalarında bağımsız bölümün mülkiyetinin teslimi asli edimdir. [Kazanım: VII-128.2 Edim Türleri]",
+            "id": 641
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #618: Yatırım kuruluşu varantlarına aşağıdaki varlık veya göstergelerden hangisi dayanak teşkil EDEMEZ?",
+            "secenekler": {
+              "A": "BİST 30 Payları",
+              "B": "Döviz",
+              "C": "Kıymetli Maden",
+              "D": "Gayrimenkul Sertifikası",
+              "E": "Emtia"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #618 Açıklaması: Varrant Tebliği VII-128.3 uyarınca gayrimenkul sertifikaları varant dayanağı yapılamaz. [Kazanım: VII-128.3 Varrant Dayanak Varlıkları]",
+            "id": 642
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #619: Yabancı Sermaye Piyasası Araçları Tebliği uyarınca yabancı borçlanma araçlarının Türkiye'de halka arz edilebilmesi için derecelendirme notu ne seviyede olmalıdır?",
+            "secenekler": {
+              "A": "En az Yatırım Yapılabilir (Investment Grade) Seviyede",
+              "B": "Mutlaka AAA seviyesinde",
+              "C": "En az A+ seviyesinde",
+              "D": "Derecelendirme zorunlu değildir",
+              "E": "BİST iznine bağlıdır"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #619 Açıklaması: Yabancı sermaye piyasası araçlarında kredi notunun en az yatırım yapılabilir seviyede olması yeterlidir. [Kazanım: Yabancı Araç Halka Arzı]",
+            "id": 643
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #620: Depo Sertifikaları (Depositary Receipts) hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Yabancı sermaye piyasası araçlarının yerel saklama kuruluşu nezdinde saklanarak yerel piyasada alım satımını sağlar.",
+              "B": "Sadece yurt dışında ihraç edilebilir.",
+              "C": "Sadece fiziki senet olarak saklanır.",
+              "D": "SPK izninden muaftır.",
+              "E": "İşlem görmesi yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #620 Açıklaması: Depo sertifikaları yabancı hisse/tahvillerin yerel para biriminden kolayca işlem görmesini sağlayan sermaye piyasası aracıdır. [Kazanım: Depo Sertifikaları İşleyişi]",
+            "id": 644
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #621: Halka arz edilecek sermaye piyasası araçlarının nominal değerinin en az yüzde kaçının yurt içi kurumsal yatırımcılara tahsis edilmesi zorunludur?",
+            "secenekler": {
+              "A": "5",
+              "B": "10",
+              "C": "15",
+              "D": "20",
+              "E": "25"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #621 Açıklaması: Sermaye Piyasası Araçlarının Satışı Tebliği (II-5.2) uyarınca pay halka arzlarında yurt içi kurumsal yatırımcı tahsisat oranı en az %15'tir. [Kazanım: II-5.2 Halka Arz Tahsisatı]",
+            "id": 645
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #622: İzahname ve İhraç Belgesi Tebliği (II-5.1) uyarınca onaylanan bir izahnamenin geçerlilik süresi kaç aydır?",
+            "secenekler": {
+              "A": "3 Ay",
+              "B": "6 Ay",
+              "C": "12 Ay",
+              "D": "24 Ay",
+              "E": "36 Ay"
+            },
+            "dogruCevap": "C",
+            "cozum": "Soru #622 Açıklaması: İzahname onaylanıp KAP'ta yayımlandıktan sonra 12 ay boyunca geçerlidir. [Kazanım: II-5.1 İzahname Geçerlilik Süresi]",
+            "id": 646
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #623: Halka arz satış yöntemlerinden biri olan Sabit Fiyatla Talep Toplama yönteminde satış süresi en az kaç iş günüdür?",
+            "secenekler": {
+              "A": "1 İş Günü",
+              "B": "2 İş Günü",
+              "C": "3 İş Günü",
+              "D": "5 İş Günü",
+              "E": "10 İş Günü"
+            },
+            "dogruCevap": "B",
+            "cozum": "Soru #623 Açıklaması: Halka arz satış süresi en az 2 iş günü, en fazla 20 iş günüdür. [Kazanım: II-5.2 Satış Süreleri]",
+            "id": 647
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #624: Teminatlı Menkul Kıymetler Tebliği (III-59.1) uyarınca teminat uyum ilkelerinin ihlali halinde uyumun sağlanması için ihraççıya verilen süre kaç aydır?",
+            "secenekler": {
+              "A": "1 Ay",
+              "B": "2 Ay",
+              "C": "3 Ay",
+              "D": "6 Ay",
+              "E": "12 Ay"
+            },
+            "dogruCevap": "A",
+            "cozum": "Soru #624 Açıklaması: İhlalin tespitinden itibaren 1 ay içinde teminat uyum ilkelerine uyumun yeniden sağlanması zorunludur. [Kazanım: III-59.1 Teminat Uyum Süresi]",
+            "id": 648
+          },
+          {
+            "soruMetni": "Sermaye Piyasası Araçları 2 Özel Soru #625: İslami finansman yöntemlerinden hangisinde borç verenin borç alandan ek bir kâr veya karşılık talep etmesi KESİNLİKLE YASAKTIR?",
+            "secenekler": {
+              "A": "Murabaha",
+              "B": "İcara",
+              "C": "Müşaraka",
+              "D": "Karz-ı Hasen",
+              "E": "Selem"
+            },
+            "dogruCevap": "D",
+            "cozum": "Soru #625 Açıklaması: Karz-ı Hasen faizsiz borç verme yöntemidir; hiçbir ek karşılık talep edilemez. [Kazanım: Faizsiz Finans İlkeleri]",
+            "id": 649
           }
         ]
       }
