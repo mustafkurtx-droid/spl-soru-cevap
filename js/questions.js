@@ -2,10 +2,7 @@
  * ============================================================================
  * SPL (Sermaye Piyasası Lisanslama) SORU VERİTABANI (questions.js)
  * ============================================================================
- * %100 Kusursuz Sıralama:
- * Test 1 - 25: Konu Konu Sıralı Konu Testleri
- * Test 26: Görsellerdeki Çıkmış Sorular Özel Paketi (20 Soru)
- * Deneme 1 - 10 (Test 27 - 36): Genel Deneme Sınavları (25'er Soru)
+ * Ders Adı Güncellendi: 'Yatırım Kuruluşları'
  * ============================================================================
  */
 
@@ -10348,7 +10345,7 @@ const splVeritabani = [
     ]
   },
   {
-    "dersAdi": "Sermaye Piyasasında Yatırım Kuruluşları",
+    "dersAdi": "Yatırım Kuruluşları",
     "kategori": "SPL Düzey 2 - 3 - Türev Araçlar Lisansı",
     "aciklama": "Yatırım Hizmetleri Tebliği (III-37.1), Yatırım Kuruluşları Kuruluş Tebliği (III-39.1), Kaldıraçlı İşlemler, Kitle Fonlaması, Müşteri Hakları (25 Konu Testi + 1 Çıkmış Sorular Paketi + 10 Deneme - Toplam 770 Soru).",
     "testler": [
