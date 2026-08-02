@@ -20665,24 +20665,1048 @@ const splVeritabani = [
     "duzeyler": [
       "duzey3"
     ],
-    "aciklama": "Mikroekonomi, Makroekonomi, Enflasyon, İstihdam, Büyüme, Uluslararası Ticaret ve Döviz Kuru Piyasaları.",
+    "aciklama": "Ekonomi ve Piyasa Teorileri, Para ve Maliye Politikaları, Makroekonomik Göstergeler, Dış Ticaret ve Uluslararası Ekonomi. (5 Konu Testi)",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: Genel Ekonomi Temel Esaslar",
+        "testAdi": "Test 1: Temel Kavramlar ve Fiyat Mekanizması",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 1,
-            "soruMetni": "1008 - Genel Ekonomi kapsamına ilişkin 6362 sayılı Sermaye Piyasası Kanunu düzenlemelerine göre aşağıdakilerden hangisi doğrudur?",
+            "id": "1008_t1_1",
+            "soru": "BİRİNCİ BÖLÜM SORULARI 1. Aşağıdakilerden hangisi mikro ekonominin inceleme konusuna girmez?",
             "secenekler": {
-              "A": "Sermaye piyasasında yatırımcıların korunması ve şeffaflık esastır",
-              "B": "Sadece mevduat bankaları işlem yapabilir",
-              "C": "Garanti getiri vaat etmek serbesttir",
-              "D": "Tüm işlemler gizli yürütülür",
-              "E": "Tebliğler bakanlıkça çıkarılır"
+              "A": "Monopol dengesi",
+              "B": "Firma maliyeti",
+              "C": "Tüketici faydası",
+              "D": "Milli gelir seviyesi"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_2",
+            "soru": "Aşağıdakilerden hangisi arz kaymasına yol açmaz?",
+            "secenekler": {
+              "A": "Teknolojinin gelişmesi",
+              "B": "Maliyet artışı",
+              "C": "Üretici sayısının artması",
+              "D": "Malın fiyatının azalması"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_3",
+            "soru": "Aşağıdakilerden hangisi kayıtsızlık eğrilerinin özelliklerinden birisi değildir?",
+            "secenekler": {
+              "A": "Orijine göre dış bükeydirler",
+              "B": "Eğriler birbirini kesmezler",
+              "C": "Orijine yaklaştıkça daha yüksek faydayı ifade ederler",
+              "D": "Negatif eğimlidirler"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_4",
+            "soru": "Kayıtsızlık eğrisinin dikey ve yatay ekseninde aşağıdakilerden hangileri yer almaktadır?",
+            "secenekler": {
+              "A": "Malın fiyatı ve malın tüketim miktarı",
+              "B": "Malın fiyatı ve malın faydası",
+              "C": "Malların üretim miktarları",
+              "D": "Malların tüketim miktarları"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_5",
+            "soru": "Kayıtsızlık (farksızlık) eğrisinin orijine göre dış bükey olmasının nedeni aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Azalan marjinal fayda",
+              "B": "Azalan marjinal teknik ikame oranı",
+              "C": "Azalan marjinal ikame oranı",
+              "D": "Fırsat maliyeti"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_6",
+            "soru": "Tam tamamlayıcı malların kayıtsızlık eğrisinin şekli aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Negatif eğimli ve iki ekseni kesen bir eğridir",
+              "B": "Yatay eksene paralel bir eğridir",
+              "C": "L şeklindedir",
+              "D": "Dikey eksene paralel bir eğridir"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_7",
+            "soru": "Girdilerdeki %10’luk artışa karşılık üretim %25 artıyorsa aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Ölçeğe göre sabit verim vardır",
+              "B": "Ölçeğe göre artan verim vardır",
+              "C": "Maliyetlerde azalma vardır",
+              "D": "Ölçeğe göre azalan verim vardır"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_8",
+            "soru": "Üretimde kullanılan değişken girdi miktarı 2 birimden 3 birime çıktığında, toplam ürün 50 birimden 200 birime çıkarsa marjinal ürün miktarı kaç olur?",
+            "secenekler": {
+              "A": "150",
+              "B": "75",
+              "C": "100",
+              "D": "40"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye piyasası mevzuatında temel amaç yatırımcıların korunması, şeffaflık ve adil piyasa koşullarının sağlanmasıdır."
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_9",
+            "soru": "Tam rekabet piyasasında uzun dönemde normal kar oluşmasının asıl nedeni aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Atomisite",
+              "B": "Mobilite",
+              "C": "Homojenlik",
+              "D": "Şeffaflık"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_10",
+            "soru": "Aşağıdakilerden hangisi talep eğrisi üzerinde bir harekete neden olur?",
+            "secenekler": {
+              "A": "Gelirin artması",
+              "B": "Malın fiyatının değişmesi",
+              "C": "Teknolojik gelişmeler",
+              "D": "Maliyetlerin artması"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_11",
+            "soru": "Bir malın fiyatı 400 birimden 600 birime çıktığında talep edilen miktarı 1000 birimden 500 birime düşmektedir. Yay esnekliği formülüne göre talebin fiyat esnekliği kaçtır?",
+            "secenekler": {
+              "A": "5/3",
+              "B": "-5/3",
+              "C": "3/5",
+              "D": "-3/5"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_12",
+            "soru": "Toplam faydanın maksimum olduğu seviye için aşağıdaki bilgilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Ortalama fayda en düşük seviyesindedir",
+              "B": "Marjinal fayda minimum seviyesindedir",
+              "C": "Marjinal fayda sıfırdır",
+              "D": "Ortalama fayda sıfırdır"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_13",
+            "soru": "Aşağıdaki mal gruplarından hangisi tamamlayıcı mallara örnektir?",
+            "secenekler": {
+              "A": "Kırmızı et-beyaz et",
+              "B": "Çay-kahve",
+              "C": "Elma-armut",
+              "D": "Araba-benzin"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_14",
+            "soru": "Aşağıdaki üretim faktörü ve geliri eşleştirmelerinden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Sermaye-rant",
+              "B": "Emek-ücret",
+              "C": "Sermaye-faiz",
+              "D": "Girişimci-kar"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_15",
+            "soru": "Üretim olanakları eğrisinin iç kısmında yer alan bir nokta için aşağıdakilerden hangisi söylenebilir?",
+            "secenekler": {
+              "A": "Üretim tam kapasite çalışmaktadır",
+              "B": "Üretim faktörleri yetersiz kalmıştır",
+              "C": "Denge sağlanmıştır",
+              "D": "Üretim faktörleri eksik üretim yapmaktadır"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_16",
+            "soru": "Bireyin gelirinin arttığı bir durumda denge miktar ve denge fiyat hakkında aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Talep azalır",
+              "B": "Malın denge fiyat seviyesi değişmez",
+              "C": "Malın denge fiyatı yükselir",
+              "D": "Arz azalır"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t1_17",
+            "soru": "Üretim maliyetlerinin arttığı bir durumda denge miktar ve denge fiyat hakkında aşağıdakilerden hangisi gerçekleşir?",
+            "secenekler": {
+              "A": "Arz eğrisi sola kayar",
+              "B": "Arz eğrisi değişmez",
+              "C": "Malın denge fiyatı düşer",
+              "D": "Talep artar"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Temel Kavramlar ve Fiyat Mekanizması konusundan alınmıştır."
+          }
+        ]
+      },
+      {
+        "testId": 2,
+        "testAdi": "Test 2: Esneklik, Üretim, Maliyetler ve Piyasalar",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": "1008_t2_1",
+            "soru": "Talep eğrisinin dikey eksene paralel olduğu bir durumda aşağıdakilerden hangisi söylenebilir?",
+            "secenekler": {
+              "A": "Talep eğrisi tam inelastiktir",
+              "B": "Talep eğrisi fiyat artışlarına oldukça duyarlıdır",
+              "C": "Talep birim esnektir",
+              "D": "Talep sonsuz esnektir."
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_2",
+            "soru": "Tam rekabet piyasası ile ilgili aşağıdaki bilgilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Kısa dönem ve uzun dönem firma dengeleri farklıdır",
+              "B": "Üretici ve tüketicilerin fiyat üzerinde kontrolleri yoktur",
+              "C": "Marjinal maliyet eğrisi yatay eksene paraleldir.",
+              "D": "Denge koşulu MC=P=MR dir"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_3",
+            "soru": "Aşağıdakilerden hangisi monopol piyasası hakkında yanlış bir bilgidir?",
+            "secenekler": {
+              "A": "Tek satıcı, çok sayıda alıcı vardır",
+              "B": "Piyasaya girişte engeller bulunmaktadır",
+              "C": "Üretilen malın yakın ikamesi vardır",
+              "D": "Marjinal gelir eğrisi ortalama gelir eğrisinin altındadır"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_4",
+            "soru": "Aşağıdakilerden hangisi monopolcü rekabet piyasası hakkında yanlış bir bilgidir?",
+            "secenekler": {
+              "A": "Monopol ve tam rekabet piyasasının özelliklerini taşır",
+              "B": "Piyasada çok satıcı tek alıcı vardır",
+              "C": "Ürün farklılaştırılması yapılır",
+              "D": "Piyasaya giriş çıkış serbesttir"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_5",
+            "soru": "Aşağıdakilerden hangisi oligopol piyasası hakkında doğru bir bilgidir?",
+            "secenekler": {
+              "A": "Piyasaya giriş-çıkış serbesttir",
+              "B": "Çok alıcı çok satıcı bulunmaktadır",
+              "C": "Sadece homojen ürün üretilir",
+              "D": "Anlaşma yapan firmalar tröst oluşturur"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_6",
+            "soru": "Bir malın fiyatı 8 liradan 16 liraya çıktığında talep miktarı 20 birimden 10 birime düşmüştür. Bu malın talebinin fiyat esnekliği kaçtır?",
+            "secenekler": {
+              "A": "-0,5",
+              "B": "0,5",
+              "C": "1",
+              "D": "0"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_7",
+            "soru": "Üretici dengesi hangi iki eğrinin teğet olduğu noktada gerçekleşmektedir?",
+            "secenekler": {
+              "A": "Talep Eğrisi – Arz Eğrisi",
+              "B": "Eş ürün Eğrisi – Kayıtsızlık Eğrisi",
+              "C": "Eş Maliyet Doğrusu – Bütçe Doğrusu",
+              "D": "Eş Ürün Eğrisi – Eş Maliyet Doğrusu"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_8",
+            "soru": "Tüketici dengesi hangi iki eğrinin teğet olduğu noktada gerçekleşmektedir?",
+            "secenekler": {
+              "A": "Talep Eğrisi – Arz Eğrisi",
+              "B": "Bütçe Doğrusu – Kayıtsızlık Eğrisi",
+              "C": "Eş Maliyet Doğrusu – Bütçe Doğrusu",
+              "D": "Eş Ürün Eğrisi – Eş Maliyet Doğrusu"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_9",
+            "soru": "Sermaye ve emek gücü arasındaki ikame ilişkisini gösteren eş ürün eğrisinin eğimi aşağıdakilerden hangisine eşittir?",
+            "secenekler": {
+              "A": "Marjinal Dönüşüm Oranı",
+              "B": "Marjinal Maliyet",
+              "C": "Marjinal Teknik İkame Oranı",
+              "D": "Marjinal İkame Oranı"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_10",
+            "soru": "Talep eğrisi aşağıdaki gibi olan bir ürünün, miktarının 40 birim olduğu noktada fiyat esnekliği nedir? 𝑄= 20𝑃−2",
+            "secenekler": {
+              "A": "-1",
+              "B": "+1",
+              "C": "-2",
+              "D": "+2"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_11",
+            "soru": "X malı ile Y malı arasındaki ilişki hakkında ne söylenebilir?",
+            "secenekler": {
+              "A": "Y malının fiyatı azaldığında X malına olan talep artacağından X ve Y malları tamamlayıcı",
+              "B": "Y malının fiyatı artığında X malına olan talep artacağından X ve Y malları tamamlayıcı",
+              "C": "Y malının fiyatı azaldığında X malına olan talep artacağından X ve Y malları ikame mallardır.",
+              "D": "Y malının fiyatı arttığında X malına olan talep artacağından X ve Y malları ikame mallardır."
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_12",
+            "soru": "İKİNCİ BÖLÜM SORULARI 1. Aşağıdakilerden hangisi paranın fonksiyonlarından birisi değildir?",
+            "secenekler": {
+              "A": "Değişim aracı olma",
+              "B": "Değer muhafaza aracı olma",
+              "C": "Hesap birimi olma",
+              "D": "Standart olma"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_13",
+            "soru": "Aşağıdakilerden hangisi parada olması gereken özelliklerden birisi değildir?",
+            "secenekler": {
+              "A": "Taklit edilmemelidir",
+              "B": "Genel kabul görmelidir",
+              "C": "Bölünebilir olmamalıdır",
+              "D": "Dayanıklı olmalıdır"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_14",
+            "soru": "“Kötü para iyi parayı kovar” temelindeki görüş aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Gresham Kanunu",
+              "B": "Keynes Kanunu",
+              "C": "Monetarist Kanunu",
+              "D": "Lorenz Kanunu"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_15",
+            "soru": "I- Parayı talep eden kişi sayısı II- Ödeme sistemlerinin değişmesi III- Faiz oranları Yukarıdakilerden hangileri para talebini etkileyen faktörlerdendir?",
+            "secenekler": {
+              "A": "Yalnız I",
+              "B": "I-III",
+              "C": "II-III",
+              "D": "I-II-III"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_16",
+            "soru": "Aşağıdaki bilgilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Cambridge Yaklaşımı’na göre servet tutma isteği para talebini etkilemektedir",
+              "B": "Miktar Teorisi’ne göre para talebi işlem, ihtiyat ve spekülasyon güdüleri ile belirlenmektedir",
+              "C": "Miktar Teorisi’ne göre paranın dolaşım hızı sabit değildir",
+              "D": "İhtiyat güdüsü günlük yaşamın ihtiyaçları için talep edilen para miktarını ifade eder"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t2_17",
+            "soru": "Likidite Tuzağı ile ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Marshall ve Pigou tarafından geliştirilmiştir",
+              "B": "Faiz oranları en düşük seviyede iken para talebi sonsuz esnektir",
+              "C": "Faiz oranları en düşük seviyede iken tahvil alımları devam eder",
+              "D": "Milton Friedman tarafından geliştirilmiştir"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Esneklik, Üretim, Maliyetler ve Piyasalar konusundan alınmıştır."
+          }
+        ]
+      },
+      {
+        "testId": 3,
+        "testAdi": "Test 3: Para Politikaları ve Merkez Bankacılığı",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": "1008_t3_1",
+            "soru": "Modern Miktar Teorisi’ne göre aşağıdaki bilgilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Enflasyon beklentileri para talebini etkiler",
+              "B": "Faiz oranları para talebini etkiler",
+              "C": "Beşerî sermaye para talebini etkilemez",
+              "D": "Monetarist Para Talebi teorisidir"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_2",
+            "soru": "Aşağıdakilerden hangisi Merkez Bankası’nın görevlerinden değildir?",
+            "secenekler": {
+              "A": "Banknot ve para basmak",
+              "B": "Altın ve döviz rezervi bulundurmak",
+              "C": "Yerli paranın değerini korumak",
+              "D": "Madeni para basmak"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_3",
+            "soru": "Aşağıdakilerden hangisi ekonomi politikasının araçlarından biri değildir?",
+            "secenekler": {
+              "A": "Para politikası",
+              "B": "Tam istihdam politikası",
+              "C": "Maliye politikası",
+              "D": "Dış ticaret politikaları"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_4",
+            "soru": "Aşağıdakilerden hangisi para politikasının araçlarından değildir?",
+            "secenekler": {
+              "A": "Reeskont oranı",
+              "B": "Açık piyasa işlemleri",
+              "C": "Zorunlu karşılıklar",
+              "D": "İç borçlanma"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_5",
+            "soru": "Aşağıdaki bilgilerden hangisi doğru değildir?",
+            "secenekler": {
+              "A": "Genişletici para politikaları, faiz oranlarını yükseltir",
+              "B": "Yüksek enflasyon varsa daraltıcı para politikaları uygulanır",
+              "C": "Daraltıcı para politikaları, bireyleri tasarruf yapmaya yönlendirir",
+              "D": "Genişletici para politikalarında para arzı arttırılır"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_6",
+            "soru": "Keynesyen para talebi teorisine göre aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Ekonomik birimler işlem saikiyle para talep ederler",
+              "B": "Ekonomik birimler ihtiyat saikiyle para talep ederler",
+              "C": "Ekonomik birimler spekülasyon saikiyle para talep ederler",
+              "D": "Para talebi faiz oranlarının ve gelirin negatif bir fonksiyonudur"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_7",
+            "soru": "Taylor Kuralı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Reel faiz oranı arttıkça nominal faiz oranı da artar",
+              "B": "Enflasyon arttıkça nominal faiz oranı da artar",
+              "C": "Gerçekleşen enflasyon beklenen enflasyonun altında kaldıysa nominal faiz oranı artar",
+              "D": "Gerçekleşen milli hasıla potansiyel milli hasılanın üzerindeyse nominal faiz oranı artar"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_8",
+            "soru": "Merkez bankası bağımsızlığıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Bağımsızlık için amaç bağımsızlığı şarttır",
+              "B": "Bağımsızlığın önemli bir göstergesi araç bağımsızlığıdır",
+              "C": "Merkez bankası tarafından birincil piyasadan devlet iç borçlanma senedi alınmasının kanunen",
+              "D": "Araç bağımsızlığının diğer bir ismi de fonksiyonel bağımsızlıktır."
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_9",
+            "soru": "Repo ve ters repoya ilişkin aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Bir menkul kıymetin işlem başlangıç valöründe satılıp, bitiş tarihinde geri alınmasına repo",
+              "B": "Repo yapan işlem tarihinde menkul kıymeti ihraç eden veya satandır",
+              "C": "Repo yapan fon arz edendir.",
+              "D": "Ters repoda bir menkul kıymet işlem tarihinde alınıp, bitiş valöründe ise satılır."
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_10",
+            "soru": "Fisher Para Talep Teorisine göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fiyatlar genel düzeyi aşağı ve yukarı yönlü esnektir.",
+              "B": "Paranın dolaşım hızı kısa dönemde değişkendir",
+              "C": "Kısa dönemde nominal para arzındaki bir artış veya azalış fiyatlar genel düzeyine birebir",
+              "D": "Para arzındaki artış üretim düzeyini de arttıracaktır"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_11",
+            "soru": "Cambridge Para Talep Teorisi’ne göre aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "A.C. Pigou tarafından ortaya atılmıştır",
+              "B": "Kısa dönemde paranın dolaşım hızı ve milli gelir sabittir",
+              "C": "Kısa dönemde para arzındaki değişiklikler birebir fiyatlara yansır",
+              "D": "Para talebinin temel nedenlerinden biri spekülasyon saikidir."
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_12",
+            "soru": "ÜÇÜNCÜ BÖLÜM SORULARI 1. Maliye politikalarıyla ilgili olarak aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Enflasyon halinde genişletici maliye politikaları uygulanmalıdır",
+              "B": "Vergi oranlarının azaltılması, genişletici maliye politikası uygulamasıdır",
+              "C": "Faiz oranları, uygulanan maliye politikalarından etkilenmez",
+              "D": "Daraltıcı maliye politikalarının işsizlik oranını düşürücü etkisi vardır"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_13",
+            "soru": "Aşağıdakilerden hangisi Klasik ekonomistlerin görüşlerinden biri değildir?",
+            "secenekler": {
+              "A": "Müdahale olmaksızın piyasa sorunları ortadan kalkabilir",
+              "B": "Tüm piyasalarda tam rekabet piyasası koşulları geçerlidir",
+              "C": "Bütçe denkliğini sağlamak mümkün değildir",
+              "D": "Para ve maliye politikalarının etkinliği sınırlıdır"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_14",
+            "soru": "Monetarist görüşe göre hangisi söylenemez?",
+            "secenekler": {
+              "A": "Para politikası uygulamalarında önemli olan para arzını kontrol etmektir",
+              "B": "Para kısa dönemde nötrdür",
+              "C": "Nominal gelir düzeyi para miktarıyla doğrudan ilişkilidir",
+              "D": "Para arzı arttığında nominal GSYH artar"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_15",
+            "soru": "Keynesyen görüşe göre aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Devletin ekonomiye müdahalesi gereklidir",
+              "B": "Toplam talebe yönelik müdahalelerde bulunulmalıdır",
+              "C": "Fiyat ve ücretler esnektir",
+              "D": "Ekonomi eksik istihdamdadır"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_16",
+            "soru": "IS-LM analizine göre genişletici para politikasının uygulandığı durumda aşağıdakilerden hangisi gerçekleşmez?",
+            "secenekler": {
+              "A": "LM eğrisi sağa kayar",
+              "B": "IS eğrisi değişmez",
+              "C": "Yeni denge noktasında milli gelir değişmez",
+              "D": "Faiz oranları azalır"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t3_17",
+            "soru": "IS-LM analizine göre vergi oranları arttırıldığında aşağıdakilerden hangisi gerçekleşmez?",
+            "secenekler": {
+              "A": "IS eğrisi sola kayar",
+              "B": "Milli gelir düşer",
+              "C": "Faiz oranı düşer",
+              "D": "LM eğrisi sağa kayar"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Para Politikaları ve Merkez Bankacılığı konusundan alınmıştır."
+          }
+        ]
+      },
+      {
+        "testId": 4,
+        "testAdi": "Test 4: Maliye Politikaları ve Makroekonomik Göstergeler",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": "1008_t4_1",
+            "soru": "Gelirinin %80’ini tüketime ayıran bir tüketici için transfer harcamalarında görülen 500 birimlik bir artış gelir düzeyini kaç birim arttırır?",
+            "secenekler": {
+              "A": "400",
+              "B": "500",
+              "C": "1000",
+              "D": "2000"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_2",
+            "soru": "Politika etkisizliği kavramı hangi iktisadi yaklaşım için geçerlidir?",
+            "secenekler": {
+              "A": "Monetarist Yaklaşım",
+              "B": "Yeni Klasik Yaklaşım",
+              "C": "Keynesyen Yaklaşım",
+              "D": "Yeni Keynesyen Yaklaşım"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_3",
+            "soru": "Aşağıdakilerden hangisi maliye politikasının amaçları arasında değildir?",
+            "secenekler": {
+              "A": "Ekonomik İstikrar",
+              "B": "Adil Gelir Dağılımı",
+              "C": "Ekonomik Büyüme ve Kalkınma",
+              "D": "Faiz Oranı İstikrarı"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_4",
+            "soru": "IS eğrisi ile ilgili aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "IS eğrisi üzerindeki noktalarda yatırım-tasarruf eşitliği söz konusudur.",
+              "B": "IS eğrisinin solundaki noktalarda mal arz fazlası vardır.",
+              "C": "IS eğrisi mal piyasalarında dengeyi sağlayan gelir-faiz haddi bileşimlerinin geometrik yeridir.",
+              "D": "IS eğrisi genişletici maliye politikası sonucunda sağa kayar"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_5",
+            "soru": "Harcama çarpanı ile ilgili aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Marjinal tüketim eğiliminin artması haracama çarpanını arttırır",
+              "B": "Marjinal vergi haddinin azalması harcama çarpanını azaltır",
+              "C": "Marjinal ithalat eğiliminin artması harcama çarpanını arttırır",
+              "D": "Otonom tüketim miktarının artması harcama çarpanını arttırır"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_6",
+            "soru": "DÖRDÜNCÜ BÖLÜM SORULARI 1. Aşağıdaki faktörlerden hangisi kişi başına düşen GSYH’yi etkilememektedir?",
+            "secenekler": {
+              "A": "Nüfus yapısı",
+              "B": "Kayıt dışı ekonomi",
+              "C": "Otonom yatırım",
+              "D": "Kaynakların etkin dağılımı"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_7",
+            "soru": "Aşağıdakilerden hangisi kamu gelirleri arasında gösterilemez?",
+            "secenekler": {
+              "A": "Sübvansiyonlar",
+              "B": "Vergiler",
+              "C": "Borçlanma",
+              "D": "Vergi cezaları"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_8",
+            "soru": "Aşağıdakilerden hangisi kamu giderleri arasında gösterilemez?",
+            "secenekler": {
+              "A": "Cari harcamalar",
+              "B": "Transfer harcamaları",
+              "C": "Yatırım harcamaları",
+              "D": "Değişken harcamalar"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_9",
+            "soru": "Aşağıdakilerden hangisi TCMB rezervlerinin piyasadaki rolü hakkında yanlış bir bilgidir?",
+            "secenekler": {
+              "A": "Merkez Bankasına manevra alanı sağlar",
+              "B": "Likidite yetersizliklerine kaynaktırlar",
+              "C": "Döviz Kuru hedefleri doğrultusunda kullanılabilirler",
+              "D": "İç dengeyi bozucu etkileri bulunmaktadır"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_10",
+            "soru": "GSMH ile GSYH arasındaki fark aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Amortismanlar",
+              "B": "Transfer Ödemeleri",
+              "C": "Dış Alem Net Faktör Gelirleri",
+              "D": "Kurumlar Vergisi"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_11",
+            "soru": "Bir ekonomideki tüm üretim faktörlerinin tam kullanım kapasiteleri doğrultusunda istihdam edilmesi ile ulaşılabilecek çıktının ifadesi aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Fiili GSYH",
+              "B": "Nominal GSYH",
+              "C": "Reel GSYH",
+              "D": "Potansiyel GSYH"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_12",
+            "soru": "Aşağıdakilerden hangisi milli gelirin tam olarak yansıtamadığı konulardan birisi değildir?",
+            "secenekler": {
+              "A": "Çevre sorunları",
+              "B": "Üretim faktörlerinin geliri",
+              "C": "Kayıt dışı ekonomi",
+              "D": "Ürün kalitesindeki gelişmeler"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_13",
+            "soru": "Aşağıdakilerden hangisi yatırım kararını etkileyen faktörlerden birisi değildir?",
+            "secenekler": {
+              "A": "Teknolojik gelişmeler",
+              "B": "Faiz oranı",
+              "C": "Beklenti ve tahminler",
+              "D": "Otonom Tüketim"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_14",
+            "soru": "Daha fazla paranın daha az malı kovaladığı enflasyon türü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Talep Enflasyonu",
+              "B": "Hiperenflasyon",
+              "C": "Arz enflasyonu",
+              "D": "Ilımlı enflasyon"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_15",
+            "soru": "Aşağıdakilerden hangisi doğal işsizlik oranını etkileyen faktörlerden birisi değildir?",
+            "secenekler": {
+              "A": "Demografik değişimler",
+              "B": "Arz şokları",
+              "C": "Maliyet analizi",
+              "D": "Devlet politikaları"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_16",
+            "soru": "Eksik talep işsizliği olarak da bilinen işsizlik türü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Konjonktürel İşsizlik",
+              "B": "Reel Ücret İşsizliği",
+              "C": "Friksiyonel İşsizlik",
+              "D": "Doğal İşsizlik"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t4_17",
+            "soru": "Gini katsayısı ile ilgili olarak şağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Gini katsayısı 0’a yaklaştıkça gelir eşitsizliği azalır",
+              "B": "Gini katsayısı 1’e yaklaştıkça gelir eşitsizliği artar",
+              "C": "Gini katsayısı Lorenz eğrisi vasıtasıyla hesaplanır",
+              "D": "Gini katsayısı 1’den büyük olabilir"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Maliye Politikaları ve Makroekonomik Göstergeler konusundan alınmıştır."
+          }
+        ]
+      },
+      {
+        "testId": 5,
+        "testAdi": "Test 5: Dış Ticaret ve Uluslararası Ekonomi",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": "1008_t5_1",
+            "soru": "Aşağıdakilerden hangisi işsizlik türlerinden değildir?",
+            "secenekler": {
+              "A": "Arızi işsizlik",
+              "B": "Arz işsizliği",
+              "C": "Yapısal işsizlik",
+              "D": "Konjonktürel işsizlik"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_2",
+            "soru": "Hiperenflasyonla ilgili aşağıdakilerden hangisi doğru değildir?",
+            "secenekler": {
+              "A": "Genellikle savaş ve doğal afet zamanlarındaki politikalardan kaynaklanır",
+              "B": "Yerli parar yabancı paranın yerini alır",
+              "C": "Yurtiçi yerleşiklerin alım gücü çok düşer",
+              "D": "Gelir ve servet dağılımı olumsuz etkilenir"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_3",
+            "soru": "Aşağıdakilerden hangisi enflasyonun maliyetlerinden değildir?",
+            "secenekler": {
+              "A": "Kösele maliyeti",
+              "B": "Satın alma gücünde düşüş",
+              "C": "Yerli paranın değer kazanması",
+              "D": "Gelir eşitsizliği"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_4",
+            "soru": "Aşağıdakilerden hangisi merkez bankasının yükümlülüklerinden değildir?",
+            "secenekler": {
+              "A": "Emisyon",
+              "B": "Zorunlu karşılıklar",
+              "C": "Hazineden alacaklar",
+              "D": "Serbest rezervler"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_5",
+            "soru": "Aşağıdakilerden hangisi Covid-19 salgınının etkilerinden değildir?",
+            "secenekler": {
+              "A": "Tüketici güven endeksinde düşüş",
+              "B": "Hizmet sektörü güven endeksinde artış",
+              "C": "İnşaat sektörü güven endeksinde düşüş",
+              "D": "İşsizlikteki artış"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_6",
+            "soru": "BEŞİNCİ BÖLÜM SORULARI 1. Aşağıdakilerden hangisi ödemeler bilançosunun kalemlerinden değildir?",
+            "secenekler": {
+              "A": "Cari İşlemler Hesabı",
+              "B": "Net Hata Noksan",
+              "C": "Döviz Kuru Hesabı",
+              "D": "Sermaye Hesabı"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_7",
+            "soru": "Aşağıdakilerden hangisi yerli ve yabancı paranın direkt olarak birbirinin cinsinden ifade edilmesini tanımlar?",
+            "secenekler": {
+              "A": "Nominal Kur",
+              "B": "Düz Kur",
+              "C": "Reel Kur",
+              "D": "Dolaysız Kur"
+            },
+            "dogruCevap": "B",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_8",
+            "soru": "Merkez Bankaları tarafından kur seviyesinin sürekli takip edilip müdahale edildiği karma kur sistemi aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Kayan Kur Sistemi",
+              "B": "Döviz Kuru Bandı Sistemi",
+              "C": "Ayarlanabilir Kur Sistemi",
+              "D": "Ortak Dalgalanma Sistemi"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_9",
+            "soru": "Esnek kur sistemi hakkında aşağıdaki bilgilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Ödemeler dengesinde devlet müdahalesine gerek kalmaz",
+              "B": "Kur Merkez Bankası tarafından sabitlenir",
+              "C": "Sürekli devlet müdahalesi gerekir",
+              "D": "Ödemeler dengesi sorunları piyasa şartlarında çözülemez"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_10",
+            "soru": "Belirlenen alt ve üst limitle döviz kurunun dalgalanmaya bırakıldığı kur rejimi aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Bant Kuru",
+              "B": "Kayan Kur",
+              "C": "Ortak Dalgalanma",
+              "D": "Döviz Kuru Bandı"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_11",
+            "soru": "Aşağıdakilerden hangisi dış ticaret politikası araçlarından biri değildir?",
+            "secenekler": {
+              "A": "Açık piyasa işlemleri",
+              "B": "İhracatın özendirilmesi",
+              "C": "Bağlı ticaret",
+              "D": "Gümrük tarifeleri"
+            },
+            "dogruCevap": "A",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_12",
+            "soru": "Sabit kur sisteminde uygulanan para ve maliye politikalarıyla ilgili aşağıdakilerden hangisi yanlıştır?",
+            "secenekler": {
+              "A": "Maliye politikası uygulaması milli gelir düzeyini yükseltir",
+              "B": "Maliye politikaları etkindir",
+              "C": "Genişletici maliye politikaları uygulanırsa sermaye girişleri yaşanır",
+              "D": "Para politikaları etkindir"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_13",
+            "soru": "Esnek kur sisteminde uygulanan para ve maliye politikaları için hangisi söylenemez?",
+            "secenekler": {
+              "A": "Para politikaları etkindir",
+              "B": "Genişletici para politikası uygulanırsa yabancı para değer kazanır",
+              "C": "Genişletici para politikası uygulanırsa dış talep artışı yaşanır",
+              "D": "Genişletici maliye politikası uygulanırsa sermaye çıkışları yaşanır"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_14",
+            "soru": "Dış borç stokunda en büyük pay aşağıdakilerden hangisine aittir?",
+            "secenekler": {
+              "A": "TCMB",
+              "B": "Ticari Bankalar",
+              "C": "Kamu Sektörü",
+              "D": "Özel Sektör"
+            },
+            "dogruCevap": "D",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_15",
+            "soru": "Aşağıdakilerden hangisi dış ticaret dengesi ile ilgili bir gösterge değildir?",
+            "secenekler": {
+              "A": "İhracat",
+              "B": "İthalat",
+              "C": "GSYH",
+              "D": "İhracatın İthalatı Karşılama Oranı"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
+          },
+          {
+            "id": "1008_t5_16",
+            "soru": "Leontief paradoksu aşağıdakilerden hangisini kapsamaktadır?",
+            "secenekler": {
+              "A": "ABD’nin hem sermaye yoğun hem de emek yoğun mal ithal etmesi",
+              "B": "ABD’nin hem sermaye yoğun hem de emek yoğun mal ihraç etmesi",
+              "C": "ABD’nin emek yoğun mal ihraç edip sermaye yoğun mal ithal etmesi",
+              "D": "ABD’nin sermaye yoğun mal ihraç edip emek yoğun mal ithal etmesi"
+            },
+            "dogruCevap": "C",
+            "aciklama": "1008 Genel Ekonomi - Dış Ticaret ve Uluslararası Ekonomi konusundan alınmıştır."
           }
         ]
       }
