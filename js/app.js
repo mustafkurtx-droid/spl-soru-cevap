@@ -170,20 +170,24 @@
     const progress = getProgressData();
     container.innerHTML = '';
 
+    window.appRenderCourseView = renderCourseView;
+    const activeLevels = (window.selectedLevels && window.selectedLevels.length > 0) ? window.selectedLevels : (state.selectedLevels || []);
+
     const filteredCourses = window.splVeritabani.filter(c => {
       const matchesSearch = !query || c.dersAdi.toLowerCase().includes(query) || 
                             (c.aciklama && c.aciklama.toLowerCase().includes(query)) ||
                             (c.kategori && c.kategori.toLowerCase().includes(query));
       
       let matchesLevel = true;
-      if (state.selectedLevels && state.selectedLevels.length > 0) {
-        matchesLevel = state.selectedLevels.some(lvl => {
-          if (c.duzeyler && c.duzeyler.includes(lvl)) return true;
+      if (activeLevels && activeLevels.length > 0) {
+        matchesLevel = activeLevels.some(lvl => {
+          if (c.duzeyler && Array.isArray(c.duzeyler) && c.duzeyler.includes(lvl)) return true;
           const cat = (c.kategori || '').toLowerCase();
-          if (lvl === 'duzey1' && (cat.includes('düzey 1') || cat.includes('duzey 1'))) return true;
-          if (lvl === 'duzey2' && (cat.includes('düzey 2') || cat.includes('duzey 2'))) return true;
-          if (lvl === 'duzey3' && (cat.includes('düzey 3') || cat.includes('duzey 3'))) return true;
-          if (lvl === 'turev' && cat.includes('türev')) return true;
+          const code = (c.code || '').toLowerCase();
+          if (lvl === 'duzey1' && (cat.includes('düzey 1') || cat.includes('duzey 1') || ['1001','1003','1005','1012'].includes(code))) return true;
+          if (lvl === 'duzey2' && (cat.includes('düzey 2') || cat.includes('duzey 2') || ['1002','1003','1004','1005','1006','1007','1010','1012','1016'].includes(code))) return true;
+          if (lvl === 'duzey3' && (cat.includes('düzey 3') || cat.includes('duzey 3') || ['1002','1003','1004','1005','1006','1007','1008','1009','1010','1012','1013','1016'].includes(code))) return true;
+          if (lvl === 'turev' && (cat.includes('türev') || ['1002','1003','1004','1005','1006','1009','1011','1013'].includes(code))) return true;
           if (lvl === 'gayrimenkul' && cat.includes('gayrimenkul')) return true;
           return false;
         });
