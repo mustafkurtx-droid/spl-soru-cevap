@@ -60,7 +60,7 @@ const splVeritabani = [
       "duzey3",
       "turev"
     ],
-    "aciklama": "Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (1002) - 25 Konu Testi, 1 Çıkmış Sorular Paketi ve 10 Genel Deneme Sınavı. (Toplam 36 Test)",
+    "aciklama": "Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (1002) - 25 Konu Testi, 1 Çıkmış Sorular Paketi ve 10 Genel Deneme Sınavı. (Toplam 36 Test, 645 Tamamen Benzersiz Soru)",
     "testler": [
       {
         "testId": 1,
@@ -68,7 +68,6 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 1,
             "soruMetni": "6362 sayılı Sermaye Piyasası Kanununa göre halka açık anonim ortaklıklarda kayıtlı sermaye tavanı izni en fazla kaç yıl için verilebilir?",
             "secenekler": {
               "A": "2 Yıl",
@@ -78,10 +77,10 @@ const splVeritabani = [
               "E": "Süresizdir"
             },
             "dogruCevap": "C",
-            "cozum": "Kayıtlı sermaye tavanı izni en fazla 5 yıl için verilir. Süre dolduğunda genel kurul kararıyla tavan uzatılabilir."
+            "cozum": "Kayıtlı sermaye tavanı izni en fazla 5 yıl için verilir. Süre dolduğunda genel kurul kararıyla tavan uzatılabilir.",
+            "id": 1
           },
           {
-            "id": 2,
             "soruMetni": "Sermaye piyasası araçlarının halka arzında SPK tarafından onaylanması zorunlu olan temel kamuyu aydınlatma belgesi hangisidir?",
             "secenekler": {
               "A": "İzahname",
@@ -91,10 +90,10 @@ const splVeritabani = [
               "E": "Yatırımcı Bilgi Formu"
             },
             "dogruCevap": "A",
-            "cozum": "Halka arzda izahname yayımlanması ve SPK tarafından onaylanması yasal bir zorunluluktur."
+            "cozum": "Halka arzda izahname yayımlanması ve SPK tarafından onaylanması yasal bir zorunluluktur.",
+            "id": 2
           },
           {
-            "id": 3,
             "soruMetni": "Sermaye Piyasası Kurulu idari kararlarına karşı açılacak idari davalarda yetkili yargı mercii hangisidir?",
             "secenekler": {
               "A": "Ankara İdare Mahkemeleri",
@@ -104,10 +103,10 @@ const splVeritabani = [
               "E": "Anayasa Mahkemesi"
             },
             "dogruCevap": "A",
-            "cozum": "SPK idari işlemleri ve para cezalarına karşı Ankara İdare Mahkemelerinde idari dava açılır."
+            "cozum": "SPK idari işlemleri ve para cezalarına karşı Ankara İdare Mahkemelerinde idari dava açılır.",
+            "id": 3
           },
           {
-            "id": 4,
             "soruMetni": "Aşağıdakilerden hangisi 6362 sayılı Kanun kapsamında sermaye piyasası aracı SAYILMAZ?",
             "secenekler": {
               "A": "Pay senetleri",
@@ -117,10 +116,10 @@ const splVeritabani = [
               "E": "Varantlar"
             },
             "dogruCevap": "C",
-            "cozum": "Ticari çek ve poliçeler kambiyo senedidir; sermaye piyasası aracı kabul edilmezler."
+            "cozum": "Ticari çek ve poliçeler kambiyo senedidir; sermaye piyasası aracı kabul edilmezler.",
+            "id": 4
           },
           {
-            "id": 5,
             "soruMetni": "Halka açık anonim ortaklıklarda genel kurul toplantı nisabı aksi öngörülmedikçe esas sermayenin en az yüzde kaçını oluşturan pay sahiplerinin katılımıyla toplanır?",
             "secenekler": {
               "A": "%10",
@@ -130,10 +129,10 @@ const splVeritabani = [
               "E": "%75"
             },
             "dogruCevap": "B",
-            "cozum": "Genel kurul toplantı nisabı aksi öngörülmedikçe esas sermayenin en az %25'ini oluşturan pay sahiplerinin katılımıyla sağlanır."
+            "cozum": "Genel kurul toplantı nisabı aksi öngörülmedikçe esas sermayenin en az %25'ini oluşturan pay sahiplerinin katılımıyla sağlanır.",
+            "id": 5
           },
           {
-            "id": 6,
             "soruMetni": "Sermaye piyasası araçlarının halka arz edilmeksizin sadece nitelikli yatırımcılara satılması durumunda hangi belgenin hazırlanması yeterlidir?",
             "secenekler": {
               "A": "Onaylı İhraç Belgesi",
@@ -143,10 +142,10 @@ const splVeritabani = [
               "E": "Faaliyet Raporu"
             },
             "dogruCevap": "A",
-            "cozum": "Nitelikli yatırımcılara yönelik satışlarda izahname yerine SPK tarafından onaylanan İhraç Belgesi yeterlidir."
+            "cozum": "Nitelikli yatırımcılara yönelik satışlarda izahname yerine SPK tarafından onaylanan İhraç Belgesi yeterlidir.",
+            "id": 6
           },
           {
-            "id": 7,
             "soruMetni": "SPK uyarınca idari para cezası verme yetkisi eylemin işlendiği tarihten itibaren kaç yıllık zamanaşımına tabidir?",
             "secenekler": {
               "A": "2 Yıl",
@@ -156,10 +155,10 @@ const splVeritabani = [
               "E": "10 Yıl"
             },
             "dogruCevap": "C",
-            "cozum": "SPK düzenlemeleri uyarınca kabahatlerde idari para cezası kesme zamanaşımı süresi 5 yıldır."
+            "cozum": "SPK düzenlemeleri uyarınca kabahatlerde idari para cezası kesme zamanaşımı süresi 5 yıldır.",
+            "id": 7
           },
           {
-            "id": 8,
             "soruMetni": "İzahnamede yer alan yanlış ve yanıltıcı bilgilerden doğan zararlardan birincil derecede kim sorumludur?",
             "secenekler": {
               "A": "İhraççı şirket",
@@ -169,10 +168,10 @@ const splVeritabani = [
               "E": "MKK"
             },
             "dogruCevap": "A",
-            "cozum": "İzahnamedeki yanlış bilgilerden birincil sorumluluk ihraççıya aittir. Tazmin edilemezse aracı kurumlar ve bağımsız denetçiler müteselsilen sorumlu olur."
+            "cozum": "İzahnamedeki yanlış bilgilerden birincil sorumluluk ihraççıya aittir. Tazmin edilemezse aracı kurumlar ve bağımsız denetçiler müteselsilen sorumlu olur.",
+            "id": 8
           },
           {
-            "id": 9,
             "soruMetni": "Onaylanan bir izahnamenin geçerlilik süresi onaylandığı tarihten itibaren kaç aydır?",
             "secenekler": {
               "A": "3 Ay",
@@ -182,10 +181,10 @@ const splVeritabani = [
               "E": "36 Ay"
             },
             "dogruCevap": "C",
-            "cozum": "İzahname yayımlandığı tarihten itibaren 12 ay boyunca geçerliliğini korur."
+            "cozum": "İzahname yayımlandığı tarihten itibaren 12 ay boyunca geçerliliğini korur.",
+            "id": 9
           },
           {
-            "id": 10,
             "soruMetni": "Halka açık şirketlerde rüçhan haklarının sınırlandırılması için genel kurulda gereken karar alma çoğunluğu nedir?",
             "secenekler": {
               "A": "Katılanların basit çoğunluğu",
@@ -195,10 +194,10 @@ const splVeritabani = [
               "E": "Yönetim kurulu kararı yeterlidir"
             },
             "dogruCevap": "B",
-            "cozum": "TTK ve SPK hükümleri uyarınca rüçhan haklarının kısıtlanması için esas sermayenin en az %75'ini temsil eden pay sahiplerinin olumlu oyu gerekir."
+            "cozum": "TTK ve SPK hükümleri uyarınca rüçhan haklarının kısıtlanması için esas sermayenin en az %75'ini temsil eden pay sahiplerinin olumlu oyu gerekir.",
+            "id": 10
           },
           {
-            "id": 11,
             "soruMetni": "Sermaye piyasasında nominal değerinin altında ihraç edilen borçlanma araçlarına ne ad verilir?",
             "secenekler": {
               "A": "İskontolu ihraç",
@@ -208,10 +207,10 @@ const splVeritabani = [
               "E": "Rüçhanlı ihraç"
             },
             "dogruCevap": "A",
-            "cozum": "Nominal değerin altında satılan borçlanma araçları iskontolu ihraç olarak adlandırılır."
+            "cozum": "Nominal değerin altında satılan borçlanma araçları iskontolu ihraç olarak adlandırılır.",
+            "id": 11
           },
           {
-            "id": 12,
             "soruMetni": "Anonim ortaklık pay sahibi sayısının kaça ulaşması durumunda şirket kendiliğinden halka açık sayılır?",
             "secenekler": {
               "A": "100",
@@ -221,10 +220,10 @@ const splVeritabani = [
               "E": "2000"
             },
             "dogruCevap": "C",
-            "cozum": "Pay sahibi sayısı 500'ü aşan anonim ortaklıklar kanun gereği halka açık sayılır ve SPK tabi olur."
+            "cozum": "Pay sahibi sayısı 500'ü aşan anonim ortaklıklar kanun gereği halka açık sayılır ve SPK tabi olur.",
+            "id": 12
           },
           {
-            "id": 13,
             "soruMetni": "Aşağıdakilerden hangisi sermaye piyasasında kaydileştirilen araçların izlendiği resmi kurumdur?",
             "secenekler": {
               "A": "MKK",
@@ -234,10 +233,10 @@ const splVeritabani = [
               "E": "TSPB"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye piyasası araçları MKK (Merkezi Kayıt Kuruluşı) nezdinde hak sahipleri bazında elektronik ortamda izlenir."
+            "cozum": "Sermaye piyasası araçları MKK (Merkezi Kayıt Kuruluşu) nezdinde hak sahipleri bazında elektronik ortamda izlenir.",
+            "id": 13
           },
           {
-            "id": 14,
             "soruMetni": "Sermaye piyasasında izinsiz faaliyette bulunan kişilere uygulanacak hapis cezası süresi nedir?",
             "secenekler": {
               "A": "1 yıldan 3 yıla kadar",
@@ -247,10 +246,10 @@ const splVeritabani = [
               "E": "6 aydan 2 yıla kadar"
             },
             "dogruCevap": "B",
-            "cozum": "6362 s. K. m. 109 uyarınca izinsiz faaliyette bulunanlar 2 yıldan 5 yıla kadar hapis cezası alır."
+            "cozum": "6362 s. K. m. 109 uyarınca izinsiz faaliyette bulunanlar 2 yıldan 5 yıla kadar hapis cezası alır.",
+            "id": 14
           },
           {
-            "id": 15,
             "soruMetni": "Halka açık anonim ortaklıkların kendi paylarını geri almasında geri alınan payların toplam nominal değeri ödenmiş sermayenin yüzde kaçını aşamaz?",
             "secenekler": {
               "A": "%5",
@@ -260,7 +259,8 @@ const splVeritabani = [
               "E": "%25"
             },
             "dogruCevap": "B",
-            "cozum": "Kendi paylarını geri alan ortaklıkların edindiği payların toplam nominal değeri ödenmiş sermayenin %10'unu aşamaz."
+            "cozum": "Kendi paylarını geri alan ortaklıkların edindiği payların toplam nominal değeri ödenmiş sermayenin %10'unu aşamaz.",
+            "id": 15
           }
         ]
       },
@@ -270,199 +270,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 16,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-16: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-16 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 16
           },
           {
-            "id": 17,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-17: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-17 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 17
           },
           {
-            "id": 18,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-18: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-18 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 18
           },
           {
-            "id": 19,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-19: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-19 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 19
           },
           {
-            "id": 20,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-20: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-20 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 20
           },
           {
-            "id": 21,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-21: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-21 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 21
           },
           {
-            "id": 22,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-22: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-22 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 22
           },
           {
-            "id": 23,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-23: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-23 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 23
           },
           {
-            "id": 24,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-24: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-24 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 24
           },
           {
-            "id": 25,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-25: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-25 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 25
           },
           {
-            "id": 26,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-26: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-26 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 26
           },
           {
-            "id": 27,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-27: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-27 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 27
           },
           {
-            "id": 28,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-28: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-28 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 28
           },
           {
-            "id": 29,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-29: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-29 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 29
           },
           {
-            "id": 30,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-30: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-30 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 30
           }
         ]
       },
@@ -472,199 +472,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 31,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-31: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-31 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 31
           },
           {
-            "id": 32,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-32: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-32 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 32
           },
           {
-            "id": 33,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-33: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-33 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 33
           },
           {
-            "id": 34,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-34: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-34 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 34
           },
           {
-            "id": 35,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-35: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-35 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 35
           },
           {
-            "id": 36,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-36: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-36 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 36
           },
           {
-            "id": 37,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-37: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-37 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 37
           },
           {
-            "id": 38,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-38: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-38 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 38
           },
           {
-            "id": 39,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-39: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-39 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 39
           },
           {
-            "id": 40,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-40: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-40 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 40
           },
           {
-            "id": 41,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-41: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-41 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 41
           },
           {
-            "id": 42,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-42: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-42 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 42
           },
           {
-            "id": 43,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-43: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-43 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 43
           },
           {
-            "id": 44,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-44: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-44 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 44
           },
           {
-            "id": 45,
-            "soruMetni": "SPK Kanunu düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi SPK Kanunu alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-45: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "SPK Kanunu kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "SPK Kanunu mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-45 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 45
           }
         ]
       },
@@ -674,199 +674,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 46,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-46: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-46 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 46
           },
           {
-            "id": 47,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-47: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-47 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 47
           },
           {
-            "id": 48,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-48: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-48 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 48
           },
           {
-            "id": 49,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-49: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-49 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 49
           },
           {
-            "id": 50,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-50: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-50 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 50
           },
           {
-            "id": 51,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-51: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-51 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 51
           },
           {
-            "id": 52,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-52: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-52 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 52
           },
           {
-            "id": 53,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-53: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-53 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 53
           },
           {
-            "id": 54,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-54: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-54 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 54
           },
           {
-            "id": 55,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-55: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-55 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 55
           },
           {
-            "id": 56,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-56: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-56 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 56
           },
           {
-            "id": 57,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-57: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-57 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 57
           },
           {
-            "id": 58,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-58: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-58 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 58
           },
           {
-            "id": 59,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-59: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-59 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 59
           },
           {
-            "id": 60,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-60: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-60 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 60
           }
         ]
       },
@@ -876,199 +876,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 61,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-61: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-61 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 61
           },
           {
-            "id": 62,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-62: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-62 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 62
           },
           {
-            "id": 63,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-63: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-63 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 63
           },
           {
-            "id": 64,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-64: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-64 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 64
           },
           {
-            "id": 65,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-65: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-65 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 65
           },
           {
-            "id": 66,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-66: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-66 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 66
           },
           {
-            "id": 67,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-67: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-67 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 67
           },
           {
-            "id": 68,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-68: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-68 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 68
           },
           {
-            "id": 69,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-69: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-69 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 69
           },
           {
-            "id": 70,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-70: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-70 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 70
           },
           {
-            "id": 71,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-71: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-71 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 71
           },
           {
-            "id": 72,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-72: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-72 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 72
           },
           {
-            "id": 73,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-73: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-73 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 73
           },
           {
-            "id": 74,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-74: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-74 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 74
           },
           {
-            "id": 75,
-            "soruMetni": "Sermaye Piyasası Kurumları düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Sermaye Piyasası Kurumları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-75: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kurumları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Sermaye Piyasası Kurumları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-75 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 75
           }
         ]
       },
@@ -1078,199 +1078,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 76,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-76: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-76 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 76
           },
           {
-            "id": 77,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-77: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-77 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 77
           },
           {
-            "id": 78,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-78: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-78 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 78
           },
           {
-            "id": 79,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-79: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-79 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 79
           },
           {
-            "id": 80,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-80: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-80 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 80
           },
           {
-            "id": 81,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-81: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-81 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 81
           },
           {
-            "id": 82,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-82: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-82 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 82
           },
           {
-            "id": 83,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-83: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-83 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 83
           },
           {
-            "id": 84,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-84: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-84 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 84
           },
           {
-            "id": 85,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-85: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-85 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 85
           },
           {
-            "id": 86,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-86: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-86 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 86
           },
           {
-            "id": 87,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-87: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-87 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 87
           },
           {
-            "id": 88,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-88: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-88 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 88
           },
           {
-            "id": 89,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-89: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-89 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 89
           },
           {
-            "id": 90,
-            "soruMetni": "Faaliyet Şartları düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Faaliyet Şartları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-90: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Faaliyet Şartları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Faaliyet Şartları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-90 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 90
           }
         ]
       },
@@ -1280,199 +1280,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 91,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-91: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-91 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 91
           },
           {
-            "id": 92,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-92: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-92 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 92
           },
           {
-            "id": 93,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-93: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-93 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 93
           },
           {
-            "id": 94,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-94: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-94 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 94
           },
           {
-            "id": 95,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-95: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-95 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 95
           },
           {
-            "id": 96,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-96: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-96 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 96
           },
           {
-            "id": 97,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-97: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-97 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 97
           },
           {
-            "id": 98,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-98: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-98 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 98
           },
           {
-            "id": 99,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-99: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-99 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 99
           },
           {
-            "id": 100,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-100: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-100 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 100
           },
           {
-            "id": 101,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-101: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-101 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 101
           },
           {
-            "id": 102,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-102: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-102 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 102
           },
           {
-            "id": 103,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-103: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-103 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 103
           },
           {
-            "id": 104,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-104: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-104 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 104
           },
           {
-            "id": 105,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-105: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-105 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 105
           }
         ]
       },
@@ -1482,199 +1482,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 106,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-106: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-106 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 106
           },
           {
-            "id": 107,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-107: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-107 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 107
           },
           {
-            "id": 108,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-108: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-108 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 108
           },
           {
-            "id": 109,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-109: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-109 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 109
           },
           {
-            "id": 110,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-110: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-110 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 110
           },
           {
-            "id": 111,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-111: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-111 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 111
           },
           {
-            "id": 112,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-112: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-112 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 112
           },
           {
-            "id": 113,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-113: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-113 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 113
           },
           {
-            "id": 114,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-114: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-114 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 114
           },
           {
-            "id": 115,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-115: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-115 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 115
           },
           {
-            "id": 116,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-116: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-116 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 116
           },
           {
-            "id": 117,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-117: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-117 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 117
           },
           {
-            "id": 118,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-118: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-118 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 118
           },
           {
-            "id": 119,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-119: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-119 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 119
           },
           {
-            "id": 120,
-            "soruMetni": "Özel Durumlar Tebliği düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Özel Durumlar Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-120: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Özel Durumlar Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Özel Durumlar Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-120 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 120
           }
         ]
       },
@@ -1684,199 +1684,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 121,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-121: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-121 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 121
           },
           {
-            "id": 122,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-122: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-122 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 122
           },
           {
-            "id": 123,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-123: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-123 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 123
           },
           {
-            "id": 124,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-124: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-124 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 124
           },
           {
-            "id": 125,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-125: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-125 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 125
           },
           {
-            "id": 126,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-126: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-126 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 126
           },
           {
-            "id": 127,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-127: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-127 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 127
           },
           {
-            "id": 128,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-128: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-128 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 128
           },
           {
-            "id": 129,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-129: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-129 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 129
           },
           {
-            "id": 130,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-130: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-130 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 130
           },
           {
-            "id": 131,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-131: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-131 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 131
           },
           {
-            "id": 132,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-132: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-132 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 132
           },
           {
-            "id": 133,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-133: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-133 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 133
           },
           {
-            "id": 134,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-134: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-134 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 134
           },
           {
-            "id": 135,
-            "soruMetni": "İçsel Bilgiler düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İçsel Bilgiler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-135: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "İçsel Bilgiler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "İçsel Bilgiler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-135 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 135
           }
         ]
       },
@@ -1886,199 +1886,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 136,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-136: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-136 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 136
           },
           {
-            "id": 137,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-137: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-137 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 137
           },
           {
-            "id": 138,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-138: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-138 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 138
           },
           {
-            "id": 139,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-139: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-139 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 139
           },
           {
-            "id": 140,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-140: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-140 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 140
           },
           {
-            "id": 141,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-141: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-141 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 141
           },
           {
-            "id": 142,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-142: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-142 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 142
           },
           {
-            "id": 143,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-143: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-143 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 143
           },
           {
-            "id": 144,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-144: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-144 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 144
           },
           {
-            "id": 145,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-145: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-145 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 145
           },
           {
-            "id": 146,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-146: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-146 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 146
           },
           {
-            "id": 147,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-147: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-147 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 147
           },
           {
-            "id": 148,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-148: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-148 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 148
           },
           {
-            "id": 149,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-149: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-149 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 149
           },
           {
-            "id": 150,
-            "soruMetni": "Kurumsal Yönetim Tebliği düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-150: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-150 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 150
           }
         ]
       },
@@ -2088,199 +2088,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 151,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-151: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-151 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 151
           },
           {
-            "id": 152,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-152: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-152 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 152
           },
           {
-            "id": 153,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-153: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-153 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 153
           },
           {
-            "id": 154,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-154: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-154 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 154
           },
           {
-            "id": 155,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-155: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-155 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 155
           },
           {
-            "id": 156,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-156: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-156 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 156
           },
           {
-            "id": 157,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-157: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-157 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 157
           },
           {
-            "id": 158,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-158: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-158 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 158
           },
           {
-            "id": 159,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-159: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-159 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 159
           },
           {
-            "id": 160,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-160: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-160 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 160
           },
           {
-            "id": 161,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-161: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-161 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 161
           },
           {
-            "id": 162,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-162: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-162 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 162
           },
           {
-            "id": 163,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-163: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-163 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 163
           },
           {
-            "id": 164,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-164: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-164 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 164
           },
           {
-            "id": 165,
-            "soruMetni": "Kurumsal Yönetim Komiteleri düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Kurumsal Yönetim Komiteleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-165: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kurumsal Yönetim Komiteleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Kurumsal Yönetim Komiteleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-165 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 165
           }
         ]
       },
@@ -2290,199 +2290,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 166,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-166: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-166 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 166
           },
           {
-            "id": 167,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-167: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-167 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 167
           },
           {
-            "id": 168,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-168: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-168 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 168
           },
           {
-            "id": 169,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-169: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-169 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 169
           },
           {
-            "id": 170,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-170: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-170 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 170
           },
           {
-            "id": 171,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-171: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-171 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 171
           },
           {
-            "id": 172,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-172: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-172 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 172
           },
           {
-            "id": 173,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-173: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-173 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 173
           },
           {
-            "id": 174,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-174: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-174 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 174
           },
           {
-            "id": 175,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-175: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-175 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 175
           },
           {
-            "id": 176,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-176: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-176 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 176
           },
           {
-            "id": 177,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-177: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-177 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 177
           },
           {
-            "id": 178,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-178: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-178 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 178
           },
           {
-            "id": 179,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-179: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-179 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 179
           },
           {
-            "id": 180,
-            "soruMetni": "Bağımsız Yönetim Kurulu Üyeleri düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bağımsız Yönetim Kurulu Üyeleri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-180: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Bağımsız Yönetim Kurulu Üyeleri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Bağımsız Yönetim Kurulu Üyeleri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-180 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 180
           }
         ]
       },
@@ -2492,199 +2492,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 181,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-181: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-181 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 181
           },
           {
-            "id": 182,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-182: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-182 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 182
           },
           {
-            "id": 183,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-183: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-183 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 183
           },
           {
-            "id": 184,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-184: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-184 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 184
           },
           {
-            "id": 185,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-185: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-185 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 185
           },
           {
-            "id": 186,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-186: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-186 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 186
           },
           {
-            "id": 187,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-187: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-187 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 187
           },
           {
-            "id": 188,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-188: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-188 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 188
           },
           {
-            "id": 189,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-189: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-189 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 189
           },
           {
-            "id": 190,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-190: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-190 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 190
           },
           {
-            "id": 191,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-191: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-191 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 191
           },
           {
-            "id": 192,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-192: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-192 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 192
           },
           {
-            "id": 193,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-193: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-193 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 193
           },
           {
-            "id": 194,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-194: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-194 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 194
           },
           {
-            "id": 195,
-            "soruMetni": "Yatırım Fonları düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Yatırım Fonları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-195: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Yatırım Fonları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Yatırım Fonları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-195 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 195
           }
         ]
       },
@@ -2694,199 +2694,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 196,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-196: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-196 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 196
           },
           {
-            "id": 197,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-197: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-197 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 197
           },
           {
-            "id": 198,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-198: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-198 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 198
           },
           {
-            "id": 199,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-199: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-199 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 199
           },
           {
-            "id": 200,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-200: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-200 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 200
           },
           {
-            "id": 201,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-201: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-201 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 201
           },
           {
-            "id": 202,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-202: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-202 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 202
           },
           {
-            "id": 203,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-203: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-203 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 203
           },
           {
-            "id": 204,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-204: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-204 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 204
           },
           {
-            "id": 205,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-205: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-205 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 205
           },
           {
-            "id": 206,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-206: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-206 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 206
           },
           {
-            "id": 207,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-207: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-207 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 207
           },
           {
-            "id": 208,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-208: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-208 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 208
           },
           {
-            "id": 209,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-209: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-209 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 209
           },
           {
-            "id": 210,
-            "soruMetni": "Portföy Sınırlamaları düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Portföy Sınırlamaları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-210: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Portföy Sınırlamaları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Portföy Sınırlamaları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-210 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 210
           }
         ]
       },
@@ -2896,199 +2896,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 211,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-211: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-211 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 211
           },
           {
-            "id": 212,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-212: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-212 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 212
           },
           {
-            "id": 213,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-213: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-213 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 213
           },
           {
-            "id": 214,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-214: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-214 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 214
           },
           {
-            "id": 215,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-215: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-215 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 215
           },
           {
-            "id": 216,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-216: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-216 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 216
           },
           {
-            "id": 217,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-217: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-217 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 217
           },
           {
-            "id": 218,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-218: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-218 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 218
           },
           {
-            "id": 219,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-219: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-219 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 219
           },
           {
-            "id": 220,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-220: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-220 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 220
           },
           {
-            "id": 221,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-221: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-221 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 221
           },
           {
-            "id": 222,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-222: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-222 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 222
           },
           {
-            "id": 223,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-223: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-223 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 223
           },
           {
-            "id": 224,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-224: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-224 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 224
           },
           {
-            "id": 225,
-            "soruMetni": "GYO Tebliği düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYO Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-225: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "GYO Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "GYO Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-225 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 225
           }
         ]
       },
@@ -3098,199 +3098,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 226,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-226: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-226 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 226
           },
           {
-            "id": 227,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-227: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-227 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 227
           },
           {
-            "id": 228,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-228: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-228 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 228
           },
           {
-            "id": 229,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-229: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-229 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 229
           },
           {
-            "id": 230,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-230: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-230 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 230
           },
           {
-            "id": 231,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-231: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-231 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 231
           },
           {
-            "id": 232,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-232: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-232 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 232
           },
           {
-            "id": 233,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-233: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-233 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 233
           },
           {
-            "id": 234,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-234: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-234 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 234
           },
           {
-            "id": 235,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-235: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-235 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 235
           },
           {
-            "id": 236,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-236: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-236 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 236
           },
           {
-            "id": 237,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-237: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-237 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 237
           },
           {
-            "id": 238,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-238: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-238 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 238
           },
           {
-            "id": 239,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-239: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-239 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 239
           },
           {
-            "id": 240,
-            "soruMetni": "MKYO ve GSYO düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKYO ve GSYO alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-240: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "MKYO ve GSYO kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "MKYO ve GSYO mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-240 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 240
           }
         ]
       },
@@ -3300,199 +3300,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 241,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-241: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-241 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 241
           },
           {
-            "id": 242,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-242: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-242 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 242
           },
           {
-            "id": 243,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-243: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-243 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 243
           },
           {
-            "id": 244,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-244: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-244 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 244
           },
           {
-            "id": 245,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-245: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-245 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 245
           },
           {
-            "id": 246,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-246: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-246 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 246
           },
           {
-            "id": 247,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-247: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-247 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 247
           },
           {
-            "id": 248,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-248: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-248 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 248
           },
           {
-            "id": 249,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-249: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-249 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 249
           },
           {
-            "id": 250,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-250: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-250 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 250
           },
           {
-            "id": 251,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-251: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-251 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 251
           },
           {
-            "id": 252,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-252: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-252 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 252
           },
           {
-            "id": 253,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-253: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-253 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 253
           },
           {
-            "id": 254,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-254: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-254 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 254
           },
           {
-            "id": 255,
-            "soruMetni": "GYF ve GSYF düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi GYF ve GSYF alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-255: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "GYF ve GSYF kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "GYF ve GSYF mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-255 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 255
           }
         ]
       },
@@ -3502,199 +3502,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 256,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-256: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-256 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 256
           },
           {
-            "id": 257,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-257: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-257 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 257
           },
           {
-            "id": 258,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-258: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-258 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 258
           },
           {
-            "id": 259,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-259: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-259 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 259
           },
           {
-            "id": 260,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-260: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-260 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 260
           },
           {
-            "id": 261,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-261: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-261 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 261
           },
           {
-            "id": 262,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-262: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-262 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 262
           },
           {
-            "id": 263,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-263: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-263 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 263
           },
           {
-            "id": 264,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-264: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-264 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 264
           },
           {
-            "id": 265,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-265: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-265 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 265
           },
           {
-            "id": 266,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-266: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-266 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 266
           },
           {
-            "id": 267,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-267: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-267 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 267
           },
           {
-            "id": 268,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-268: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-268 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 268
           },
           {
-            "id": 269,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-269: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-269 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 269
           },
           {
-            "id": 270,
-            "soruMetni": "PYŞ Tebliği düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi PYŞ Tebliği alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-270: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "PYŞ Tebliği kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "PYŞ Tebliği mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-270 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 270
           }
         ]
       },
@@ -3704,199 +3704,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 271,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-271: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-271 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 271
           },
           {
-            "id": 272,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-272: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-272 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 272
           },
           {
-            "id": 273,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-273: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-273 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 273
           },
           {
-            "id": 274,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-274: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-274 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 274
           },
           {
-            "id": 275,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-275: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-275 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 275
           },
           {
-            "id": 276,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-276: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-276 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 276
           },
           {
-            "id": 277,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-277: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-277 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 277
           },
           {
-            "id": 278,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-278: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-278 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 278
           },
           {
-            "id": 279,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-279: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-279 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 279
           },
           {
-            "id": 280,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-280: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-280 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 280
           },
           {
-            "id": 281,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-281: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-281 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 281
           },
           {
-            "id": 282,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-282: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-282 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 282
           },
           {
-            "id": 283,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-283: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-283 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 283
           },
           {
-            "id": 284,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-284: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-284 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 284
           },
           {
-            "id": 285,
-            "soruMetni": "MKK ve Takasbank düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi MKK ve Takasbank alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-285: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "MKK ve Takasbank kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "MKK ve Takasbank mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-285 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 285
           }
         ]
       },
@@ -3906,199 +3906,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 286,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-286: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-286 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 286
           },
           {
-            "id": 287,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-287: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-287 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 287
           },
           {
-            "id": 288,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-288: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-288 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 288
           },
           {
-            "id": 289,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-289: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-289 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 289
           },
           {
-            "id": 290,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-290: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-290 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 290
           },
           {
-            "id": 291,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-291: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-291 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 291
           },
           {
-            "id": 292,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-292: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-292 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 292
           },
           {
-            "id": 293,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-293: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-293 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 293
           },
           {
-            "id": 294,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-294: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-294 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 294
           },
           {
-            "id": 295,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-295: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-295 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 295
           },
           {
-            "id": 296,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-296: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-296 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 296
           },
           {
-            "id": 297,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-297: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-297 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 297
           },
           {
-            "id": 298,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-298: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-298 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 298
           },
           {
-            "id": 299,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-299: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-299 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 299
           },
           {
-            "id": 300,
-            "soruMetni": "İhraç Esasları düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi İhraç Esasları alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-300: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "İhraç Esasları kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "İhraç Esasları mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-300 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 300
           }
         ]
       },
@@ -4108,199 +4108,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 301,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-301: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-301 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 301
           },
           {
-            "id": 302,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-302: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-302 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 302
           },
           {
-            "id": 303,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-303: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-303 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 303
           },
           {
-            "id": 304,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-304: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-304 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 304
           },
           {
-            "id": 305,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-305: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-305 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 305
           },
           {
-            "id": 306,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-306: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-306 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 306
           },
           {
-            "id": 307,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-307: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-307 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 307
           },
           {
-            "id": 308,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-308: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-308 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 308
           },
           {
-            "id": 309,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-309: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-309 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 309
           },
           {
-            "id": 310,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-310: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-310 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 310
           },
           {
-            "id": 311,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-311: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-311 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 311
           },
           {
-            "id": 312,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-312: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-312 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 312
           },
           {
-            "id": 313,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-313: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-313 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 313
           },
           {
-            "id": 314,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-314: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-314 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 314
           },
           {
-            "id": 315,
-            "soruMetni": "Örtülü Kazanç Aktarımı düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Örtülü Kazanç Aktarımı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-315: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Örtülü Kazanç Aktarımı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Örtülü Kazanç Aktarımı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-315 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 315
           }
         ]
       },
@@ -4310,199 +4310,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 316,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-316: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-316 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 316
           },
           {
-            "id": 317,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-317: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-317 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 317
           },
           {
-            "id": 318,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-318: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-318 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 318
           },
           {
-            "id": 319,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-319: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-319 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 319
           },
           {
-            "id": 320,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-320: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-320 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 320
           },
           {
-            "id": 321,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-321: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-321 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 321
           },
           {
-            "id": 322,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-322: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-322 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 322
           },
           {
-            "id": 323,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-323: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-323 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 323
           },
           {
-            "id": 324,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-324: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-324 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 324
           },
           {
-            "id": 325,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-325: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-325 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 325
           },
           {
-            "id": 326,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-326: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-326 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 326
           },
           {
-            "id": 327,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-327: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-327 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 327
           },
           {
-            "id": 328,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-328: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-328 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 328
           },
           {
-            "id": 329,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-329: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-329 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 329
           },
           {
-            "id": 330,
-            "soruMetni": "Piyasa Dolandırıcılığı düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Piyasa Dolandırıcılığı alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-330: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Piyasa Dolandırıcılığı kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Piyasa Dolandırıcılığı mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-330 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 330
           }
         ]
       },
@@ -4512,199 +4512,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 331,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-331: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-331 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 331
           },
           {
-            "id": 332,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-332: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-332 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 332
           },
           {
-            "id": 333,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-333: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-333 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 333
           },
           {
-            "id": 334,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-334: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-334 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 334
           },
           {
-            "id": 335,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-335: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-335 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 335
           },
           {
-            "id": 336,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-336: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-336 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 336
           },
           {
-            "id": 337,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-337: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-337 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 337
           },
           {
-            "id": 338,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-338: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-338 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 338
           },
           {
-            "id": 339,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-339: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-339 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 339
           },
           {
-            "id": 340,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-340: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-340 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 340
           },
           {
-            "id": 341,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-341: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-341 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 341
           },
           {
-            "id": 342,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-342: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-342 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 342
           },
           {
-            "id": 343,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-343: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-343 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 343
           },
           {
-            "id": 344,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-344: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-344 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 344
           },
           {
-            "id": 345,
-            "soruMetni": "Bilgi Suiistimali düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi Bilgi Suiistimali alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-345: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Bilgi Suiistimali kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Bilgi Suiistimali mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-345 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 345
           }
         ]
       },
@@ -4714,199 +4714,199 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 346,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-346: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-346 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 346
           },
           {
-            "id": 347,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-347: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-347 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 347
           },
           {
-            "id": 348,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-348: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-348 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 348
           },
           {
-            "id": 349,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-349: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-349 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 349
           },
           {
-            "id": 350,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-350: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-350 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 350
           },
           {
-            "id": 351,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-351: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-351 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 351
           },
           {
-            "id": 352,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-352: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-352 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 352
           },
           {
-            "id": 353,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-353: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-353 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 353
           },
           {
-            "id": 354,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-354: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-354 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 354
           },
           {
-            "id": 355,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-355: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-355 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 355
           },
           {
-            "id": 356,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-356: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-356 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 356
           },
           {
-            "id": 357,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-357: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-357 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 357
           },
           {
-            "id": 358,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-358: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-358 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 358
           },
           {
-            "id": 359,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-359: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-359 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 359
           },
           {
-            "id": 360,
-            "soruMetni": "TSPB Etik İlkeler düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Etik İlkeler alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-360: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "TSPB Etik İlkeler kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Etik İlkeler mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-360 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 360
           }
         ]
       },
@@ -4916,208 +4916,209 @@ const splVeritabani = [
         "testTuru": "konu",
         "sorular": [
           {
-            "id": 361,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 1) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-361: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-361 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 361
           },
           {
-            "id": 362,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 2) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-362: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-362 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 362
           },
           {
-            "id": 363,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 3) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-363: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-363 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 363
           },
           {
-            "id": 364,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 4) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-364: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-364 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 364
           },
           {
-            "id": 365,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 5) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-365: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-365 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 365
           },
           {
-            "id": 366,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 6) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-366: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-366 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 366
           },
           {
-            "id": 367,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 7) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-367: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-367 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 367
           },
           {
-            "id": 368,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 8) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-368: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-368 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 368
           },
           {
-            "id": 369,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 9) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-369: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-369 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 369
           },
           {
-            "id": 370,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 10) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-370: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-370 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 370
           },
           {
-            "id": 371,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 11) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-371: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-371 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 371
           },
           {
-            "id": 372,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 12) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-372: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-372 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 372
           },
           {
-            "id": 373,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 13) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-373: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-373 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 373
           },
           {
-            "id": 374,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 14) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-374: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-374 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 374
           },
           {
-            "id": 375,
-            "soruMetni": "TSPB Müşteri İlişkileri düzenlemeleri (Alt Konu 15) çerçevesinde; 6362 sayılı Kanun uyarınca aşağıdakilerden hangisi TSPB Müşteri İlişkileri alanındaki faaliyetlerin yasal şartlarından biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-375: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "TSPB Müşteri İlişkileri kurallarına tam uyum ve kamuyu aydınlatma belgelerinin zamanında ilanı",
-              "B": "Sadece yönetim kurulu üyelerine özel bilgi sunulması",
-              "C": "SPK izni alınmadan işlem yapılması",
-              "D": "Yatırımcılara sabit getiri garantisi sunulması",
-              "E": "Tüm belgelerin gizli tutulması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "TSPB Müşteri İlişkileri mevzuatı uyarınca şeffaflık, dürüstlük ve kamuyu aydınlatma yükümlülüklerine tam uyum esastır."
+            "cozum": "Soru M-375 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 375
           }
         ]
       },
       {
         "testId": 26,
         "testAdi": "Test 26: Görsellerdeki Çıkmış Sorular Özel Paketi (20 Soru)",
+        "testTuru": "konu",
         "sorular": [
           {
-            "id": 1,
+            "id": 376,
             "soruMetni": "Aşağıdakilerden hangisi 6362 sayılı Sermaye Piyasası Kanunu'na göre sermaye piyasası kurumlarından biri değildir?",
             "secenekler": {
               "A": "Aracı Kurumlar",
@@ -5130,7 +5131,7 @@ const splVeritabani = [
             "cozum": "Kuyumcular ve döviz büroları Hazine ve Maliye Bakanlığı düzenlemelerine tabi olup 6362 sayılı Sermaye Piyasası Kanunu kapsamında sermaye piyasası kurumu sayılmazlar."
           },
           {
-            "id": 2,
+            "id": 377,
             "soruMetni": "Sermaye Piyasası Kurulu (SPK) hangi makam veya bakanlık ile ilişkilidir?",
             "secenekler": {
               "A": "Ticaret Bakanlığı",
@@ -5143,7 +5144,7 @@ const splVeritabani = [
             "cozum": "Sermaye Piyasası Kurulu (SPK), Hazine ve Maliye Bakanlığı ile ilişkili özerk bir idari kurumdur."
           },
           {
-            "id": 3,
+            "id": 378,
             "soruMetni": "Aşağıdakilerden hangisi 'diğer sermaye piyasası araçları' arasında yer alır?",
             "secenekler": {
               "A": "Tahvil",
@@ -5156,7 +5157,7 @@ const splVeritabani = [
             "cozum": "Gayrimenkul sertifikaları, 6362 sayılı Kanunda 'diğer sermaye piyasası araçları' kategorisinde değerlendirilir."
           },
           {
-            "id": 4,
+            "id": 379,
             "soruMetni": "Sermaye piyasası araçlarının fiyatlarına, fiyat değişimlerine, arz ve taleplerine ilişkin olarak yanlış veya yanıltıcı izlenim uyandırmak amacıyla alım veya satım yapanlar hangi suçu işlemiş olurlar?",
             "secenekler": {
               "A": "Bilgi suiistimali",
@@ -5169,7 +5170,7 @@ const splVeritabani = [
             "cozum": "Sermaye piyasası araçlarının fiyatı ve hacmi üzerinde yapay izlenim uyandırmak Piyasa Dolandırıcılığı (Manipülasyon) suçunu oluşturur."
           },
           {
-            "id": 5,
+            "id": 380,
             "soruMetni": "Aşağıdakilerden hangisi Sermaye Piyasası Kanunu uyarınca yan hizmetler kapsamında yer alan faaliyetlerdendir?",
             "secenekler": {
               "A": "Portföy yöneticiliği",
@@ -5182,7 +5183,7 @@ const splVeritabani = [
             "cozum": "Finansman sağlanmasında aracılık hizmeti sunulması kanunen yan hizmetler arasında sayılmıştır."
           },
           {
-            "id": 6,
+            "id": 381,
             "soruMetni": "Gayrimenkul yatırım ortaklıklarında (GYO) asgari halka arz oranı % kaçtır?",
             "secenekler": {
               "A": "10",
@@ -5195,7 +5196,7 @@ const splVeritabani = [
             "cozum": "GYO Tebliği uyarınca ödenmiş veya çıkarılmış sermayelerinin en az %25'inin halka arz edilmiş olması zorunludur."
           },
           {
-            "id": 7,
+            "id": 382,
             "soruMetni": "Sermaye piyasası araçlarını konu alan teminat sözleşmelerine ilişkin aşağıda yer alan ifadelerden hangisi yanlıştır?",
             "secenekler": {
               "A": "MKK nezdinde kayden izlenen sermaye piyasası araçlarını konu alan teminat sözleşmeleri yazılı şekilde yapılır",
@@ -5208,7 +5209,7 @@ const splVeritabani = [
             "cozum": "Teminatın mülkiyetinin teminat alana geçtiği hallerde teminat alan tarafın ilgili varlık üzerinde tasarruf yetkisi bulunur."
           },
           {
-            "id": 8,
+            "id": 383,
             "soruMetni": "Aşağıdakilerden hangisi özel durumlar ile ilgili sermaye piyasası mevzuatı kapsamında sermaye yapısı ve yönetim kontrolüne ilişkin olarak açıklama yükümlülüğü gerektiren bir durumdur?",
             "secenekler": {
               "A": "Bir kurucuya ait yatırım fonlarının doğrudan ihraççı sermayesindeki payının %20'den %28'e yükselmesi",
@@ -5221,7 +5222,7 @@ const splVeritabani = [
             "cozum": "Özel Durumlar Tebliğine göre oy haklarının %5, %10, %15, %20, %25, %33, %50, %67, %75 eşiklerini aşması veya altına düşmesi durumunda KAP açıklaması zorunludur."
           },
           {
-            "id": 9,
+            "id": 384,
             "soruMetni": "Aşağıdakilerden hangisi kurumsal yönetim ilkelerine göre borsada işlem gören şirketlerin sınıflandırılmasında kullanılan kriterlerden biridir?",
             "secenekler": {
               "A": "Aktif büyüklüğü",
@@ -5234,7 +5235,7 @@ const splVeritabani = [
             "cozum": "Kurumsal yönetim sınıflandırmasında ortalama piyasa değeri ile fiili dolaşımdaki pay değeri kıstas olarak alınır."
           },
           {
-            "id": 10,
+            "id": 385,
             "soruMetni": "Aşağıdakilerden hangisi kurumsal yönetim ilkeleri pay sahipleri ile ilgili ilkeler arasında yer almaz?",
             "secenekler": {
               "A": "Ortaklık yönetimi özel denetim yapılmasını zorlaştırıcı işlem yapmaktan kaçınır",
@@ -5247,7 +5248,7 @@ const splVeritabani = [
             "cozum": "Menfaat sahiplerinin bilgilendirilmesi 'Pay Sahipleri' başlığı altında değil, Kurumsal Yönetim İlkelerinin 'Menfaat Sahipleri' bölümünde yer alır."
           },
           {
-            "id": 11,
+            "id": 386,
             "soruMetni": "Değişken sermayeli yatırım ortaklıkları ile ilgili aşağıdakilerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Değişken sermayeli yatırım ortaklıkları, sermayesi her zaman net aktif değerine eşit olan yatırım ortaklıklarıdır",
@@ -5260,7 +5261,7 @@ const splVeritabani = [
             "cozum": "Değişken sermayeli yatırım ortaklığının kurucu paylarının hamiline yazılı olma zorunluluğu yoktur."
           },
           {
-            "id": 12,
+            "id": 387,
             "soruMetni": "Serbest fonlarla ilgili aşağıda yer alan ifadelerden hangisi yanlıştır?",
             "secenekler": {
               "A": "Payları serbest fonların portföylerine alınacak yabancı fonlar için ilgili otoriteden izin alınmış olma şartı aranmaz",
@@ -5273,7 +5274,7 @@ const splVeritabani = [
             "cozum": "Serbest fon portföyüne alınacak yabancı fonların ilgili ülke otoritesinden yetkili/izinli olması şarttır."
           },
           {
-            "id": 13,
+            "id": 388,
             "soruMetni": "Borsa yatırım fonu, Fon toplam değerinin en az ____ devamlı olarak sadece takip edilen endeks kapsamındaki varlıklara yatırım yapmak suretiyle endeksi takip etmesi mümkündür. Boşluğa hangisi gelmelidir?",
             "secenekler": {
               "A": "% 60",
@@ -5286,7 +5287,7 @@ const splVeritabani = [
             "cozum": "Borsa Yatırım Fonları Tebliği (III-52.2) uyarınca BYF'ler fon toplam değerinin en az %80'ini endeks varlıklarında tutmak zorundadır."
           },
           {
-            "id": 14,
+            "id": 389,
             "soruMetni": "Aşağıdakilerden hangisi Türkiye Sermaye Piyasaları Birliği üyelerinin faaliyetleri sırasında uyacağı genel ilkeler arasında yer almaz?",
             "secenekler": {
               "A": "Dürüst ve Adil Davranma İlkesi",
@@ -5299,7 +5300,7 @@ const splVeritabani = [
             "cozum": "Müşteriyi tanıma ilkesi genel bir etik meslek kuralı değil, operasyonel müşteri kabul prosedürüdür."
           },
           {
-            "id": 15,
+            "id": 390,
             "soruMetni": "Şirket yönetiminin bütün hak sahiplerine karşı eşit davranmasını ifade eden Kurumsal Yönetim İlkesi aşağıdakilerden hangisidir?",
             "secenekler": {
               "A": "Hakkaniyet (Adillik)",
@@ -5312,7 +5313,7 @@ const splVeritabani = [
             "cozum": "Yönetimin tüm ortaklara ve hak sahiplerine eşit muamele etmesi Hakkaniyet (Adillik) ilkesidir."
           },
           {
-            "id": 16,
+            "id": 391,
             "soruMetni": "Girişim sermayesi portföy yönetim şirketlerinde yatırım kararlarını almak üzere en az kaç kişilik bir Yatırım Komitesi oluşturulması zorunludur?",
             "secenekler": {
               "A": "3",
@@ -5325,7 +5326,7 @@ const splVeritabani = [
             "cozum": "Girişim sermayesi ve gayrimenkul yatırım fonu/ortaklıklarında en az 3 kişilik Yatırım Komitesi oluşturulması zorunludur."
           },
           {
-            "id": 17,
+            "id": 392,
             "soruMetni": "Halka açık anonim ortaklıklarda örtülü kazanç aktarımı yasağına aykırılık durumunda SPK aşağıdakilerden hangisini yapmaya yetkilidir?",
             "secenekler": {
               "A": "Şirketin tüm faaliyetlerini durdurmak",
@@ -5338,7 +5339,7 @@ const splVeritabani = [
             "cozum": "SPK tespit edilen örtülü kazanç aktarımının faiziyle iadesi için dava açmaya ve tedbir kararı istemeye yetkilidir."
           },
           {
-            "id": 18,
+            "id": 393,
             "soruMetni": "Kurumsal Yönetim Tebliğine göre Denetimden Sorumlu Komite başkanı ve üyeleri kimlerden oluşmalıdır?",
             "secenekler": {
               "A": "Tamamı Bağımsız Yönetim Kurulu Üyelerinden",
@@ -5351,7 +5352,7 @@ const splVeritabani = [
             "cozum": "Denetim komitesinin tamamı bağımsız yönetim kurulu üyelerinden oluşur."
           },
           {
-            "id": 19,
+            "id": 394,
             "soruMetni": "6362 sayılı Kanun uyarınca Bilgi Suiistimali (Insider Trading) suçu işleyen kişilere verilecek hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
               "A": "3 Yıl",
@@ -5364,7 +5365,7 @@ const splVeritabani = [
             "cozum": "Bilgi suiistimali ve piyasa dolandırıcılığı suçlarında hapis cezasının alt sınırı 3 yıldır."
           },
           {
-            "id": 20,
+            "id": 395,
             "soruMetni": "Halka açık anonim ortaklıklarda önemli nitelikteki işlemlere ilişkin genel kurulda muhalefet şerhi işleyen pay sahiplerinin sahip olduğu hak hangisidir?",
             "secenekler": {
               "A": "Ayrılma Hakkı",
@@ -5384,329 +5385,329 @@ const splVeritabani = [
         "testTuru": "deneme",
         "sorular": [
           {
-            "id": 396,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 1: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-376: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 1 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-376 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 396
           },
           {
-            "id": 397,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 2: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-377: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 2 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-377 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 397
           },
           {
-            "id": 398,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 3: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-378: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 3 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-378 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 398
           },
           {
-            "id": 399,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 4: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-379: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 4 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-379 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 399
           },
           {
-            "id": 400,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 5: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-380: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 5 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-380 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 400
           },
           {
-            "id": 401,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 6: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-381: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 6 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-381 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 401
           },
           {
-            "id": 402,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 7: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-382: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 7 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-382 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 402
           },
           {
-            "id": 403,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 8: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-383: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 8 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-383 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 403
           },
           {
-            "id": 404,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 9: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-384: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 9 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-384 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 404
           },
           {
-            "id": 405,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 10: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-385: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 10 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-385 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 405
           },
           {
-            "id": 406,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 11: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-386: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 11 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-386 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 406
           },
           {
-            "id": 407,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 12: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-387: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 12 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-387 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 407
           },
           {
-            "id": 408,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 13: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-388: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 13 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-388 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 408
           },
           {
-            "id": 409,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 14: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-389: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 14 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-389 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 409
           },
           {
-            "id": 410,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 15: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-390: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 15 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-390 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 410
           },
           {
-            "id": 411,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 16: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-391: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 16 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-391 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 411
           },
           {
-            "id": 412,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 17: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-392: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 17 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-392 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 412
           },
           {
-            "id": 413,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 18: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-393: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 18 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-393 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 413
           },
           {
-            "id": 414,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 19: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-394: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 19 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-394 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 414
           },
           {
-            "id": 415,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 20: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-395: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 20 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-395 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 415
           },
           {
-            "id": 416,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 21: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-396: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 21 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-396 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 416
           },
           {
-            "id": 417,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 22: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-397: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 22 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-397 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 417
           },
           {
-            "id": 418,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 23: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-398: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 23 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-398 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 418
           },
           {
-            "id": 419,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 24: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-399: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 24 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-399 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 419
           },
           {
-            "id": 420,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 1 - Soru 25: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-400: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 1 Soru 25 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-400 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 420
           }
         ]
       },
@@ -5716,329 +5717,329 @@ const splVeritabani = [
         "testTuru": "deneme",
         "sorular": [
           {
-            "id": 421,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 1: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-401: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 1 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-401 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 421
           },
           {
-            "id": 422,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 2: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-402: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 2 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-402 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 422
           },
           {
-            "id": 423,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 3: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-403: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 3 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-403 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 423
           },
           {
-            "id": 424,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 4: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-404: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 4 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-404 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 424
           },
           {
-            "id": 425,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 5: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-405: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 5 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-405 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 425
           },
           {
-            "id": 426,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 6: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-406: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 6 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-406 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 426
           },
           {
-            "id": 427,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 7: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-407: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 7 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-407 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 427
           },
           {
-            "id": 428,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 8: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-408: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 8 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-408 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 428
           },
           {
-            "id": 429,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 9: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-409: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 9 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-409 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 429
           },
           {
-            "id": 430,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 10: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-410: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 10 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-410 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 430
           },
           {
-            "id": 431,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 11: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-411: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 11 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-411 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 431
           },
           {
-            "id": 432,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 12: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-412: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 12 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-412 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 432
           },
           {
-            "id": 433,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 13: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-413: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 13 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-413 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 433
           },
           {
-            "id": 434,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 14: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-414: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 14 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-414 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 434
           },
           {
-            "id": 435,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 15: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-415: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 15 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-415 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 435
           },
           {
-            "id": 436,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 16: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-416: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 16 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-416 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 436
           },
           {
-            "id": 437,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 17: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-417: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 17 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-417 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 437
           },
           {
-            "id": 438,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 18: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-418: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 18 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-418 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 438
           },
           {
-            "id": 439,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 19: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-419: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 19 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-419 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 439
           },
           {
-            "id": 440,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 20: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-420: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 20 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-420 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 440
           },
           {
-            "id": 441,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 21: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-421: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 21 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-421 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 441
           },
           {
-            "id": 442,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 22: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-422: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 22 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-422 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 442
           },
           {
-            "id": 443,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 23: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-423: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 23 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-423 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 443
           },
           {
-            "id": 444,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 24: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-424: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 24 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-424 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 444
           },
           {
-            "id": 445,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 2 - Soru 25: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-425: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 2 Soru 25 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-425 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 445
           }
         ]
       },
@@ -6048,329 +6049,329 @@ const splVeritabani = [
         "testTuru": "deneme",
         "sorular": [
           {
-            "id": 446,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 1: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-426: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 1 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-426 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 446
           },
           {
-            "id": 447,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 2: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-427: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 2 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-427 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 447
           },
           {
-            "id": 448,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 3: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-428: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 3 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-428 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 448
           },
           {
-            "id": 449,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 4: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-429: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 4 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-429 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 449
           },
           {
-            "id": 450,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 5: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-430: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 5 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-430 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 450
           },
           {
-            "id": 451,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 6: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-431: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 6 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-431 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 451
           },
           {
-            "id": 452,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 7: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-432: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 7 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-432 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 452
           },
           {
-            "id": 453,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 8: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-433: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 8 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-433 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 453
           },
           {
-            "id": 454,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 9: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-434: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 9 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-434 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 454
           },
           {
-            "id": 455,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 10: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-435: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 10 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-435 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 455
           },
           {
-            "id": 456,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 11: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-436: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 11 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-436 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 456
           },
           {
-            "id": 457,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 12: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-437: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 12 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-437 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 457
           },
           {
-            "id": 458,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 13: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-438: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 13 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-438 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 458
           },
           {
-            "id": 459,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 14: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-439: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 14 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-439 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 459
           },
           {
-            "id": 460,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 15: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-440: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 15 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-440 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 460
           },
           {
-            "id": 461,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 16: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-441: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 16 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-441 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 461
           },
           {
-            "id": 462,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 17: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-442: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 17 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-442 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 462
           },
           {
-            "id": 463,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 18: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-443: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 18 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-443 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 463
           },
           {
-            "id": 464,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 19: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-444: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 19 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-444 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 464
           },
           {
-            "id": 465,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 20: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-445: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 20 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-445 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 465
           },
           {
-            "id": 466,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 21: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-446: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 21 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-446 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 466
           },
           {
-            "id": 467,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 22: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-447: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 22 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-447 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 467
           },
           {
-            "id": 468,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 23: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-448: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 23 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-448 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 468
           },
           {
-            "id": 469,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 24: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-449: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 24 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-449 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 469
           },
           {
-            "id": 470,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 3 - Soru 25: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-450: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 3 Soru 25 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-450 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 470
           }
         ]
       },
@@ -6380,329 +6381,329 @@ const splVeritabani = [
         "testTuru": "deneme",
         "sorular": [
           {
-            "id": 471,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 1: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-451: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 1 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-451 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 471
           },
           {
-            "id": 472,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 2: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-452: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 2 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-452 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 472
           },
           {
-            "id": 473,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 3: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-453: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 3 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-453 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 473
           },
           {
-            "id": 474,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 4: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-454: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 4 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-454 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 474
           },
           {
-            "id": 475,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 5: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-455: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 5 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-455 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 475
           },
           {
-            "id": 476,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 6: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-456: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 6 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-456 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 476
           },
           {
-            "id": 477,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 7: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-457: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 7 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-457 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 477
           },
           {
-            "id": 478,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 8: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-458: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 8 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-458 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 478
           },
           {
-            "id": 479,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 9: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-459: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 9 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-459 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 479
           },
           {
-            "id": 480,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 10: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-460: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 10 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-460 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 480
           },
           {
-            "id": 481,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 11: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-461: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 11 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-461 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 481
           },
           {
-            "id": 482,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 12: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-462: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 12 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-462 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 482
           },
           {
-            "id": 483,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 13: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-463: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 13 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-463 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 483
           },
           {
-            "id": 484,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 14: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-464: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 14 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-464 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 484
           },
           {
-            "id": 485,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 15: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-465: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 15 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-465 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 485
           },
           {
-            "id": 486,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 16: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-466: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 16 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-466 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 486
           },
           {
-            "id": 487,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 17: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-467: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 17 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-467 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 487
           },
           {
-            "id": 488,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 18: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-468: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 18 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-468 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 488
           },
           {
-            "id": 489,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 19: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-469: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 19 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-469 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 489
           },
           {
-            "id": 490,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 20: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-470: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 20 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-470 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 490
           },
           {
-            "id": 491,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 21: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-471: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 21 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-471 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 491
           },
           {
-            "id": 492,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 22: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-472: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 22 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-472 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 492
           },
           {
-            "id": 493,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 23: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-473: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 23 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-473 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 493
           },
           {
-            "id": 494,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 24: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-474: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 24 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-474 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 494
           },
           {
-            "id": 495,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 4 - Soru 25: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-475: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 4 Soru 25 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-475 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 495
           }
         ]
       },
@@ -6712,329 +6713,329 @@ const splVeritabani = [
         "testTuru": "deneme",
         "sorular": [
           {
-            "id": 496,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 1: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-476: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 1 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-476 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 496
           },
           {
-            "id": 497,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 2: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-477: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 2 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-477 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 497
           },
           {
-            "id": 498,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 3: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-478: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 3 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-478 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 498
           },
           {
-            "id": 499,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 4: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-479: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 4 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-479 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 499
           },
           {
-            "id": 500,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 5: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-480: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 5 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-480 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 500
           },
           {
-            "id": 501,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 6: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-481: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 6 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-481 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 501
           },
           {
-            "id": 502,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 7: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-482: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 7 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-482 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 502
           },
           {
-            "id": 503,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 8: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-483: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 8 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-483 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 503
           },
           {
-            "id": 504,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 9: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-484: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 9 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-484 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 504
           },
           {
-            "id": 505,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 10: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-485: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 10 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-485 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 505
           },
           {
-            "id": 506,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 11: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-486: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 11 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-486 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 506
           },
           {
-            "id": 507,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 12: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-487: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 12 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-487 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 507
           },
           {
-            "id": 508,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 13: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-488: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 13 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-488 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 508
           },
           {
-            "id": 509,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 14: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-489: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 14 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-489 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 509
           },
           {
-            "id": 510,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 15: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-490: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 15 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-490 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 510
           },
           {
-            "id": 511,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 16: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-491: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 16 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-491 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 511
           },
           {
-            "id": 512,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 17: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-492: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 17 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-492 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 512
           },
           {
-            "id": 513,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 18: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-493: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 18 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-493 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 513
           },
           {
-            "id": 514,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 19: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-494: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 19 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-494 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 514
           },
           {
-            "id": 515,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 20: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-495: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 20 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-495 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 515
           },
           {
-            "id": 516,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 21: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-496: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 21 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-496 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 516
           },
           {
-            "id": 517,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 22: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-497: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 22 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-497 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 517
           },
           {
-            "id": 518,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 23: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-498: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 23 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-498 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 518
           },
           {
-            "id": 519,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 24: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-499: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 24 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-499 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 519
           },
           {
-            "id": 520,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 5 - Soru 25: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-500: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 5 Soru 25 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-500 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 520
           }
         ]
       },
@@ -7044,329 +7045,329 @@ const splVeritabani = [
         "testTuru": "deneme",
         "sorular": [
           {
-            "id": 521,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 1: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-501: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 1 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-501 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 521
           },
           {
-            "id": 522,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 2: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-502: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 2 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-502 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 522
           },
           {
-            "id": 523,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 3: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-503: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 3 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-503 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 523
           },
           {
-            "id": 524,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 4: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-504: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 4 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-504 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 524
           },
           {
-            "id": 525,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 5: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-505: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 5 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-505 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 525
           },
           {
-            "id": 526,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 6: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-506: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 6 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-506 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 526
           },
           {
-            "id": 527,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 7: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-507: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 7 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-507 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 527
           },
           {
-            "id": 528,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 8: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-508: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 8 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-508 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 528
           },
           {
-            "id": 529,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 9: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-509: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 9 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-509 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 529
           },
           {
-            "id": 530,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 10: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-510: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 10 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-510 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 530
           },
           {
-            "id": 531,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 11: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-511: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 11 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-511 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 531
           },
           {
-            "id": 532,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 12: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-512: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 12 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-512 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 532
           },
           {
-            "id": 533,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 13: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-513: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 13 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-513 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 533
           },
           {
-            "id": 534,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 14: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-514: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 14 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-514 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 534
           },
           {
-            "id": 535,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 15: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-515: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 15 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-515 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 535
           },
           {
-            "id": 536,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 16: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-516: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 16 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-516 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 536
           },
           {
-            "id": 537,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 17: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-517: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 17 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-517 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 537
           },
           {
-            "id": 538,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 18: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-518: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 18 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-518 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 538
           },
           {
-            "id": 539,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 19: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-519: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 19 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-519 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 539
           },
           {
-            "id": 540,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 20: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-520: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 20 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-520 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 540
           },
           {
-            "id": 541,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 21: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-521: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 21 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-521 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 541
           },
           {
-            "id": 542,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 22: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-522: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 22 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-522 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 542
           },
           {
-            "id": 543,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 23: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-523: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 23 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-523 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 543
           },
           {
-            "id": 544,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 24: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-524: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 24 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-524 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 544
           },
           {
-            "id": 545,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 6 - Soru 25: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-525: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 6 Soru 25 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-525 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 545
           }
         ]
       },
@@ -7376,329 +7377,329 @@ const splVeritabani = [
         "testTuru": "deneme",
         "sorular": [
           {
-            "id": 546,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 1: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-526: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 1 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-526 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 546
           },
           {
-            "id": 547,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 2: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-527: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 2 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-527 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 547
           },
           {
-            "id": 548,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 3: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-528: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 3 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-528 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 548
           },
           {
-            "id": 549,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 4: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-529: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 4 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-529 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 549
           },
           {
-            "id": 550,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 5: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-530: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 5 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-530 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 550
           },
           {
-            "id": 551,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 6: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-531: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 6 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-531 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 551
           },
           {
-            "id": 552,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 7: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-532: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 7 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-532 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 552
           },
           {
-            "id": 553,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 8: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-533: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 8 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-533 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 553
           },
           {
-            "id": 554,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 9: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-534: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 9 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-534 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 554
           },
           {
-            "id": 555,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 10: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-535: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 10 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-535 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 555
           },
           {
-            "id": 556,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 11: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-536: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 11 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-536 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 556
           },
           {
-            "id": 557,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 12: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-537: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 12 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-537 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 557
           },
           {
-            "id": 558,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 13: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-538: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 13 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-538 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 558
           },
           {
-            "id": 559,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 14: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-539: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 14 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-539 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 559
           },
           {
-            "id": 560,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 15: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-540: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 15 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-540 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 560
           },
           {
-            "id": 561,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 16: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-541: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 16 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-541 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 561
           },
           {
-            "id": 562,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 17: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-542: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 17 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-542 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 562
           },
           {
-            "id": 563,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 18: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-543: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 18 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-543 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 563
           },
           {
-            "id": 564,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 19: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-544: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 19 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-544 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 564
           },
           {
-            "id": 565,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 20: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-545: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 20 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-545 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 565
           },
           {
-            "id": 566,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 21: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-546: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 21 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-546 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 566
           },
           {
-            "id": 567,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 22: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-547: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 22 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-547 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 567
           },
           {
-            "id": 568,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 23: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-548: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 23 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-548 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 568
           },
           {
-            "id": 569,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 24: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-549: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 24 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-549 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 569
           },
           {
-            "id": 570,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 7 - Soru 25: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-550: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 7 Soru 25 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-550 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 570
           }
         ]
       },
@@ -7708,329 +7709,329 @@ const splVeritabani = [
         "testTuru": "deneme",
         "sorular": [
           {
-            "id": 571,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 1: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-551: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 1 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-551 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 571
           },
           {
-            "id": 572,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 2: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-552: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 2 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-552 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 572
           },
           {
-            "id": 573,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 3: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-553: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 3 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-553 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 573
           },
           {
-            "id": 574,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 4: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-554: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 4 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-554 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 574
           },
           {
-            "id": 575,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 5: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-555: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 5 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-555 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 575
           },
           {
-            "id": 576,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 6: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-556: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 6 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-556 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 576
           },
           {
-            "id": 577,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 7: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-557: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 7 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-557 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 577
           },
           {
-            "id": 578,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 8: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-558: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 8 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-558 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 578
           },
           {
-            "id": 579,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 9: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-559: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 9 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-559 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 579
           },
           {
-            "id": 580,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 10: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-560: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 10 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-560 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 580
           },
           {
-            "id": 581,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 11: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-561: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 11 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-561 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 581
           },
           {
-            "id": 582,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 12: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-562: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 12 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-562 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 582
           },
           {
-            "id": 583,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 13: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-563: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 13 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-563 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 583
           },
           {
-            "id": 584,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 14: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-564: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 14 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-564 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 584
           },
           {
-            "id": 585,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 15: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-565: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 15 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-565 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 585
           },
           {
-            "id": 586,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 16: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-566: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 16 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-566 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 586
           },
           {
-            "id": 587,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 17: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-567: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 17 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-567 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 587
           },
           {
-            "id": 588,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 18: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-568: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 18 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-568 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 588
           },
           {
-            "id": 589,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 19: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-569: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 19 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-569 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 589
           },
           {
-            "id": 590,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 20: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-570: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 20 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-570 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 590
           },
           {
-            "id": 591,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 21: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-571: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 21 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-571 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 591
           },
           {
-            "id": 592,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 22: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-572: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 22 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-572 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 592
           },
           {
-            "id": 593,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 23: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-573: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 23 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-573 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 593
           },
           {
-            "id": 594,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 24: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-574: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 24 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-574 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 594
           },
           {
-            "id": 595,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 8 - Soru 25: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-575: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 8 Soru 25 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-575 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 595
           }
         ]
       },
@@ -8040,329 +8041,329 @@ const splVeritabani = [
         "testTuru": "deneme",
         "sorular": [
           {
-            "id": 596,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 1: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-576: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 1 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-576 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 596
           },
           {
-            "id": 597,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 2: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-577: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 2 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-577 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 597
           },
           {
-            "id": 598,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 3: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-578: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 3 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-578 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 598
           },
           {
-            "id": 599,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 4: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-579: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 4 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-579 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 599
           },
           {
-            "id": 600,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 5: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-580: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 5 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-580 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 600
           },
           {
-            "id": 601,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 6: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-581: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 6 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-581 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 601
           },
           {
-            "id": 602,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 7: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-582: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 7 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-582 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 602
           },
           {
-            "id": 603,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 8: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-583: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 8 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-583 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 603
           },
           {
-            "id": 604,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 9: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-584: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 9 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-584 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 604
           },
           {
-            "id": 605,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 10: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-585: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 10 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-585 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 605
           },
           {
-            "id": 606,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 11: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-586: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 11 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-586 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 606
           },
           {
-            "id": 607,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 12: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-587: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 12 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-587 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 607
           },
           {
-            "id": 608,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 13: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-588: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 13 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-588 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 608
           },
           {
-            "id": 609,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 14: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-589: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 14 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-589 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 609
           },
           {
-            "id": 610,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 15: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-590: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 15 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-590 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 610
           },
           {
-            "id": 611,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 16: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-591: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 16 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-591 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 611
           },
           {
-            "id": 612,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 17: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-592: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 17 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-592 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 612
           },
           {
-            "id": 613,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 18: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-593: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 18 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-593 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 613
           },
           {
-            "id": 614,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 19: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-594: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 19 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-594 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 614
           },
           {
-            "id": 615,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 20: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-595: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 20 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-595 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 615
           },
           {
-            "id": 616,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 21: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-596: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 21 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-596 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 616
           },
           {
-            "id": 617,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 22: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-597: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 22 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-597 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 617
           },
           {
-            "id": 618,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 23: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-598: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 23 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-598 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 618
           },
           {
-            "id": 619,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 24: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-599: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 24 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-599 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 619
           },
           {
-            "id": 620,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 9 - Soru 25: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-600: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 9 Soru 25 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-600 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 620
           }
         ]
       },
@@ -8372,329 +8373,329 @@ const splVeritabani = [
         "testTuru": "deneme",
         "sorular": [
           {
-            "id": 621,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 1: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-601: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 1 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-601 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 621
           },
           {
-            "id": 622,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 2: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-602: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 2 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-602 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 622
           },
           {
-            "id": 623,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 3: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-603: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 3 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-603 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 623
           },
           {
-            "id": 624,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 4: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-604: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 4 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-604 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 624
           },
           {
-            "id": 625,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 5: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-605: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 5 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-605 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 625
           },
           {
-            "id": 626,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 6: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-606: Kurumsal Yönetim Tebliğinde yer alan 'Uymala ya da Açıkla' (Comply or Explain) prensibi hangi ilkeler grubu için geçerlidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Zorunlu olmayan (gönüllü) Kurumsal Yönetim İlkeleri",
+              "B": "Zorunlu Kurumsal Yönetim İlkeleri",
+              "C": "Türk Ticaret Kanunu emredici hükümleri",
+              "D": "Vergi Kanunu kuralları",
+              "E": "Ceza Kanunu hükümleri"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 6 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-606 Açıklaması: Gönüllü ilkelere uyulmaması durumunda bunun gerekçesi Kurumsal Yönetim Uyum Raporunda kamuya açıklanır.",
+            "id": 626
           },
           {
-            "id": 627,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 7: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-607: Yatırım Fonları Tebliği (III-52.1) uyarınca bir yatırım fonunun portföyüne tek bir ihraççının sermaye piyasası araçlarından fon toplam değerinin en fazla yüzde kaçı dahil edilebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%5",
+              "B": "%10",
+              "C": "%15",
+              "D": "%20",
+              "E": "%25"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 7 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-607 Açıklaması: Risk yayma kuralı gereğince tek bir ihraççının sermaye piyasası araçlarına fon toplam değerinin en fazla %10'u yatırılabilir.",
+            "id": 627
           },
           {
-            "id": 628,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 8: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-608: Borsa Yatırım Fonlarında (BYF) katılma paylarının oluşturulması ve geri alınması sürecinde borsa nezdinde likidite sağlayan kuruluşa ne ad verilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yetkilendirilmiş Katılımcı",
+              "B": "Portföy Saklayıcısı",
+              "C": "Bağımsız Denetçi",
+              "D": "MKK Uzmanı",
+              "E": "Derecelendirme Kuruluşu"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 8 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-608 Açıklaması: BYF'lerde yetkilendirilmiş katılımcılar portföy bileşeni karşılığında katılma payı oluşturur ve geri alım yapar.",
+            "id": 628
           },
           {
-            "id": 629,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 9: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-609: Yatırım fonu mal varlığının kurucunun veya saklayıcının borçları nedeniyle haczedilmesi veya rehnedilmesiyle ilgili kural nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Fon mal varlığı kesinlikle haczedilemez, rehnedilemez ve iflas masasına dahil edilemez.",
+              "B": "Kurucu borçları için haczedilebilir.",
+              "C": "SPK izniyle rehnedilebilir.",
+              "D": "Saklayıcı iflas ederse fon mal varlığı dağıtılır.",
+              "E": "Mahkeme kararıyla rehnedilebilir."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 9 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-609 Açıklaması: 6362 s. K. m. 53 uyarınca fon mal varlığı kurucu veya saklayıcının borçları için haczedilemez ve rehnedilemez.",
+            "id": 629
           },
           {
-            "id": 630,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 10: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-610: Gayrimenkul Yatırım Ortaklıklarına (GYO) ilişkin Tebliğ (III-48.1) uyarınca GYO'ların portföy değerinin en az yüzde kaçının gayrimenkul ve gayrimenkule dayalı haklardan oluşması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%70",
+              "E": "%80"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 10 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-610 Açıklaması: GYO'ların portföy değerinin en az %70'inin gayrimenkuller ve gayrimenkule dayalı haklardan oluşması zorunludur.",
+            "id": 630
           },
           {
-            "id": 631,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 11: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-611: GYO'ların çıkarılmış sermayelerinin en az yüzde kaçını oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%10",
+              "B": "%15",
+              "C": "%20",
+              "D": "%25",
+              "E": "%50"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 11 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "D",
+            "cozum": "Soru M-611 Açıklaması: GYO'ların çıkarılmış sermayelerinin en az %25'ini oluşturan payların halka arz edilmesi veya nitelikli yatırımcılara satılması zorunludur.",
+            "id": 631
           },
           {
-            "id": 632,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 12: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-612: Menkul Kıymet Yatırım Ortaklıklarında (MKYO) portföy değerinin en az yüzde kaçının menkul kıymetlerden oluşması gerekir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "%25",
+              "B": "%50",
+              "C": "%51",
+              "D": "%75",
+              "E": "%90"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 12 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-612 Açıklaması: MKYO portföy değerinin en az %51'inin sermaye piyasası araçları ve menkul kıymetlerden oluşması zorunludur.",
+            "id": 632
           },
           {
-            "id": 633,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 13: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-613: Portföy Yönetim Şirketleri Tebliği (III-55.1) uyarınca portföy yöneticisi olarak görev yapacak kişilerin sahip olması gereken SPL lisansı hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "SPL Düzey 3 veya Türev Araçlar Lisansı",
+              "B": "Düzey 1 Lisansı",
+              "C": "Gayrimenkul Değerleme Lisansı",
+              "D": "Kredi Derecelendirme Lisansı",
+              "E": "Konut Kredileri Lisansı"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 13 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-613 Açıklaması: Portföy yöneticilerinin SPL Düzey 3 Lisansı veya uzmanlık alanına göre Türev Araçlar Lisansına sahip olması şarttır.",
+            "id": 633
           },
           {
-            "id": 634,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 14: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-614: Portföy yönetim şirketlerinin müşterileri adına yönettikleri portföyleri nerede saklamaları zorunludur?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Portföy Saklama Kuruluşunda (Bankalar/Takasbank)",
+              "B": "Şirket kasasında",
+              "C": "Şirket yönetim kurulu başkanının hesabında",
+              "D": "MKK genel merkezinde fiziki olarak",
+              "E": "Ticaret Odasında"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 14 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-614 Açıklaması: Müşteri portföyleri yetkili Portföy Saklama Kuruluşları nezdinde saklanır.",
+            "id": 634
           },
           {
-            "id": 635,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 15: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-615: Sermaye piyasasında kaydileştirilen araçlar üzerinde rehin hakkı tesisi MKK nezdinde nasıl gerçekleşir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İlgili payların MKK sisteminde rehinli olarak kaydedilmesiyle",
+              "B": "Fiziki senet üzerine yazılmasıyla",
+              "C": "Noter tasdikiyle",
+              "D": "Ticaret gazetesinde ilanla",
+              "E": "SPK'ya dilekçe verilmesiyle"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 15 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-615 Açıklaması: Kaydi paylarda rehin hakkı MKK nezdindeki elektronik hesaplarda rehin kaydının işlenmesiyle doğar.",
+            "id": 635
           },
           {
-            "id": 636,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 16: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-616: Borsa İstanbul Pay Piyasasında gerçekleştirilen hisse senedi alım satım işlemlerinin takas süresi (standart takas günü) nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "T+0 (Aynı gün)",
+              "B": "T+1",
+              "C": "T+2",
+              "D": "T+3",
+              "E": "T+5"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 16 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-616 Açıklaması: BİST Pay Piyasasında standart takas süresi T+2 (işlemi takip eden ikinci iş günü) olarak uygulanır.",
+            "id": 636
           },
           {
-            "id": 637,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 17: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-617: 6362 sayılı Kanunun 21. maddesinde düzenlenen Örtülü Kazanç Aktarımı Yasağına aykırılık durumunda uygulanacak yaptırım nedir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Kazancın iadesi + 3 yıldan 8 yıla kadar hapis ve adli para cezası",
+              "B": "Sadece hafif uyarı",
+              "C": "Sadece idari para cezası",
+              "D": "Şirketin kapatılması",
+              "E": "Rüçhan hakkı iptali"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 17 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-617 Açıklaması: Örtülü kazanç aktarımı suçu işleyenlere 3 yıldan 8 yıla kadar hapis cezası uygulanır ve aktarılan kazanç faiziyle şirkete iade ettirilir.",
+            "id": 637
           },
           {
-            "id": 638,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 18: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-618: Piyasa Dolandırıcılığı (Manipülasyon) suçunda soruşturma başlamadan önce durumu Kurula bildirip elde ettiği menfaati Hazineye ödeyen fail hakkında ne yapılır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Etkin pişmanlık hükümleri uyarınca ceza verilmez.",
+              "B": "Cezası yarı yarıya artırılır.",
+              "C": "Sadece lisansı iptal edilir.",
+              "D": "İdari para cezası iki katına çıkarılır.",
+              "E": "Hapis cezası 10 yıla çıkarılır."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 18 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-618 Açıklaması: SPK m. 107/3 uyarınca soruşturma başlamadan durumu ihbar edip kazancı hazineye ödeyen faile ceza verilmez.",
+            "id": 638
           },
           {
-            "id": 639,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 19: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-619: Bilgi Suiistimali (Insider Trading) suçunun işlenmesinde hapis cezasının alt sınırı kaç yıldır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "1 Yıl",
+              "B": "2 Yıl",
+              "C": "3 Yıl",
+              "D": "5 Yıl",
+              "E": "7 Yıl"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 19 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "C",
+            "cozum": "Soru M-619 Açıklaması: SPK m. 106 uyarınca bilgi suiistimali suçunda hapis cezasının alt sınırı 3 yıldır.",
+            "id": 639
           },
           {
-            "id": 640,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 20: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-620: Türkiye Sermaye Piyasaları Birliği (TSPB) üyelerinin faaliyetleri sırasında müşterilerine karşı uymakla yükümlü olduğu etik ilkelerden biri hangisidir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Müşteriye getiri garantisi veya zararı karşılama taahhüdünde bulunmamak",
+              "B": "Müşteriye kesin kâr vaat etmek",
+              "C": "Müşterinin tüm varlığını ipotek etmek",
+              "D": "Müşteri sırlarını üçüncü kişilerle paylaşmak",
+              "E": "Müşteri adına izinsiz işlem yapmak"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 20 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-620 Açıklaması: Sermaye piyasasında müşterilere kesin getiri garantisi vermek veya zararı karşılama taahhüdünde bulunmak kesinlikle yasaktır.",
+            "id": 640
           },
           {
-            "id": 641,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 21: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-621: Özel Durumlar Tebliği (II-15.1) uyarınca, içsel bilgilerin kamuya açıklanmasının ertelenmesi durumunda erteleme kararını ve gerekçelerini kim kayıt altına alır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "İhraççı şirket ve yönetim kurulu",
+              "B": "Sadece SPK",
+              "C": "Borsa İstanbul",
+              "D": "MKK yetkilisi",
+              "E": "Bağımsız denetçi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 21 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-621 Açıklaması: İçsel bilginin açıklanması ertelendiğinde ihraççı erteleme kararını ve gizlilik tedbirlerini kayıt altına alır.",
+            "id": 641
           },
           {
-            "id": 642,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 22: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-622: Özel Durumlar Tebliği kapsamında ihraççıların geleceğe yönelik değerlendirmeleri bir takvim yılında en fazla kaç kez güncellenebilir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "2 Kez",
+              "B": "4 Kez",
+              "C": "6 Kez",
+              "D": "12 Kez",
+              "E": "Sınırsızdır"
             },
-            "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 22 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "dogruCevap": "B",
+            "cozum": "Soru M-622 Açıklaması: Geleceğe yönelik değerlendirmeler yılda en fazla 4 kez veya önemli bir değişiklik meydana geldiğinde güncellenir.",
+            "id": 642
           },
           {
-            "id": 643,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 23: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-623: Aşağıdakilerden hangisi Özel Durumlar Tebliğine göre 'Sürekli Bilgiler' kapsamında derhal KAP'ta açıklanması gereken durumlardan biridir?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Yönetim kurulu üyelerinin ve üst düzey yöneticilerin değişmesi",
+              "B": "Şirket içi yemek menüsünün değişmesi",
+              "C": "Rutin elektrik faturasının ödenmesi",
+              "D": "Sıradan kırtasiye alımı",
+              "E": "Personel izin takvimi"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 23 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-623 Açıklaması: Yönetim kurulu üyeleri ve üst idari sorumluların değişimi sürekli bilgiler kapsamında derhal KAP'ta açıklanır.",
+            "id": 643
           },
           {
-            "id": 644,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 24: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-624: Kurumsal Yönetim Tebliği (II-17.1) uyarınca, BİST 30 veya BİST 50 endeksinde yer alan 1. Grup halka açık şirketlerde bağımsız yönetim kurulu üye sayısı en az ne kadar olmalıdır?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Toplam üye sayısının en az 1/3'ü ve her halükarda en az 2 üye",
+              "B": "En az 1 üye",
+              "C": "Üyelerin yarısı",
+              "D": "En az 5 üye",
+              "E": "Bağımsız üye zorunlu değildir"
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 24 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-624 Açıklaması: 1. Grup şirketlerde bağımsız üye sayısı toplam üye sayısının en az üçte biri oranında ve en az 2 üye olmalıdır.",
+            "id": 644
           },
           {
-            "id": 645,
-            "soruMetni": "1002 Geniş Kapsamlı Mevzuat Deneme 10 - Soru 25: 6362 sayılı Kanun, Özel Durumlar Tebliği ve Kurumsal Yönetim düzenlemeleri uyarınca aşağıdakilerden hangisi sermaye piyasasında yatırımcıların korunmasını amaçlayan temel esaslardan biridir?",
+            "soruMetni": "Sermaye Piyasası Mevzuatı Özel Soru M-625: Kurumsal Yönetim Tebliğine göre oluşturulması zorunlu olan Denetimden Sorumlu Komitenin üyeleri hakkında hangisi DOĞRUDUR?",
             "secenekler": {
-              "A": "Kamuyu aydınlatma yükümlülüğünün eksiksiz, doğru ve zamanında yerine getirilmesi",
-              "B": "Şirket sırlarının yatırımcılardan gizlenmesi",
-              "C": "Hisse fiyatlarının sabit tutulması",
-              "D": "Yatırımcılara zararsızlık garantisi verilmesi",
-              "E": "Tüm kararların tek taraflı alınması"
+              "A": "Komite üyelerinin tamamı bağımsız yönetim kurulu üyelerinden oluşur.",
+              "B": "Komite başkanı icracı üye olmalıdır.",
+              "C": "En az 5 üye olmalıdır.",
+              "D": "Genel müdür komite başkanıdır.",
+              "E": "Dışarıdan uzmanlardan oluşur."
             },
             "dogruCevap": "A",
-            "cozum": "Deneme 10 Soru 25 Çözümü: Sermaye piyasası mevzuatının temel amacı yatırımcıların doğru bilgilendirilmesi ve haklarının korunmasıdır."
+            "cozum": "Soru M-625 Açıklaması: Denetimden Sorumlu Komitenin tüm üyelerinin bağımsız yönetim kurulu üyesi olması zorunludur.",
+            "id": 645
           }
         ]
       }
