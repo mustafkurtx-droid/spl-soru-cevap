@@ -1,5 +1,7 @@
 /**
  * ============================================================================
+ * SPL Soru-Cevap Uygulaması - Tüm Lisans Soru Veritabanı (v20260807_4TESTS)
+ * ============================================================================
  * SPL (Sermaye Piyasası Lisanslama) SORU VERİTABANI (questions.js)
  * ============================================================================
  * Resmi SPK Modül Kodları & Sınav Konuları Tam Liste:
