@@ -220,8 +220,10 @@
         return '';
       }).join(' ');
 
+      const progressPercent = totalTestCount > 0 ? Math.round((completedTestCount / totalTestCount) * 100) : 0;
+
       const card = document.createElement('div');
-      card.className = 'bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700/80 p-6 shadow-sm card-hover-effect cursor-pointer flex flex-col justify-between transition-all';
+      card.className = 'bg-white dark:bg-slate-800 rounded-3xl border border-slate-200/90 dark:border-slate-700/80 p-6 shadow-sm card-hover-effect cursor-pointer flex flex-col justify-between transition-all relative overflow-hidden group';
       card.onclick = () => {
         state.selectedCourseIndex = originalIndex;
         renderTestView(originalIndex);
@@ -231,27 +233,35 @@
         <div>
           <div class="flex items-center justify-between mb-3 flex-wrap gap-2">
             <div class="flex items-center gap-1.5 flex-wrap">
-              ${levelBadgesHtml || `<span class="px-3 py-1 text-xs font-semibold rounded-lg bg-sky-100 dark:bg-sky-950 text-sky-700 dark:text-sky-300">${course.kategori || 'SPL Lisans'}</span>`}
+              ${levelBadgesHtml || `<span class="px-3 py-1 text-xs font-bold rounded-xl bg-sky-100 dark:bg-sky-950/80 text-sky-700 dark:text-sky-300 border border-sky-300/40">${course.kategori || 'SPL Lisans'}</span>`}
             </div>
-            <span class="text-xs font-medium text-slate-400">
+            <span class="text-xs font-bold text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-slate-900/80 px-2.5 py-1 rounded-xl border border-slate-200/60 dark:border-slate-700/60">
               <i class="fa-solid fa-layer-group text-sky-500 mr-1"></i> ${totalTestCount} Paket Test
             </span>
           </div>
-          <h4 class="text-lg font-bold text-slate-900 dark:text-white mb-2 leading-snug">
+          <h4 class="text-lg font-black text-slate-900 dark:text-white mb-2 leading-snug group-hover:text-sky-500 transition-colors">
             ${course.dersAdi}
           </h4>
-          <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mb-4 line-clamp-2">
+          <p class="text-xs sm:text-sm text-slate-600 dark:text-slate-400 mb-5 line-clamp-2 leading-relaxed">
             ${course.aciklama || 'Bu ders için hazırlanan kapsamlı soru paketleri.'}
           </p>
         </div>
 
-        <div class="pt-4 border-t border-slate-100 dark:border-slate-700/60 flex items-center justify-between">
-          <div class="text-xs text-slate-500 dark:text-slate-400">
-            Tamamlanan: <strong class="text-slate-900 dark:text-white">${completedTestCount}/${totalTestCount}</strong>
+        <div class="pt-4 border-t border-slate-100 dark:border-slate-700/60 space-y-2.5">
+          <div class="flex items-center justify-between text-xs font-bold">
+            <span class="text-slate-500 dark:text-slate-400">İlerleme: <strong class="text-slate-900 dark:text-white">${completedTestCount}/${totalTestCount} Test</strong></span>
+            <span class="text-sky-600 dark:text-sky-400">${progressPercent}%</span>
           </div>
-          <span class="inline-flex items-center text-xs font-bold text-sky-600 dark:text-sky-400 group-hover:translate-x-1 transition">
-            Testleri Gör <i class="fa-solid fa-arrow-right ml-1"></i>
-          </span>
+          
+          <div class="w-full h-2 rounded-full bg-slate-100 dark:bg-slate-900 overflow-hidden border border-slate-200/50 dark:border-slate-700/50">
+            <div class="h-full bg-gradient-to-r from-sky-500 to-indigo-500 transition-all duration-500" style="width: ${progressPercent}%"></div>
+          </div>
+
+          <div class="flex items-center justify-end pt-1">
+            <span class="inline-flex items-center text-xs font-extrabold text-sky-600 dark:text-sky-400 group-hover:translate-x-1 transition-transform">
+              Testleri Çöz <i class="fa-solid fa-arrow-right-long ml-1.5 text-xs"></i>
+            </span>
+          </div>
         </div>
       `;
 
