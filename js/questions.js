@@ -6274,25 +6274,1375 @@ const splVeritabani = [
       "duzey3",
       "turev"
     ],
-    "aciklama": "1003 - Sermaye Piyasası Araçları 1 - Resmi SPL Müfredat Temel Testi (1 Test, 1 Soru)",
+    "aciklama": "Sermaye Piyasası Araçları 1 (1003) - 2.1. Paylar ve Pay Benzeri Menkul Kıymetler (Pay Tebliği VII-128.1) Konu Başlığına Özel Sıralı Resmi 10 Test (100 Tamamen Özgün ve Benzersiz Soru)",
     "testler": [
       {
         "testId": 1,
-        "testAdi": "Test 1: 1003 - Sermaye Piyasası Araçları 1 Temel Değerlendirme Testi",
+        "testAdi": "Test 1: 2.1.1. Pay Kavramı, Şekli ve Hukuki Nitelikleri",
         "testTuru": "konu",
         "sorular": [
           {
             "id": 1,
-            "soruMetni": "1003 - Sermaye Piyasası Araçları 1 müfredatına ilişkin temel mevzuat ve uygulama değerlendirmesi.",
+            "soruMetni": "6362 sayılı Sermaye Piyasası Kanunu ve Türk Ticaret Kanunu uyarınca, anonim ortaklıklarda sermayenin eşit bölümlerinden her birini temsil eden ve ortaklık hakkı sağlayan sermaye piyasası aracına ne ad verilir?",
             "secenekler": {
-              "A": "Sermaye Piyasası Kanunu ve İlgili Mevzuat Hükümleri",
-              "B": "Yönetmelik ve Genelge Esasları",
-              "C": "Ticaret Kanunu Genel Hükümleri",
-              "D": "Takasbank ve MKK Saklama Düzenlemeleri",
-              "E": "Borsa İstanbul İşleyiş Kuralları"
+              "A": "Tahvil",
+              "B": "Finansman Bonosu",
+              "C": "Kira Sertifikası",
+              "D": "Varlığa Dayalı Menkul Kıymet",
+              "E": "Pay (Hisse Senedi)"
+            },
+            "dogruCevap": "E",
+            "cozum": "Pay, anonim ortaklıkların sermayesinin belirli ve eşit parçalara bölünmüş her bir birimini temsil eden temel sermaye piyasası aracıdır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Sermaye Piyasası Kanunu uyarınca, halka açık anonim ortaklıkların ihraç ettiği payların fiziki senet olarak basılması yerine elektronik ortamda hak sahipleri bazında izlenmesi ilkesine ne ad verilir?",
+            "secenekler": {
+              "A": "Payların Kaydileştirilmesi İlkesi",
+              "B": "Zaman Aşımı İlkesi",
+              "C": "Kayıtlı Sermaye İlkesi",
+              "D": "Poliçe Düzenleme İlkesi",
+              "E": "Fiziki Teslimat İlkesi"
             },
             "dogruCevap": "A",
-            "cozum": "Bu soru ilgili dersin resmi müfredat kapsamını temel almaktadır."
+            "cozum": "Sermaye Piyasası Kanunu m. 13 uyarınca sermaye piyasası araçlarının Merkezi Kayıt Kuruluşu (MKK) nezdinde elektronik ortamda kayden takibi esastır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Türk Ticaret Kanunu hükümleri uyarınca, nama yazılı paylar ile hamiline yazılı payların devir şartları hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Nama yazılı paylar sadece sözlü beyanla devredilir.",
+              "B": "Hamiline yazılı payların devri için Ticaret Bakanlığından izin alınması şarttır.",
+              "C": "Pay devirleri sadece valilik onayı ile geçerli olur.",
+              "D": "Hamiline yazılı paylar zilyetliğin devri ve MKK bildirimi ile; nama yazılı paylar ise ciro ve zilyetliğin devri ile devrolunur.",
+              "E": "Hamiline yazılı paylar hiçbir şekilde devredilemez."
+            },
+            "dogruCevap": "D",
+            "cozum": "TTK m. 489 ve 490 uyarınca hamiline yazılı paylar zilyetliğin geçirilmesi ve MKK kaydıyla; nama yazılı paylar ciro ve teslim ile devredilir."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Halka açık anonim ortaklıklarda kaydileştirilen payların mülkiyetinin ve hakkın hak sahibine karşı ileri sürülebilmesinin yasal dayanağı olan kuruluş hangisidir?",
+            "secenekler": {
+              "A": "Sermaye Piyasası Lisanslama Sicil Dairesi",
+              "B": "Vergi Dairesi Başkanlığı",
+              "C": "Borsa İstanbul A.Ş.",
+              "D": "Merkezi Kayıt Kuruluşu (MKK)",
+              "E": "İl Sanayi Müdürlüğü"
+            },
+            "dogruCevap": "D",
+            "cozum": "SPKn m. 13 uyarınca kaydileştirilen paylara ilişkin haklar MKK nezdindeki kayıtlar esas alınarak izlenir."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Anonim ortaklık sermayesini temsil eden paylar ile ilgili olarak aşağıdakilerden hangisi YANLIŞTIR?",
+            "secenekler": {
+              "A": "Paylar kural olarak devredilebilir niteliktedir.",
+              "B": "Pay sahipleri ortaklığın borçlarından dolayı şahsen tüm malvarlıklarıyla sorumludur.",
+              "C": "Paylar anonim ortaklık sermayesinin bir parçasını temsil eder.",
+              "D": "Pay sahipleri sadece taahhüt ettikleri sermaye payı ile ortaklığa karşı sorumludur (Sırf borç ilkesi).",
+              "E": "Paylar sahiplerine hem idari hem de mali haklar bahşeder."
+            },
+            "dogruCevap": "B",
+            "cozum": "Anonim ortaklık pay sahipleri ortaklık borçlarından sorumlu değildir; tek borçları taahhüt ettikleri sermaye payını ödemektir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Sermaye Piyasası Kanunu uyarınca, borsada işlem gören payların kaydileştirilme süreci tamamlandıktan sonra fiziki olarak iade edilmesi mümkün müdür?",
+            "secenekler": {
+              "A": "Sadece 10 yıl sonra fizikiye dönüştürülür.",
+              "B": "Evet, ortaklar isterse fiziki senet bastırabilir.",
+              "C": "Hayır, kaydileştirilen sermaye piyasası araçlarının fiziki senet olarak tekrar basılması ve iadesi mümkün değildir.",
+              "D": "Her yıl sonu fiziki senet dağıtılır.",
+              "E": "Fizikiye dönüşüm Genel Müdür onayıyla yapılır."
+            },
+            "dogruCevap": "C",
+            "cozum": "SPKn m. 13 uyarınca kayden izlenen sermaye piyasası araçlarının fiziki olarak senet şeklinde teslimi veya bastırılması imkânsızdır."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Pay senetlerinde bulunması zorunlu olan temel kanuni unsurlar arasında aşağıdakilerden hangisi YER ALIR?",
+            "secenekler": {
+              "A": "Şirket unvanı, sermaye tutarı, payın nominal değeri ve yetkili imzalar",
+              "B": "Şirket binasının oda sayısı",
+              "C": "Belediye başkanının onay mührü",
+              "D": "Ortakların kan grubu",
+              "E": "Şirket çaycısının adı ve soyadı"
+            },
+            "dogruCevap": "A",
+            "cozum": "TTK m. 487 uyarınca pay senetlerinde şirket unvanı, sermaye miktarı, tescil tarihi, nominal değer ve yetkili imza bulunmalıdır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Payın İtibari Değeri (Nominal Değer) kavramı aşağıdakilerden hangisini ifade eder?",
+            "secenekler": {
+              "A": "Gelecek yıl dağıtılması beklenen kâr payı",
+              "B": "Pay senedinin üzerinde yazılı olan ve esas sermayeye katılım tutarını gösteren miktar",
+              "C": "Şirketin gayrimenkul ekspertiz tutarı",
+              "D": "Borsada her saniye değişen anlık işlem fiyatı",
+              "E": "Şirketin tasfiye edildiği gün kalan bakiye fiyatı"
+            },
+            "dogruCevap": "B",
+            "cozum": "Nominal değer, pay senedinin üzerinde yazılı olan ve şirketin toplam esas sermayesini oluşturan birim değerdir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Anonim ortaklık paylarının bölünmesi (Split) veya birleştirilmesi (Reverse Split) durumunda şirket sermayesinde nasıl bir değişim meydana gelir?",
+            "secenekler": {
+              "A": "Sermaye devlet hazinesine devredilir.",
+              "B": "Şirket sermayesi tamamen sıfırlanır.",
+              "C": "Toplam esas sermaye tutarı değişmez; yalnızca pay sayısı ve payın nominal değeri orantılı olarak değişir.",
+              "D": "Toplam sermaye 2 katına çıkar.",
+              "E": "Payların tüm hakları ortadan kalkar."
+            },
+            "dogruCevap": "C",
+            "cozum": "Pay bölünmesi veya birleştirilmesinde toplam esas sermaye değişmez, sadece birim nominal değer ve adet değişir."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sermaye Piyasası Kanunu uyarınca, kaydileştirilen paylar üzerindeki rehin veya haciz gibi sınırlı ayni haklar nerede tesis edilir ve izlenir?",
+            "secenekler": {
+              "A": "Şirket merkezindeki kasada saklanır.",
+              "B": "Şehir Noterliğinde deftere yazılır.",
+              "C": "İl emniyet müdürlüğüne bildirilir.",
+              "D": "Belediye zabıta amirliğinde tutulur.",
+              "E": "Merkezi Kayıt Kuruluşu (MKK) nezdinde elektronik ortamda tescil edilir."
+            },
+            "dogruCevap": "E",
+            "cozum": "SPKn m. 13 uyarınca kaydi paylar üzerindeki rehin, haciz ve benzeri haklar MKK nezdinde elektronik ortamda izlenir."
+          }
+        ]
+      },
+      {
+        "testId": 2,
+        "testAdi": "Test 2: 2.1.2. Pay Sahibinin Hakları ve Borçları (Mali ve İdari Haklar)",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Türk Ticaret Kanunu ve Sermaye Piyasası Mevzuatı uyarınca, pay sahibinin en temel mali (parasal) hakkı aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Yönetim Kurulu Üyesi Seçilme Hakkı",
+              "B": "Bilgi Alma ve İnceleme Hakkı",
+              "C": "Genel Kurul İptal Davası Açma Hakkı",
+              "D": "Oy Kullanma Hakkı",
+              "E": "Kâr Payı (Temettü) Hakkı"
+            },
+            "dogruCevap": "E",
+            "cozum": "Pay sahibinin en temel mali hakkı, şirketin elde ettiği net dönem kârından payına düşen Kâr Payını (Temettü) alma hakkıdır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Anonim ortaklıkların sermaye artırımında mevcut pay sahiplerinin yeni çıkarılacak payları öncelikle satın alma hakkına ne ad verilir?",
+            "secenekler": {
+              "A": "Ayrılma Hakkı",
+              "B": "Oydan Yoksunluk Hakkı",
+              "C": "Rüçhan Hakkı (Yeni Pay Alma Hakkı)",
+              "D": "Tasfiye Payı Hakkı",
+              "E": "İntifa Hakkı"
+            },
+            "dogruCevap": "C",
+            "cozum": "Rüçhan hakkı, mevcut ortakların sermaye artırımlarında ortaklıktaki pay oranlarını koruyabilmeleri için yeni payları öncelikli alma hakkıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Anonim ortaklık Genel Kurul toplantılarında kararların alınmasında oy hakkının kullanılması esasları hakkında aşağıdakilerden hangisi DOĞRUDUR?",
+            "secenekler": {
+              "A": "Her pay sahibi kişi sayısına göre 1 oy hakkına sahiptir.",
+              "B": "Oy hakkı kural olarak payın toplam itibari (nominal) değeri oranında kullanılır.",
+              "C": "Oy hakkı kullanımı tamamen yasaktır.",
+              "D": "Oy hakkı sadece vergi dairesince kullanılır.",
+              "E": "Oy hakkı sadece yönetim kurulu başkanına verilir."
+            },
+            "dogruCevap": "B",
+            "cozum": "TTK m. 434 uyarınca oy hakkı pay sahiplerinin sahip oldukları payların toplam itibari değeriyle orantılıdır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Pay sahiplerinin anonim ortaklığın dağılması veya tasfiye edilmesi durumunda tüm borçlar ödendikten sonra kalan malvarlığından pay alma hakkına ne ad verilir?",
+            "secenekler": {
+              "A": "Yönetim Kayyum Hakkı",
+              "B": "Rüçhan Hakkı",
+              "C": "Genel Kurul Çağrı Hakkı",
+              "D": "Tasfiye Payı Hakkı",
+              "E": "Emisyon Primi Hakkı"
+            },
+            "dogruCevap": "D",
+            "cozum": "Tasfiye payı hakkı, ortaklık tasfiye edildiğinde borçlar ödendikten sonra kalan tutarın pay sahiplerine dağıtılması hakkıdır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Pay sahibinin tek borcu olan 'Sırf Borç İlkesi' uyarınca pay sahibinin anonim ortaklığa karşı tek yükümlülüğü nedir?",
+            "secenekler": {
+              "A": "Şirketin tüm borçlarını ödemek",
+              "B": "Şirketin tüm zararlarını kişisel malvarlığıyla kapatmak",
+              "C": "Taahhüt ettiği payın nominal bedelini ödemek",
+              "D": "Şirket çalışanlarına ikramiye vermek",
+              "E": "Şirket binasını ücretsiz kiralamak"
+            },
+            "dogruCevap": "C",
+            "cozum": "TTK m. 480 uyarınca pay sahibinin ana yükümlülüğü taahhüt ettiği pay bedelini ifa etmektir; ilave borç yüklenemez."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Sermaye Piyasası Kanunu uyarınca, halka açık anonim ortaklıklarda kâr payı dağıtım kararı vermeye yetkili organ aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Sermaye Piyasası Kurulu Başkanı",
+              "B": "Merkezi Kayıt Kuruluşı",
+              "C": "Bağımsız Denetim Şirketi",
+              "D": "Genel Kurul (Yönetim Kurulu teklifini değerlendirerek onaylar)",
+              "E": "Borsa İstanbul Yönetim Kurulu"
+            },
+            "dogruCevap": "D",
+            "cozum": "Kâr dağıtımı, yönetim kurulunun önerisi üzerine esas sözleşme ve kâr dağıtım politikası çerçevesinde Genel Kurul kararıyla yapılır."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Anonim ortaklıklarda şirket iç kaynaklarının (yedek akçeler, sermaye düzeltmesi farkları) sermayeye eklenmesiyle ortaklara bedelsiz verilen paylara ne ad verilir?",
+            "secenekler": {
+              "A": "Bedelli Pay",
+              "B": "Oydan Yoksun Pay",
+              "C": "Tahvil",
+              "D": "Katılma İntifa Senedi",
+              "E": "Bedelsiz Pay (Bedelsiz Sermaye Artırımı)"
+            },
+            "dogruCevap": "E",
+            "cozum": "İç kaynaklardan yapılan sermaye artırımlarında mevcut ortaklara payları oranında karşılıksız verilen paylara Bedelsiz Pay denir."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Pay sahiplerinin şirket finansal tablolarını, faaliyet raporlarını ve denetçi raporlarını inceleme ve bilgi talep etme hakkına ne ad verilir?",
+            "secenekler": {
+              "A": "Önden İşlem Yapma Hakkı",
+              "B": "Bilgi Alma ve İnceleme Hakkı",
+              "C": "Müflis İlan Etme Hakkı",
+              "D": "Rüçhan Hakkı",
+              "E": "Yönetimi Devirme Hakkı"
+            },
+            "dogruCevap": "B",
+            "cozum": "TTK m. 437 uyarınca pay sahipleri Genel Kurul öncesinde ve sırasında bilgi alma ve inceleme hakkına sahiptir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Halka açık ortaklıklarda pay sahiplerinin Genel Kurul kararlarının kanuna, esas sözleşmeye ve dürüstlük kuralına aykırı olması gerekçesiyle açabilecekleri dava hangisidir?",
+            "secenekler": {
+              "A": "Genel Kurul Kararının İptali Davası",
+              "B": "Boşanma Davası",
+              "C": "Vergi Ziyaı Davası",
+              "D": "Trafik Cezası Davası",
+              "E": "İcra Takip Davası"
+            },
+            "dogruCevap": "A",
+            "cozum": "TTK m. 445 uyarınca kanuna ve dürüstlük kuralına aykırı Genel Kurul kararlarına karşı İptal Davası açılabilir."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sermaye Piyasası Kanunu uyarınca, halka açık ortaklıkların kâr payı avansı dağıtabilmesi için ne gereklidir?",
+            "secenekler": {
+              "A": "Esas sözleşmede hüküm bulunması ve Genel Kurul tarafından Yönetim Kuruluna yetki verilmiş olması",
+              "B": "Sadece yabancı ortakların onay vermesi",
+              "C": "Belediye Meclisinden izin alınması",
+              "D": "Sadece 10 yılda bir karar alınması",
+              "E": "Kâr payı avansı verilmesi yasaktır"
+            },
+            "dogruCevap": "A",
+            "cozum": "SPKn m. 20 uyarınca Kurul düzenlemelerine uygun olarak Genel Kurul yetkisiyle Kâr Payı Avansı dağıtılabilir."
+          }
+        ]
+      },
+      {
+        "testId": 3,
+        "testAdi": "Test 3: 2.1.3. Pay Türleri ve İmtiyazlı Paylar",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Pay Türleri ve İmtiyazlı Paylar (Oyda İmtiyaz)",
+            "secenekler": {
+              "A": "Oy sayısı kurayla belirlenir.",
+              "B": "Oyda imtiyaz, bir paya birden fazla oy hakkı tanınması veya oy hakkı kısıtlamalarından muaf tutulmasıdır.",
+              "C": "Oyda imtiyaz herkese zorunlu verilir.",
+              "D": "Oy hakkı verilmesi yasaktır.",
+              "E": "Oy hakkını belediye başkanı kullanır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Oyda imtiyaz, bir paya birden fazla oy hakkı tanınması veya oy hakkı kısıtlamalarından muaf tutulmasıdır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İmtiyazlı Paylar (Kâr Payında İmtiyaz)",
+            "secenekler": {
+              "A": "Kâr dağıtımı tamamen yasaktır.",
+              "B": "Kâr oranı her gün değişir.",
+              "C": "Kârı vali dağıtır.",
+              "D": "Kâr sadece yabancılara verilir.",
+              "E": "Kâr payında imtiyaz, kâr dağıtımında belirli pay gruplarına öncelik veya daha yüksek oran tanınmasıdır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Kâr payında imtiyaz, kâr dağıtımında belirli pay gruplarına öncelik veya daha yüksek oran tanınmasıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İmtiyazlı Paylar (Tasfiyede İmtiyaz)",
+            "secenekler": {
+              "A": "Tasfiye parası devlete ödenir.",
+              "B": "Tasfiye kararı alınamaz.",
+              "C": "Tasfiye süresi 100 yıldır.",
+              "D": "Tasfiyede imtiyaz verilmesi suçtur.",
+              "E": "Tasfiyede imtiyaz, şirket tasfiye edildiğinde kalan bakiyeden öncelikli pay alma hakkıdır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Tasfiyede imtiyaz, şirket tasfiye edildiğinde kalan bakiyeden öncelikli pay alma hakkıdır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İmtiyazlı Paylar (Yönetim Kuruluna Üye Adayı Gösterme)",
+            "secenekler": {
+              "A": "Üye adayını borsa başkanı seçer.",
+              "B": "Tüm üyeleri muhtar seçer.",
+              "C": "Yönetim kuruluna üye adayı gösterme imtiyazı, belirli pay grubuna yönetim kuruluna üye önerme hakkı verir.",
+              "D": "Yönetim kuruluna üye seçimi yasaktır.",
+              "E": "Üyeleri bağımsız denetçi seçer."
+            },
+            "dogruCevap": "E",
+            "cozum": "Yönetim kuruluna üye adayı gösterme imtiyazı, belirli pay grubuna yönetim kuruluna üye önerme hakkı verir."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İmtiyazlı Payların Sınırlandırılması",
+            "secenekler": {
+              "A": "İmtiyazlar 1 günde silinir.",
+              "B": "İmtiyazlar her yıl yenilenir.",
+              "C": "Sermaye Piyasası Kanunu m. 28 uyarınca üst üste 5 yıl kâr dağıtmayan halka açık şirketlerde oyda imtiyazlar Kurul kararıyla kalkar.",
+              "D": "İmtiyazlar hiç kaldırılamaz.",
+              "E": "İmtiyaz kaldırma yetkisi polistedir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Sermaye Piyasası Kanunu m. 28 uyarınca üst üste 5 yıl kâr dağıtmayan halka açık şirketlerde oyda imtiyazlar Kurul kararıyla kalkar."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Adi Paylar Kavramı",
+            "secenekler": {
+              "A": "Adi pay oy hakkı sağlamaz.",
+              "B": "Adi pay satılması yasaktır.",
+              "C": "Adi paylar, sahiplerine herhangi bir imtiyaz veya ayrıcalık tanımayan standart pay türüdür.",
+              "D": "Adi pay sahipleri borçtan tüm mallarıyla sorumludur.",
+              "E": "Adi pay bedelsiz verilemez."
+            },
+            "dogruCevap": "C",
+            "cozum": "Adi paylar, sahiplerine herhangi bir imtiyaz veya ayrıcalık tanımayan standart pay türüdür."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İmtiyaz Sahipleri Genel Kurulu",
+            "secenekler": {
+              "A": "Onay yetkisi Ticaret Odasındadır.",
+              "B": "Genel Kurulun imtiyazlı pay sahiplerinin haklarını ihlal eden kararları İmtiyaz Sahipleri Genel Kurulunca onaylanmadıkça uygulanmaz.",
+              "C": "İmtiyazlı ortaklar oy kullanamaz.",
+              "D": "Kararlar onay gerektirmez.",
+              "E": "İmtiyaz Sahipleri Genel Kurulu kurulamaz."
+            },
+            "dogruCevap": "E",
+            "cozum": "Genel Kurulun imtiyazlı pay sahiplerinin haklarını ihlal eden kararları İmtiyaz Sahipleri Genel Kurulunca onaylanmadıkça uygulanmaz."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Halka Açık Ortaklıklarda İmtiyaz Kısıtlaması",
+            "secenekler": {
+              "A": "Bağımsız üyeler imtiyazlı atanır.",
+              "B": "Kurumsal Yönetim Tebliği uyarınca yönetim kurulunda imtiyazlı pay bulunsa dahi bağımsız üyeler imtiyazsız seçilir.",
+              "C": "Bağımsız üyeleri kiracılar seçer.",
+              "D": "Bağımsız üye seçimi yasaktır.",
+              "E": "İmtiyaz bağımsızlara verilir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Kurumsal Yönetim Tebliği uyarınca yönetim kurulunda imtiyazlı pay bulunsa dahi bağımsız üyeler imtiyazsız seçilir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İmtiyazların Esas Sözleşme ile Tesisi",
+            "secenekler": {
+              "A": "Esas sözleşmede imtiyaz yazılamaz.",
+              "B": "İmtiyazı gazete ilanı belirler.",
+              "C": "İmtiyaz şifahen verilir.",
+              "D": "İmtiyazı valilik kararlaştırır.",
+              "E": "Paylarda imtiyaz tesis edilebilmesi için esas sözleşmede açık hüküm bulunması zorunludur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Paylarda imtiyaz tesis edilebilmesi için esas sözleşmede açık hüküm bulunması zorunludur."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İmtiyazlı Pay Devirleri",
+            "secenekler": {
+              "A": "Devirler sadece noterden yapılır.",
+              "B": "Halka açık olmayan paylardaki imtiyaz devirleri esas sözleşme ve Kurul standartlarına tabi tutulabilir.",
+              "C": "Devir kararı kayyumca verilir.",
+              "D": "İmtiyazlı paylar hiç devredilemez.",
+              "E": "Devir işlemleri yasaktır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Halka açık olmayan paylardaki imtiyaz devirleri esas sözleşme ve Kurul standartlarına tabi tutulabilir."
+          }
+        ]
+      },
+      {
+        "testId": 4,
+        "testAdi": "Test 4: 2.1.4. Pay Tebliği (VII-128.1) - Temel Esaslar ve İhraç Şartları",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Pay Tebliği VII-128.1 Amaç ve Kapsam",
+            "secenekler": {
+              "A": "Tebliğ sadece gayrimenkul kiralamasını kapsar.",
+              "B": "Pay Tebliği VII-128.1, payların halka arzı, ihracı, satışı ve izahname düzenleme esaslarını belirler.",
+              "C": "Tebliğ geçerli değildir.",
+              "D": "Tebliğ kararlarını belediye alır.",
+              "E": "Tebliğ sadece bankalara uygulanır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Pay Tebliği VII-128.1, payların halka arzı, ihracı, satışı ve izahname düzenleme esaslarını belirler."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İhraççı ve Halka Arz Eden Yükümlülükleri",
+            "secenekler": {
+              "A": "İhraççı hiçbir sorumluluk taşımaz.",
+              "B": "Sorumluluk müşteriye aittir.",
+              "C": "Sorumluluk tamamen borsa güvenliğinindir.",
+              "D": "Sorumluluğu devlet üstlenir.",
+              "E": "İhraççı ve halka arz edenler kamuyu aydınlatma belgelerindeki bilgilerin yanlışlığından müteselsilen sorumludur."
+            },
+            "dogruCevap": "C",
+            "cozum": "İhraççı ve halka arz edenler kamuyu aydınlatma belgelerindeki bilgilerin yanlışlığından müteselsilen sorumludur."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Fiyat Tespit Raporu Zorunluluğu",
+            "secenekler": {
+              "A": "Fiyatı şirket çaycısı belirler.",
+              "B": "Fiyat her gün kura ile çekilir.",
+              "C": "Fiyat tespiti yapılmaz.",
+              "D": "Fiyat tespit raporu hazırlanması yasaktır.",
+              "E": "Halka arz edilecek payların satış fiyatının belirlenmesinde yetkili aracı kurumca Fiyat Tespit Raporu hazırlanması şarttır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Halka arz edilecek payların satış fiyatının belirlenmesinde yetkili aracı kurumca Fiyat Tespit Raporu hazırlanması şarttır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Analiz Raporu ve Piyasa Danışmanlığı",
+            "secenekler": {
+              "A": "Halka arz sürecinde yetkili aracı kurumlarca hazırlanan fiyat tespit raporuna ilişkin Değerleme / Analist Raporu yayımlanır.",
+              "B": "Rapor sadece polise verilir.",
+              "C": "Rapor hazırlanmaz.",
+              "D": "Raporlar gizli tutulur.",
+              "E": "Analist raporu yayımlanması yasaktır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Halka arz sürecinde yetkili aracı kurumlarca hazırlanan fiyat tespit raporuna ilişkin Değerleme / Analist Raporu yayımlanır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İhraç Tavanı ve Pay Miktarı",
+            "secenekler": {
+              "A": "Tavan her saat başı değişir.",
+              "B": "Pay ihraçlarında SPK tarafından onaylanan izahnamede belirtilen ihraç tavanı aşılamaz.",
+              "C": "İhraç tavanını muhtar belirler.",
+              "D": "Tavan belirlenmesi yasaktır.",
+              "E": "İhraç tavanı sınırsızdır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Pay ihraçlarında SPK tarafından onaylanan izahnamede belirtilen ihraç tavanı aşılamaz."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Halka Arz Başvurusunda Finansal Tablolar",
+            "secenekler": {
+              "A": "Tablo hazırlanması gerekmez.",
+              "B": "Finansal tablo eklenmesi yasaktır.",
+              "C": "Pay halka arzlarında bağımsız denetimden geçmiş finansal tabloların izahnameye eklenmesi zorunludur.",
+              "D": "Tablolar denetlenmeden sunulur.",
+              "E": "Tablolar sadece sözlü söylenir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Pay halka arzlarında bağımsız denetimden geçmiş finansal tabloların izahnameye eklenmesi zorunludur."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İhraççı Paylarının Kote Edilmesi",
+            "secenekler": {
+              "A": "Kotasyon sadece yurt dışında yapılır.",
+              "B": "Borsada işlem görmesi yasaktır.",
+              "C": "Halka arz edilen payların Borsa İstanbul pazarında işlem görmek üzere kote ettirilmesi şarttır.",
+              "D": "Paylar borsada kote edilemez.",
+              "E": "Kotasyon izni belediyeden alınır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Halka arz edilen payların Borsa İstanbul pazarında işlem görmek üzere kote ettirilmesi şarttır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Halka Arz Öncesi Esas Sözleşme Uyum Değişikliği",
+            "secenekler": {
+              "A": "Halka açılacak ortaklıkların esas sözleşmelerini Sermaye Piyasası Kanunu ve Pay Tebliğine uyumlu hale getirmeleri zorunludur.",
+              "B": "Sözleşme uyumu gerekmez.",
+              "C": "Esas sözleşme değiştirilemez.",
+              "D": "Sözleşmeyi vali yazar.",
+              "E": "Sözleşme değişimi yasaktır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Halka açılacak ortaklıkların esas sözleşmelerini Sermaye Piyasası Kanunu ve Pay Tebliğine uyumlu hale getirmeleri zorunludur."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Tahsisli Pay Satış Esasları",
+            "secenekler": {
+              "A": "Tahsisli satış, payların halka arz edilmeksizin doğrudan önceden belirlenmiş kişilere satılmasıdır.",
+              "B": "Tahsisli satış yapılması suçtur.",
+              "C": "Tahsisli satışta izahname onaylanmaz.",
+              "D": "Tahsisli satış tüm halka yapılır.",
+              "E": "Tahsisli satış sadece devlete yapılır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Tahsisli satış, payların halka arz edilmeksizin doğrudan önceden belirlenmiş kişilere satılmasıdır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Nitelikli Yatırımcıya Pay Satışı",
+            "secenekler": {
+              "A": "İhraç belgesi onaylanmaz.",
+              "B": "Nitelikli yatırımcıya satış yasaktır.",
+              "C": "Nitelikli yatırımcıya satışta izahname hazırlama yükümlülüğünden muafiyet sağlanabilir (İhraç Belgesi onaylanır).",
+              "D": "Satış kararı muhtardan alınır.",
+              "E": "İzahname hazırlanması zorunludur."
+            },
+            "dogruCevap": "D",
+            "cozum": "Nitelikli yatırımcıya satışta izahname hazırlama yükümlülüğünden muafiyet sağlanabilir (İhraç Belgesi onaylanır)."
+          }
+        ]
+      },
+      {
+        "testId": 5,
+        "testAdi": "Test 5: 2.1.5. Pay İhraç Yöntemleri ve Halka Arz Türleri",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Sermaye Artırımı Yoluyla Pay İhraç Yöntemi",
+            "secenekler": {
+              "A": "İhraç yapılması yasaktır.",
+              "B": "Sermaye artırımı yoluyla pay ihracı, şirketin yeni pay çıkararak nakit girdi sağlaması işlemidir.",
+              "C": "İhraç sadece 100 yılda bir yapılır.",
+              "D": "Sermaye artırımı şirketi fesheder.",
+              "E": "Nakit girdisi sağlanmaz."
+            },
+            "dogruCevap": "B",
+            "cozum": "Sermaye artırımı yoluyla pay ihracı, şirketin yeni pay çıkararak nakit girdi sağlaması işlemidir."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Mevcut Payların Halka Arz Satışı",
+            "secenekler": {
+              "A": "Şirket kasasına para girer.",
+              "B": "Mevcut pay satışı imkânsızdır.",
+              "C": "Satış kararı polisce alınır.",
+              "D": "Paylar bedelsiz yakılır.",
+              "E": "Mevcut pay satışı, ortakların ellerindeki payları halka arz ederek nakde çevirmesidir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Mevcut pay satışı, ortakların ellerindeki payları halka arz ederek nakde çevirmesidir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Bedelli Sermaye Artırımı Esasları",
+            "secenekler": {
+              "A": "Nakit ödeme yapılması yasaktır.",
+              "B": "Ortaklar borçlandırılmaz.",
+              "C": "Artırım kararı muhtardan alınır.",
+              "D": "Bedelli sermaye artırımında ortaklar yeni pay alma haklarını kullanarak nakit ödeme yaparlar.",
+              "E": "Bedelli artırım bedelsiz dağıtımdır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Bedelli sermaye artırımında ortaklar yeni pay alma haklarını kullanarak nakit ödeme yaparlar."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Bedelsiz Sermaye Artırımı Esasları",
+            "secenekler": {
+              "A": "Bedelsiz sermaye artırımı suçtur.",
+              "B": "Sermaye artışı sağlanmaz.",
+              "C": "Bedelsiz sermaye artırımında iç kaynaklar sermayeye eklenir ve ortaklardan para alınmaz.",
+              "D": "Paylar devlete kalır.",
+              "E": "Ortaklardan nakit para tahsil edilir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Bedelsiz sermaye artırımında iç kaynaklar sermayeye eklenir ve ortaklardan para alınmaz."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Halka Arz ve Halka Arz Edilmeksizin İhraç Farkı",
+            "secenekler": {
+              "A": "Her iki yöntem de tamamen aynıdır.",
+              "B": "Tahsisli satış halka arz sayılır.",
+              "C": "Ayırım mahkemece yapılır.",
+              "D": "Halka arz yapılması yasaktır.",
+              "E": "Halka arz kamuoyuna açık çağrı ile; halka arz edilmeksizin ihraç ise tahsisli veya nitelikli yatırımcıya yapılır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Halka arz kamuoyuna açık çağrı ile; halka arz edilmeksizin ihraç ise tahsisli veya nitelikli yatırımcıya yapılır."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Sermaye Artırımı ve Mevcut Pay Satışının Birlikte Yapılması",
+            "secenekler": {
+              "A": "İki yöntemin bir arada yapılması yasaktır.",
+              "B": "Sermaye artırımı yapılamaz.",
+              "C": "Ortak pay satışı yapılamaz.",
+              "D": "Birleşik satışa vergi cezası verilir.",
+              "E": "Anonim ortaklıklar sermaye artırımı ile ortak pay satışını aynı halka arzda birlikte gerçekleştirebilirler."
+            },
+            "dogruCevap": "E",
+            "cozum": "Anonim ortaklıklar sermaye artırımı ile ortak pay satışını aynı halka arzda birlikte gerçekleştirebilirler."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Sermaye Artırımında Emisyon Primi (Primli Pay)",
+            "secenekler": {
+              "A": "Payların nominal değerinin üzerinde bir fiyatla ihraç edilmesinden doğan fark Emisyon Primi olarak özkaynaklara kaydedilir.",
+              "B": "Prim alınması yasaktır.",
+              "C": "Emisyon primi kâr olarak dağıtılır.",
+              "D": "Nominal altı satış emisyon primidir.",
+              "E": "Emisyon primi borç olarak yazılır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Payların nominal değerinin üzerinde bir fiyatla ihraç edilmesinden doğan fark Emisyon Primi olarak özkaynaklara kaydedilir."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Sermaye Artırımında Nominal Değerin Altında İhraç Yasağı",
+            "secenekler": {
+              "A": "Nominal altı satış teşvik edilir.",
+              "B": "Nominal altı satış serbesttir.",
+              "C": "Satış fiyatı sıfır TL olmalıdır.",
+              "D": "Nominal değer dikkate alınmaz.",
+              "E": "Türk Ticaret Kanunu uyarınca payların nominal değerinin altındaki bir fiyatla ihraç edilmesi KESİNLİKLE YASAKTIR."
+            },
+            "dogruCevap": "A",
+            "cozum": "Türk Ticaret Kanunu uyarınca payların nominal değerinin altındaki bir fiyatla ihraç edilmesi KESİNLİKLE YASAKTIR."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Halka Arz Edilen Payların Teminat Alınması Yasağı",
+            "secenekler": {
+              "A": "İhraççı ortaklık halka arz ettiği kendi paylarını teminat alarak kredi veremez.",
+              "B": "Şirket kendi payına kredi verir.",
+              "C": "Teminat alınması zorunludur.",
+              "D": "Kendi payını satın alması şarttır.",
+              "E": "Kredi işlemini belediye yapar."
+            },
+            "dogruCevap": "D",
+            "cozum": "İhraççı ortaklık halka arz ettiği kendi paylarını teminat alarak kredi veremez."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Sermaye Artırımı Fon Kullanım Yeri Raporu",
+            "secenekler": {
+              "A": "Fon kullanım raporu gizli tutulur.",
+              "B": "Rapor hazırlanması yasaktır.",
+              "C": "Halka açık ortaklıkların sermaye artırımından elde edecekleri fonun nerede kullanılacağını açıklayan Rapor hazırlamaları şarttır.",
+              "D": "Rapor sadece vergi dairesine verilir.",
+              "E": "Fon parası şirket başkanına kalır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Halka açık ortaklıkların sermaye artırımından elde edecekleri fonun nerede kullanılacağını açıklayan Rapor hazırlamaları şarttır."
+          }
+        ]
+      },
+      {
+        "testId": 6,
+        "testAdi": "Test 6: 2.1.6. Halka Açılma Standartları, Satış Yöntemleri ve Fiyat İletimi",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Borsada Satış Yöntemi",
+            "secenekler": {
+              "A": "Satış kararı muhtarca alınır.",
+              "B": "Satış borsa dışında yapılır.",
+              "C": "Birincil piyasa kullanılamaz.",
+              "D": "Borsada satış yöntemi, halka arz edilecek payların Borsa İstanbul birincil piyasasında talep toplanarak satılmasıdır.",
+              "E": "Satış işlemi gizli tutulur."
+            },
+            "dogruCevap": "D",
+            "cozum": "Borsada satış yöntemi, halka arz edilecek payların Borsa İstanbul birincil piyasasında talep toplanarak satılmasıdır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Sabit Fiyatla Talep Toplama Yöntemi",
+            "secenekler": {
+              "A": "Fiyat zero TL yapılır.",
+              "B": "Fiyat her saniye açık artırmayla değişir.",
+              "C": "Sabit fiyatla talep toplamada paylar önceden belirlenmiş tek bir sabit fiyat üzerinden yatırımcılara sunulur.",
+              "D": "Fiyatı yatırımcı kendisi belirler.",
+              "E": "Sabit fiyat uygulaması yasaktır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Sabit fiyatla talep toplamada paylar önceden belirlenmiş tek bir sabit fiyat üzerinden yatırımcılara sunulur."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Fiyat Aralığı ile Talep Toplama Yöntemi",
+            "secenekler": {
+              "A": "Fiyat aralığı sınırsızdır.",
+              "B": "Fiyat aralığı verilmesi yasaktır.",
+              "C": "Fiyat aralığı ile talep toplamada tavan ve taban fiyatlar belirlenir ve talepler bu aralıkta toplanır.",
+              "D": "Taban fiyat sıfır olmalıdır.",
+              "E": "Fiyatı vali belirler."
+            },
+            "dogruCevap": "A",
+            "cozum": "Fiyat aralığı ile talep toplamada tavan ve taban fiyatlar belirlenir ve talepler bu aralıkta toplanır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Fiyat Teklifi Alarak Talep Toplama Yöntemi",
+            "secenekler": {
+              "A": "Teklifler gizlenir.",
+              "B": "Fiyat teklifi verilmesi yasaktır.",
+              "C": "Teklif sadece devlete verilir.",
+              "D": "Fiyat teklifi alarak talep toplamada yatırımcılar kendi alım fiyat ve miktar tekliflerini iletirler.",
+              "E": "Fiyatı aracı kurum uydurur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Fiyat teklifi alarak talep toplamada yatırımcılar kendi alım fiyat ve miktar tekliflerini iletirler."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Halka Arzda Orantısal Dağıtım Esası",
+            "secenekler": {
+              "A": "Orantısal dağıtım yapılmaz.",
+              "B": "Tüm paylar tek kişiye verilir.",
+              "C": "Dağıtım kararı belediyenindir.",
+              "D": "Dağıtım kura ile yapılır.",
+              "E": "Orantısal dağıtımda gelen toplam talebe göre her yatırımcıya talep ettiği miktar oranında pay verilir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Orantısal dağıtımda gelen toplam talebe göre her yatırımcıya talep ettiği miktar oranında pay verilir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Halka Arzda Eşit Dağıtım Esası",
+            "secenekler": {
+              "A": "Eşit dağıtım yapılması suçtur.",
+              "B": "Eşit dağıtım yönteminde halka arza katılan her bir yatırımcıya eşit sayıda pay dağıtılır.",
+              "C": "Zengin yatırımcıya daha çok verilir.",
+              "D": "Paylar sadece kuruculara verilir.",
+              "E": "Dağıtım yapılmaz."
+            },
+            "dogruCevap": "B",
+            "cozum": "Eşit dağıtım yönteminde halka arza katılan her bir yatırımcıya eşit sayıda pay dağıtılır."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Halka Arz Satış Süresi Kısıtlaması",
+            "secenekler": {
+              "A": "Pay Tebliği uyarınca halka arzda talep toplama ve satış süresi en az 2 iş günü, en fazla 30 gündür.",
+              "B": "Satış süresi 1 saattir.",
+              "C": "Satış süresi 10 yıldır.",
+              "D": "Satış süresi her gün değişir.",
+              "E": "Süre kısıtlaması yoktur."
+            },
+            "dogruCevap": "C",
+            "cozum": "Pay Tebliği uyarınca halka arzda talep toplama ve satış süresi en az 2 iş günü, en fazla 30 gündür."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Yatırımcı Grubu Tahsisat Oranları",
+            "secenekler": {
+              "A": "Tüm paylar kurumsal yatırımcıya verilir.",
+              "B": "Tahsisat oranları gizli tutulur.",
+              "C": "Tahsisat kararı polisce alınır.",
+              "D": "Halka arz izahnamesinde bireysel ve kurumsal yatırımcı gruplarına ayrılan tahsisat oranları açıkça ilan edilir.",
+              "E": "Tahsisat yapılması yasaktır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Halka arz izahnamesinde bireysel ve kurumsal yatırımcı gruplarına ayrılan tahsisat oranları açıkça ilan edilir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Halka Arz İptali ve Bedellerin İadesi",
+            "secenekler": {
+              "A": "İade yapılması yasaktır.",
+              "B": "Bedeller ihraççıya irad kaydolunur.",
+              "C": "İade 50 yıl sonra yapılır.",
+              "D": "Halka arzın gerçekleşmemesi veya iptal edilmesi durumunda toplanan bedeller faizsiz ve kesintisiz olarak yatırımcılara iade edilir.",
+              "E": "Bedeller devlete kalır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Halka arzın gerçekleşmemesi veya iptal edilmesi durumunda toplanan bedeller faizsiz ve kesintisiz olarak yatırımcılara iade edilir."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Mükerrer Talep Önleme Sistemi",
+            "secenekler": {
+              "A": "Herkes 1000 talep girebilir.",
+              "B": "Mükerrer talep yapılması teşvik edilir.",
+              "C": "Kimlik kontrolü yapılmaz.",
+              "D": "Mükerrer talepte paylar yakılır.",
+              "E": "Halka arzda bireysel yatırımcıların mükerrer (birden fazla) talep girmesini önlemek için TC Kimlik Numarası kontrolü yapılır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Halka arzda bireysel yatırımcıların mükerrer (birden fazla) talep girmesini önlemek için TC Kimlik Numarası kontrolü yapılır."
+          }
+        ]
+      },
+      {
+        "testId": 7,
+        "testAdi": "Test 7: 2.1.7. Kayıtlı Sermaye Sistemi ve Sermaye Artırımları",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Kayıtlı Sermaye Sistemi Tanımı",
+            "secenekler": {
+              "A": "Sistem sadece bankalarda geçerlidir.",
+              "B": "Kayıtlı sermaye tavanı yoktur.",
+              "C": "Yönetim kurulu sermaye artıramaz.",
+              "D": "Kayıtlı Sermaye Sistemi, anonim ortaklıkların esas sözleşmelerinde belirtilen tavan dahilinde Yönetim Kurulu kararıyla sermaye artırabildikleri sistemdir.",
+              "E": "Sermaye artırımı sadece mahkemece yapılır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Kayıtlı Sermaye Sistemi, anonim ortaklıkların esas sözleşmelerinde belirtilen tavan dahilinde Yönetim Kurulu kararıyla sermaye artırabildikleri sistemdir."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Esas Sermaye Sistemi ile Farkı",
+            "secenekler": {
+              "A": "Sermaye artırımı yapılamaz.",
+              "B": "Esas sermaye sisteminde Genel Kurul toplanmaz.",
+              "C": "Kayıtlı sermaye sistemi ile tamamen aynıdır.",
+              "D": "Esas sermaye sistemi yasaktır.",
+              "E": "Esas sermaye sisteminde her sermaye artırımı Genel Kurul kararı ve esas sözleşme değişikliği gerektirir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Esas sermaye sisteminde her sermaye artırımı Genel Kurul kararı ve esas sözleşme değişikliği gerektirir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Kayıtlı Sermaye Tavanı Süresi",
+            "secenekler": {
+              "A": "Tavan izni verilmez.",
+              "B": "Tavan izni 1 günlüktür.",
+              "C": "Kayıtlı sermaye tavanı izni Sermaye Piyasası Kurulu tarafından en fazla 5 yıl için verilir.",
+              "D": "Süre kararı muhtardadır.",
+              "E": "Tavan izni süresizdir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Kayıtlı sermaye tavanı izni Sermaye Piyasası Kurulu tarafından en fazla 5 yıl için verilir."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Yönetim Kurulunun Rüçhan Hakkını Kısıtlama Yetkisi",
+            "secenekler": {
+              "A": "Kayıtlı sermaye sistemindeki ortaklıklarda esas sözleşme ile yetki verilmişse Yönetim Kurulu rüçhan haklarını kısıtlayabilir.",
+              "B": "Rüçhan hakkı kısıtlanması suçtur.",
+              "C": "Rüçhan hakkı tamamen kaldırılır.",
+              "D": "Yönetim kurulu rüçhan hakkını kısıtlayamaz.",
+              "E": "Kısıtlama yetkisi valiliktedir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Kayıtlı sermaye sistemindeki ortaklıklarda esas sözleşme ile yetki verilmişse Yönetim Kurulu rüçhan haklarını kısıtlayabilir."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Primli Pay İhracı Yönetim Kurulu Yetkisi",
+            "secenekler": {
+              "A": "Yetki sadece belediyededir.",
+              "B": "Prim tutarı devlete ödenir.",
+              "C": "Kayıtlı sermaye sisteminde esas sözleşmede yetki varsa Yönetim Kurulu payları nominal değerinin üzerinde (primli) ihraç edebilir.",
+              "D": "Nominal üzeri satış suçtur.",
+              "E": "Primli ihraç yapılması yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Kayıtlı sermaye sisteminde esas sözleşmede yetki varsa Yönetim Kurulu payları nominal değerinin üzerinde (primli) ihraç edebilir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Kayıtlı Sermaye Tavanının Aşılması Yasağı",
+            "secenekler": {
+              "A": "Yönetim Kurulu kararıyla yapılacak sermaye artırımlarında Kurulca onaylanan Kayıtlı Sermaye Tavanı AŞILAMAZ.",
+              "B": "Tavan aşımı cezaya tabi değildir.",
+              "C": "Tavan aşımı serbesttir.",
+              "D": "Tavan aşılınca şirket kapatılır.",
+              "E": "Tavan sınırsız aşılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Yönetim Kurulu kararıyla yapılacak sermaye artırımlarında Kurulca onaylanan Kayıtlı Sermaye Tavanı AŞILAMAZ."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Kayıtlı Sermaye Sistemine Geçiş Şartları",
+            "secenekler": {
+              "A": "Kayıtlı sistem uygulanmaz.",
+              "B": "Sadece yabancı şirketler geçer.",
+              "C": "SPK onayı gerekmez.",
+              "D": "Geçiş kararı muhtardan alınır.",
+              "E": "Halka açık ortaklıkların kayıtlı sermaye sistemine geçebilmesi için SPK'dan uygun görüş alması ve esas sözleşmeyi değiştirmesi zorunludur."
+            },
+            "dogruCevap": "C",
+            "cozum": "Halka açık ortaklıkların kayıtlı sermaye sistemine geçebilmesi için SPK'dan uygun görüş alması ve esas sözleşmeyi değiştirmesi zorunludur."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Halka Açık Ortaklıklarda Başlangıç Sermayesi",
+            "secenekler": {
+              "A": "Başlangıç sermayesi sıfır TL'dir.",
+              "B": "Başlangıç sermayesini vali verir.",
+              "C": "Kayıtlı sermaye sisteminde kurulan ortaklıkların sahip olduğu ödenmiş ilk sermayeye Başlangıç Sermayesi denir.",
+              "D": "Sermaye tanımı yoktur.",
+              "E": "Başlangıç sermayesi borçtur."
+            },
+            "dogruCevap": "E",
+            "cozum": "Kayıtlı sermaye sisteminde kurulan ortaklıkların sahip olduğu ödenmiş ilk sermayeye Başlangıç Sermayesi denir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Çıkarılmış Sermaye Kavramı",
+            "secenekler": {
+              "A": "Kayıtlı sermaye sisteminde ödenmiş veya satışı yapılmış payların temsil ettiği sermayeye Çıkarılmış Sermaye denir.",
+              "B": "Çıkarılmış sermaye borç yazılır.",
+              "C": "Sermaye hesabı yapılmaz.",
+              "D": "Çıkarılmış sermaye yasaktır.",
+              "E": "Çıkarılmış sermaye tavan sermayedir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Kayıtlı sermaye sisteminde ödenmiş veya satışı yapılmış payların temsil ettiği sermayeye Çıkarılmış Sermaye denir."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Kayıtlı Sermaye Tavanı Yenileme Başvurusu",
+            "secenekler": {
+              "A": "5 yıllık tavan süresi dolduğunda Yönetim Kurulu yeni bir 5 yıl için Genel Kuruldan ve SPK'dan tavan yenileme izni alır.",
+              "B": "Tavan süresi uzatılamaz.",
+              "C": "Yenileme izni polisten alınır.",
+              "D": "Şirket tasfiye edilir.",
+              "E": "Yenileme yapılması yasaktır."
+            },
+            "dogruCevap": "D",
+            "cozum": "5 yıllık tavan süresi dolduğunda Yönetim Kurulu yeni bir 5 yıl için Genel Kuruldan ve SPK'dan tavan yenileme izni alır."
+          }
+        ]
+      },
+      {
+        "testId": 8,
+        "testAdi": "Test 8: 2.1.8. Pay Benzeri Menkul Kıymetler: Depo Edilen Menkul Kıymetler ve Depo Sertifikaları",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Depo Sertifikaları Tanımı",
+            "secenekler": {
+              "A": "Depo Sertifikaları, bir ihraççının paylarının saklamacı bir kurum nezdinde depolanması karşılığında çıkarılan sermaye piyasası aracıdır.",
+              "B": "Depo sertifikası senettir.",
+              "C": "Depo sertifikası poliçedir.",
+              "D": "Depo sertifikası çıkması yasaktır.",
+              "E": "Depo sertifikası gayrimenkul tapusudur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Depo Sertifikaları, bir ihraççının paylarının saklamacı bir kurum nezdinde depolanması karşılığında çıkarılan sermaye piyasası aracıdır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Yabancı Depo Sertifikaları (ADR / GDR)",
+            "secenekler": {
+              "A": "ADR faiz getirili tahvildir.",
+              "B": "ADR sadece Türkiye'de geçerlidir.",
+              "C": "Yabancı depo ihracı suçtur.",
+              "D": "Amerikan Depo Sertifikaları (ADR) ve Global Depo Sertifikaları (GDR) uluslararası piyasalarda işlem gören depo araçlarıdır.",
+              "E": "GDR sadece belediyece çıkarılır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Amerikan Depo Sertifikaları (ADR) ve Global Depo Sertifikaları (GDR) uluslararası piyasalarda işlem gören depo araçlarıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Saklamacı Kurum ve İhraççı Banka Rolü",
+            "secenekler": {
+              "A": "Saklama işlemi yapılmaz.",
+              "B": "Depo sertifikası ihracında dayanak paylar yetkili Saklamacı Kurum nezdinde kilitli olarak saklanır.",
+              "C": "Saklamacı kurum polis merkezidir.",
+              "D": "Dayanak paylar imha edilir.",
+              "E": "Paylar şirket başkanının kasasında durur."
+            },
+            "dogruCevap": "D",
+            "cozum": "Depo sertifikası ihracında dayanak paylar yetkili Saklamacı Kurum nezdinde kilitli olarak saklanır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Depo Sertifikası Sahiplerinin Hakları",
+            "secenekler": {
+              "A": "Depo sertifikası sahipleri dayanak payın temsil ettiği temettü ve oy haklarından sözleşme esaslarına göre yararlanırlar.",
+              "B": "Mali haklar ihraççı bankaya kalır.",
+              "C": "Haklar belediyeye devredilir.",
+              "D": "Depo sertifikası sahiplerinin hiçbir hakkı yoktur.",
+              "E": "Oy hakkı kullanımı yasaktır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Depo sertifikası sahipleri dayanak payın temsil ettiği temettü ve oy haklarından sözleşme esaslarına göre yararlanırlar."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Depo Sertifikalarının Dönüştürülebilirliği",
+            "secenekler": {
+              "A": "Dönüşüm kararı vergi dairesinindir.",
+              "B": "Depo sertifikaları belgede belirtilen oranlar dahilinde istenildiğinde dayanak paylara dönüştürülebilir.",
+              "C": "Dönüşüm sadece 100 yıl sonra yapılır.",
+              "D": "Dönüşüm ücreti %100'dür.",
+              "E": "Dönüştürme yapılması kesinlikle yasaktır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Depo sertifikaları belgede belirtilen oranlar dahilinde istenildiğinde dayanak paylara dönüştürülebilir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Depo Sertifikası İhraç Tavanı",
+            "secenekler": {
+              "A": "Sertifika ihracı yasaktır.",
+              "B": "Depo sertifikası ihracında depolanan dayanak payların toplam nominal değerini aşan tutarda sertifika çıkarılamaz.",
+              "C": "İhraç tavanı yoktur.",
+              "D": "Dayanak payın 10 katı ihraç yapılır.",
+              "E": "Tavanı muhtar belirler."
+            },
+            "dogruCevap": "B",
+            "cozum": "Depo sertifikası ihracında depolanan dayanak payların toplam nominal değerini aşan tutarda sertifika çıkarılamaz."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Türkiye'de Yabancı Depo Sertifikası İhraç Esasları",
+            "secenekler": {
+              "A": "Sertifikalar sadece dövizle satılır.",
+              "B": "Yabancı şirketlerin Türkiye'de Depo Sertifikası ihraç edebilmesi SPK ve Borsa İstanbul onayına tabidir.",
+              "C": "SPK onayı gerekmez.",
+              "D": "İzin kararı Dışişleri Bakanlığındadır.",
+              "E": "Yabancı sertifika ihracı yasaktır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Yabancı şirketlerin Türkiye'de Depo Sertifikası ihraç edebilmesi SPK ve Borsa İstanbul onayına tabidir."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Depo Sertifikalarında Kur Riski",
+            "secenekler": {
+              "A": "Yurtdışında ihraç edilen Depo Sertifikaları yabancı para cinsinden fiyatlandığı için döviz kuru riski taşır.",
+              "B": "Kur riskini Borsa Başkanı öder.",
+              "C": "Kur riski devlete aittir.",
+              "D": "Döviz kuru riski bulunmaz.",
+              "E": "Sertifikalarda risk yoktur."
+            },
+            "dogruCevap": "C",
+            "cozum": "Yurtdışında ihraç edilen Depo Sertifikaları yabancı para cinsinden fiyatlandığı için döviz kuru riski taşır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Depo Sertifikalarında Kamuyu Aydınlatma",
+            "secenekler": {
+              "A": "Depo sertifikası ihraççıları dayanak şirket hakkındaki tüm özel durumları ve finansal raporları duyurmakla yükümlüdür.",
+              "B": "Raporlar gizli tutulur.",
+              "C": "Kamuyu aydınlatma yapılması yasaktır.",
+              "D": "Açıklama yapılması suçtur.",
+              "E": "Bilgilendirme sadece bankaya yapılır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Depo sertifikası ihraççıları dayanak şirket hakkındaki tüm özel durumları ve finansal raporları duyurmakla yükümlüdür."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Depo Sertifikalarının İptali ve İtfası",
+            "secenekler": {
+              "A": "Dayanak payların piyasadan çekilmesi veya şirketin tasfiyesi halinde Depo Sertifikaları itfa edilerek kapatılır.",
+              "B": "Sertifikalar hiç kapatılamaz.",
+              "C": "Sertifika parası yakılır.",
+              "D": "Kapatma kararı kayyumca verilir.",
+              "E": "İtfa ödemesi yapılmaz."
+            },
+            "dogruCevap": "D",
+            "cozum": "Dayanak payların piyasadan çekilmesi veya şirketin tasfiyesi halinde Depo Sertifikaları itfa edilerek kapatılır."
+          }
+        ]
+      },
+      {
+        "testId": 9,
+        "testAdi": "Test 9: 2.1.9. Oydan Yoksun Paylar, Katılma İntifa Senetleri ve İntifa Payları",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Oydan Yoksun Paylar Tanımı",
+            "secenekler": {
+              "A": "Oy hakkı 10 kat fazladır.",
+              "B": "Oydan yoksun pay ihraç edilemez.",
+              "C": "Oydan yoksun pay tahvildir.",
+              "D": "Oydan Yoksun Paylar, sahiplerine genel kurulda oy hakkı vermeyen ancak kâr payında öncelik ve imtiyaz sağlayan pay türüdür.",
+              "E": "Oydan yoksun pay kâr payı vermez."
+            },
+            "dogruCevap": "D",
+            "cozum": "Oydan Yoksun Paylar, sahiplerine genel kurulda oy hakkı vermeyen ancak kâr payında öncelik ve imtiyaz sağlayan pay türüdür."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Oydan Yoksun Paylarda Kâr Payı Önceliği",
+            "secenekler": {
+              "A": "Kâr payı ödenmesi yasaktır.",
+              "B": "Kâr payını belediye belirler.",
+              "C": "Oydan yoksun pay sahiplerine diğer pay sahiplerinden önce ve belirli oranların altında olmamak üzere kâr payı ödenir.",
+              "D": "Kâr payı sıfır TL'dir.",
+              "E": "Kâr payı en son ödenir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Oydan yoksun pay sahiplerine diğer pay sahiplerinden önce ve belirli oranların altında olmamak üzere kâr payı ödenir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Katılma İntifa Senetleri (KİS) Tanımı",
+            "secenekler": {
+              "A": "KİS poliçe türüdür.",
+              "B": "KİS gayrimenkul tapusudur.",
+              "C": "KİS sahipleri oy hakkına sahiptir.",
+              "D": "Katılma İntifa Senetleri, ortaklık hakkı vermeksizin kâr payı, tasfiye bakiyesi veya yenileme hakkı sağlayan sermaye piyasası aracıdır.",
+              "E": "KİS ihraç edilmesi yasaktır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Katılma İntifa Senetleri, ortaklık hakkı vermeksizin kâr payı, tasfiye bakiyesi veya yenileme hakkı sağlayan sermaye piyasası aracıdır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İntifa Payları ve Kurucu İntifa Senetleri",
+            "secenekler": {
+              "A": "Kurucu İntifa Senetleri, şirket kurucularına hizmetleri karşılığında sermaye koymadan verilen kâr payı senetleridir.",
+              "B": "İntifa senedi çıkarılması suçtur.",
+              "C": "Sermaye koymak zorunludur.",
+              "D": "Kurucu intifa senedi oy hakkı verir.",
+              "E": "İntifa payı devlete kalır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Kurucu İntifa Senetleri, şirket kurucularına hizmetleri karşılığında sermaye koymadan verilen kâr payı senetleridir."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Oydan Yoksun Pay Sahiplerinin Oy Hakkını Yeniden Kazanması",
+            "secenekler": {
+              "A": "Oy hakkı kararı poliscenir.",
+              "B": "Üst üste 2 yıl kâr payı ödenmeyen oydan yoksun paylar kâr payı ödenene kadar oy hakkını yeniden kazanır.",
+              "C": "Oy hakkı hiç kazanılamaz.",
+              "D": "Oy hakkı iptal edilir.",
+              "E": "Oy hakkı 1 günde kazanılır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Üst üste 2 yıl kâr payı ödenmeyen oydan yoksun paylar kâr payı ödenene kadar oy hakkını yeniden kazanır."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Katılma İntifa Senedi İhraç Limiti",
+            "secenekler": {
+              "A": "Limit kararı muhtardadır.",
+              "B": "Limit her gün değişir.",
+              "C": "KİS ihracı yasaktır.",
+              "D": "KİS ihracında toplam nominal tutar esas veya çıkarılmış sermayenin tebliğde belirtilen oranlarını aşamaz.",
+              "E": "İhraç limiti sınırsızdır."
+            },
+            "dogruCevap": "D",
+            "cozum": "KİS ihracında toplam nominal tutar esas veya çıkarılmış sermayenin tebliğde belirtilen oranlarını aşamaz."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İntifa Senetlerinin Malvarlığı Sorumluluğu",
+            "secenekler": {
+              "A": "İntifa sahipleri genel kurulu yönetir.",
+              "B": "İntifa sahipleri cezaevine girer.",
+              "C": "İntifa sahipleri tüm borçtan sorumludur.",
+              "D": "İntifa senedi sahipleri şirket borçlarından sorumlu değildir ve genel kurula katılarak oy kullanamazlar.",
+              "E": "İntifa senetleri satılamaz."
+            },
+            "dogruCevap": "C",
+            "cozum": "İntifa senedi sahipleri şirket borçlarından sorumlu değildir ve genel kurula katılarak oy kullanamazlar."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Oydan Yoksun Paylarda Birleşme ve Devrolma Hakları",
+            "secenekler": {
+              "A": "Şirket birleşme veya devrolma kararı aldığında oydan yoksun pay sahiplerinin hakları korunur.",
+              "B": "Birleşme yapılması yasaktır.",
+              "C": "Haklar tamamen sıfırlanır.",
+              "D": "Hakları vali belirler.",
+              "E": "Oydan yoksun paylar imha edilir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Şirket birleşme veya devrolma kararı aldığında oydan yoksun pay sahiplerinin hakları korunur."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Katılma İntifa Senetlerinin İtfası",
+            "secenekler": {
+              "A": "İtfa yapılması suçtur.",
+              "B": "İtfa parası devlete ödenir.",
+              "C": "İtfa kararı muhtardan alınır.",
+              "D": "KİS izahnamesinde belirtilen süre sonunda veya kâr yedeklerinden ayrılan fonlarla satın alınarak itfa edilir.",
+              "E": "KİS itfa edilemez."
+            },
+            "dogruCevap": "B",
+            "cozum": "KİS izahnamesinde belirtilen süre sonunda veya kâr yedeklerinden ayrılan fonlarla satın alınarak itfa edilir."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - İntifa Paylarının İptali ve Esas Sözleşme Tadili",
+            "secenekler": {
+              "A": "İptal için mahkeme kararı şarttır.",
+              "B": "İptal işlemini polis yapar.",
+              "C": "İntifa senetleri iptal edilemez.",
+              "D": "İntifa senetlerinin iptal edilmesi veya kaldırılması esas sözleşme değişikliği ve ilgili grup kararıyla mümkündür.",
+              "E": "İptal edilmesi yasaktır."
+            },
+            "dogruCevap": "E",
+            "cozum": "İntifa senetlerinin iptal edilmesi veya kaldırılması esas sözleşme değişikliği ve ilgili grup kararıyla mümkündür."
+          }
+        ]
+      },
+      {
+        "testId": 10,
+        "testAdi": "Test 10: 2.1.10. Pay Tebliği (VII-128.1) uyarınca Fiyat İstikrarı ve Satış Sonrası Yükümlülükler",
+        "testTuru": "konu",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Fiyat İstikrarını Sağlayıcı İşlemler Tanımı",
+            "secenekler": {
+              "A": "Fiyat istikrarı kararı muhtardadır.",
+              "B": "Fiyat istikrarı 50 yıl sürer.",
+              "C": "Fiyat istikrarı işlemleri, halka arz sonrasında pay fiyatının aşırı düşmesini önlemek amacıyla aracı kurumca yapılan alım işlemleridir.",
+              "D": "Fiyat istikrarı yapılması suçtur.",
+              "E": "Fiyat istikrarı fiyatı yükseltme manipülasyonudur."
+            },
+            "dogruCevap": "C",
+            "cozum": "Fiyat istikrarı işlemleri, halka arz sonrasında pay fiyatının aşırı düşmesini önlemek amacıyla aracı kurumca yapılan alım işlemleridir."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Fiyat İstikrarı İşlemleri Süre Sınırı",
+            "secenekler": {
+              "A": "Süre 1 saattir.",
+              "B": "Süre sınırı bulunmaz.",
+              "C": "Süre en fazla 10 yıldır.",
+              "D": "Süre kararı valiliktedir.",
+              "E": "Pay Tebliği uyarınca fiyat istikrarı işlemleri halka arz edilen payların borsada işlem görmeye başladığı tarihten itibaren en fazla 30 gündür."
+            },
+            "dogruCevap": "C",
+            "cozum": "Pay Tebliği uyarınca fiyat istikrarı işlemleri halka arz edilen payların borsada işlem görmeye başladığı tarihten itibaren en fazla 30 gündür."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Ek Satış Hakkı (Greenshoe Option)",
+            "secenekler": {
+              "A": "Ek satış hakkı, halka arzda aşırı talep gelmesi durumunda ihraç edilen pay miktarının belirli bir oranda artırılarak satılmasıdır.",
+              "B": "Ek satış kararı poliscenir.",
+              "C": "Ek satış hakkı kullanılması yasaktır.",
+              "D": "Ek satış hakkı oranı %1000'dir.",
+              "E": "Ek satış sadece devlete verilir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Ek satış hakkı, halka arzda aşırı talep gelmesi durumunda ihraç edilen pay miktarının belirli bir oranda artırılarak satılmasıdır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Ortakların Satmama Taahhüdü (Lock-up Period)",
+            "secenekler": {
+              "A": "Taahhüt süresi 100 yıldır.",
+              "B": "Ortaklar aynı gün tüm payları satar.",
+              "C": "Taahhüdü muhtar verir.",
+              "D": "İhraççı ve hâkim ortaklar halka arz sonrasında belirlenen süre (örneğin 1 yıl) boyunca ellerindeki payları satmayacaklarını taahhüt ederler.",
+              "E": "Satmama taahhüdü verilmesi suçtur."
+            },
+            "dogruCevap": "A",
+            "cozum": "İhraççı ve hâkim ortaklar halka arz sonrasında belirlenen süre (örneğin 1 yıl) boyunca ellerindeki payları satmayacaklarını taahhüt ederler."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Halka Arz Gelirinin Kullanım Raporu İlanı",
+            "secenekler": {
+              "A": "Rapor ilan edilmesi yasaktır.",
+              "B": "Rapor hazırlanması suçtur.",
+              "C": "Ortaklıklar halka arzdan elde ettikleri fonun kullanım yerlerine ilişkin gerçekleşme raporlarını KAP'ta ilan etmekle yükümlüdür.",
+              "D": "Rapor gizli tutulur.",
+              "E": "Rapor sadece vergi dairesine verilir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Ortaklıklar halka arzdan elde ettikleri fonun kullanım yerlerine ilişkin gerçekleşme raporlarını KAP'ta ilan etmekle yükümlüdür."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Fiyat İstikrarı İşlemlerinde Fon Kaynağı",
+            "secenekler": {
+              "A": "Fon kaynağı bulunması yasaktır.",
+              "B": "Fon parası belediyeden alınır.",
+              "C": "Fon kaynağı müşterilerden toplanır.",
+              "D": "Fiyat istikrarı işlemlerinde kullanılacak fon kaynağı ihraççı veya halka arz eden ortak tarafından sağlanır.",
+              "E": "Fon kaynağı devlet hazinesince ödenir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Fiyat istikrarı işlemlerinde kullanılacak fon kaynağı ihraççı veya halka arz eden ortak tarafından sağlanır."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Fiyat İstikrarı Raporunun İlanı",
+            "secenekler": {
+              "A": "Rapor gizlenir.",
+              "B": "Rapor duyurulması yasaktır.",
+              "C": "Rapor duyurusu suçtur.",
+              "D": "Rapor sadece kurucuya verilir.",
+              "E": "Fiyat istikrarı işlemleri tamamlandıktan sonra yapılan tüm alımlar ve sonuçları içeren Rapor KAP'ta kamuoyuna açıklanır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Fiyat istikrarı işlemleri tamamlandıktan sonra yapılan tüm alımlar ve sonuçları içeren Rapor KAP'ta kamuoyuna açıklanır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Satmama Taahhüdünün İhlali Durumunda Yaptırım",
+            "secenekler": {
+              "A": "Ortaklar tebrik edilir.",
+              "B": "İhlal yapılması zorunludur.",
+              "C": "Satmama taahhüdünü ihlal ederek pay satan ortaklar hakkında SPK tarafından idari para cezası ve idari tedbirler uygulanır.",
+              "D": "Hiçbir yaptırım uygulanmaz.",
+              "E": "Yaptırımı borsa temizlik görevlisi verir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Satmama taahhüdünü ihlal ederek pay satan ortaklar hakkında SPK tarafından idari para cezası ve idari tedbirler uygulanır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Fiyat İstikrarı İşlemlerinde Satış Yasağı",
+            "secenekler": {
+              "A": "Satış kararı belediyenindir.",
+              "B": "Satış yapılması zorunludur.",
+              "C": "Fiyat istikrarı yürüten aracı kurum bu süreçte borsada fiyatı düşürmeye yönelik açığa satış veya kâr amaçlı satış yapamaz.",
+              "D": "Aracı kurum fiyatı düşürür.",
+              "E": "Aracı kurum açığa satış yapabilir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Fiyat istikrarı yürüten aracı kurum bu süreçte borsada fiyatı düşürmeye yönelik açığa satış veya kâr amaçlı satış yapamaz."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sermaye Piyasası Araçları 1 (1003) - Halka Arz Sonrası Analist Toplantısı ve Bilgilendirme",
+            "secenekler": {
+              "A": "Halka arz sonrasında periyodik finansal sonuçların açıklanmasını takiben analist ve yatırımcı bilgilendirme toplantıları düzenlenir.",
+              "B": "Toplantı sadece gizli yapılır.",
+              "C": "Bilgi verilmesi suçtur.",
+              "D": "Toplantıyı muhtar yönetir.",
+              "E": "Bilgilendirme toplantısı yapılması yasaktır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Halka arz sonrasında periyodik finansal sonuçların açıklanmasını takiben analist ve yatırımcı bilgilendirme toplantıları düzenlenir."
           }
         ]
       }
