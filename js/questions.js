@@ -6276,7 +6276,7 @@ const splVeritabani = [
       "duzey3",
       "turev"
     ],
-    "aciklama": "Sermaye Piyasası Araçları 1 (1003) - Bölüm 1/4: Paylar ve Pay Benzeri Menkul Kıymetler. Kitabın 1. bölümündeki kavramsal çerçeve, Pay Tebliği, halka arz, sermaye işlemleri ve fiyat istikrarı konularından sıfırdan hazırlanmış 50 özgün soru.",
+    "aciklama": "Sermaye Piyasası Araçları 1 (1003) - Bölüm 1: Paylar ve Pay Benzeri Menkul Kıymetler (50 soru) + Bölüm 2: Borçlanma Araçları (2 test, 50 soru). Toplam 100 özgün soru.",
     "testler": [
       {
         "testId": 100301,
@@ -6934,6 +6934,670 @@ const splVeritabani = [
             "cozum": "Bu bölümde başarı için pay kavramı, pay sahipliği hakları, halka arz süreci, süreler, yetkili organlar ve kamuyu aydınlatma yükümlülükleri birlikte değerlendirilmelidir."
           }
         ]
+      },
+      {
+              "testId": 100302,
+              "testAdi": "Bölüm 2.1: Borçlanma Araçları - Kavramsal Çerçeve ve Genel Esaslar",
+              "testTuru": "bolum",
+              "sorular": [
+                      {
+                              "id": 1,
+                              "soruMetni": "Borçlanma araçları ihraççı açısından temel olarak hangi ihtiyacı karşılar?",
+                              "secenekler": {
+                                      "A": "Ortaklık hakkı vermeden fon sağlama ihtiyacını",
+                                      "B": "Yönetim kurulunu kaldırma ihtiyacını",
+                                      "C": "Pay sahiplerinin haklarını silme ihtiyacını",
+                                      "D": "Şirketi tasfiye etme ihtiyacını",
+                                      "E": "Borsada işlem görmeyi yasaklama ihtiyacını"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Borçlanma araçları ihraççıya, yatırımcıya ortaklık hakkı vermeden borçlanma yoluyla kaynak sağlama imkanı verir."
+                      },
+                      {
+                              "id": 2,
+                              "soruMetni": "Borçlanma aracı yatırımcısı ihraççı karşısında hangi hukuki konumdadır?",
+                              "secenekler": {
+                                      "A": "Borçlu",
+                                      "B": "Alacaklı",
+                                      "C": "Yönetim kurulu üyesi",
+                                      "D": "Kurucu ortak",
+                                      "E": "Genel kurul başkanı"
+                              },
+                              "dogruCevap": "B",
+                              "cozum": "Borçlanma aracı sahibi, ihraççıya fon sağlayan ve ihraç koşullarına göre ödeme talep eden alacaklıdır."
+                      },
+                      {
+                              "id": 3,
+                              "soruMetni": "Pay ile borçlanma aracı arasındaki temel fark aşağıdakilerden hangisidir?",
+                              "secenekler": {
+                                      "A": "Pay ortaklık hakkı, borçlanma aracı alacak hakkı sağlar.",
+                                      "B": "Pay her zaman vadeli, borçlanma aracı her zaman vadesizdir.",
+                                      "C": "Borçlanma aracı mutlaka oy hakkı verir.",
+                                      "D": "Pay faiz öder, borçlanma aracı kar payı öder.",
+                                      "E": "İkisi arasında hukuki fark yoktur."
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Pay sahibine ortaklık hakları verir; borçlanma aracı ise ihraççıya karşı alacak hakkı doğurur."
+                      },
+                      {
+                              "id": 4,
+                              "soruMetni": "Kıymetli evrak kavramı için aşağıdakilerden hangisi doğrudur?",
+                              "secenekler": {
+                                      "A": "Hak ile senet arasında sıkı bağ bulunan senetlerdir.",
+                                      "B": "Sadece e-posta ile gönderilen belgelerdir.",
+                                      "C": "Her zaman ortaklık payıdır.",
+                                      "D": "Sadece kamu kurumlarınca düzenlenir.",
+                                      "E": "Hiçbir malvarlığı hakkı içermez."
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Kıymetli evrakta hak senede bağlıdır; hakkın devri ve ileri sürülmesi senet üzerindeki şekil kurallarıyla ilişkilidir."
+                      },
+                      {
+                              "id": 5,
+                              "soruMetni": "Menkul kıymet kavramı bakımından aşağıdakilerden hangisi daha doğru bir ifadedir?",
+                              "secenekler": {
+                                      "A": "Piyasada tedavül edebilen ve yatırım amacıyla ihraç edilebilen sermaye piyasası aracıdır.",
+                                      "B": "Sadece taşınmaz malları temsil eder.",
+                                      "C": "Mutlaka yönetim hakkı verir.",
+                                      "D": "Sadece kısa vadeli banka kredisidir.",
+                                      "E": "Her zaman fiziki senet basılması zorunludur."
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Menkul kıymetler yatırım amacıyla ihraç edilen ve piyasada el değiştirebilen sermaye piyasası araçlarıdır."
+                      },
+                      {
+                              "id": 6,
+                              "soruMetni": "Aşağıdakilerden hangisi borçlanma araçlarına örnek gösterilebilir?",
+                              "secenekler": {
+                                      "A": "Tahvil",
+                                      "B": "Adi ortaklık sözleşmesi",
+                                      "C": "Kira kontratı",
+                                      "D": "Personel bordrosu",
+                                      "E": "Genel kurul tutanağı"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Tahvil, ihraççının borçlanmasını temsil eden klasik borçlanma araçlarından biridir."
+                      },
+                      {
+                              "id": 7,
+                              "soruMetni": "Tahvil sahibinin ihraççıdan temel beklentisi aşağıdakilerden hangisidir?",
+                              "secenekler": {
+                                      "A": "Vade sonunda anapara ve varsa dönemsel getiri/faiz ödemesi almak",
+                                      "B": "Yönetim kuruluna doğrudan atanmak",
+                                      "C": "İhraççının tüm karına ortak olmak",
+                                      "D": "Tasfiye kararını tek başına vermek",
+                                      "E": "Payların nominal değerini belirlemek"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Tahvil sahibi ortak değil alacaklıdır; temel beklentisi ihraç koşullarına göre anapara ve getiri ödemesidir."
+                      },
+                      {
+                              "id": 8,
+                              "soruMetni": "Borçlanma araçlarının halka arzında yatırımcıların bilgilendirilmesinde kullanılan temel belge hangisidir?",
+                              "secenekler": {
+                                      "A": "İzahname",
+                                      "B": "Nüfus kayıt örneği",
+                                      "C": "Araç ruhsatı",
+                                      "D": "Personel izin formu",
+                                      "E": "Kira makbuzu"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Halka arz edilen sermaye piyasası araçları için yatırımcıların kararına esas bilgiler izahnamede yer alır."
+                      },
+                      {
+                              "id": 9,
+                              "soruMetni": "Borçlanma araçlarının nitelikli yatırımcıya satışı için hangisi doğrudur?",
+                              "secenekler": {
+                                      "A": "Satış mevzuatta nitelikli yatırımcı olarak tanımlanan yatırımcılara yöneliktir.",
+                                      "B": "Satış mutlaka tüm halka açık çağrı ile yapılır.",
+                                      "C": "Satış sadece çalışanlara bedelsiz yapılır.",
+                                      "D": "Satış borçlanma niteliğini ortadan kaldırır.",
+                                      "E": "Satışta ihraççı borçlu olmaz."
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Nitelikli yatırımcıya satış, belirli nitelikteki yatırımcı kitlesine yönelik satış yöntemidir."
+                      },
+                      {
+                              "id": 10,
+                              "soruMetni": "Borçlanma araçlarında vade kavramı neyi ifade eder?",
+                              "secenekler": {
+                                      "A": "İhraççının borcunu geri ödeme tarihini veya dönemini",
+                                      "B": "Pay sahibinin oy kullanma süresini",
+                                      "C": "Şirket unvanının geçerlilik süresini",
+                                      "D": "Borsa işlem saatinin başlangıcını",
+                                      "E": "Yatırımcının vergi numarasını"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Vade, anapara ve/veya getiri ödemesinin hangi zamanda yapılacağını gösterir."
+                      },
+                      {
+                              "id": 11,
+                              "soruMetni": "Borçlanma aracında kupon ödemesi neyi ifade eder?",
+                              "secenekler": {
+                                      "A": "Belirli dönemlerde yatırımcıya yapılan faiz/getiri ödemesini",
+                                      "B": "Pay sahibine verilen oy pusulasını",
+                                      "C": "Borsa üyelik belgesini",
+                                      "D": "Halka arz reklam afişini",
+                                      "E": "Şirket kuruluş sözleşmesini"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Kupon ödemesi, ihraç koşullarına göre belirli dönemlerde yatırımcıya ödenen getiridir."
+                      },
+                      {
+                              "id": 12,
+                              "soruMetni": "İskontolu borçlanma aracı ihracı ne anlama gelir?",
+                              "secenekler": {
+                                      "A": "Nominal değerin altında satılıp vade sonunda nominal değer üzerinden geri ödenmesi",
+                                      "B": "Nominal değerin üstünde satılıp hiç geri ödenmemesi",
+                                      "C": "Yatırımcıya oy hakkı verilmesi",
+                                      "D": "Payların bedelsiz dağıtılması",
+                                      "E": "Sadece kira sertifikası çıkarılması"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "İskontolu ihraçta getiri, alış fiyatı ile vade sonu ödeme tutarı arasındaki farktan doğar."
+                      },
+                      {
+                              "id": 13,
+                              "soruMetni": "Borçlanma araçlarının kayden ihracı neyi ifade eder?",
+                              "secenekler": {
+                                      "A": "Araçların fiziki senet yerine elektronik kayıtlar üzerinden izlenmesini",
+                                      "B": "Araçların sadece sözlü beyanla satılmasını",
+                                      "C": "Araçların paya dönüşmesini",
+                                      "D": "Araçların vadesiz hale gelmesini",
+                                      "E": "Araçların kar payı hakkı vermesini"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Sermaye piyasası araçlarında kaydi sistem esastır; haklar elektronik kayıtlar üzerinden izlenir."
+                      },
+                      {
+                              "id": 14,
+                              "soruMetni": "Borçlanma araçlarında ihraççı riski nedir?",
+                              "secenekler": {
+                                      "A": "İhraççının anapara veya getiri ödemelerini zamanında yerine getirememe riski",
+                                      "B": "Yatırımcının genel kurula katılamama riski",
+                                      "C": "Payların oy hakkının artması riski",
+                                      "D": "Borsanın tatil olması riski",
+                                      "E": "Vergi levhasının kaybolması riski"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Borçlanma aracı yatırımcısı için temel risklerden biri ihraççının ödeme yükümlülüklerini yerine getirememesidir."
+                      },
+                      {
+                              "id": 15,
+                              "soruMetni": "Piyasa faizleri yükseldiğinde sabit faizli borçlanma aracının piyasa fiyatı için genel beklenti nedir?",
+                              "secenekler": {
+                                      "A": "Fiyatın düşmesi",
+                                      "B": "Fiyatın aynı kalması",
+                                      "C": "Fiyatın iki katına çıkması",
+                                      "D": "Fiyatın hukuken sıfırlanması",
+                                      "E": "Fiyatın vergi dairesince belirlenmesi"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Sabit faizli borçlanma araçlarında piyasa faizleri yükseldiğinde mevcut aracın fiyatı genellikle düşer."
+                      },
+                      {
+                              "id": 16,
+                              "soruMetni": "Borçlanma araçlarında likidite riski aşağıdakilerden hangisidir?",
+                              "secenekler": {
+                                      "A": "Aracın istenilen zamanda makul fiyattan nakde çevrilememesi riski",
+                                      "B": "İhraççının ortak sayısının artması",
+                                      "C": "Pay sahiplerinin oy kullanması",
+                                      "D": "Genel kurulun ertelenmesi",
+                                      "E": "Şirket adresinin değişmesi"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Likidite riski, yatırımcının borçlanma aracını ihtiyaç duyduğu anda uygun fiyatla satamaması ihtimalidir."
+                      },
+                      {
+                              "id": 17,
+                              "soruMetni": "Borçlanma aracı sahiplerinin alacaklı olması hangi sonucu doğurur?",
+                              "secenekler": {
+                                      "A": "İhraççıdan ihraç koşullarına uygun ödeme talep edebilirler.",
+                                      "B": "Şirketin günlük yönetim kararlarını alırlar.",
+                                      "C": "Genel kurulda imtiyazlı oy kullanırlar.",
+                                      "D": "Ortaklık karının tamamına sahip olurlar.",
+                                      "E": "Esas sözleşmeyi tek başına değiştirirler."
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Borçlanma aracı sahibi yönetim hakkına değil, ihraç koşullarından doğan alacak hakkına sahiptir."
+                      },
+                      {
+                              "id": 18,
+                              "soruMetni": "Borçlanma araçlarının paylardan ayrılan yönü aşağıdakilerden hangisidir?",
+                              "secenekler": {
+                                      "A": "Yatırımcıya ortaklık sıfatı kazandırmaması",
+                                      "B": "Her zaman oy hakkı vermesi",
+                                      "C": "Her zaman kar payı dağıtması",
+                                      "D": "Vadesiz ve geri ödemesiz olması",
+                                      "E": "Sadece fiziki teslimle devredilmesi"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Borçlanma araçları yatırımcıyı ortak değil alacaklı yapar."
+                      },
+                      {
+                              "id": 19,
+                              "soruMetni": "Kurulun borçlanma aracı ihracında belge onayı ne anlama gelir?",
+                              "secenekler": {
+                                      "A": "Belgenin mevzuata uygunluğunun incelenmesi",
+                                      "B": "Yatırımın kazanç sağlayacağının garanti edilmesi",
+                                      "C": "İhraççının tüm borçlarının üstlenilmesi",
+                                      "D": "Yatırımcı adına alım kararı verilmesi",
+                                      "E": "Piyasa fiyatının sabitlenmesi"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Kurul onayı yatırım getirisi veya ihraççının ödeme gücü garantisi değildir."
+                      },
+                      {
+                              "id": 20,
+                              "soruMetni": "Borçlanma araçlarında anapara koruması nasıl değerlendirilmelidir?",
+                              "secenekler": {
+                                      "A": "İhraç koşullarına ve ihraççının ödeme gücüne bağlıdır; risksiz kabul edilemez.",
+                                      "B": "Her zaman devlet garantisi anlamına gelir.",
+                                      "C": "Yatırımcıya ortaklık hakkı verir.",
+                                      "D": "Pay fiyatını artırır.",
+                                      "E": "Vade kavramını ortadan kaldırır."
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Borçlanma aracı alacak hakkı doğursa da geri ödeme ihraççının ödeme gücü ve ihraç koşullarına bağlıdır."
+                      },
+                      {
+                              "id": 21,
+                              "soruMetni": "Borçlanma aracı ihraç limitlerinin temel amacı nedir?",
+                              "secenekler": {
+                                      "A": "İhraççının mali yapısıyla uyumlu borçlanma çerçevesi oluşturmak",
+                                      "B": "Bütün ihraçları sınırsız hale getirmek",
+                                      "C": "Pay sahiplerinin oy hakkını kaldırmak",
+                                      "D": "Yatırımcıların alım yapmasını engellemek",
+                                      "E": "Borçlanma aracını paya çevirmek"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "İhraç limitleri, ihraççının mevzuat çerçevesinde yapabileceği borçlanma tutarını sınırlar."
+                      },
+                      {
+                              "id": 22,
+                              "soruMetni": "Borçlanma araçlarında temerrüt kavramı neyle ilgilidir?",
+                              "secenekler": {
+                                      "A": "İhraççının ödeme yükümlülüğünü zamanında yerine getirememesiyle",
+                                      "B": "Pay sahibinin genel kurula katılmasıyla",
+                                      "C": "Borsada işlem saatinin başlamasıyla",
+                                      "D": "Halka arz ilanının tasarımıyla",
+                                      "E": "Şirket logosunun değiştirilmesiyle"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Temerrüt, borçlunun vadesi gelen ödeme yükümlülüğünü zamanında yerine getirememesidir."
+                      },
+                      {
+                              "id": 23,
+                              "soruMetni": "Borçlanma araçlarının yatırımcı açısından avantajlarından biri nedir?",
+                              "secenekler": {
+                                      "A": "İhraç koşulları çerçevesinde öngörülebilir nakit akışı sağlayabilmesi",
+                                      "B": "Her zaman sınırsız oy hakkı vermesi",
+                                      "C": "Riski tamamen ortadan kaldırması",
+                                      "D": "Şirket yönetimini yatırımcıya devretmesi",
+                                      "E": "Her zaman vergiden muaf olması"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Kuponlu veya vadeli ödeme yapısı, öngörülebilir nakit akışı arayan yatırımcılar için önemlidir."
+                      },
+                      {
+                              "id": 24,
+                              "soruMetni": "Borçlanma araçlarında erken itfa kavramı neyi ifade eder?",
+                              "secenekler": {
+                                      "A": "Aracın vadesinden önce geri ödenebilmesini",
+                                      "B": "Aracın hiçbir zaman ödenmemesini",
+                                      "C": "Pay sahiplerine bedelsiz pay verilmesini",
+                                      "D": "Yatırımcıya oy hakkı tanınmasını",
+                                      "E": "Borsada işlem görmenin yasaklanmasını"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Erken itfa, ihraç koşullarında öngörülmüşse borçlanma aracının vadesinden önce geri ödenmesidir."
+                      },
+                      {
+                              "id": 25,
+                              "soruMetni": "Borçlanma araçlarının genel mantığında hangi eşleştirme doğrudur?",
+                              "secenekler": {
+                                      "A": "Tahvil - alacak hakkı; vade - geri ödeme zamanı; kupon - dönemsel getiri",
+                                      "B": "Tahvil - ortaklık hakkı; vade - oy kullanma süresi; kupon - genel kurul daveti",
+                                      "C": "Tahvil - pay senedi; vade - şirket unvanı; kupon - vergi levhası",
+                                      "D": "Tahvil - kira sözleşmesi; vade - personel izni; kupon - araç ruhsatı",
+                                      "E": "Tahvil - yatırım fonu; vade - portföy sınırlaması; kupon - fon içtüzüğü"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Tahvil alacak hakkı doğurur; vade ödeme zamanını, kupon dönemsel getiriyi ifade eder."
+                      }
+              ]
+      },
+      {
+              "testId": 100303,
+              "testAdi": "Bölüm 2.2: Borçlanma Araçları Tebliği, Türler ve Yeşil Borçlanma Araçları",
+              "testTuru": "bolum",
+              "sorular": [
+                      {
+                              "id": 1,
+                              "soruMetni": "Borçlanma Araçları Tebliği genel olarak hangi konuyu düzenler?",
+                              "secenekler": {
+                                      "A": "Borçlanma araçlarının ihraç ve satış esaslarını",
+                                      "B": "Anonim ortaklıklarda oy hakkı sınırlamalarını",
+                                      "C": "Yatırım fonlarının portföy dağılımını",
+                                      "D": "Vadeli işlem piyasasında teminat çağrılarını",
+                                      "E": "Vergi cezası hesaplamalarını"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Tebliğ, borçlanma araçlarının ihracı, satışı ve türlerine ilişkin sermaye piyasası esaslarını düzenler."
+                      },
+                      {
+                              "id": 2,
+                              "soruMetni": "Tahvil için aşağıdakilerden hangisi doğrudur?",
+                              "secenekler": {
+                                      "A": "İhraççının borçlu, yatırımcının alacaklı olduğu borçlanma aracıdır.",
+                                      "B": "Yatırımcıya her zaman yönetim kurulu üyeliği verir.",
+                                      "C": "Ortaklık payı niteliğindedir.",
+                                      "D": "Vadesi ve ödeme koşulu bulunamaz.",
+                                      "E": "Sadece fiziki altın olarak ihraç edilir."
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Tahvil, ihraççının borçlanmasını temsil eder ve yatırımcıya alacak hakkı sağlar."
+                      },
+                      {
+                              "id": 3,
+                              "soruMetni": "Finansman bonosu hangi amaçla daha çok ilişkilidir?",
+                              "secenekler": {
+                                      "A": "Kısa vadeli borçlanma ihtiyacının sermaye piyasası yoluyla karşılanması",
+                                      "B": "Pay sahibine imtiyazlı oy verilmesi",
+                                      "C": "Yatırım fonu içtüzüğünün değiştirilmesi",
+                                      "D": "Şirketin tasfiye edilmesi",
+                                      "E": "Vadeli işlem sözleşmesi teminatı"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Finansman bonosu, kısa vadeli fon ihtiyacını karşılamaya yönelik borçlanma araçlarındandır."
+                      },
+                      {
+                              "id": 4,
+                              "soruMetni": "Paya dönüştürülebilir tahvilin ayırt edici özelliği nedir?",
+                              "secenekler": {
+                                      "A": "Belirli koşullarla ihraççı ortaklık paylarına dönüştürülebilmesi",
+                                      "B": "Hiçbir zaman geri ödenmemesi",
+                                      "C": "Sadece kamu kurumlarınca çıkarılması",
+                                      "D": "Otomatik yönetim kurulu üyeliği vermesi",
+                                      "E": "Her zaman vadesiz olması"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Paya dönüştürülebilir tahvil, belirli koşullarda ihraççı paylarına dönüşme imkanı verir."
+                      },
+                      {
+                              "id": 5,
+                              "soruMetni": "Değiştirilebilir tahvilin temel özelliği nedir?",
+                              "secenekler": {
+                                      "A": "Belirlenen başka bir ortaklık payıyla değiştirilebilmesi",
+                                      "B": "Mutlaka devlet tahvili olması",
+                                      "C": "Sermaye piyasası aracı sayılmaması",
+                                      "D": "Her zaman bedelsiz pay vermesi",
+                                      "E": "Sadece çalışanlara satılması"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Değiştirilebilir tahvil, ihraççı dışındaki bir ortaklığın payları ile değiştirilme hakkı içerebilir."
+                      },
+                      {
+                              "id": 6,
+                              "soruMetni": "Kıymetli maden bonoları hangi varlık türüyle ilişkilidir?",
+                              "secenekler": {
+                                      "A": "Altın, gümüş gibi kıymetli madenlerle",
+                                      "B": "Sadece gayrimenkullerle",
+                                      "C": "Sadece tarım ürünleriyle",
+                                      "D": "Yönetim kurulu kararlarıyla",
+                                      "E": "Personel alacaklarıyla"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Kıymetli maden bonoları kıymetli maden finansmanıyla ilişkili borçlanma araçlarıdır."
+                      },
+                      {
+                              "id": 7,
+                              "soruMetni": "Borçlanma aracı sahipleri kurulu hangi ihtiyaca cevap verir?",
+                              "secenekler": {
+                                      "A": "Borçlanma aracı sahiplerinin ortak menfaatlerde kolektif hareket edebilmesine",
+                                      "B": "Pay sahiplerinin kar payını dağıtmasına",
+                                      "C": "Yönetim kurulunu seçmesine",
+                                      "D": "Borsa fiyatını sabitlemesine",
+                                      "E": "Fon portföyünü yönetmesine"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Bu kurul yatırımcıların ortak haklarını korumaya yönelik kolektif karar mekanizmasıdır."
+                      },
+                      {
+                              "id": 8,
+                              "soruMetni": "Borçlanma aracı sahipleri temsilcisi hangi amaçla ilişkilidir?",
+                              "secenekler": {
+                                      "A": "Yatırımcıların ortak hak ve menfaatlerinin izlenmesi ve temsil edilmesi",
+                                      "B": "Ortaklığın tüm paylarının satın alınması",
+                                      "C": "Pay fiyatının günlük belirlenmesi",
+                                      "D": "Vergi tarhiyatının yapılması",
+                                      "E": "Fon içtüzüğünün yazılması"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Temsilci, borçlanma aracı sahiplerinin ortak menfaatlerini izlemek için öngörülebilir."
+                      },
+                      {
+                              "id": 9,
+                              "soruMetni": "Yeşil borçlanma araçlarının temel özelliği nedir?",
+                              "secenekler": {
+                                      "A": "Fonların çevresel fayda sağlayan yeşil projelerde kullanılmasının amaçlanması",
+                                      "B": "Her zaman paya dönüşmesi",
+                                      "C": "Sınırsız oy hakkı vermesi",
+                                      "D": "Sadece kısa vadeli mevduat olması",
+                                      "E": "Kamuyu aydınlatma gerektirmemesi"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Yeşil borçlanma araçları çevresel sürdürülebilirlik amaçlı projelerin finansmanıyla öne çıkar."
+                      },
+                      {
+                              "id": 10,
+                              "soruMetni": "Sürdürülebilir borçlanma araçları için hangisi doğrudur?",
+                              "secenekler": {
+                                      "A": "Çevresel ve/veya sosyal hedeflere yönelik projelerin finansmanında kullanılabilir.",
+                                      "B": "Sadece genel kurul davetiyesidir.",
+                                      "C": "Borçlanma aracı niteliği taşımaz.",
+                                      "D": "Her zaman oy hakkı verir.",
+                                      "E": "Hiçbir açıklama gerektirmez."
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Sürdürülebilir borçlanma araçları çevresel ve sosyal hedeflerle uyumlu projelerin finansmanına yönelik olabilir."
+                      },
+                      {
+                              "id": 11,
+                              "soruMetni": "Yeşil borçlanma aracı ihracında fon kullanım açıklaması neden önemlidir?",
+                              "secenekler": {
+                                      "A": "Fonların gerçekten yeşil/sürdürülebilir projelere yönelip yönelmediğinin izlenebilmesi için",
+                                      "B": "Pay sahiplerinin oy hakkını kaldırmak için",
+                                      "C": "Tahvilin otomatik paya dönüşmesi için",
+                                      "D": "Piyasa fiyatını sabitlemek için",
+                                      "E": "Yatırımcıların alımını yasaklamak için"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Fon kullanımının açıklanması sürdürülebilirlik iddiasının izlenmesi açısından önemlidir."
+                      },
+                      {
+                              "id": 12,
+                              "soruMetni": "Dış değerlendirme görüşü yeşil borçlanma araçlarında ne işe yarar?",
+                              "secenekler": {
+                                      "A": "İhraç çerçevesinin yeşil/sürdürülebilir finansman ilkeleriyle uyumunu değerlendirmek",
+                                      "B": "Yatırımcıya kar garantisi vermek",
+                                      "C": "İhraççının borçlarını üstlenmek",
+                                      "D": "Payları borsadan çıkarmak",
+                                      "E": "Vergi oranını belirlemek"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Dış değerlendirme, ihraç çerçevesinin sürdürülebilirlik standartlarıyla uyumuna ilişkin bağımsız görüş sağlar."
+                      },
+                      {
+                              "id": 13,
+                              "soruMetni": "Borçlanma araçlarında tertip kavramı neyle ilgilidir?",
+                              "secenekler": {
+                                      "A": "Aynı ihraç koşullarına sahip araçların gruplandırılmasıyla",
+                                      "B": "Pay sahiplerinin oy sayısıyla",
+                                      "C": "Çalışan izin sırasıyla",
+                                      "D": "Borsa emir tipleriyle",
+                                      "E": "Vergi beyannamesiyle"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Tertip, benzer ihraç koşullarını taşıyan borçlanma araçlarının ayırt edilmesini sağlar."
+                      },
+                      {
+                              "id": 14,
+                              "soruMetni": "Borçlanma araçlarının halka arz edilmeksizin satışı hangisini kapsayabilir?",
+                              "secenekler": {
+                                      "A": "Tahsisli satış veya nitelikli yatırımcıya satış",
+                                      "B": "Zorunlu genel kurul satışı",
+                                      "C": "Sadece bedelsiz pay dağıtımı",
+                                      "D": "Ortaklık tasfiyesi",
+                                      "E": "Vadeli işlem uzlaşması"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Borçlanma araçları halka arz edilmeksizin tahsisli veya nitelikli yatırımcılara satılabilir."
+                      },
+                      {
+                              "id": 15,
+                              "soruMetni": "Borçlanma araçları ihraç belgesi hangi işlevi görür?",
+                              "secenekler": {
+                                      "A": "Halka arz edilmeyen ihraçlarda ihraç koşullarını ve temel bilgileri gösterir.",
+                                      "B": "Yatırımcıya kar payı ve oy hakkı verir.",
+                                      "C": "Şirketin vergi levhası yerine geçer.",
+                                      "D": "Borsada işlem görmeyi yasaklar.",
+                                      "E": "Pay devrini otomatik yapar."
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "İhraç belgesi halka arz edilmeyen ihraçlarda temel ihraç bilgilerini içerir."
+                      },
+                      {
+                              "id": 16,
+                              "soruMetni": "Teminatlı borçlanma aracı ihracı genel olarak neyi anlatır?",
+                              "secenekler": {
+                                      "A": "Yükümlülüklerin belirli teminatlarla desteklenmesini",
+                                      "B": "Yatırımcıya sınırsız oy hakkı verilmesini",
+                                      "C": "Payların bedelsiz dağıtılmasını",
+                                      "D": "Halka arzın gizli yapılmasını",
+                                      "E": "Vadenin ortadan kaldırılmasını"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Teminatlı ihraçlarda yatırımcı alacağı belirli teminat mekanizmalarıyla desteklenebilir."
+                      },
+                      {
+                              "id": 17,
+                              "soruMetni": "Derecelendirme notu yatırımcıya ne sağlar?",
+                              "secenekler": {
+                                      "A": "İhraççının veya aracın kredi riskine ilişkin değerlendirme göstergesi",
+                                      "B": "Kesin kazanç garantisi",
+                                      "C": "Yönetim kuruluna atanma hakkı",
+                                      "D": "Vergi borcundan muafiyet",
+                                      "E": "Payların nominal değerini belirleme yetkisi"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Derecelendirme notu kredi riski hakkında görüş sağlar; riski tamamen ortadan kaldırmaz."
+                      },
+                      {
+                              "id": 18,
+                              "soruMetni": "Değişken faizli borçlanma aracı neyi ifade eder?",
+                              "secenekler": {
+                                      "A": "Getirinin referans oran veya formüle göre dönemsel değişebilmesini",
+                                      "B": "Getirinin hiçbir zaman ödenmemesini",
+                                      "C": "Pay sahiplerine oy hakkı verilmesini",
+                                      "D": "Sadece bedelsiz pay dağıtılmasını",
+                                      "E": "Aracın vadeli işlem sözleşmesi olmasını"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Değişken faizli araçlarda kupon/getiri belirlenen referans oran veya formüle göre değişebilir."
+                      },
+                      {
+                              "id": 19,
+                              "soruMetni": "Sabit faizli borçlanma aracı için hangisi doğrudur?",
+                              "secenekler": {
+                                      "A": "Getiri oranı ihraç koşullarında önceden belirlenir.",
+                                      "B": "Getiri oranı her zaman pay fiyatına eşittir.",
+                                      "C": "Yatırımcıya yönetim hakkı verir.",
+                                      "D": "Vade sonunda hiçbir ödeme yapılmaz.",
+                                      "E": "Sadece yeşil projeler için kullanılabilir."
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Sabit faizli araçlarda kupon oranı ihraç koşullarında baştan belirlenir."
+                      },
+                      {
+                              "id": 20,
+                              "soruMetni": "İtfa planı neden önemlidir?",
+                              "secenekler": {
+                                      "A": "Anapara ve getiri ödemelerinin zamanlamasını gösterir.",
+                                      "B": "Genel kurul gündemini belirler.",
+                                      "C": "Şirket logosunu değiştirir.",
+                                      "D": "Borsada fiyatı sabitler.",
+                                      "E": "Yatırımcıya vergi affı sağlar."
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "İtfa planı borçlanma aracının ödeme akışını ve vade yapısını anlamak için temel bilgidir."
+                      },
+                      {
+                              "id": 21,
+                              "soruMetni": "Borçlanma araçlarının borsada işlem görmesi yatırımcıya ne sağlayabilir?",
+                              "secenekler": {
+                                      "A": "İkincil piyasada likidite ve fiyat oluşumu imkanı",
+                                      "B": "Kesin kar garantisi",
+                                      "C": "Yönetim kurulu üyeliği",
+                                      "D": "Vergi borcu silinmesi",
+                                      "E": "Pay sahipliği hakkı"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Borsada işlem görme ikincil piyasa likiditesini ve fiyat oluşumunu kolaylaştırabilir."
+                      },
+                      {
+                              "id": 22,
+                              "soruMetni": "Yeşil borçlanma araçlarında raporlama hangi ilkeyi destekler?",
+                              "secenekler": {
+                                      "A": "Şeffaflık ve fon kullanımının izlenebilirliği",
+                                      "B": "Gizlilik ve açıklamama",
+                                      "C": "Pay fiyatı garantisi",
+                                      "D": "Oy hakkı sınırsızlığı",
+                                      "E": "Fiziki teslim zorunluluğu"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Raporlama, fonların taahhüt edilen proje ve hedeflere uygun kullanımını izlemeye yardımcı olur."
+                      },
+                      {
+                              "id": 23,
+                              "soruMetni": "Paya dönüştürülebilir tahvillerde dönüştürme oranı neyi gösterir?",
+                              "secenekler": {
+                                      "A": "Tahvil karşılığında alınabilecek pay miktarı veya hesaplama esasını",
+                                      "B": "Tahvilin vergi numarasını",
+                                      "C": "Genel kurul toplantı oranını",
+                                      "D": "Borsa işlem komisyonunu",
+                                      "E": "Fon portföy sınırlamasını"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Dönüştürme oranı tahvilin hangi miktarda paya dönüşeceğini belirleyen temel unsurlardandır."
+                      },
+                      {
+                              "id": 24,
+                              "soruMetni": "Değiştirilebilir tahvillerde değiştirme hakkının kullanılması ne anlama gelir?",
+                              "secenekler": {
+                                      "A": "Tahvilin belirlenen paylarla değiştirilmesi imkanını kullanmak",
+                                      "B": "Tahvili vergiden muaf hale getirmek",
+                                      "C": "Şirketi tasfiye etmek",
+                                      "D": "Borsada işlem görmeyi durdurmak",
+                                      "E": "Fon içtüzüğünü değiştirmek"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Yatırımcı, ihraç koşullarına göre tahvilini belirlenen paylarla değiştirebilir."
+                      },
+                      {
+                              "id": 25,
+                              "soruMetni": "Borçlanma Araçları Tebliği kapsamındaki türlerde hangi eşleştirme doğrudur?",
+                              "secenekler": {
+                                      "A": "Tahvil - borçlanma; finansman bonosu - kısa vadeli finansman; yeşil borçlanma aracı - çevresel proje finansmanı",
+                                      "B": "Tahvil - oy hakkı; finansman bonosu - kar payı; yeşil borçlanma aracı - fiziki altın teslimi",
+                                      "C": "Tahvil - fon içtüzüğü; finansman bonosu - genel kurul; yeşil borçlanma aracı - vergi levhası",
+                                      "D": "Tahvil - pay senedi; finansman bonosu - kira sözleşmesi; yeşil borçlanma aracı - personel bordrosu",
+                                      "E": "Tahvil - vadesiz ortaklık; finansman bonosu - sınırsız oy; yeşil borçlanma aracı - temerrüt yasağı"
+                              },
+                              "dogruCevap": "A",
+                              "cozum": "Tahvil borçlanma aracıdır; finansman bonosu kısa vadeli finansman sağlar; yeşil borçlanma araçları çevresel projelerle ilişkilidir."
+                      }
+              ]
       }
     ]
   },
