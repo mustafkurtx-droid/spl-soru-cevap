@@ -207,9 +207,14 @@
 
     filteredCourses.forEach((course) => {
       const originalIndex = window.splVeritabani.indexOf(course);
-      const courseProgress = progress[course.dersAdi] || {};
-      const completedTestCount = Object.keys(courseProgress).length;
       const totalTestCount = course.testler ? course.testler.length : 0;
+      const courseProgress = progress[course.dersAdi] || {};
+      const currentTestIds = new Set((course.testler || []).map(test => String(test.testId)));
+      const completedTestCount = Object.keys(courseProgress).filter(testId => currentTestIds.has(String(testId))).length;
+      const hasSectionTests = (course.testler || []).some(test => test.testTuru === 'bolum');
+      const unitLabel = hasSectionTests ? 'Bölüm' : 'Test';
+      const unitPluralLabel = hasSectionTests ? 'Bölüm' : 'Paket Test';
+      const actionLabel = hasSectionTests ? 'Bölümü Çöz' : 'Testleri Çöz';
 
       const levelBadgesHtml = (course.duzeyler || []).map(l => {
         if (l === 'duzey1') return '<span class="px-2 py-0.5 text-[11px] font-bold rounded-md bg-blue-100 dark:bg-blue-950/80 text-blue-700 dark:text-blue-300 border border-blue-300/40">Düzey 1</span>';
@@ -236,7 +241,7 @@
               ${levelBadgesHtml || `<span class="px-3 py-1 text-xs font-bold rounded-xl bg-sky-100 dark:bg-sky-950/80 text-sky-700 dark:text-sky-300 border border-sky-300/40">${course.kategori || 'SPL Lisans'}</span>`}
             </div>
             <span class="text-xs font-bold text-slate-500 dark:text-slate-400 bg-slate-100 dark:bg-slate-900/80 px-2.5 py-1 rounded-xl border border-slate-200/60 dark:border-slate-700/60">
-              <i class="fa-solid fa-layer-group text-sky-500 mr-1"></i> ${totalTestCount} Paket Test
+              <i class="fa-solid fa-layer-group text-sky-500 mr-1"></i> ${totalTestCount} ${unitPluralLabel}
             </span>
           </div>
           <h4 class="text-lg font-black text-slate-900 dark:text-white mb-2 leading-snug group-hover:text-sky-500 transition-colors">
@@ -249,7 +254,7 @@
 
         <div class="pt-4 border-t border-slate-100 dark:border-slate-700/60 space-y-2.5">
           <div class="flex items-center justify-between text-xs font-bold">
-            <span class="text-slate-500 dark:text-slate-400">İlerleme: <strong class="text-slate-900 dark:text-white">${completedTestCount}/${totalTestCount} Test</strong></span>
+            <span class="text-slate-500 dark:text-slate-400">İlerleme: <strong class="text-slate-900 dark:text-white">${completedTestCount}/${totalTestCount} ${unitLabel}</strong></span>
             <span class="text-sky-600 dark:text-sky-400">${progressPercent}%</span>
           </div>
           
@@ -259,7 +264,7 @@
 
           <div class="flex items-center justify-end pt-1">
             <span class="inline-flex items-center text-xs font-extrabold text-sky-600 dark:text-sky-400 group-hover:translate-x-1 transition-transform">
-              Testleri Çöz <i class="fa-solid fa-arrow-right-long ml-1.5 text-xs"></i>
+              ${actionLabel} <i class="fa-solid fa-arrow-right-long ml-1.5 text-xs"></i>
             </span>
           </div>
         </div>
@@ -284,7 +289,8 @@
 
     const progress = getProgressData();
     const courseProgress = progress[course.dersAdi] || {};
-    const solvedCount = Object.keys(courseProgress).length;
+    const currentTestIds = new Set((course.testler || []).map(test => String(test.testId)));
+    const solvedCount = Object.keys(courseProgress).filter(testId => currentTestIds.has(String(testId))).length;
     const rate = course.testler.length ? Math.round((solvedCount / course.testler.length) * 100) : 0;
     document.getElementById('course-completion-rate').textContent = `%${rate}`;
 
@@ -295,6 +301,10 @@
     course.testler.forEach((test) => {
       const testResult = courseProgress[test.testId];
       const isCompleted = !!testResult;
+      const isSectionTest = test.testTuru === 'bolum';
+      const cardKicker = isSectionTest ? 'SPL Bölüm' : 'SPL Paket';
+      const durationMinutes = Math.max(20, test.sorular.length);
+      const solveLabel = isSectionTest ? 'Bölümü Çöz' : 'Testi Çöz';
 
       const card = document.createElement('div');
       card.className = 'bg-white dark:bg-slate-800 rounded-2xl border border-slate-200 dark:border-slate-700/80 p-5 shadow-sm card-hover-effect cursor-pointer flex flex-col justify-between';
@@ -316,7 +326,7 @@
       card.innerHTML = `
         <div>
           <div class="flex items-center justify-between mb-3">
-            <span class="text-xs font-bold text-sky-500 uppercase tracking-wider">SPL Paket</span>
+            <span class="text-xs font-bold text-sky-500 uppercase tracking-wider">${cardKicker}</span>
             ${badgeHtml}
           </div>
           <h4 class="text-base font-bold text-slate-900 dark:text-white mb-1">
@@ -328,9 +338,9 @@
         </div>
 
         <div class="pt-3 border-t border-slate-100 dark:border-slate-700/60 flex items-center justify-between">
-          <span class="text-xs text-slate-400">20 Dakika Süre</span>
+          <span class="text-xs text-slate-400">${durationMinutes} Dakika Süre</span>
           <span class="px-3 py-1.5 rounded-lg bg-sky-500 hover:bg-sky-600 text-white text-xs font-semibold shadow-sm transition">
-            Testi Çöz
+            ${solveLabel}
           </span>
         </div>
       `;
