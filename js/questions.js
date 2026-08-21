@@ -12086,3 +12086,5 @@ const splVeritabani = [
     ]
   }
 ];
+
+window.splVeritabani = splVeritabani;
