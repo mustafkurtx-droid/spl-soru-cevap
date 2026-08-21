@@ -6276,669 +6276,669 @@ const splVeritabani = [
           "duzey3",
           "turev"
       ],
-      "aciklama": "Sermaye Piyasası Araçları 1 (1003) - Bölüm 1: Paylar ve Pay Benzeri Menkul Kıymetler (2 test, 50 soru) + Bölüm 2: Borçlanma Araçları (2 test, 50 soru). Toplam 100 özgün soru.",
+      "aciklama": "Sermaye Piyasası Araçları 1 (1003) - Kitap başlıklarıyla uyumlu 4 bölüm testi: Paylar kavramsal çerçeve (25), Pay Tebliği (25), Borçlanma kavramsal çerçeve (25), Borçlanma Araçları Tebliği ve yeşil borçlanma araçları (25). Toplam 100 özgün soru.",
       "testler": [
           {
               "testId": 100301,
-              "testAdi": "Bölüm 1.1: Paylar ve Pay Sahipliği Hakları",
+              "testAdi": "Bölüm 1.1: Paylar ve Pay Benzeri Menkul Kıymetler - Kavramsal Çerçeve",
               "testTuru": "bolum",
               "sorular": [
                   {
                       "id": 1,
-                      "soruMetni": "Anonim ortaklık sermayesinin belirli ve eşit parçalara bölünmüş her bir kısmını temsil eden, sahibine ortaklık hakkı sağlayan sermaye piyasası aracı aşağıdakilerden hangisidir?",
+                      "soruMetni": "Anonim ortaklık sermayesinin belirli ve eşit parçalara bölünmüş her bir kısmını temsil eden sermaye piyasası aracı hangisidir?",
                       "secenekler": {
-                          "A": "Tahvil",
-                          "B": "Pay",
+                          "A": "Pay",
+                          "B": "Tahvil",
                           "C": "Finansman bonosu",
                           "D": "Kira sertifikası",
-                          "E": "Türev sözleşme"
+                          "E": "Swap sözleşmesi"
                       },
-                      "dogruCevap": "B",
-                      "cozum": "Pay, anonim ortaklık sermayesinin bir bölümünü temsil eder ve sahibine ortaklık sıfatından kaynaklanan mali ve yönetsel haklar sağlar."
+                      "dogruCevap": "A",
+                      "cozum": "Pay, anonim ortaklık sermayesinin belirli parçasını temsil eder ve sahibine ortaklık sıfatı kazandırır."
                   },
                   {
                       "id": 2,
-                      "soruMetni": "Pay sahibinin ortaklıktan elde edilen dönem karından payına düşen tutarı alma hakkı hangi hak grubunda yer alır?",
+                      "soruMetni": "Pay sahibinin ortaklık kârından payına düşen tutarı alma hakkı hangi hak grubuna girer?",
                       "secenekler": {
                           "A": "Mali haklar",
                           "B": "Disiplin hakları",
                           "C": "Kamu gücü hakları",
-                          "D": "Vergi tarh hakkı",
-                          "E": "Saklama hakkı"
+                          "D": "Saklama hakları",
+                          "E": "Vergi tarh hakları"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Kar payı hakkı, pay sahibinin mali haklarındandır. Tasfiye bakiyesine katılma ve yeni pay alma hakkı da mali haklara örnek verilebilir."
+                      "cozum": "Kar payı alma hakkı pay sahibinin temel mali haklarındandır."
                   },
                   {
                       "id": 3,
-                      "soruMetni": "Aşağıdakilerden hangisi pay sahibinin yönetsel/idari haklarından biridir?",
+                      "soruMetni": "Aşağıdakilerden hangisi pay sahibinin yönetsel haklarından biridir?",
                       "secenekler": {
-                          "A": "Kar payı alma hakkı",
-                          "B": "Tasfiye bakiyesine katılma hakkı",
-                          "C": "Genel kurula katılma ve oy kullanma hakkı",
-                          "D": "Bedelsiz pay alma hakkı",
-                          "E": "Yeni pay alma hakkı"
+                          "A": "Genel kurula katılma ve oy kullanma hakkı",
+                          "B": "Kupon faizi alma hakkı",
+                          "C": "Vade sonunda anapara alma hakkı",
+                          "D": "Kira geliri garantisi",
+                          "E": "Teminat tamamlama çağrısı yapma hakkı"
                       },
-                      "dogruCevap": "C",
-                      "cozum": "Genel kurula katılma, oy kullanma, bilgi alma ve inceleme hakları pay sahibinin yönetsel/idari hakları arasında değerlendirilir."
+                      "dogruCevap": "A",
+                      "cozum": "Genel kurula katılma, oy kullanma, bilgi alma ve inceleme hakları yönetsel haklar arasında yer alır."
                   },
                   {
                       "id": 4,
-                      "soruMetni": "Sermaye piyasası mevzuatında halka açık ortaklık paylarının fiziki senet yerine hak sahibi bazında elektronik ortamda izlenmesi hangi kavramla ifade edilir?",
+                      "soruMetni": "Pay sahibinin sermaye artırımı sırasında yeni çıkarılan payları öncelikle alma hakkı aşağıdakilerden hangisidir?",
                       "secenekler": {
-                          "A": "Kaydileştirme",
-                          "B": "Tedavül yasağı",
-                          "C": "Ciro zinciri",
-                          "D": "İtfa",
-                          "E": "Temerrüt"
+                          "A": "Rüçhan hakkı",
+                          "B": "İtfa hakkı",
+                          "C": "Rehin hakkı",
+                          "D": "Temerrüt hakkı",
+                          "E": "Değiştirme hakkı"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Kaydileştirme, sermaye piyasası araçlarının fiziki senet olarak değil elektronik kayıtlar üzerinden izlenmesini ifade eder."
+                      "cozum": "Rüçhan hakkı, mevcut pay sahibinin ortaklık oranını koruyabilmesi için yeni payları öncelikle alma hakkıdır."
                   },
                   {
                       "id": 5,
-                      "soruMetni": "Kaydileştirilmiş sermaye piyasası araçlarına ilişkin hakların izlenmesinde merkezi kayıt kuruluşu olarak görev yapan kurum aşağıdakilerden hangisidir?",
+                      "soruMetni": "Pay sahibinin ortaklığın tasfiyesi halinde borçlar ödendikten sonra kalan değerden pay alma hakkı hangisidir?",
                       "secenekler": {
-                          "A": "Borsa İstanbul A.Ş.",
-                          "B": "Merkezi Kayıt Kuruluşu A.Ş.",
-                          "C": "Türkiye Cumhuriyet Merkez Bankası",
-                          "D": "Türkiye Sermaye Piyasaları Birliği",
-                          "E": "Sermaye Piyasası Lisanslama Sicil ve Eğitim Kuruluşu"
+                          "A": "Tasfiye bakiyesine katılma hakkı",
+                          "B": "Kupon hakkı",
+                          "C": "Değişim teminatı hakkı",
+                          "D": "İhraç limiti hakkı",
+                          "E": "Kredi derecelendirme hakkı"
                       },
-                      "dogruCevap": "B",
-                      "cozum": "Kaydi sermaye piyasası araçlarına ilişkin haklar MKK nezdinde hak sahibi bazında izlenir."
+                      "dogruCevap": "A",
+                      "cozum": "Tasfiye bakiyesine katılma hakkı pay sahibinin mali haklarından biridir."
                   },
                   {
                       "id": 6,
-                      "soruMetni": "Nama yazılı paylar ile hamiline yazılı paylar arasındaki temel ayrım aşağıdakilerden hangisine dayanır?",
+                      "soruMetni": "Nama yazılı paylar ile hamiline yazılı paylar arasındaki temel ayrım nedir?",
                       "secenekler": {
-                          "A": "Payın sağladığı ortaklık hakkının tamamen farklı olmasına",
-                          "B": "Pay sahibinin adının pay üzerinde veya kayıtlarda gösterilip gösterilmemesine",
-                          "C": "Payın yalnızca kamu kurumlarınca çıkarılmasına",
-                          "D": "Payın vadesinin bulunmasına",
-                          "E": "Payın faiz ödeme zorunluluğuna"
+                          "A": "Hak sahibinin adının pay üzerinde veya kayıtlarda gösterilip gösterilmemesi",
+                          "B": "Payın mutlaka vadesinin bulunması",
+                          "C": "Payın faiz ödeme zorunluluğu",
+                          "D": "Payın sadece kamu tarafından ihraç edilmesi",
+                          "E": "Payın borçlanma aracı niteliği taşıması"
                       },
-                      "dogruCevap": "B",
-                      "cozum": "Nama yazılı paylarda hak sahibinin adı önem taşırken, hamiline yazılı paylarda hak sahipliği zilyetlik ve kayıt sistemi üzerinden belirlenir."
+                      "dogruCevap": "A",
+                      "cozum": "Nama yazılı paylarda hak sahibi adı önem taşır; hamiline yazılı paylarda hak sahipliği hamil ve kayıt düzeniyle ilişkilidir."
                   },
                   {
                       "id": 7,
-                      "soruMetni": "Belirli paylara kar payı, tasfiye payı, oy hakkı veya yönetim kurulunda temsil gibi konularda üstün hak tanınması aşağıdaki kavramlardan hangisiyle açıklanır?",
+                      "soruMetni": "Belirli paylara oy, kar payı veya yönetimde temsil gibi konularda üstün hak tanınması ne olarak adlandırılır?",
                       "secenekler": {
                           "A": "İmtiyaz",
                           "B": "İtfa",
                           "C": "Temerrüt",
-                          "D": "Devir yasağı",
-                          "E": "Fiyat marjı"
+                          "D": "İskonto",
+                          "E": "Arbitraj"
                       },
                       "dogruCevap": "A",
-                      "cozum": "İmtiyaz, bazı paylara diğer paylara göre üstün hak veya kanunda öngörülmemiş yeni bir pay sahipliği hakkı tanınmasıdır."
+                      "cozum": "İmtiyaz, bazı paylara diğer paylara göre üstün veya özel haklar tanınmasıdır."
                   },
                   {
                       "id": 8,
-                      "soruMetni": "Oydan yoksun paylara ilişkin aşağıdaki ifadelerden hangisi doğrudur?",
+                      "soruMetni": "Oydan yoksun paylar için aşağıdakilerden hangisi doğrudur?",
                       "secenekler": {
-                          "A": "Sahibine hiçbir mali hak sağlamaz.",
-                          "B": "Ortaklık payı niteliğinde değildir.",
-                          "C": "Kural olarak oy hakkı sağlamaz; buna karşılık belirli mali haklar sağlayabilir.",
+                          "A": "Kural olarak oy hakkı sağlamaz; buna karşılık mali haklar içerebilir.",
+                          "B": "Her zaman tahvil niteliğindedir.",
+                          "C": "Sahibine hiçbir hak sağlamaz.",
                           "D": "Sadece kamu borçlanma aracı olarak ihraç edilir.",
-                          "E": "Her zaman tahvil niteliğindedir."
+                          "E": "Vade sonunda anapara öder."
                       },
-                      "dogruCevap": "C",
-                      "cozum": "Oydan yoksun paylar ortaklık payıdır; ancak kural olarak oy hakkı vermez, bunun yanında mali haklar bakımından özellikli düzenlenebilir."
+                      "dogruCevap": "A",
+                      "cozum": "Oydan yoksun paylar ortaklık payı niteliğini korur; ancak kural olarak oy hakkı vermez."
                   },
                   {
                       "id": 9,
-                      "soruMetni": "Pay sahibinin sermaye artırımı sırasında mevcut ortaklık oranını koruyabilmek için yeni çıkarılan payları öncelikle alma hakkı aşağıdakilerden hangisidir?",
+                      "soruMetni": "Payların kaydileştirilmesi neyi ifade eder?",
                       "secenekler": {
-                          "A": "Tasfiye hakkı",
-                          "B": "Rüçhan hakkı",
-                          "C": "İtfa hakkı",
-                          "D": "Rehin hakkı",
-                          "E": "Temerrüt hakkı"
+                          "A": "Payların fiziki senet yerine elektronik kayıtlar üzerinden izlenmesini",
+                          "B": "Payların tahvile dönüşmesini",
+                          "C": "Payların vadesinin uzamasını",
+                          "D": "Pay fiyatının sabitlenmesini",
+                          "E": "Pay sahibinin hakkının sona ermesini"
                       },
-                      "dogruCevap": "B",
-                      "cozum": "Rüçhan hakkı, mevcut pay sahiplerinin sermaye artırımı nedeniyle çıkarılan yeni payları öncelikle alma hakkıdır."
+                      "dogruCevap": "A",
+                      "cozum": "Kaydileştirme, sermaye piyasası araçlarına ilişkin hakların elektronik ortamda izlenmesidir."
                   },
                   {
                       "id": 10,
-                      "soruMetni": "Katılma intifa senetleri için aşağıdakilerden hangisi doğrudur?",
+                      "soruMetni": "Kaydileştirilmiş sermaye piyasası araçlarına ilişkin hakların hak sahibi bazında izlenmesinde görevli kuruluş hangisidir?",
                       "secenekler": {
-                          "A": "Her zaman oy hakkı ve yönetim kurulu üyeliği hakkı verir.",
-                          "B": "Ortaklık hakkı sağlamadan kar payı veya tasfiye bakiyesi gibi mali haklar sağlayabilen pay benzeri menkul kıymetlerdir.",
-                          "C": "Sadece devlet tarafından ihraç edilir.",
-                          "D": "Vadesi gelen borçlanma aracı niteliğindedir.",
-                          "E": "Yatırım fonu katılma payı ile aynı hukuki niteliktedir."
+                          "A": "Merkezi Kayıt Kuruluşu A.Ş.",
+                          "B": "Borsa İstanbul A.Ş.",
+                          "C": "Türkiye Cumhuriyet Merkez Bankası",
+                          "D": "Türkiye Sermaye Piyasaları Birliği",
+                          "E": "SPL"
                       },
-                      "dogruCevap": "B",
-                      "cozum": "Katılma intifa senetleri ortaklık payı değildir; ancak sahibine esas sözleşmede öngörülen mali haklardan yararlanma imkanı sağlayabilir."
+                      "dogruCevap": "A",
+                      "cozum": "Kaydi araçlara ilişkin haklar MKK nezdinde hak sahibi bazında izlenir."
                   },
                   {
                       "id": 11,
-                      "soruMetni": "VII-128.1 sayılı Pay Tebliği'nin temel düzenleme alanı aşağıdakilerden hangisidir?",
+                      "soruMetni": "Payın itibari değeri kavramı aşağıdakilerden hangisini ifade eder?",
                       "secenekler": {
-                          "A": "Vadeli işlem sözleşmelerinin takası",
-                          "B": "Halka açık ortaklık paylarının ihracı, halka arzı, sermaye işlemleri ve paylara ilişkin bazı ortak hükümler",
-                          "C": "Kamu borçlanma ihalelerinin bütçe etkisi",
-                          "D": "Yatırım fonlarının günlük portföy dağılımı",
-                          "E": "Bankacılık kredi sözleşmelerinin iptali"
+                          "A": "Payın esas sermayeyi temsil eden nominal değerini",
+                          "B": "Payın borsadaki anlık fiyatını",
+                          "C": "Payın kupon faizini",
+                          "D": "Payın vade sonu itfa tutarını",
+                          "E": "Payın teminat çağrısını"
                       },
-                      "dogruCevap": "B",
-                      "cozum": "Pay Tebliği; pay ihraçları, halka arz, sermaye artırımı/azaltımı, satışa hazır bekletilen paylar ve fiyat istikrarı gibi paylara ilişkin konuları düzenler."
+                      "dogruCevap": "A",
+                      "cozum": "İtibari değer, payın esas sermayedeki nominal karşılığını ifade eder."
                   },
                   {
                       "id": 12,
-                      "soruMetni": "Payların ilk halka arzında kullanılan temel yöntemler birlikte düşünüldüğünde aşağıdakilerden hangisi doğru bir sınıflandırmadır?",
+                      "soruMetni": "Pay sahibinin ortaklık borçlarından sorumluluğu genel olarak nasıl sınırlandırılır?",
                       "secenekler": {
-                          "A": "Yalnızca tahvil ihracı ve repo işlemi",
-                          "B": "Mevcut payların satışı, sermaye artırımı yoluyla yeni pay ihracı veya bu iki yöntemin birlikte kullanılması",
-                          "C": "Sadece şirket çalışanlarına gizli satış",
-                          "D": "Yalnızca kamu kurumlarına bedelsiz devir",
-                          "E": "Sadece vadeli işlem sözleşmesi satışı"
+                          "A": "Taahhüt ettiği sermaye payını ödeme borcu ile",
+                          "B": "Şirketin tüm borçlarından sınırsız sorumlulukla",
+                          "C": "Yönetim kurulunun tüm kararlarından kişisel sorumlulukla",
+                          "D": "Kamu borçlarının tamamını üstlenmekle",
+                          "E": "Borsa zararlarını ödemekle"
                       },
-                      "dogruCevap": "B",
-                      "cozum": "Halka açılmada ortakların mevcut paylarının satışı, sermaye artırımı yoluyla yeni pay ihracı veya her iki yöntemin birlikte uygulanması mümkündür."
+                      "dogruCevap": "A",
+                      "cozum": "Anonim ortaklıkta pay sahibinin temel borcu taahhüt ettiği sermaye payını ödemektir."
                   },
                   {
                       "id": 13,
-                      "soruMetni": "Payların halka arz edilebilmesi için yatırımcılara sunulan ve Kurulca onaylanması gereken temel kamuyu aydınlatma belgesi aşağıdakilerden hangisidir?",
+                      "soruMetni": "Sırf borç ilkesi pay sahibi bakımından neyi anlatır?",
                       "secenekler": {
-                          "A": "İzahname",
-                          "B": "İşyeri kira sözleşmesi",
-                          "C": "Araç ruhsatı",
-                          "D": "Personel bordrosu",
-                          "E": "Vergi levhası eki"
+                          "A": "Pay sahibine esas sözleşmeyle kanunda öngörülmeyen ek borçlar yüklenememesini",
+                          "B": "Pay sahibinin şirket borçlarından sınırsız sorumlu olmasını",
+                          "C": "Pay sahibinin faiz ödeme yükümlülüğünü",
+                          "D": "Pay sahibinin tahvil alacaklısı olmasını",
+                          "E": "Pay sahibinin oy hakkını kaybetmesini"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Halka arzda yatırımcıların kararına esas olacak bilgiler izahnamede yer alır ve izahnamenin Kurulca onaylanması gerekir."
+                      "cozum": "Sırf borç ilkesi, pay sahibinin temel borcunun sermaye taahhüdü olduğunu ifade eder."
                   },
                   {
                       "id": 14,
-                      "soruMetni": "Payları ilk defa halka arz edilecek ortaklıklarda borsada işlem görmeye yönelik süreç bakımından aşağıdakilerden hangisi beklenen bir adımdır?",
+                      "soruMetni": "Pay sahibinin bilgi alma ve inceleme hakkı hangi işleve hizmet eder?",
                       "secenekler": {
-                          "A": "Borsa işlem görme başvurusunun yapılması",
-                          "B": "Payların tamamen fiziki senet olarak teslim edilmesi",
-                          "C": "Ortaklık kayıtlarının kamuya kapatılması",
-                          "D": "Yatırımcıların oy hakkının süresiz kaldırılması",
-                          "E": "İzahname düzenlenmesinden vazgeçilmesi"
+                          "A": "Ortaklığın faaliyetleri ve finansal durumu hakkında denetim ve bilinçli karar alma imkanı sağlar.",
+                          "B": "Pay fiyatını garanti eder.",
+                          "C": "Tahvil faizini belirler.",
+                          "D": "Fon portföyünü yönetir.",
+                          "E": "Vade sonunda anapara öder."
                       },
                       "dogruCevap": "A",
-                      "cozum": "İlk halka arz sürecinde payların borsada işlem görmesine ilişkin başvuru ve kamuyu aydınlatma yükümlülükleri sürecin önemli parçalarıdır."
+                      "cozum": "Bilgi alma ve inceleme hakkı pay sahibinin ortaklık yönetimini izleyebilmesi için önemlidir."
                   },
                   {
                       "id": 15,
-                      "soruMetni": "Halka arzda fiyat istikrarını sağlayıcı işlemlerin temel amacı aşağıdakilerden hangisidir?",
+                      "soruMetni": "Pay sahibinin genel kurul kararlarına karşı iptal davası açabilmesi hangi hakla daha yakından ilgilidir?",
                       "secenekler": {
-                          "A": "Halka arz sonrasında pay fiyatındaki aşırı oynaklığı sınırlamak ve fiyatın halka arz fiyatının altına baskılanmasını azaltmak",
-                          "B": "Pay fiyatını süresiz olarak sabit tutmak",
-                          "C": "Şirket ortaklarının bütün paylarını zorunlu olarak geri almak",
-                          "D": "Yatırımcıların zararını kamu bütçesinden ödemek",
-                          "E": "Borsada işlem görmeyi tamamen yasaklamak"
+                          "A": "Pay sahipliği haklarının korunması",
+                          "B": "Kupon ödemesi",
+                          "C": "İhraç limiti",
+                          "D": "Teminat tamamlama",
+                          "E": "Dış değerlendirme"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Fiyat istikrarı işlemleri, izahnamede açıklanmak şartıyla halka arz sonrası piyasadaki aşırı satış baskısını sınırlamaya yönelik alım işlemleridir."
+                      "cozum": "Kanuna, esas sözleşmeye veya dürüstlük kuralına aykırı genel kurul kararlarına karşı dava açılabilir."
                   },
                   {
                       "id": 16,
-                      "soruMetni": "Pay Tebliği kapsamında fiyat istikrarını sağlayıcı işlemler için aşağıdakilerden hangisi doğrudur?",
+                      "soruMetni": "Pay benzeri menkul kıymetler için aşağıdakilerden hangisi doğrudur?",
                       "secenekler": {
-                          "A": "Halka arz fiyatının üzerinde alım emri verilmesi serbesttir.",
-                          "B": "İşlemler izahnamede açıklanmasa da sınırsız süre yapılabilir.",
-                          "C": "Kural olarak payların borsada işlem görmeye başlamasından itibaren en fazla 30 gün yürütülebilir.",
-                          "D": "Sadece vergi dairesi tarafından yapılabilir.",
-                          "E": "Fiyat istikrarı işlemlerinde fon kaynağı açıklanmaz."
+                          "A": "Sermayede temsil edilmesi zorunlu olmayan, sabit getiri taahhüdü barındırmayan ve pay sahipliği haklarından bazılarını veren kıymetlerdir.",
+                          "B": "Her zaman tahvil niteliğindedir.",
+                          "C": "Mutlaka sabit faiz öder.",
+                          "D": "Sadece kamu tarafından ihraç edilir.",
+                          "E": "Hiçbir ekonomik hak sağlamaz."
                       },
-                      "dogruCevap": "C",
-                      "cozum": "Fiyat istikrarı işlemleri sınırsız değildir; izahnamede açıklanır ve kural olarak borsada işlem başlangıcından itibaren en fazla 30 gün uygulanabilir."
+                      "dogruCevap": "A",
+                      "cozum": "Kitaptaki tanıma göre pay benzeri menkul kıymetler pay sahipliği haklarından birini veya bir kısmını verebilir ancak tam pay niteliği taşımayabilir."
                   },
                   {
                       "id": 17,
-                      "soruMetni": "Bedelli sermaye artırımı aşağıdakilerden hangisini ifade eder?",
+                      "soruMetni": "Katılma intifa senetleri hangi başlık altında değerlendirilir?",
                       "secenekler": {
-                          "A": "Ortaklığın iç kaynaklarını sermayeye ekleyerek karşılıksız pay vermesini",
-                          "B": "Ortaklığın nakit veya nakit benzeri yeni kaynak girişi karşılığında yeni pay ihraç etmesini",
-                          "C": "Şirket borçlarının tamamen silinmesini",
-                          "D": "Yönetim kurulunun görev süresinin uzatılmasını",
-                          "E": "Payların borsada işlem görmesinin sona ermesini"
+                          "A": "Pay benzeri menkul kıymetler",
+                          "B": "Kamu borçlanma araçları",
+                          "C": "Vadeli işlem sözleşmeleri",
+                          "D": "Yatırım fonu içtüzüğü",
+                          "E": "Finansman bonosu"
                       },
-                      "dogruCevap": "B",
-                      "cozum": "Bedelli sermaye artırımı, ortaklığa dış kaynak girişi sağlayan ve yeni pay ihraç edilen sermaye artırımı türüdür."
+                      "dogruCevap": "A",
+                      "cozum": "Katılma intifa senetleri pay benzeri menkul kıymetler kapsamında ele alınır."
                   },
                   {
                       "id": 18,
-                      "soruMetni": "Bedelsiz sermaye artırımı için aşağıdakilerden hangisi doğrudur?",
+                      "soruMetni": "Pay sahipliği hakkı ile alacak hakkı arasındaki temel ayrım nedir?",
                       "secenekler": {
-                          "A": "Ortaklığın iç kaynaklarının sermayeye eklenmesiyle pay sahiplerine bedelsiz pay verilmesi söz konusudur.",
-                          "B": "Her zaman ortaklığa yeni nakit girişi sağlar.",
-                          "C": "Pay sahiplerinin ortaklık sıfatını ortadan kaldırır.",
-                          "D": "Sadece borçlanma aracı ihracıyla yapılabilir.",
-                          "E": "Halka açık ortaklıklarda hiçbir şekilde yapılamaz."
+                          "A": "Pay sahipliği ortaklık ilişkisi, alacak hakkı borç ilişkisi doğurur.",
+                          "B": "İkisi tamamen aynıdır.",
+                          "C": "Alacak hakkı her zaman oy hakkı verir.",
+                          "D": "Pay sahipliği vade sonunda anapara öder.",
+                          "E": "Pay sahipliği sadece kamuya aittir."
                       },
                       "dogruCevap": "A",
-                      "cozum": "Bedelsiz sermaye artırımı, iç kaynakların sermayeye eklenmesiyle yapılır; pay sahipleri payları oranında bedelsiz pay alır."
+                      "cozum": "Pay, ortaklık hakkı; borçlanma aracı ise alacak hakkı verir."
                   },
                   {
                       "id": 19,
-                      "soruMetni": "Halka açık ortaklıkların sermaye artırımı sürecinde fonun hangi amaçlarla kullanılacağının yatırımcılara açıklanması hangi belgeyle ilişkilidir?",
+                      "soruMetni": "Payların sağladığı haklar genel olarak hangi iki ana grupta incelenir?",
                       "secenekler": {
-                          "A": "Fonun kullanım yeri raporu",
-                          "B": "Nüfus kayıt örneği",
-                          "C": "Kira ödeme makbuzu",
-                          "D": "Araç muayene formu",
-                          "E": "Personel izin çizelgesi"
+                          "A": "Mali haklar ve yönetsel haklar",
+                          "B": "Kısa vadeli ve uzun vadeli borçlar",
+                          "C": "Spot ve vadeli işlemler",
+                          "D": "İç borç ve dış borç",
+                          "E": "Teminat ve marjin hakları"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Sermaye artırımı veya halka arzdan sağlanacak fonun kullanım amacı, yatırımcıların bilgilendirilmesi için fonun kullanım yeri raporunda açıklanır."
+                      "cozum": "Pay sahipliği hakları mali haklar ve yönetsel/idari haklar olarak sınıflandırılabilir."
                   },
                   {
                       "id": 20,
-                      "soruMetni": "Sermaye azaltımı yapılmasının temel amaçlarından biri aşağıdakilerden hangisidir?",
+                      "soruMetni": "Bedelsiz pay alma hakkı hangi olayla ilişkilidir?",
                       "secenekler": {
-                          "A": "Ortaklık zararlarının sermaye ile dengelenmesi veya sermaye yapısının düzeltilmesi",
-                          "B": "Pay sahiplerinin bilgi alma hakkını kaldırmak",
-                          "C": "Şirketin izahname düzenlemesini engellemek",
-                          "D": "Borsada işlem gören bütün payları iptal etmek",
-                          "E": "Ortaklığı dernek statüsüne geçirmek"
+                          "A": "İç kaynaklardan sermaye artırımı",
+                          "B": "Tahvil kupon ödemesi",
+                          "C": "Dış borçlanma",
+                          "D": "Vadeli işlem uzlaşması",
+                          "E": "Temerrüt faizi"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Sermaye azaltımı, özellikle bilanço zararlarının giderilmesi veya sermaye yapısının gerçek duruma uygun hale getirilmesi amacıyla kullanılabilir."
+                      "cozum": "İç kaynakların sermayeye eklenmesiyle pay sahiplerine payları oranında bedelsiz pay verilebilir."
                   },
                   {
                       "id": 21,
-                      "soruMetni": "Kayıtlı sermaye sistemi aşağıdakilerden hangisini sağlar?",
+                      "soruMetni": "Pay bölünmesi işleminde genel olarak ne değişir?",
                       "secenekler": {
-                          "A": "Yönetim kuruluna, esas sözleşmede belirlenen kayıtlı sermaye tavanı içinde sermaye artırımı yapabilme yetkisi tanır.",
-                          "B": "Şirketin süresiz şekilde sermaye artırımı yapmasını ve hiçbir sınıra tabi olmamasını sağlar.",
-                          "C": "Pay sahiplerinin tüm mali haklarını kaldırır.",
-                          "D": "Bütün sermaye artırımlarını mahkeme kararına bağlar.",
-                          "E": "Sadece kamu iktisadi teşebbüsleri için uygulanır."
+                          "A": "Pay sayısı ve birim nominal değer değişir; toplam sermaye tutarı değişmez.",
+                          "B": "Toplam sermaye zorunlu olarak iki katına çıkar.",
+                          "C": "Ortaklık tasfiye edilir.",
+                          "D": "Paylar tahvile dönüşür.",
+                          "E": "Bütün pay sahipliği hakları sona erer."
                       },
                       "dogruCevap": "A",
-                      "cozum": "Kayıtlı sermaye sisteminde yönetim kurulu, Kurul izni ve esas sözleşmedeki tavan çerçevesinde daha hızlı sermaye artırımı yapabilir."
+                      "cozum": "Pay bölünmesinde toplam sermaye sabit kalırken pay adedi ve birim nominal değer değişir."
                   },
                   {
                       "id": 22,
-                      "soruMetni": "Satışa hazır bekletilen paylar kavramı hangi süreçle daha yakından ilgilidir?",
+                      "soruMetni": "Pay sahibinin oy hakkı kural olarak hangi ölçüte bağlıdır?",
                       "secenekler": {
-                          "A": "Halka arzda talebin yapısına göre belirli payların izahnamede açıklanan esaslarla satışa hazır tutulması",
-                          "B": "Kamu borçlanma senetlerinin itfası",
-                          "C": "Vadeli işlem sözleşmelerinin günlük uzlaşması",
-                          "D": "Yatırım fonu portföyünün saklanması",
-                          "E": "Bankaların mevduat sigortası"
+                          "A": "Sahip olunan payların itibari değeri veya pay oranı",
+                          "B": "Yatırımcının yaşı",
+                          "C": "Borsa işlem hacmi",
+                          "D": "Tahvil kupon oranı",
+                          "E": "Kredi derecelendirme notu"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Satışa hazır bekletilen paylar, halka açılma ve halka arz sürecinde pay arzının ve talebin yönetilmesiyle ilgili özel düzenlemelerden biridir."
+                      "cozum": "Oy hakkı kural olarak payın sağladığı sermaye katılımı ile ilişkilidir."
                   },
                   {
                       "id": 23,
-                      "soruMetni": "Payların borsada işlem gören niteliğe dönüştürülmesi neyi ifade eder?",
+                      "soruMetni": "Pay sahipliği haklarından biri olan özel denetim talebi hangi amaca hizmet eder?",
                       "secenekler": {
-                          "A": "Borsada işlem görmeyen nitelikteki payların mevzuattaki prosedürlere uyularak borsada işlem görebilir hale getirilmesini",
-                          "B": "Payların otomatik olarak tahvile çevrilmesini",
-                          "C": "Ortaklığın tüm borçlarının pay sahibine devrini",
-                          "D": "Payların yalnızca fiziki senet olarak saklanmasını",
-                          "E": "Yatırımcıların paylarını hiçbir şekilde satamamasını"
+                          "A": "Belirli olayların incelenmesi ve pay sahibinin bilgi ihtiyacının karşılanması",
+                          "B": "Pay fiyatının yükseltilmesi",
+                          "C": "Tahvilin erken itfası",
+                          "D": "Kamu borcunun çevrilmesi",
+                          "E": "Fon portföyünün değiştirilmesi"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Borsada işlem gören niteliğe dönüşüm, halka açık ortaklık paylarının borsada işlem görebilmesi için mevzuattaki kayıt ve başvuru süreçlerinin tamamlanmasıdır."
+                      "cozum": "Özel denetim, pay sahiplerinin belirli konularda daha ayrıntılı bilgi edinmesini sağlayan koruyucu mekanizmalardandır."
                   },
                   {
                       "id": 24,
-                      "soruMetni": "Pay Tebliği kapsamında halka arz sonrası uyulacak esaslar bakımından kamuyu aydınlatma yükümlülüklerinin temel amacı nedir?",
+                      "soruMetni": "Payların sermaye piyasası aracı olarak kaydi sistemde izlenmesi, kıymetli evrak yaklaşımından hangi yönüyle ayrılır?",
                       "secenekler": {
-                          "A": "Yatırımcıların ortaklık ve halka arz süreci hakkında doğru, tam ve zamanında bilgiye ulaşmasını sağlamak",
-                          "B": "Pay fiyatını kamu otoritesi tarafından sürekli belirlemek",
-                          "C": "Bütün yatırımcı kararlarını aracı kuruma devretmek",
-                          "D": "Şirket finansal tablolarını gizlemek",
-                          "E": "Borsada işlem görmeyi engellemek"
+                          "A": "Hakların fiziki senet yerine elektronik kayıtla takip edilmesi yönüyle",
+                          "B": "Payların ortaklık hakkı vermemesi yönüyle",
+                          "C": "Payların her zaman faiz ödemesi yönüyle",
+                          "D": "Payların sadece kamu tarafından çıkarılması yönüyle",
+                          "E": "Payların vadesiz olmaması yönüyle"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Kamuyu aydınlatma yükümlülükleri, yatırımcıların bilinçli karar alması ve piyasanın şeffaf işlemesi için düzenlenir."
+                      "cozum": "Sermaye piyasası araçları kaydi sistemde izlenir; bu nedenle fiziki senet merkezli klasik kıymetli evrak mantığından ayrılır."
                   },
                   {
                       "id": 25,
-                      "soruMetni": "Paylar ve pay benzeri menkul kıymetler bölümünün genel sınav mantığı düşünüldüğünde aşağıdaki eşleştirmelerden hangisi doğrudur?",
+                      "soruMetni": "Bölüm 1.1 kapsamında sınavda beklenen ana odak aşağıdakilerden hangisidir?",
                       "secenekler": {
-                          "A": "Pay - borç veren sıfatı; tahvil - ortaklık sıfatı",
-                          "B": "Pay - ortaklık hakkı; rüçhan hakkı - yeni pay alma önceliği; fiyat istikrarı - halka arz sonrası destekleyici işlem",
-                          "C": "Pay - vadeli işlem sözleşmesi; imtiyaz - kamu borcu",
-                          "D": "Bedelsiz sermaye artırımı - yeni nakit girişi; bedelli sermaye artırımı - iç kaynak aktarımı",
-                          "E": "Katılma intifa senedi - zorunlu oy hakkı sağlayan kamu senedi"
+                          "A": "Pay kavramı, pay türleri, pay sahipliği hakları ve pay benzeri menkul kıymetleri ayırt etmek",
+                          "B": "DİBS ihale yöntemlerini hesaplamak",
+                          "C": "Vadeli işlem teminatı hesaplamak",
+                          "D": "Fon portföy sınırlamalarını ezberlemek",
+                          "E": "Yeşil borçlanma raporlamasını analiz etmek"
                       },
-                      "dogruCevap": "B",
-                      "cozum": "Pay ortaklık hakkı sağlar; rüçhan hakkı yeni pay alma önceliğidir; fiyat istikrarı ise halka arz sonrasında pay fiyatındaki aşırı baskıyı sınırlamaya yönelik işlemleri ifade eder."
+                      "dogruCevap": "A",
+                      "cozum": "Kitabın 1.1 başlığı kavramsal çerçeveye, pay türlerine ve pay sahipliği haklarına odaklanır."
                   }
               ]
           },
           {
               "testId": 100304,
-              "testAdi": "Bölüm 1.2: Pay Tebliği, Halka Arz ve Sermaye İşlemleri",
+              "testAdi": "Bölüm 1.2: Pay Tebliği, Halka Açılma ve Sermaye İşlemleri",
               "testTuru": "bolum",
               "sorular": [
                   {
                       "id": 1,
-                      "soruMetni": "Payları ilk defa halka arz edilecek bir ortaklık bakımından izahnamede yer alan bilgilerin temel işlevi aşağıdakilerden hangisidir?",
+                      "soruMetni": "VII-128.1 sayılı Pay Tebliği temel olarak hangi alanı düzenler?",
                       "secenekler": {
-                          "A": "Yatırımcıların ortaklığın finansal durumu, riskleri ve halka arz koşulları hakkında karar verebilmesini sağlamak",
-                          "B": "Payların borsada her zaman yükseleceğini garanti etmek",
-                          "C": "Ortaklığın vergi borçlarını otomatik olarak silmek",
-                          "D": "Yatırımcıların oy hakkını tamamen kaldırmak",
-                          "E": "Payların vadesini ve faiz oranını belirlemek"
+                          "A": "Pay ihracı, halka arz, halka açılma, sermaye işlemleri ve paylara ilişkin ortak hükümler",
+                          "B": "Kamu borçlanma ihaleleri",
+                          "C": "Yatırım fonu portföy sınırlamaları",
+                          "D": "Vadeli işlem teminatları",
+                          "E": "Vergi cezaları"
                       },
                       "dogruCevap": "A",
-                      "cozum": "İzahname yatırımcı kararını destekleyen temel kamuyu aydınlatma belgesidir; fiyat garantisi veya yatırım sonucu garantisi vermez."
+                      "cozum": "Pay Tebliği payların ihracı, halka arzı ve halka açık ortaklıkların pay işlemlerine ilişkin esasları düzenler."
                   },
                   {
                       "id": 2,
-                      "soruMetni": "Payların halka arzında mevcut ortakların sahip olduğu payların halka arz edilmesi hangi yöntemi ifade eder?",
+                      "soruMetni": "Halka açık olmayan bir ortaklığın halka açık ortaklık statüsü kazanmasına ne ad verilir?",
                       "secenekler": {
-                          "A": "Ortak satışı",
-                          "B": "Bedelsiz sermaye artırımı",
-                          "C": "Borçlanma aracı ihracı",
-                          "D": "Fon katılma payı ihracı",
-                          "E": "Opsiyon primi tahsili"
+                          "A": "Halka açılma",
+                          "B": "İtfa",
+                          "C": "Temerrüt",
+                          "D": "Değiştirme",
+                          "E": "Arbitraj"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Ortak satışı, mevcut ortaklara ait payların halka arz edilmesidir; bu yöntemde paylar doğrudan ortak tarafından satılır."
+                      "cozum": "Kitaptaki örnek soruda da halka açık olmayan ortaklığın halka açık ortaklık statüsü kazanması “halka açılma” olarak tanımlanır."
                   },
                   {
                       "id": 3,
-                      "soruMetni": "Sermaye artırımı yoluyla halka arzda ortaklığa sağlanan temel ekonomik sonuç aşağıdakilerden hangisidir?",
+                      "soruMetni": "Payların halka arz edilebilmesi için yatırımcıya sunulan ve Kurulca onaylanan temel belge hangisidir?",
                       "secenekler": {
-                          "A": "Ortaklığa yeni kaynak girişi sağlanması",
-                          "B": "Ortaklığın sona ermesi",
-                          "C": "Mevcut payların tahvile dönüşmesi",
-                          "D": "Yatırımcıların alım satım yapmasının yasaklanması",
-                          "E": "Pay sahiplerinin tüm haklarından feragat etmesi"
+                          "A": "İzahname",
+                          "B": "Fon içtüzüğü",
+                          "C": "Genel kurul hazirun listesi",
+                          "D": "Teminat tamamlama formu",
+                          "E": "Vergi levhası"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Sermaye artırımı yoluyla halka arzda yeni pay ihraç edilir ve satıştan elde edilen fon ortaklığa girer."
+                      "cozum": "Halka arzda yatırımcıların kararına esas bilgiler izahnamede açıklanır."
                   },
                   {
                       "id": 4,
-                      "soruMetni": "Halka arzda ortak satışı ile sermaye artırımı yöntemlerinin birlikte kullanılmasına ilişkin aşağıdakilerden hangisi doğrudur?",
+                      "soruMetni": "Halka arzda mevcut ortakların sahip olduğu payların satılması hangi yöntemi ifade eder?",
                       "secenekler": {
-                          "A": "Mevzuata uygun koşullar sağlandığında iki yöntem aynı halka arzda birlikte uygulanabilir.",
-                          "B": "İki yöntemin birlikte kullanılması her durumda yasaktır.",
-                          "C": "Birlikte kullanım sadece kamu borçlanma araçlarında mümkündür.",
-                          "D": "Birlikte kullanım izahname düzenleme gereğini ortadan kaldırır.",
-                          "E": "Birlikte kullanım pay sahipliği hakkını sona erdirir."
+                          "A": "Ortak satışı",
+                          "B": "Bedelsiz sermaye artırımı",
+                          "C": "Tahvil ihracı",
+                          "D": "Fon katılma payı satışı",
+                          "E": "Opsiyon primi tahsili"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Halka açılmada mevcut payların satışı ile yeni pay ihracı aynı halka arz sürecinde birlikte kullanılabilir."
+                      "cozum": "Ortak satışı, mevcut ortaklara ait payların halka arz edilmesidir."
                   },
                   {
                       "id": 5,
-                      "soruMetni": "Payların tahsisli satış yöntemiyle satılması aşağıdakilerden hangisini ifade eder?",
+                      "soruMetni": "Sermaye artırımı yoluyla halka arzın ortaklık açısından temel sonucu nedir?",
                       "secenekler": {
-                          "A": "Payların halka arz edilmeksizin önceden belirlenmiş kişilere satılması",
-                          "B": "Payların bütün yatırımcılara borsa ekranından aynı anda satılması",
-                          "C": "Payların sadece kamu kurumlarına bedelsiz verilmesi",
-                          "D": "Payların mutlaka vadeli işlem sözleşmesine bağlanması",
-                          "E": "Payların yalnızca mevcut ortaklara kar payı olarak dağıtılması"
+                          "A": "Ortaklığa yeni kaynak girişi sağlaması",
+                          "B": "Ortaklığı tasfiye etmesi",
+                          "C": "Payları tahvile dönüştürmesi",
+                          "D": "Yatırımcıların oy hakkını kaldırması",
+                          "E": "Borsada işlem görmeyi yasaklaması"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Tahsisli satışta paylar halka arz edilmeksizin belirli yatırımcılara satılır; geniş yatırımcı kitlesine çağrı yapılmaz."
+                      "cozum": "Yeni pay ihraç edilerek yapılan halka arzda satış geliri ortaklığa kaynak olarak girer."
                   },
                   {
                       "id": 6,
-                      "soruMetni": "Nitelikli yatırımcıya satış yöntemi için aşağıdakilerden hangisi doğrudur?",
+                      "soruMetni": "Ortak satışı ile sermaye artırımı yöntemlerinin birlikte kullanılması için hangisi doğrudur?",
                       "secenekler": {
-                          "A": "Satış, mevzuatta nitelikli yatırımcı olarak tanımlanan yatırımcılara yöneliktir.",
-                          "B": "Satış yalnızca küçük yatırımcılara yapılır.",
-                          "C": "Satış için hiçbir kamuyu aydınlatma kuralı uygulanmaz.",
-                          "D": "Satış sonucu paylar ortaklık hakkı sağlamaz.",
-                          "E": "Satış yöntemi sadece kamu borçlanmasında kullanılır."
+                          "A": "Mevzuata uygun koşullar sağlandığında aynı halka arzda birlikte uygulanabilir.",
+                          "B": "Her durumda yasaktır.",
+                          "C": "Sadece kamu borçlanmasında mümkündür.",
+                          "D": "İzahname ihtiyacını ortadan kaldırır.",
+                          "E": "Pay sahipliği hakkını sona erdirir."
                       },
                       "dogruCevap": "A",
-                      "cozum": "Nitelikli yatırımcıya satış, sermaye piyasası mevzuatında belirlenen nitelikli yatırımcı kitlesine yönelik bir satış yöntemidir."
+                      "cozum": "Halka açılmada mevcut pay satışı ve yeni pay ihracı birlikte kullanılabilir."
                   },
                   {
                       "id": 7,
-                      "soruMetni": "Halka arz fiyatının belirlenmesinde fiyat tespit raporunun temel amacı aşağıdakilerden hangisidir?",
+                      "soruMetni": "Tahsisli satış yöntemi neyi ifade eder?",
                       "secenekler": {
-                          "A": "Halka arz fiyatının hangi varsayım, yöntem ve finansal verilere göre belirlendiğini açıklamak",
-                          "B": "Pay fiyatının halka arzdan sonra düşmeyeceğini garanti etmek",
-                          "C": "Ortaklığın bütün ticari sırlarını kamuya açmak",
-                          "D": "Yatırımcıların pay devrini süresiz yasaklamak",
-                          "E": "Payların fiziki senet olarak basılmasını sağlamak"
+                          "A": "Payların halka arz edilmeksizin önceden belirlenmiş kişilere satılmasını",
+                          "B": "Payların tüm yatırımcılara borsadan satılmasını",
+                          "C": "Payların kamu kurumlarına bedelsiz verilmesini",
+                          "D": "Payların vadeli işlem sözleşmesine bağlanmasını",
+                          "E": "Payların kar payı olarak dağıtılmasını"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Fiyat tespit raporu, halka arz fiyatının dayanaklarını ve kullanılan değerleme yaklaşımını yatırımcılara açıklamak için hazırlanır."
+                      "cozum": "Tahsisli satış, halka arz edilmeksizin belirli yatırımcılara yapılan satıştır."
                   },
                   {
                       "id": 8,
-                      "soruMetni": "Payları borsada işlem gören ortaklıkların nominal değerin altında pay ihraç edebilmesi aşağıdakilerden hangisiyle ilişkilidir?",
+                      "soruMetni": "Nitelikli yatırımcıya satış yöntemi için hangisi doğrudur?",
                       "secenekler": {
-                          "A": "Sermaye piyasası mevzuatında belirlenen özel koşulların sağlanması",
-                          "B": "Her ortaklığın hiçbir koşul aranmadan serbestçe yapabilmesi",
-                          "C": "Payların borçlanma aracına dönüşmesi",
-                          "D": "MKK kayıtlarının kapatılması",
-                          "E": "Genel kurul kararlarının tamamen geçersiz sayılması"
+                          "A": "Satış mevzuatta nitelikli yatırımcı olarak tanımlanan yatırımcılara yöneliktir.",
+                          "B": "Sadece küçük yatırımcılara yapılır.",
+                          "C": "Hiçbir açıklama yapılmaz.",
+                          "D": "Pay ortaklık hakkı sağlamaz.",
+                          "E": "Sadece kamu borçlanmasında kullanılır."
                       },
                       "dogruCevap": "A",
-                      "cozum": "Nominal değerin altında pay ihracı genel kural değildir; payları borsada işlem gören ortaklıklar bakımından mevzuattaki koşullara bağlıdır."
+                      "cozum": "Nitelikli yatırımcıya satış, belirli nitelikleri taşıyan yatırımcılara yönelik satış yöntemidir."
                   },
                   {
                       "id": 9,
-                      "soruMetni": "Halka açık ortaklıkta yeni pay alma hakkının kısıtlanması için temel ilke aşağıdakilerden hangisidir?",
+                      "soruMetni": "Halka arz fiyatının belirlenmesinde fiyat tespit raporunun işlevi nedir?",
                       "secenekler": {
-                          "A": "Kısıtlama keyfi olmamalı; haklı gerekçeye, mevzuata ve yetkili organ kararına dayanmalıdır.",
-                          "B": "Her sermaye artırımında kendiliğinden tamamen kaldırılır.",
-                          "C": "Sadece aracı kurumun tek taraflı kararıyla yapılır.",
-                          "D": "Kısıtlama için hiçbir açıklama yapılmaz.",
-                          "E": "Kısıtlama yalnızca vergi dairesi kararıyla mümkündür."
+                          "A": "Fiyatın hangi varsayım, yöntem ve finansal verilere göre belirlendiğini açıklamak",
+                          "B": "Pay fiyatının düşmeyeceğini garanti etmek",
+                          "C": "Ortaklığın tüm sırlarını açıklamak",
+                          "D": "Pay devrini yasaklamak",
+                          "E": "Fiziki senet basmak"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Rüçhan hakkı temel pay sahipliği haklarındandır; kısıtlanması haklı gerekçe ve mevzuata uygun karar gerektirir."
+                      "cozum": "Fiyat tespit raporu halka arz fiyatının dayanaklarını yatırımcıya açıklar."
                   },
                   {
                       "id": 10,
-                      "soruMetni": "Bedelli sermaye artırımında kullanılmayan yeni pay alma haklarından sonra kalan paylar için aşağıdakilerden hangisi genel olarak doğrudur?",
+                      "soruMetni": "Ek satışa konu payların ödünç alınmak suretiyle satışı hangi kavramla ifade edilir?",
                       "secenekler": {
-                          "A": "Mevzuatta belirlenen satış esaslarına göre satılabilir.",
-                          "B": "Her durumda otomatik olarak iptal edilir ve satılamaz.",
-                          "C": "Sadece şirket çalışanlarına bedelsiz verilir.",
-                          "D": "Tahvil olarak itfa edilir.",
-                          "E": "Pay sahiplerinin oy hakkını yok eder."
+                          "A": "Ödünç alımlı ek pay satışı",
+                          "B": "Katılma intifa senedi",
+                          "C": "Kayıtlı sermaye",
+                          "D": "İhraççı",
+                          "E": "Piyasa danışmanı"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Yeni pay alma haklarının kullanımından sonra kalan payların satışı, izahname ve ilgili satış esaslarına göre yürütülür."
+                      "cozum": "Kitaptaki örnek soruda bu kavram “ödünç alımlı ek pay satışı” olarak ölçülür."
                   },
                   {
                       "id": 11,
-                      "soruMetni": "Sermaye azaltımı ile eş anlı sermaye artırımı yapılmasının temel gerekçesi aşağıdakilerden hangisi olabilir?",
-                      "secenekler": {
-                          "A": "Özkaynak yapısını düzeltirken ortaklığa yeni fon girişi sağlamak",
-                          "B": "Ortaklığın tüm paylarını vadeli işlem sözleşmesine çevirmek",
-                          "C": "Kamuyu aydınlatma yükümlülüklerini ortadan kaldırmak",
-                          "D": "Pay sahiplerinin genel kurula katılmasını yasaklamak",
-                          "E": "MKK kayıtlarını fiziki senede dönüştürmek"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Azaltım ve artırım birlikte kullanılarak bilanço yapısı iyileştirilebilir ve aynı süreçte ortaklığa yeni kaynak girişi sağlanabilir."
-                  },
-                  {
-                      "id": 12,
-                      "soruMetni": "Kayıtlı sermaye tavanı kavramı aşağıdakilerden hangisini ifade eder?",
-                      "secenekler": {
-                          "A": "Yönetim kurulunun sermaye artırımı yapabileceği azami sermaye tutarını",
-                          "B": "Ortaklığın hiçbir zaman aşamayacağı piyasa değerini",
-                          "C": "Payların borsadaki günlük en yüksek fiyatını",
-                          "D": "Pay sahibinin alabileceği en yüksek kar payını",
-                          "E": "Sadece borçlanma araçlarının vade sınırını"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kayıtlı sermaye tavanı, yönetim kurulunun yetki süresi içinde sermaye artırımı yapabileceği üst sınırı gösterir."
-                  },
-                  {
-                      "id": 13,
-                      "soruMetni": "Çıkarılmış sermaye kavramı aşağıdakilerden hangisini anlatır?",
-                      "secenekler": {
-                          "A": "Kayıtlı sermaye sisteminde fiilen çıkarılmış ve ödenmiş sermayeyi",
-                          "B": "Payların borsadaki son işlem fiyatını",
-                          "C": "Ortaklığın gelecek yıl beklenen satış hasılatını",
-                          "D": "Tahvillerin kupon faizini",
-                          "E": "Yatırım fonunun günlük portföy değerini"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Çıkarılmış sermaye, kayıtlı sermaye sisteminde ortaklığın fiilen ihraç edilmiş paylarının temsil ettiği sermaye tutarıdır."
-                  },
-                  {
-                      "id": 14,
-                      "soruMetni": "Halka arz sonrasında ortakların belirli süre pay satmama taahhüdü vermesinin temel amacı nedir?",
-                      "secenekler": {
-                          "A": "Piyasada ek satış baskısını sınırlamak ve yatırımcı güvenini desteklemek",
-                          "B": "Pay sahiplerinin bütün mali haklarını kaldırmak",
-                          "C": "Pay fiyatını kamu otoritesinin belirlemesini sağlamak",
-                          "D": "Ortaklığın borsadan çıkmasını zorunlu kılmak",
-                          "E": "Payların tahvile dönüşmesini sağlamak"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Satmama taahhüdü, halka arz sonrasında yoğun ortak satışı kaynaklı arz baskısını azaltmayı amaçlayan bir piyasa güveni aracıdır."
-                  },
-                  {
-                      "id": 15,
-                      "soruMetni": "Ek satış hakkı halka arz sürecinde hangi durumla daha çok ilişkilidir?",
+                      "soruMetni": "Ek satış hakkı hangi durumla daha çok ilişkilidir?",
                       "secenekler": {
                           "A": "Halka arzda beklenenden yüksek talep oluşması",
                           "B": "Ortaklığın tasfiye edilmesi",
-                          "C": "Payların fiziki senet olarak bastırılması",
-                          "D": "Fon katılma paylarının itfası",
-                          "E": "Borsada işlem görmenin yasaklanması"
+                          "C": "Payların fiziki basılması",
+                          "D": "Fon katılma payı itfası",
+                          "E": "Borsada işlem yasağı"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Ek satış hakkı, talebin yüksek olduğu halka arzlarda izahnamede açıklanan sınırlar içinde ilave pay satışı yapılabilmesini sağlar."
+                      "cozum": "Ek satış hakkı, yüksek talep halinde ilave pay satışına imkan veren halka arz mekanizmasıdır."
+                  },
+                  {
+                      "id": 12,
+                      "soruMetni": "Fiyat istikrarını sağlayıcı işlemlerin temel amacı nedir?",
+                      "secenekler": {
+                          "A": "Halka arz sonrası aşırı satış baskısını sınırlamak ve fiyat oluşumunu desteklemek",
+                          "B": "Pay fiyatını süresiz garanti etmek",
+                          "C": "Bütün payları zorunlu geri almak",
+                          "D": "Zararları kamu bütçesinden ödemek",
+                          "E": "Borsada işlem görmeyi yasaklamak"
+                      },
+                      "dogruCevap": "A",
+                      "cozum": "Fiyat istikrarı işlemleri halka arz sonrası piyasa dengesini desteklemek için öngörülebilir; garanti niteliğinde değildir."
+                  },
+                  {
+                      "id": 13,
+                      "soruMetni": "Fiyat istikrarı işlemlerinde halka arz fiyatının üzerinde alım emri verilmemesi kuralının amacı nedir?",
+                      "secenekler": {
+                          "A": "İşlemin yapay fiyat yükseltme aracına dönüşmesini önlemek",
+                          "B": "Payların borsada işlem görmesini engellemek",
+                          "C": "Kar payı dağıtımını zorunlu kılmak",
+                          "D": "Fon portföyünü değiştirmek",
+                          "E": "Tahvil faizini düşürmek"
+                      },
+                      "dogruCevap": "A",
+                      "cozum": "Fiyat istikrarı aşağı yönlü baskıyı sınırlamaya yöneliktir; fiyatı yapay biçimde yükseltmek için kullanılmaz."
+                  },
+                  {
+                      "id": 14,
+                      "soruMetni": "Fiyat istikrarı işlemlerinin izahnamede açıklanmasının nedeni nedir?",
+                      "secenekler": {
+                          "A": "Yatırımcıların süre, fon kaynağı, aracı kurum ve işlem koşulları hakkında bilgilendirilmesi",
+                          "B": "İşlemleri gizlemek",
+                          "C": "Fiyat garantisi vermek",
+                          "D": "Finansal raporlamayı kaldırmak",
+                          "E": "Pay satışını yasaklamak"
+                      },
+                      "dogruCevap": "A",
+                      "cozum": "Kamuyu aydınlatma gereği yatırımcı fiyat istikrarı işlemlerinin çerçevesini önceden bilmelidir."
+                  },
+                  {
+                      "id": 15,
+                      "soruMetni": "Bedelli sermaye artırımı neyi ifade eder?",
+                      "secenekler": {
+                          "A": "Nakit veya nakit benzeri kaynak girişi karşılığında yeni pay ihraç edilmesini",
+                          "B": "İç kaynakların sermayeye eklenmesini",
+                          "C": "Şirket borçlarının silinmesini",
+                          "D": "Yönetim süresinin uzatılmasını",
+                          "E": "Borsada işlem görmenin sona ermesini"
+                      },
+                      "dogruCevap": "A",
+                      "cozum": "Bedelli sermaye artırımı ortaklığa dış kaynak girişi sağlayan sermaye artırımıdır."
                   },
                   {
                       "id": 16,
-                      "soruMetni": "Fiyat istikrarını sağlayıcı işlemler sırasında yapılacak işlemlerin izahnamede açıklanmasının temel nedeni nedir?",
+                      "soruMetni": "Bedelsiz sermaye artırımı için hangisi doğrudur?",
                       "secenekler": {
-                          "A": "Yatırımcıların işlem koşulları, süre, fon kaynağı ve aracı kurum hakkında bilgilendirilmesi",
-                          "B": "İşlemlerin gizli yürütülmesini sağlamak",
-                          "C": "Pay fiyatının her gün aynı kalmasını garanti etmek",
-                          "D": "Ortaklığın finansal rapor hazırlamasını engellemek",
-                          "E": "Yatırımcıların pay satmasını yasaklamak"
+                          "A": "İç kaynakların sermayeye eklenmesiyle pay sahiplerine bedelsiz pay verilmesi söz konusudur.",
+                          "B": "Her zaman yeni nakit girişi sağlar.",
+                          "C": "Pay sahipliği sıfatını ortadan kaldırır.",
+                          "D": "Sadece borçlanma aracıyla yapılır.",
+                          "E": "Halka açık ortaklıklarda yapılamaz."
                       },
                       "dogruCevap": "A",
-                      "cozum": "Fiyat istikrarı işlemleri piyasayı etkileyebileceğinden, yatırımcıların işlem çerçevesini önceden bilmesi kamuyu aydınlatma açısından önemlidir."
+                      "cozum": "Bedelsiz artırımlarda iç kaynaklar sermayeye eklenir ve pay sahipleri payları oranında bedelsiz pay alır."
                   },
                   {
                       "id": 17,
-                      "soruMetni": "Fiyat istikrarı işlemlerinde halka arz fiyatının üzerinde alım emri verilmemesi kuralının amacı aşağıdakilerden hangisidir?",
+                      "soruMetni": "Halka açık ortaklıkların sermaye artırımı fonlarını nerede kullanacağını açıklayan belge hangisidir?",
                       "secenekler": {
-                          "A": "Fiyat istikrarının yapay fiyat yükseltme aracına dönüşmesini önlemek",
-                          "B": "Payların hiçbir şekilde borsada işlem görmemesini sağlamak",
-                          "C": "Ortaklığın kar payı dağıtmasını zorunlu kılmak",
-                          "D": "Yatırım fonu portföy sınırlamalarını değiştirmek",
-                          "E": "Tahvillerin faiz oranını düşürmek"
+                          "A": "Fonun kullanım yeri raporu",
+                          "B": "Nüfus kayıt örneği",
+                          "C": "Kira makbuzu",
+                          "D": "Araç muayene formu",
+                          "E": "Personel izin çizelgesi"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Fiyat istikrarı, halka arz sonrası aşırı aşağı yönlü baskıyı sınırlamak içindir; fiyatı yapay biçimde yukarı taşımaya yönelik kullanılmamalıdır."
+                      "cozum": "Fonun kullanım yeri raporu, sermaye artırımı veya halka arzdan sağlanacak fonların kullanım amacını açıklar."
                   },
                   {
                       "id": 18,
-                      "soruMetni": "Fiyat istikrarı işlemlerinin sonucunda yapılan işlemlere ilişkin raporun kamuya açıklanması hangi ilkeyle doğrudan ilgilidir?",
+                      "soruMetni": "Sermaye azaltımı hangi amaçla yapılabilir?",
                       "secenekler": {
-                          "A": "Şeffaflık ve kamuyu aydınlatma",
-                          "B": "Gizlilik ve açıklamama",
-                          "C": "Faiz garantisi",
-                          "D": "Vergi muafiyeti",
-                          "E": "Fiziki teslim zorunluluğu"
+                          "A": "Zararların sermaye ile dengelenmesi veya sermaye yapısının düzeltilmesi amacıyla",
+                          "B": "Bilgi alma hakkını kaldırmak amacıyla",
+                          "C": "İzahnameyi engellemek amacıyla",
+                          "D": "Tüm payları iptal etmek amacıyla",
+                          "E": "Ortaklığı derneğe çevirmek amacıyla"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Fiyat istikrarı işlemlerinin sonuçlarının açıklanması, yatırımcıların piyasada gerçekleşen destekleyici işlemleri görebilmesini sağlar."
+                      "cozum": "Sermaye azaltımı bilanço zararlarının giderilmesi veya sermaye yapısının düzeltilmesi için kullanılabilir."
                   },
                   {
                       "id": 19,
-                      "soruMetni": "Girişim Sermayesi Pazarı'nda işlem görecek ortaklıklar için yapılan düzenlemelerin temel amacı aşağıdakilerden hangisi olabilir?",
+                      "soruMetni": "Sermaye azaltımı ile eş anlı sermaye artırımı yapılmasının temel gerekçesi ne olabilir?",
                       "secenekler": {
-                          "A": "Belirli nitelikteki büyüme şirketlerinin sermaye piyasasından fon sağlamasına imkan tanımak",
-                          "B": "Bütün halka açık ortaklıkların borsadan çıkarılmasını sağlamak",
-                          "C": "Pay sahiplerinin kar payı alma hakkını kaldırmak",
-                          "D": "Sadece kamu borçlanma araçlarının ihracını düzenlemek",
-                          "E": "Vadeli işlem sözleşmelerinin takasını yapmak"
+                          "A": "Özkaynak yapısını düzeltirken ortaklığa yeni fon girişi sağlamak",
+                          "B": "Tüm payları vadeli işlem sözleşmesine çevirmek",
+                          "C": "Kamuyu aydınlatmayı kaldırmak",
+                          "D": "Genel kurula katılımı yasaklamak",
+                          "E": "Kaydi sistemi fiziki senede çevirmek"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Girişim Sermayesi Pazarı, büyüme potansiyeli taşıyan belirli ortaklıkların sermaye piyasasına erişimini kolaylaştıran bir yapıdır."
+                      "cozum": "Azaltım ve artırım birlikte kullanılarak bilanço yapısı iyileştirilip kaynak girişi sağlanabilir."
                   },
                   {
                       "id": 20,
-                      "soruMetni": "Payların halka arzında dağıtım esaslarının önceden belirlenip duyurulmasının temel amacı nedir?",
+                      "soruMetni": "Kayıtlı sermaye sistemi ne sağlar?",
                       "secenekler": {
-                          "A": "Yatırımcılar arasında adil ve öngörülebilir dağıtım yapılmasını sağlamak",
-                          "B": "Yatırımcıların başvuru yapmasını engellemek",
-                          "C": "Pay fiyatını sonsuza kadar sabitlemek",
-                          "D": "Ortaklığın faaliyet konusunu değiştirmek",
-                          "E": "Payları otomatik olarak borçlanma aracına dönüştürmek"
+                          "A": "Yönetim kuruluna kayıtlı sermaye tavanı içinde sermaye artırımı yapabilme imkanı",
+                          "B": "Sınırsız ve koşulsuz sermaye artırımı",
+                          "C": "Tüm mali hakların kaldırılması",
+                          "D": "Her sermaye artırımının mahkeme kararına bağlanması",
+                          "E": "Sadece kamu şirketlerinde uygulama"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Dağıtım esasları, talebin arzı aşması gibi durumlarda payların hangi kurallarla yatırımcılara dağıtılacağını gösterir."
+                      "cozum": "Kayıtlı sermaye sisteminde yönetim kurulu belirlenen tavan içinde daha hızlı sermaye artırımı yapabilir."
                   },
                   {
                       "id": 21,
-                      "soruMetni": "Halka arzdan elde edilen fonların kullanımına ilişkin gerçekleşmelerin izlenmesi neden önemlidir?",
+                      "soruMetni": "Kayıtlı sermaye tavanı neyi ifade eder?",
                       "secenekler": {
-                          "A": "Fonların izahnamede ve raporlarda açıklanan amaçlara uygun kullanılıp kullanılmadığını yatırımcıların görebilmesi için",
-                          "B": "Pay sahiplerinin oy hakkını kaldırmak için",
-                          "C": "Payların borsada işlem görmesini engellemek için",
-                          "D": "Ortaklığın tüm finansal tablolarını gizlemek için",
-                          "E": "Tahvillerin vadesini uzatmak için"
+                          "A": "Yönetim kurulunun sermaye artırımı yapabileceği azami sermaye tutarını",
+                          "B": "Ortaklığın piyasa değerini",
+                          "C": "Payların günlük en yüksek fiyatını",
+                          "D": "Alınabilecek en yüksek kar payını",
+                          "E": "Borçlanma araçlarının vade sınırını"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Fon kullanımının izlenmesi, halka arz gelirlerinin yatırımcılara açıklanan amaçlarla uyumlu kullanılıp kullanılmadığını gösteren önemli bir hesap verebilirlik mekanizmasıdır."
+                      "cozum": "Kayıtlı sermaye tavanı yönetim kurulunun yetki alanındaki üst sınırı gösterir."
                   },
                   {
                       "id": 22,
-                      "soruMetni": "Payların borsada işlem görmeyen niteliğe sahip olması aşağıdakilerden hangisini ifade eder?",
+                      "soruMetni": "Çıkarılmış sermaye kavramı neyi anlatır?",
                       "secenekler": {
-                          "A": "Bu payların borsada alınıp satılabilmesi için ayrıca işlem gören niteliğe dönüşüm sürecine tabi olabileceğini",
-                          "B": "Bu payların ortaklık hakkı sağlamadığını",
-                          "C": "Bu payların her zaman kamu borçlanma aracı olduğunu",
-                          "D": "Bu payların kaydileştirilemeyeceğini",
-                          "E": "Bu payların hiçbir zaman devredilemeyeceğini"
+                          "A": "Kayıtlı sermaye sisteminde fiilen çıkarılmış ve ödenmiş sermayeyi",
+                          "B": "Payların borsadaki son fiyatını",
+                          "C": "Gelecek yıl satış hasılatını",
+                          "D": "Tahvillerin kupon faizini",
+                          "E": "Yatırım fonu portföy değerini"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Halka açık ortaklık paylarının borsada işlem gören veya görmeyen nitelikte olması mümkündür; işlem gören niteliğe dönüşüm için mevzuattaki prosedürler uygulanır."
+                      "cozum": "Çıkarılmış sermaye fiilen ihraç edilmiş payların temsil ettiği sermaye tutarıdır."
                   },
                   {
                       "id": 23,
-                      "soruMetni": "Depo sertifikalarının dayanak varlıkla ilişkisi için aşağıdakilerden hangisi doğrudur?",
+                      "soruMetni": "Payların borsada işlem gören niteliğe dönüştürülmesi neyi ifade eder?",
                       "secenekler": {
-                          "A": "Depo sertifikası, saklamada bulunan dayanak payları temsil eden sermaye piyasası aracıdır.",
-                          "B": "Depo sertifikası hiçbir varlığa dayanmayan kamu borcudur.",
-                          "C": "Depo sertifikası yalnızca yatırım fonu portföyünü temsil eder.",
-                          "D": "Depo sertifikası pay sahipliğiyle hiçbir ekonomik bağ kurmaz.",
-                          "E": "Depo sertifikası sadece fiziki altın teslimi için kullanılır."
+                          "A": "Borsada işlem görmeyen nitelikteki payların mevzuat prosedürüyle borsada işlem görebilir hale getirilmesini",
+                          "B": "Payların tahvile çevrilmesini",
+                          "C": "Ortaklık borçlarının pay sahibine devrini",
+                          "D": "Payların sadece fiziki saklanmasını",
+                          "E": "Yatırımcının payını satamamasını"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Depo sertifikaları, saklamacı nezdinde tutulan dayanak payları temsil eder ve yatırımcıya bu dayanak paylarla bağlantılı ekonomik haklar sağlar."
+                      "cozum": "Borsada işlem gören niteliğe dönüşüm payların borsada işlem görebilmesi için gereken süreçtir."
                   },
                   {
                       "id": 24,
-                      "soruMetni": "Pay benzeri menkul kıymetlerin paylardan ayrılan temel yönü aşağıdakilerden hangisidir?",
+                      "soruMetni": "Girişim Sermayesi Pazarı düzenlemelerinin temel amacı nedir?",
                       "secenekler": {
-                          "A": "Her zaman tam ortaklık payı niteliği taşımamaları, ancak paya bağlı bazı ekonomik haklara benzer haklar sağlayabilmeleri",
-                          "B": "Her zaman kamu borçlanma aracı olmaları",
-                          "C": "Mutlaka sabit faiz ödemeleri",
-                          "D": "Sadece bankalar tarafından mevduat karşılığı çıkarılmaları",
-                          "E": "Yatırımcıya hiçbir hak sağlamamaları"
+                          "A": "Belirli büyüme şirketlerinin sermaye piyasasından fon sağlamasına imkan tanımak",
+                          "B": "Tüm halka açık ortaklıkları borsadan çıkarmak",
+                          "C": "Kar payı hakkını kaldırmak",
+                          "D": "Sadece kamu borçlanmasını düzenlemek",
+                          "E": "Vadeli işlem takasını yapmak"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Pay benzeri menkul kıymetler, payla bağlantılı ekonomik haklar sağlayabilse de her zaman tam ortaklık payı niteliği taşımaz."
+                      "cozum": "Girişim Sermayesi Pazarı büyüme potansiyeli taşıyan ortaklıkların sermaye piyasasına erişimini destekler."
                   },
                   {
                       "id": 25,
-                      "soruMetni": "Paylar ve Pay Tebliği konularında sınavda sık ölçülen yaklaşım aşağıdakilerden hangisidir?",
+                      "soruMetni": "Bölüm 1.2 kapsamında sınavda beklenen ana odak hangisidir?",
                       "secenekler": {
-                          "A": "Kavram, yetkili organ, süre, kamuyu aydınlatma ve yatırımcı hakkı ilişkisini birlikte yorumlamak",
-                          "B": "Sadece şirket logosunu ezberlemek",
-                          "C": "Pay fiyatının gelecekteki yönünü tahmin etmek",
-                          "D": "Tüm soruları faiz oranı hesaplaması olarak çözmek",
-                          "E": "Borçlanma araçlarını paylarla tamamen aynı kabul etmek"
+                          "A": "Pay Tebliği, halka açılma, halka arz yöntemleri, sermaye işlemleri, fiyat istikrarı ve kamuyu aydınlatma ilişkisini bilmek",
+                          "B": "Sadece payın ortaklık hakkı olduğunu bilmek",
+                          "C": "DİBS ihale yöntemlerini hesaplamak",
+                          "D": "Vadeli işlem teminatı hesaplamak",
+                          "E": "Fon portföy sınırlamalarını ezberlemek"
                       },
                       "dogruCevap": "A",
-                      "cozum": "Bu bölümde başarı için pay kavramı, pay sahipliği hakları, halka arz süreci, süreler, yetkili organlar ve kamuyu aydınlatma yükümlülükleri birlikte değerlendirilmelidir."
+                      "cozum": "Kitabın 1.2 başlığı Pay Tebliği ve halka arz/sermaye işlemleri gibi düzenleyici konulara odaklanır."
                   }
               ]
           },
