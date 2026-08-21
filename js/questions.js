@@ -1,27 +1,3 @@
-/**
- * ============================================================================
- * SPL Soru-Cevap Uygulaması - Tüm Lisans Soru Veritabanı (v20260807_4TESTS)
- * ============================================================================
- * SPL (Sermaye Piyasası Lisanslama) SORU VERİTABANI (questions.js)
- * ============================================================================
- * Resmi SPK Modül Kodları & Sınav Konuları Tam Liste:
- * 1001: Dar Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (Düzey 1)
- * 1002: Geniş Kapsamlı Sermaye Piyasası Mevzuatı ve Meslek Kuralları (Düzey 2, 3, Türev)
- * 1003: Sermaye Piyasası Araçları 1 (Düzey 1, 2, 3, Türev)
- * 1004: Sermaye Piyasası Araçları 2 (Düzey 2, 3, Türev)
- * 1005: Yatırım Kuruluşları (Düzey 1, 2, 3, Türev)
- * 1006: Finansal Piyasalar (Düzey 2, 3, Türev)
- * 1007: Finansal Yönetim ve Mali Analiz (Düzey 2, 3)
- * 1008: Genel Ekonomi (Düzey 3)
- * 1009: Temel Finans Matematiği ve Değerleme Yöntemleri (Düzey 3, Türev)
- * 1010: Ticaret Hukuku (Düzey 2, 3)
- * 1011: Türev Araçlar, Piyasalar ve Risk Yönetimi (Türev Araçlar)
- * 1012: Takas, Saklama ve Operasyon İşlemleri (Düzey 1, 2, 3)
- * 1013: Kurumlarda ve Sermaye Piyasasında Vergilendirme (Düzey 3, Türev)
- * 1016: Muhasebe ve Finansal Raporlama (Düzey 2, 3)
- * ============================================================================
- */
-
 const splVeritabani = [
   {
     "code": "1001",
@@ -6267,1346 +6243,2342 @@ const splVeritabani = [
     ]
   },
   {
-      "code": "1003",
-      "dersAdi": "1003 - Sermaye Piyasası Araçları 1",
-      "kategori": "SPK Modül Kodu: 1003 | SPL Düzey 1, Düzey 2, Düzey 3, Türev Araçlar Lisansı",
-      "duzeyler": [
-          "duzey1",
-          "duzey2",
-          "duzey3",
-          "turev"
-      ],
-      "aciklama": "Sermaye Piyasası Araçları 1 (1003) - Kitap başlıklarıyla uyumlu 4 bölüm testi: Paylar kavramsal çerçeve (25), Pay Tebliği (25), Borçlanma kavramsal çerçeve (25), Borçlanma Araçları Tebliği ve yeşil borçlanma araçları (25). Toplam 100 özgün soru.",
-      "testler": [
+    "code": "1003",
+    "dersAdi": "1003 - Sermaye Piyasası Araçları 1",
+    "kategori": "SPK Modül Kodu: 1003 | SPL Düzey 1, Düzey 2, Düzey 3, Türev Araçlar Lisansı",
+    "duzeyler": [
+      "duzey1",
+      "duzey2",
+      "duzey3",
+      "turev"
+    ],
+    "aciklama": "Sermaye Piyasası Araçları 1 (1003) - Kitap başlıklarıyla uyumlu 7 bölüm testi: Paylar (50), Borçlanma Araçları (50), Yatırım Fonu Katılma Payları (75). Toplam 175 özgün soru.",
+    "testler": [
+      {
+        "testId": 100301,
+        "testAdi": "Bölüm 1.1: Paylar ve Pay Benzeri Menkul Kıymetler - Kavramsal Çerçeve",
+        "testTuru": "bolum",
+        "sorular": [
           {
-              "testId": 100301,
-              "testAdi": "Bölüm 1.1: Paylar ve Pay Benzeri Menkul Kıymetler - Kavramsal Çerçeve",
-              "testTuru": "bolum",
-              "sorular": [
-                  {
-                      "id": 1,
-                      "soruMetni": "Anonim ortaklık sermayesinin belirli ve eşit parçalara bölünmüş her bir kısmını temsil eden sermaye piyasası aracı hangisidir?",
-                      "secenekler": {
-                          "A": "Pay",
-                          "B": "Tahvil",
-                          "C": "Finansman bonosu",
-                          "D": "Kira sertifikası",
-                          "E": "Swap sözleşmesi"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Pay, anonim ortaklık sermayesinin belirli parçasını temsil eder ve sahibine ortaklık sıfatı kazandırır."
-                  },
-                  {
-                      "id": 2,
-                      "soruMetni": "Pay sahibinin ortaklık kârından payına düşen tutarı alma hakkı hangi hak grubuna girer?",
-                      "secenekler": {
-                          "A": "Mali haklar",
-                          "B": "Disiplin hakları",
-                          "C": "Kamu gücü hakları",
-                          "D": "Saklama hakları",
-                          "E": "Vergi tarh hakları"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kar payı alma hakkı pay sahibinin temel mali haklarındandır."
-                  },
-                  {
-                      "id": 3,
-                      "soruMetni": "Aşağıdakilerden hangisi pay sahibinin yönetsel haklarından biridir?",
-                      "secenekler": {
-                          "A": "Genel kurula katılma ve oy kullanma hakkı",
-                          "B": "Kupon faizi alma hakkı",
-                          "C": "Vade sonunda anapara alma hakkı",
-                          "D": "Kira geliri garantisi",
-                          "E": "Teminat tamamlama çağrısı yapma hakkı"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Genel kurula katılma, oy kullanma, bilgi alma ve inceleme hakları yönetsel haklar arasında yer alır."
-                  },
-                  {
-                      "id": 4,
-                      "soruMetni": "Pay sahibinin sermaye artırımı sırasında yeni çıkarılan payları öncelikle alma hakkı aşağıdakilerden hangisidir?",
-                      "secenekler": {
-                          "A": "Rüçhan hakkı",
-                          "B": "İtfa hakkı",
-                          "C": "Rehin hakkı",
-                          "D": "Temerrüt hakkı",
-                          "E": "Değiştirme hakkı"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Rüçhan hakkı, mevcut pay sahibinin ortaklık oranını koruyabilmesi için yeni payları öncelikle alma hakkıdır."
-                  },
-                  {
-                      "id": 5,
-                      "soruMetni": "Pay sahibinin ortaklığın tasfiyesi halinde borçlar ödendikten sonra kalan değerden pay alma hakkı hangisidir?",
-                      "secenekler": {
-                          "A": "Tasfiye bakiyesine katılma hakkı",
-                          "B": "Kupon hakkı",
-                          "C": "Değişim teminatı hakkı",
-                          "D": "İhraç limiti hakkı",
-                          "E": "Kredi derecelendirme hakkı"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Tasfiye bakiyesine katılma hakkı pay sahibinin mali haklarından biridir."
-                  },
-                  {
-                      "id": 6,
-                      "soruMetni": "Nama yazılı paylar ile hamiline yazılı paylar arasındaki temel ayrım nedir?",
-                      "secenekler": {
-                          "A": "Hak sahibinin adının pay üzerinde veya kayıtlarda gösterilip gösterilmemesi",
-                          "B": "Payın mutlaka vadesinin bulunması",
-                          "C": "Payın faiz ödeme zorunluluğu",
-                          "D": "Payın sadece kamu tarafından ihraç edilmesi",
-                          "E": "Payın borçlanma aracı niteliği taşıması"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Nama yazılı paylarda hak sahibi adı önem taşır; hamiline yazılı paylarda hak sahipliği hamil ve kayıt düzeniyle ilişkilidir."
-                  },
-                  {
-                      "id": 7,
-                      "soruMetni": "Belirli paylara oy, kar payı veya yönetimde temsil gibi konularda üstün hak tanınması ne olarak adlandırılır?",
-                      "secenekler": {
-                          "A": "İmtiyaz",
-                          "B": "İtfa",
-                          "C": "Temerrüt",
-                          "D": "İskonto",
-                          "E": "Arbitraj"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "İmtiyaz, bazı paylara diğer paylara göre üstün veya özel haklar tanınmasıdır."
-                  },
-                  {
-                      "id": 8,
-                      "soruMetni": "Oydan yoksun paylar için aşağıdakilerden hangisi doğrudur?",
-                      "secenekler": {
-                          "A": "Kural olarak oy hakkı sağlamaz; buna karşılık mali haklar içerebilir.",
-                          "B": "Her zaman tahvil niteliğindedir.",
-                          "C": "Sahibine hiçbir hak sağlamaz.",
-                          "D": "Sadece kamu borçlanma aracı olarak ihraç edilir.",
-                          "E": "Vade sonunda anapara öder."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Oydan yoksun paylar ortaklık payı niteliğini korur; ancak kural olarak oy hakkı vermez."
-                  },
-                  {
-                      "id": 9,
-                      "soruMetni": "Payların kaydileştirilmesi neyi ifade eder?",
-                      "secenekler": {
-                          "A": "Payların fiziki senet yerine elektronik kayıtlar üzerinden izlenmesini",
-                          "B": "Payların tahvile dönüşmesini",
-                          "C": "Payların vadesinin uzamasını",
-                          "D": "Pay fiyatının sabitlenmesini",
-                          "E": "Pay sahibinin hakkının sona ermesini"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kaydileştirme, sermaye piyasası araçlarına ilişkin hakların elektronik ortamda izlenmesidir."
-                  },
-                  {
-                      "id": 10,
-                      "soruMetni": "Kaydileştirilmiş sermaye piyasası araçlarına ilişkin hakların hak sahibi bazında izlenmesinde görevli kuruluş hangisidir?",
-                      "secenekler": {
-                          "A": "Merkezi Kayıt Kuruluşu A.Ş.",
-                          "B": "Borsa İstanbul A.Ş.",
-                          "C": "Türkiye Cumhuriyet Merkez Bankası",
-                          "D": "Türkiye Sermaye Piyasaları Birliği",
-                          "E": "SPL"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kaydi araçlara ilişkin haklar MKK nezdinde hak sahibi bazında izlenir."
-                  },
-                  {
-                      "id": 11,
-                      "soruMetni": "Payın itibari değeri kavramı aşağıdakilerden hangisini ifade eder?",
-                      "secenekler": {
-                          "A": "Payın esas sermayeyi temsil eden nominal değerini",
-                          "B": "Payın borsadaki anlık fiyatını",
-                          "C": "Payın kupon faizini",
-                          "D": "Payın vade sonu itfa tutarını",
-                          "E": "Payın teminat çağrısını"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "İtibari değer, payın esas sermayedeki nominal karşılığını ifade eder."
-                  },
-                  {
-                      "id": 12,
-                      "soruMetni": "Pay sahibinin ortaklık borçlarından sorumluluğu genel olarak nasıl sınırlandırılır?",
-                      "secenekler": {
-                          "A": "Taahhüt ettiği sermaye payını ödeme borcu ile",
-                          "B": "Şirketin tüm borçlarından sınırsız sorumlulukla",
-                          "C": "Yönetim kurulunun tüm kararlarından kişisel sorumlulukla",
-                          "D": "Kamu borçlarının tamamını üstlenmekle",
-                          "E": "Borsa zararlarını ödemekle"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Anonim ortaklıkta pay sahibinin temel borcu taahhüt ettiği sermaye payını ödemektir."
-                  },
-                  {
-                      "id": 13,
-                      "soruMetni": "Sırf borç ilkesi pay sahibi bakımından neyi anlatır?",
-                      "secenekler": {
-                          "A": "Pay sahibine esas sözleşmeyle kanunda öngörülmeyen ek borçlar yüklenememesini",
-                          "B": "Pay sahibinin şirket borçlarından sınırsız sorumlu olmasını",
-                          "C": "Pay sahibinin faiz ödeme yükümlülüğünü",
-                          "D": "Pay sahibinin tahvil alacaklısı olmasını",
-                          "E": "Pay sahibinin oy hakkını kaybetmesini"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Sırf borç ilkesi, pay sahibinin temel borcunun sermaye taahhüdü olduğunu ifade eder."
-                  },
-                  {
-                      "id": 14,
-                      "soruMetni": "Pay sahibinin bilgi alma ve inceleme hakkı hangi işleve hizmet eder?",
-                      "secenekler": {
-                          "A": "Ortaklığın faaliyetleri ve finansal durumu hakkında denetim ve bilinçli karar alma imkanı sağlar.",
-                          "B": "Pay fiyatını garanti eder.",
-                          "C": "Tahvil faizini belirler.",
-                          "D": "Fon portföyünü yönetir.",
-                          "E": "Vade sonunda anapara öder."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Bilgi alma ve inceleme hakkı pay sahibinin ortaklık yönetimini izleyebilmesi için önemlidir."
-                  },
-                  {
-                      "id": 15,
-                      "soruMetni": "Pay sahibinin genel kurul kararlarına karşı iptal davası açabilmesi hangi hakla daha yakından ilgilidir?",
-                      "secenekler": {
-                          "A": "Pay sahipliği haklarının korunması",
-                          "B": "Kupon ödemesi",
-                          "C": "İhraç limiti",
-                          "D": "Teminat tamamlama",
-                          "E": "Dış değerlendirme"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kanuna, esas sözleşmeye veya dürüstlük kuralına aykırı genel kurul kararlarına karşı dava açılabilir."
-                  },
-                  {
-                      "id": 16,
-                      "soruMetni": "Pay benzeri menkul kıymetler için aşağıdakilerden hangisi doğrudur?",
-                      "secenekler": {
-                          "A": "Sermayede temsil edilmesi zorunlu olmayan, sabit getiri taahhüdü barındırmayan ve pay sahipliği haklarından bazılarını veren kıymetlerdir.",
-                          "B": "Her zaman tahvil niteliğindedir.",
-                          "C": "Mutlaka sabit faiz öder.",
-                          "D": "Sadece kamu tarafından ihraç edilir.",
-                          "E": "Hiçbir ekonomik hak sağlamaz."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kitaptaki tanıma göre pay benzeri menkul kıymetler pay sahipliği haklarından birini veya bir kısmını verebilir ancak tam pay niteliği taşımayabilir."
-                  },
-                  {
-                      "id": 17,
-                      "soruMetni": "Katılma intifa senetleri hangi başlık altında değerlendirilir?",
-                      "secenekler": {
-                          "A": "Pay benzeri menkul kıymetler",
-                          "B": "Kamu borçlanma araçları",
-                          "C": "Vadeli işlem sözleşmeleri",
-                          "D": "Yatırım fonu içtüzüğü",
-                          "E": "Finansman bonosu"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Katılma intifa senetleri pay benzeri menkul kıymetler kapsamında ele alınır."
-                  },
-                  {
-                      "id": 18,
-                      "soruMetni": "Pay sahipliği hakkı ile alacak hakkı arasındaki temel ayrım nedir?",
-                      "secenekler": {
-                          "A": "Pay sahipliği ortaklık ilişkisi, alacak hakkı borç ilişkisi doğurur.",
-                          "B": "İkisi tamamen aynıdır.",
-                          "C": "Alacak hakkı her zaman oy hakkı verir.",
-                          "D": "Pay sahipliği vade sonunda anapara öder.",
-                          "E": "Pay sahipliği sadece kamuya aittir."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Pay, ortaklık hakkı; borçlanma aracı ise alacak hakkı verir."
-                  },
-                  {
-                      "id": 19,
-                      "soruMetni": "Payların sağladığı haklar genel olarak hangi iki ana grupta incelenir?",
-                      "secenekler": {
-                          "A": "Mali haklar ve yönetsel haklar",
-                          "B": "Kısa vadeli ve uzun vadeli borçlar",
-                          "C": "Spot ve vadeli işlemler",
-                          "D": "İç borç ve dış borç",
-                          "E": "Teminat ve marjin hakları"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Pay sahipliği hakları mali haklar ve yönetsel/idari haklar olarak sınıflandırılabilir."
-                  },
-                  {
-                      "id": 20,
-                      "soruMetni": "Bedelsiz pay alma hakkı hangi olayla ilişkilidir?",
-                      "secenekler": {
-                          "A": "İç kaynaklardan sermaye artırımı",
-                          "B": "Tahvil kupon ödemesi",
-                          "C": "Dış borçlanma",
-                          "D": "Vadeli işlem uzlaşması",
-                          "E": "Temerrüt faizi"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "İç kaynakların sermayeye eklenmesiyle pay sahiplerine payları oranında bedelsiz pay verilebilir."
-                  },
-                  {
-                      "id": 21,
-                      "soruMetni": "Pay bölünmesi işleminde genel olarak ne değişir?",
-                      "secenekler": {
-                          "A": "Pay sayısı ve birim nominal değer değişir; toplam sermaye tutarı değişmez.",
-                          "B": "Toplam sermaye zorunlu olarak iki katına çıkar.",
-                          "C": "Ortaklık tasfiye edilir.",
-                          "D": "Paylar tahvile dönüşür.",
-                          "E": "Bütün pay sahipliği hakları sona erer."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Pay bölünmesinde toplam sermaye sabit kalırken pay adedi ve birim nominal değer değişir."
-                  },
-                  {
-                      "id": 22,
-                      "soruMetni": "Pay sahibinin oy hakkı kural olarak hangi ölçüte bağlıdır?",
-                      "secenekler": {
-                          "A": "Sahip olunan payların itibari değeri veya pay oranı",
-                          "B": "Yatırımcının yaşı",
-                          "C": "Borsa işlem hacmi",
-                          "D": "Tahvil kupon oranı",
-                          "E": "Kredi derecelendirme notu"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Oy hakkı kural olarak payın sağladığı sermaye katılımı ile ilişkilidir."
-                  },
-                  {
-                      "id": 23,
-                      "soruMetni": "Pay sahipliği haklarından biri olan özel denetim talebi hangi amaca hizmet eder?",
-                      "secenekler": {
-                          "A": "Belirli olayların incelenmesi ve pay sahibinin bilgi ihtiyacının karşılanması",
-                          "B": "Pay fiyatının yükseltilmesi",
-                          "C": "Tahvilin erken itfası",
-                          "D": "Kamu borcunun çevrilmesi",
-                          "E": "Fon portföyünün değiştirilmesi"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Özel denetim, pay sahiplerinin belirli konularda daha ayrıntılı bilgi edinmesini sağlayan koruyucu mekanizmalardandır."
-                  },
-                  {
-                      "id": 24,
-                      "soruMetni": "Payların sermaye piyasası aracı olarak kaydi sistemde izlenmesi, kıymetli evrak yaklaşımından hangi yönüyle ayrılır?",
-                      "secenekler": {
-                          "A": "Hakların fiziki senet yerine elektronik kayıtla takip edilmesi yönüyle",
-                          "B": "Payların ortaklık hakkı vermemesi yönüyle",
-                          "C": "Payların her zaman faiz ödemesi yönüyle",
-                          "D": "Payların sadece kamu tarafından çıkarılması yönüyle",
-                          "E": "Payların vadesiz olmaması yönüyle"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Sermaye piyasası araçları kaydi sistemde izlenir; bu nedenle fiziki senet merkezli klasik kıymetli evrak mantığından ayrılır."
-                  },
-                  {
-                      "id": 25,
-                      "soruMetni": "Bölüm 1.1 kapsamında sınavda beklenen ana odak aşağıdakilerden hangisidir?",
-                      "secenekler": {
-                          "A": "Pay kavramı, pay türleri, pay sahipliği hakları ve pay benzeri menkul kıymetleri ayırt etmek",
-                          "B": "DİBS ihale yöntemlerini hesaplamak",
-                          "C": "Vadeli işlem teminatı hesaplamak",
-                          "D": "Fon portföy sınırlamalarını ezberlemek",
-                          "E": "Yeşil borçlanma raporlamasını analiz etmek"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kitabın 1.1 başlığı kavramsal çerçeveye, pay türlerine ve pay sahipliği haklarına odaklanır."
-                  }
-              ]
+            "id": 1,
+            "soruMetni": "Anonim ortaklık sermayesinin belirli ve eşit parçalara bölünmüş her bir kısmını temsil eden sermaye piyasası aracı hangisidir?",
+            "secenekler": {
+              "A": "Pay",
+              "B": "Tahvil",
+              "C": "Finansman bonosu",
+              "D": "Kira sertifikası",
+              "E": "Swap sözleşmesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Pay, anonim ortaklık sermayesinin belirli parçasını temsil eder ve sahibine ortaklık sıfatı kazandırır."
           },
           {
-              "testId": 100304,
-              "testAdi": "Bölüm 1.2: Pay Tebliği, Halka Açılma ve Sermaye İşlemleri",
-              "testTuru": "bolum",
-              "sorular": [
-                  {
-                      "id": 1,
-                      "soruMetni": "VII-128.1 sayılı Pay Tebliği temel olarak hangi alanı düzenler?",
-                      "secenekler": {
-                          "A": "Pay ihracı, halka arz, halka açılma, sermaye işlemleri ve paylara ilişkin ortak hükümler",
-                          "B": "Kamu borçlanma ihaleleri",
-                          "C": "Yatırım fonu portföy sınırlamaları",
-                          "D": "Vadeli işlem teminatları",
-                          "E": "Vergi cezaları"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Pay Tebliği payların ihracı, halka arzı ve halka açık ortaklıkların pay işlemlerine ilişkin esasları düzenler."
-                  },
-                  {
-                      "id": 2,
-                      "soruMetni": "Halka açık olmayan bir ortaklığın halka açık ortaklık statüsü kazanmasına ne ad verilir?",
-                      "secenekler": {
-                          "A": "Halka açılma",
-                          "B": "İtfa",
-                          "C": "Temerrüt",
-                          "D": "Değiştirme",
-                          "E": "Arbitraj"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kitaptaki örnek soruda da halka açık olmayan ortaklığın halka açık ortaklık statüsü kazanması “halka açılma” olarak tanımlanır."
-                  },
-                  {
-                      "id": 3,
-                      "soruMetni": "Payların halka arz edilebilmesi için yatırımcıya sunulan ve Kurulca onaylanan temel belge hangisidir?",
-                      "secenekler": {
-                          "A": "İzahname",
-                          "B": "Fon içtüzüğü",
-                          "C": "Genel kurul hazirun listesi",
-                          "D": "Teminat tamamlama formu",
-                          "E": "Vergi levhası"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Halka arzda yatırımcıların kararına esas bilgiler izahnamede açıklanır."
-                  },
-                  {
-                      "id": 4,
-                      "soruMetni": "Halka arzda mevcut ortakların sahip olduğu payların satılması hangi yöntemi ifade eder?",
-                      "secenekler": {
-                          "A": "Ortak satışı",
-                          "B": "Bedelsiz sermaye artırımı",
-                          "C": "Tahvil ihracı",
-                          "D": "Fon katılma payı satışı",
-                          "E": "Opsiyon primi tahsili"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Ortak satışı, mevcut ortaklara ait payların halka arz edilmesidir."
-                  },
-                  {
-                      "id": 5,
-                      "soruMetni": "Sermaye artırımı yoluyla halka arzın ortaklık açısından temel sonucu nedir?",
-                      "secenekler": {
-                          "A": "Ortaklığa yeni kaynak girişi sağlaması",
-                          "B": "Ortaklığı tasfiye etmesi",
-                          "C": "Payları tahvile dönüştürmesi",
-                          "D": "Yatırımcıların oy hakkını kaldırması",
-                          "E": "Borsada işlem görmeyi yasaklaması"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Yeni pay ihraç edilerek yapılan halka arzda satış geliri ortaklığa kaynak olarak girer."
-                  },
-                  {
-                      "id": 6,
-                      "soruMetni": "Ortak satışı ile sermaye artırımı yöntemlerinin birlikte kullanılması için hangisi doğrudur?",
-                      "secenekler": {
-                          "A": "Mevzuata uygun koşullar sağlandığında aynı halka arzda birlikte uygulanabilir.",
-                          "B": "Her durumda yasaktır.",
-                          "C": "Sadece kamu borçlanmasında mümkündür.",
-                          "D": "İzahname ihtiyacını ortadan kaldırır.",
-                          "E": "Pay sahipliği hakkını sona erdirir."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Halka açılmada mevcut pay satışı ve yeni pay ihracı birlikte kullanılabilir."
-                  },
-                  {
-                      "id": 7,
-                      "soruMetni": "Tahsisli satış yöntemi neyi ifade eder?",
-                      "secenekler": {
-                          "A": "Payların halka arz edilmeksizin önceden belirlenmiş kişilere satılmasını",
-                          "B": "Payların tüm yatırımcılara borsadan satılmasını",
-                          "C": "Payların kamu kurumlarına bedelsiz verilmesini",
-                          "D": "Payların vadeli işlem sözleşmesine bağlanmasını",
-                          "E": "Payların kar payı olarak dağıtılmasını"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Tahsisli satış, halka arz edilmeksizin belirli yatırımcılara yapılan satıştır."
-                  },
-                  {
-                      "id": 8,
-                      "soruMetni": "Nitelikli yatırımcıya satış yöntemi için hangisi doğrudur?",
-                      "secenekler": {
-                          "A": "Satış mevzuatta nitelikli yatırımcı olarak tanımlanan yatırımcılara yöneliktir.",
-                          "B": "Sadece küçük yatırımcılara yapılır.",
-                          "C": "Hiçbir açıklama yapılmaz.",
-                          "D": "Pay ortaklık hakkı sağlamaz.",
-                          "E": "Sadece kamu borçlanmasında kullanılır."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Nitelikli yatırımcıya satış, belirli nitelikleri taşıyan yatırımcılara yönelik satış yöntemidir."
-                  },
-                  {
-                      "id": 9,
-                      "soruMetni": "Halka arz fiyatının belirlenmesinde fiyat tespit raporunun işlevi nedir?",
-                      "secenekler": {
-                          "A": "Fiyatın hangi varsayım, yöntem ve finansal verilere göre belirlendiğini açıklamak",
-                          "B": "Pay fiyatının düşmeyeceğini garanti etmek",
-                          "C": "Ortaklığın tüm sırlarını açıklamak",
-                          "D": "Pay devrini yasaklamak",
-                          "E": "Fiziki senet basmak"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Fiyat tespit raporu halka arz fiyatının dayanaklarını yatırımcıya açıklar."
-                  },
-                  {
-                      "id": 10,
-                      "soruMetni": "Ek satışa konu payların ödünç alınmak suretiyle satışı hangi kavramla ifade edilir?",
-                      "secenekler": {
-                          "A": "Ödünç alımlı ek pay satışı",
-                          "B": "Katılma intifa senedi",
-                          "C": "Kayıtlı sermaye",
-                          "D": "İhraççı",
-                          "E": "Piyasa danışmanı"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kitaptaki örnek soruda bu kavram “ödünç alımlı ek pay satışı” olarak ölçülür."
-                  },
-                  {
-                      "id": 11,
-                      "soruMetni": "Ek satış hakkı hangi durumla daha çok ilişkilidir?",
-                      "secenekler": {
-                          "A": "Halka arzda beklenenden yüksek talep oluşması",
-                          "B": "Ortaklığın tasfiye edilmesi",
-                          "C": "Payların fiziki basılması",
-                          "D": "Fon katılma payı itfası",
-                          "E": "Borsada işlem yasağı"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Ek satış hakkı, yüksek talep halinde ilave pay satışına imkan veren halka arz mekanizmasıdır."
-                  },
-                  {
-                      "id": 12,
-                      "soruMetni": "Fiyat istikrarını sağlayıcı işlemlerin temel amacı nedir?",
-                      "secenekler": {
-                          "A": "Halka arz sonrası aşırı satış baskısını sınırlamak ve fiyat oluşumunu desteklemek",
-                          "B": "Pay fiyatını süresiz garanti etmek",
-                          "C": "Bütün payları zorunlu geri almak",
-                          "D": "Zararları kamu bütçesinden ödemek",
-                          "E": "Borsada işlem görmeyi yasaklamak"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Fiyat istikrarı işlemleri halka arz sonrası piyasa dengesini desteklemek için öngörülebilir; garanti niteliğinde değildir."
-                  },
-                  {
-                      "id": 13,
-                      "soruMetni": "Fiyat istikrarı işlemlerinde halka arz fiyatının üzerinde alım emri verilmemesi kuralının amacı nedir?",
-                      "secenekler": {
-                          "A": "İşlemin yapay fiyat yükseltme aracına dönüşmesini önlemek",
-                          "B": "Payların borsada işlem görmesini engellemek",
-                          "C": "Kar payı dağıtımını zorunlu kılmak",
-                          "D": "Fon portföyünü değiştirmek",
-                          "E": "Tahvil faizini düşürmek"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Fiyat istikrarı aşağı yönlü baskıyı sınırlamaya yöneliktir; fiyatı yapay biçimde yükseltmek için kullanılmaz."
-                  },
-                  {
-                      "id": 14,
-                      "soruMetni": "Fiyat istikrarı işlemlerinin izahnamede açıklanmasının nedeni nedir?",
-                      "secenekler": {
-                          "A": "Yatırımcıların süre, fon kaynağı, aracı kurum ve işlem koşulları hakkında bilgilendirilmesi",
-                          "B": "İşlemleri gizlemek",
-                          "C": "Fiyat garantisi vermek",
-                          "D": "Finansal raporlamayı kaldırmak",
-                          "E": "Pay satışını yasaklamak"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kamuyu aydınlatma gereği yatırımcı fiyat istikrarı işlemlerinin çerçevesini önceden bilmelidir."
-                  },
-                  {
-                      "id": 15,
-                      "soruMetni": "Bedelli sermaye artırımı neyi ifade eder?",
-                      "secenekler": {
-                          "A": "Nakit veya nakit benzeri kaynak girişi karşılığında yeni pay ihraç edilmesini",
-                          "B": "İç kaynakların sermayeye eklenmesini",
-                          "C": "Şirket borçlarının silinmesini",
-                          "D": "Yönetim süresinin uzatılmasını",
-                          "E": "Borsada işlem görmenin sona ermesini"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Bedelli sermaye artırımı ortaklığa dış kaynak girişi sağlayan sermaye artırımıdır."
-                  },
-                  {
-                      "id": 16,
-                      "soruMetni": "Bedelsiz sermaye artırımı için hangisi doğrudur?",
-                      "secenekler": {
-                          "A": "İç kaynakların sermayeye eklenmesiyle pay sahiplerine bedelsiz pay verilmesi söz konusudur.",
-                          "B": "Her zaman yeni nakit girişi sağlar.",
-                          "C": "Pay sahipliği sıfatını ortadan kaldırır.",
-                          "D": "Sadece borçlanma aracıyla yapılır.",
-                          "E": "Halka açık ortaklıklarda yapılamaz."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Bedelsiz artırımlarda iç kaynaklar sermayeye eklenir ve pay sahipleri payları oranında bedelsiz pay alır."
-                  },
-                  {
-                      "id": 17,
-                      "soruMetni": "Halka açık ortaklıkların sermaye artırımı fonlarını nerede kullanacağını açıklayan belge hangisidir?",
-                      "secenekler": {
-                          "A": "Fonun kullanım yeri raporu",
-                          "B": "Nüfus kayıt örneği",
-                          "C": "Kira makbuzu",
-                          "D": "Araç muayene formu",
-                          "E": "Personel izin çizelgesi"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Fonun kullanım yeri raporu, sermaye artırımı veya halka arzdan sağlanacak fonların kullanım amacını açıklar."
-                  },
-                  {
-                      "id": 18,
-                      "soruMetni": "Sermaye azaltımı hangi amaçla yapılabilir?",
-                      "secenekler": {
-                          "A": "Zararların sermaye ile dengelenmesi veya sermaye yapısının düzeltilmesi amacıyla",
-                          "B": "Bilgi alma hakkını kaldırmak amacıyla",
-                          "C": "İzahnameyi engellemek amacıyla",
-                          "D": "Tüm payları iptal etmek amacıyla",
-                          "E": "Ortaklığı derneğe çevirmek amacıyla"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Sermaye azaltımı bilanço zararlarının giderilmesi veya sermaye yapısının düzeltilmesi için kullanılabilir."
-                  },
-                  {
-                      "id": 19,
-                      "soruMetni": "Sermaye azaltımı ile eş anlı sermaye artırımı yapılmasının temel gerekçesi ne olabilir?",
-                      "secenekler": {
-                          "A": "Özkaynak yapısını düzeltirken ortaklığa yeni fon girişi sağlamak",
-                          "B": "Tüm payları vadeli işlem sözleşmesine çevirmek",
-                          "C": "Kamuyu aydınlatmayı kaldırmak",
-                          "D": "Genel kurula katılımı yasaklamak",
-                          "E": "Kaydi sistemi fiziki senede çevirmek"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Azaltım ve artırım birlikte kullanılarak bilanço yapısı iyileştirilip kaynak girişi sağlanabilir."
-                  },
-                  {
-                      "id": 20,
-                      "soruMetni": "Kayıtlı sermaye sistemi ne sağlar?",
-                      "secenekler": {
-                          "A": "Yönetim kuruluna kayıtlı sermaye tavanı içinde sermaye artırımı yapabilme imkanı",
-                          "B": "Sınırsız ve koşulsuz sermaye artırımı",
-                          "C": "Tüm mali hakların kaldırılması",
-                          "D": "Her sermaye artırımının mahkeme kararına bağlanması",
-                          "E": "Sadece kamu şirketlerinde uygulama"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kayıtlı sermaye sisteminde yönetim kurulu belirlenen tavan içinde daha hızlı sermaye artırımı yapabilir."
-                  },
-                  {
-                      "id": 21,
-                      "soruMetni": "Kayıtlı sermaye tavanı neyi ifade eder?",
-                      "secenekler": {
-                          "A": "Yönetim kurulunun sermaye artırımı yapabileceği azami sermaye tutarını",
-                          "B": "Ortaklığın piyasa değerini",
-                          "C": "Payların günlük en yüksek fiyatını",
-                          "D": "Alınabilecek en yüksek kar payını",
-                          "E": "Borçlanma araçlarının vade sınırını"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kayıtlı sermaye tavanı yönetim kurulunun yetki alanındaki üst sınırı gösterir."
-                  },
-                  {
-                      "id": 22,
-                      "soruMetni": "Çıkarılmış sermaye kavramı neyi anlatır?",
-                      "secenekler": {
-                          "A": "Kayıtlı sermaye sisteminde fiilen çıkarılmış ve ödenmiş sermayeyi",
-                          "B": "Payların borsadaki son fiyatını",
-                          "C": "Gelecek yıl satış hasılatını",
-                          "D": "Tahvillerin kupon faizini",
-                          "E": "Yatırım fonu portföy değerini"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Çıkarılmış sermaye fiilen ihraç edilmiş payların temsil ettiği sermaye tutarıdır."
-                  },
-                  {
-                      "id": 23,
-                      "soruMetni": "Payların borsada işlem gören niteliğe dönüştürülmesi neyi ifade eder?",
-                      "secenekler": {
-                          "A": "Borsada işlem görmeyen nitelikteki payların mevzuat prosedürüyle borsada işlem görebilir hale getirilmesini",
-                          "B": "Payların tahvile çevrilmesini",
-                          "C": "Ortaklık borçlarının pay sahibine devrini",
-                          "D": "Payların sadece fiziki saklanmasını",
-                          "E": "Yatırımcının payını satamamasını"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Borsada işlem gören niteliğe dönüşüm payların borsada işlem görebilmesi için gereken süreçtir."
-                  },
-                  {
-                      "id": 24,
-                      "soruMetni": "Girişim Sermayesi Pazarı düzenlemelerinin temel amacı nedir?",
-                      "secenekler": {
-                          "A": "Belirli büyüme şirketlerinin sermaye piyasasından fon sağlamasına imkan tanımak",
-                          "B": "Tüm halka açık ortaklıkları borsadan çıkarmak",
-                          "C": "Kar payı hakkını kaldırmak",
-                          "D": "Sadece kamu borçlanmasını düzenlemek",
-                          "E": "Vadeli işlem takasını yapmak"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Girişim Sermayesi Pazarı büyüme potansiyeli taşıyan ortaklıkların sermaye piyasasına erişimini destekler."
-                  },
-                  {
-                      "id": 25,
-                      "soruMetni": "Bölüm 1.2 kapsamında sınavda beklenen ana odak hangisidir?",
-                      "secenekler": {
-                          "A": "Pay Tebliği, halka açılma, halka arz yöntemleri, sermaye işlemleri, fiyat istikrarı ve kamuyu aydınlatma ilişkisini bilmek",
-                          "B": "Sadece payın ortaklık hakkı olduğunu bilmek",
-                          "C": "DİBS ihale yöntemlerini hesaplamak",
-                          "D": "Vadeli işlem teminatı hesaplamak",
-                          "E": "Fon portföy sınırlamalarını ezberlemek"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kitabın 1.2 başlığı Pay Tebliği ve halka arz/sermaye işlemleri gibi düzenleyici konulara odaklanır."
-                  }
-              ]
+            "id": 2,
+            "soruMetni": "Pay sahibinin ortaklık kârından payına düşen tutarı alma hakkı hangi hak grubuna girer?",
+            "secenekler": {
+              "A": "Mali haklar",
+              "B": "Disiplin hakları",
+              "C": "Kamu gücü hakları",
+              "D": "Saklama hakları",
+              "E": "Vergi tarh hakları"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kar payı alma hakkı pay sahibinin temel mali haklarındandır."
           },
           {
-              "testId": 100302,
-              "testAdi": "Bölüm 2.1: Borçlanma Araçları - Kavramsal Çerçeve ve Genel Esaslar",
-              "testTuru": "bolum",
-              "sorular": [
-                  {
-                      "id": 1,
-                      "soruMetni": "Borçlanma araçları ihraççı açısından temel olarak hangi ihtiyacı karşılar?",
-                      "secenekler": {
-                          "A": "Ortaklık hakkı vermeden fon sağlama ihtiyacını",
-                          "B": "Yönetim kurulunu kaldırma ihtiyacını",
-                          "C": "Pay sahiplerinin haklarını silme ihtiyacını",
-                          "D": "Şirketi tasfiye etme ihtiyacını",
-                          "E": "Borsada işlem görmeyi yasaklama ihtiyacını"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Borçlanma araçları ihraççıya, yatırımcıya ortaklık hakkı vermeden borçlanma yoluyla kaynak sağlama imkanı verir."
-                  },
-                  {
-                      "id": 2,
-                      "soruMetni": "Borçlanma aracı yatırımcısı ihraççı karşısında hangi hukuki konumdadır?",
-                      "secenekler": {
-                          "A": "Borçlu",
-                          "B": "Alacaklı",
-                          "C": "Yönetim kurulu üyesi",
-                          "D": "Kurucu ortak",
-                          "E": "Genel kurul başkanı"
-                      },
-                      "dogruCevap": "B",
-                      "cozum": "Borçlanma aracı sahibi, ihraççıya fon sağlayan ve ihraç koşullarına göre ödeme talep eden alacaklıdır."
-                  },
-                  {
-                      "id": 3,
-                      "soruMetni": "Pay ile borçlanma aracı arasındaki temel fark aşağıdakilerden hangisidir?",
-                      "secenekler": {
-                          "A": "Pay ortaklık hakkı, borçlanma aracı alacak hakkı sağlar.",
-                          "B": "Pay her zaman vadeli, borçlanma aracı her zaman vadesizdir.",
-                          "C": "Borçlanma aracı mutlaka oy hakkı verir.",
-                          "D": "Pay faiz öder, borçlanma aracı kar payı öder.",
-                          "E": "İkisi arasında hukuki fark yoktur."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Pay sahibine ortaklık hakları verir; borçlanma aracı ise ihraççıya karşı alacak hakkı doğurur."
-                  },
-                  {
-                      "id": 4,
-                      "soruMetni": "Kıymetli evrak kavramı için aşağıdakilerden hangisi doğrudur?",
-                      "secenekler": {
-                          "A": "Hak ile senet arasında sıkı bağ bulunan senetlerdir.",
-                          "B": "Sadece e-posta ile gönderilen belgelerdir.",
-                          "C": "Her zaman ortaklık payıdır.",
-                          "D": "Sadece kamu kurumlarınca düzenlenir.",
-                          "E": "Hiçbir malvarlığı hakkı içermez."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kıymetli evrakta hak senede bağlıdır; hakkın devri ve ileri sürülmesi senet üzerindeki şekil kurallarıyla ilişkilidir."
-                  },
-                  {
-                      "id": 5,
-                      "soruMetni": "Menkul kıymet kavramı bakımından aşağıdakilerden hangisi daha doğru bir ifadedir?",
-                      "secenekler": {
-                          "A": "Piyasada tedavül edebilen ve yatırım amacıyla ihraç edilebilen sermaye piyasası aracıdır.",
-                          "B": "Sadece taşınmaz malları temsil eder.",
-                          "C": "Mutlaka yönetim hakkı verir.",
-                          "D": "Sadece kısa vadeli banka kredisidir.",
-                          "E": "Her zaman fiziki senet basılması zorunludur."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Menkul kıymetler yatırım amacıyla ihraç edilen ve piyasada el değiştirebilen sermaye piyasası araçlarıdır."
-                  },
-                  {
-                      "id": 6,
-                      "soruMetni": "Aşağıdakilerden hangisi borçlanma araçlarına örnek gösterilebilir?",
-                      "secenekler": {
-                          "A": "Tahvil",
-                          "B": "Adi ortaklık sözleşmesi",
-                          "C": "Kira kontratı",
-                          "D": "Personel bordrosu",
-                          "E": "Genel kurul tutanağı"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Tahvil, ihraççının borçlanmasını temsil eden klasik borçlanma araçlarından biridir."
-                  },
-                  {
-                      "id": 7,
-                      "soruMetni": "Tahvil sahibinin ihraççıdan temel beklentisi aşağıdakilerden hangisidir?",
-                      "secenekler": {
-                          "A": "Vade sonunda anapara ve varsa dönemsel getiri/faiz ödemesi almak",
-                          "B": "Yönetim kuruluna doğrudan atanmak",
-                          "C": "İhraççının tüm karına ortak olmak",
-                          "D": "Tasfiye kararını tek başına vermek",
-                          "E": "Payların nominal değerini belirlemek"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Tahvil sahibi ortak değil alacaklıdır; temel beklentisi ihraç koşullarına göre anapara ve getiri ödemesidir."
-                  },
-                  {
-                      "id": 8,
-                      "soruMetni": "Borçlanma araçlarının halka arzında yatırımcıların bilgilendirilmesinde kullanılan temel belge hangisidir?",
-                      "secenekler": {
-                          "A": "İzahname",
-                          "B": "Nüfus kayıt örneği",
-                          "C": "Araç ruhsatı",
-                          "D": "Personel izin formu",
-                          "E": "Kira makbuzu"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Halka arz edilen sermaye piyasası araçları için yatırımcıların kararına esas bilgiler izahnamede yer alır."
-                  },
-                  {
-                      "id": 9,
-                      "soruMetni": "Borçlanma araçlarının nitelikli yatırımcıya satışı için hangisi doğrudur?",
-                      "secenekler": {
-                          "A": "Satış mevzuatta nitelikli yatırımcı olarak tanımlanan yatırımcılara yöneliktir.",
-                          "B": "Satış mutlaka tüm halka açık çağrı ile yapılır.",
-                          "C": "Satış sadece çalışanlara bedelsiz yapılır.",
-                          "D": "Satış borçlanma niteliğini ortadan kaldırır.",
-                          "E": "Satışta ihraççı borçlu olmaz."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Nitelikli yatırımcıya satış, belirli nitelikteki yatırımcı kitlesine yönelik satış yöntemidir."
-                  },
-                  {
-                      "id": 10,
-                      "soruMetni": "Borçlanma araçlarında vade kavramı neyi ifade eder?",
-                      "secenekler": {
-                          "A": "İhraççının borcunu geri ödeme tarihini veya dönemini",
-                          "B": "Pay sahibinin oy kullanma süresini",
-                          "C": "Şirket unvanının geçerlilik süresini",
-                          "D": "Borsa işlem saatinin başlangıcını",
-                          "E": "Yatırımcının vergi numarasını"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Vade, anapara ve/veya getiri ödemesinin hangi zamanda yapılacağını gösterir."
-                  },
-                  {
-                      "id": 11,
-                      "soruMetni": "Borçlanma aracında kupon ödemesi neyi ifade eder?",
-                      "secenekler": {
-                          "A": "Belirli dönemlerde yatırımcıya yapılan faiz/getiri ödemesini",
-                          "B": "Pay sahibine verilen oy pusulasını",
-                          "C": "Borsa üyelik belgesini",
-                          "D": "Halka arz reklam afişini",
-                          "E": "Şirket kuruluş sözleşmesini"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kupon ödemesi, ihraç koşullarına göre belirli dönemlerde yatırımcıya ödenen getiridir."
-                  },
-                  {
-                      "id": 12,
-                      "soruMetni": "İskontolu borçlanma aracı ihracı ne anlama gelir?",
-                      "secenekler": {
-                          "A": "Nominal değerin altında satılıp vade sonunda nominal değer üzerinden geri ödenmesi",
-                          "B": "Nominal değerin üstünde satılıp hiç geri ödenmemesi",
-                          "C": "Yatırımcıya oy hakkı verilmesi",
-                          "D": "Payların bedelsiz dağıtılması",
-                          "E": "Sadece kira sertifikası çıkarılması"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "İskontolu ihraçta getiri, alış fiyatı ile vade sonu ödeme tutarı arasındaki farktan doğar."
-                  },
-                  {
-                      "id": 13,
-                      "soruMetni": "Borçlanma araçlarının kayden ihracı neyi ifade eder?",
-                      "secenekler": {
-                          "A": "Araçların fiziki senet yerine elektronik kayıtlar üzerinden izlenmesini",
-                          "B": "Araçların sadece sözlü beyanla satılmasını",
-                          "C": "Araçların paya dönüşmesini",
-                          "D": "Araçların vadesiz hale gelmesini",
-                          "E": "Araçların kar payı hakkı vermesini"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Sermaye piyasası araçlarında kaydi sistem esastır; haklar elektronik kayıtlar üzerinden izlenir."
-                  },
-                  {
-                      "id": 14,
-                      "soruMetni": "Borçlanma araçlarında ihraççı riski nedir?",
-                      "secenekler": {
-                          "A": "İhraççının anapara veya getiri ödemelerini zamanında yerine getirememe riski",
-                          "B": "Yatırımcının genel kurula katılamama riski",
-                          "C": "Payların oy hakkının artması riski",
-                          "D": "Borsanın tatil olması riski",
-                          "E": "Vergi levhasının kaybolması riski"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Borçlanma aracı yatırımcısı için temel risklerden biri ihraççının ödeme yükümlülüklerini yerine getirememesidir."
-                  },
-                  {
-                      "id": 15,
-                      "soruMetni": "Piyasa faizleri yükseldiğinde sabit faizli borçlanma aracının piyasa fiyatı için genel beklenti nedir?",
-                      "secenekler": {
-                          "A": "Fiyatın düşmesi",
-                          "B": "Fiyatın aynı kalması",
-                          "C": "Fiyatın iki katına çıkması",
-                          "D": "Fiyatın hukuken sıfırlanması",
-                          "E": "Fiyatın vergi dairesince belirlenmesi"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Sabit faizli borçlanma araçlarında piyasa faizleri yükseldiğinde mevcut aracın fiyatı genellikle düşer."
-                  },
-                  {
-                      "id": 16,
-                      "soruMetni": "Borçlanma araçlarında likidite riski aşağıdakilerden hangisidir?",
-                      "secenekler": {
-                          "A": "Aracın istenilen zamanda makul fiyattan nakde çevrilememesi riski",
-                          "B": "İhraççının ortak sayısının artması",
-                          "C": "Pay sahiplerinin oy kullanması",
-                          "D": "Genel kurulun ertelenmesi",
-                          "E": "Şirket adresinin değişmesi"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Likidite riski, yatırımcının borçlanma aracını ihtiyaç duyduğu anda uygun fiyatla satamaması ihtimalidir."
-                  },
-                  {
-                      "id": 17,
-                      "soruMetni": "Borçlanma aracı sahiplerinin alacaklı olması hangi sonucu doğurur?",
-                      "secenekler": {
-                          "A": "İhraççıdan ihraç koşullarına uygun ödeme talep edebilirler.",
-                          "B": "Şirketin günlük yönetim kararlarını alırlar.",
-                          "C": "Genel kurulda imtiyazlı oy kullanırlar.",
-                          "D": "Ortaklık karının tamamına sahip olurlar.",
-                          "E": "Esas sözleşmeyi tek başına değiştirirler."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Borçlanma aracı sahibi yönetim hakkına değil, ihraç koşullarından doğan alacak hakkına sahiptir."
-                  },
-                  {
-                      "id": 18,
-                      "soruMetni": "Borçlanma araçlarının paylardan ayrılan yönü aşağıdakilerden hangisidir?",
-                      "secenekler": {
-                          "A": "Yatırımcıya ortaklık sıfatı kazandırmaması",
-                          "B": "Her zaman oy hakkı vermesi",
-                          "C": "Her zaman kar payı dağıtması",
-                          "D": "Vadesiz ve geri ödemesiz olması",
-                          "E": "Sadece fiziki teslimle devredilmesi"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Borçlanma araçları yatırımcıyı ortak değil alacaklı yapar."
-                  },
-                  {
-                      "id": 19,
-                      "soruMetni": "Kurulun borçlanma aracı ihracında belge onayı ne anlama gelir?",
-                      "secenekler": {
-                          "A": "Belgenin mevzuata uygunluğunun incelenmesi",
-                          "B": "Yatırımın kazanç sağlayacağının garanti edilmesi",
-                          "C": "İhraççının tüm borçlarının üstlenilmesi",
-                          "D": "Yatırımcı adına alım kararı verilmesi",
-                          "E": "Piyasa fiyatının sabitlenmesi"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kurul onayı yatırım getirisi veya ihraççının ödeme gücü garantisi değildir."
-                  },
-                  {
-                      "id": 20,
-                      "soruMetni": "Borçlanma araçlarında anapara koruması nasıl değerlendirilmelidir?",
-                      "secenekler": {
-                          "A": "İhraç koşullarına ve ihraççının ödeme gücüne bağlıdır; risksiz kabul edilemez.",
-                          "B": "Her zaman devlet garantisi anlamına gelir.",
-                          "C": "Yatırımcıya ortaklık hakkı verir.",
-                          "D": "Pay fiyatını artırır.",
-                          "E": "Vade kavramını ortadan kaldırır."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Borçlanma aracı alacak hakkı doğursa da geri ödeme ihraççının ödeme gücü ve ihraç koşullarına bağlıdır."
-                  },
-                  {
-                      "id": 21,
-                      "soruMetni": "Borçlanma aracı ihraç limitlerinin temel amacı nedir?",
-                      "secenekler": {
-                          "A": "İhraççının mali yapısıyla uyumlu borçlanma çerçevesi oluşturmak",
-                          "B": "Bütün ihraçları sınırsız hale getirmek",
-                          "C": "Pay sahiplerinin oy hakkını kaldırmak",
-                          "D": "Yatırımcıların alım yapmasını engellemek",
-                          "E": "Borçlanma aracını paya çevirmek"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "İhraç limitleri, ihraççının mevzuat çerçevesinde yapabileceği borçlanma tutarını sınırlar."
-                  },
-                  {
-                      "id": 22,
-                      "soruMetni": "Borçlanma araçlarında temerrüt kavramı neyle ilgilidir?",
-                      "secenekler": {
-                          "A": "İhraççının ödeme yükümlülüğünü zamanında yerine getirememesiyle",
-                          "B": "Pay sahibinin genel kurula katılmasıyla",
-                          "C": "Borsada işlem saatinin başlamasıyla",
-                          "D": "Halka arz ilanının tasarımıyla",
-                          "E": "Şirket logosunun değiştirilmesiyle"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Temerrüt, borçlunun vadesi gelen ödeme yükümlülüğünü zamanında yerine getirememesidir."
-                  },
-                  {
-                      "id": 23,
-                      "soruMetni": "Borçlanma araçlarının yatırımcı açısından avantajlarından biri nedir?",
-                      "secenekler": {
-                          "A": "İhraç koşulları çerçevesinde öngörülebilir nakit akışı sağlayabilmesi",
-                          "B": "Her zaman sınırsız oy hakkı vermesi",
-                          "C": "Riski tamamen ortadan kaldırması",
-                          "D": "Şirket yönetimini yatırımcıya devretmesi",
-                          "E": "Her zaman vergiden muaf olması"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kuponlu veya vadeli ödeme yapısı, öngörülebilir nakit akışı arayan yatırımcılar için önemlidir."
-                  },
-                  {
-                      "id": 24,
-                      "soruMetni": "Borçlanma araçlarında erken itfa kavramı neyi ifade eder?",
-                      "secenekler": {
-                          "A": "Aracın vadesinden önce geri ödenebilmesini",
-                          "B": "Aracın hiçbir zaman ödenmemesini",
-                          "C": "Pay sahiplerine bedelsiz pay verilmesini",
-                          "D": "Yatırımcıya oy hakkı tanınmasını",
-                          "E": "Borsada işlem görmenin yasaklanmasını"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Erken itfa, ihraç koşullarında öngörülmüşse borçlanma aracının vadesinden önce geri ödenmesidir."
-                  },
-                  {
-                      "id": 25,
-                      "soruMetni": "Borçlanma araçlarının genel mantığında hangi eşleştirme doğrudur?",
-                      "secenekler": {
-                          "A": "Tahvil - alacak hakkı; vade - geri ödeme zamanı; kupon - dönemsel getiri",
-                          "B": "Tahvil - ortaklık hakkı; vade - oy kullanma süresi; kupon - genel kurul daveti",
-                          "C": "Tahvil - pay senedi; vade - şirket unvanı; kupon - vergi levhası",
-                          "D": "Tahvil - kira sözleşmesi; vade - personel izni; kupon - araç ruhsatı",
-                          "E": "Tahvil - yatırım fonu; vade - portföy sınırlaması; kupon - fon içtüzüğü"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Tahvil alacak hakkı doğurur; vade ödeme zamanını, kupon dönemsel getiriyi ifade eder."
-                  }
-              ]
+            "id": 3,
+            "soruMetni": "Aşağıdakilerden hangisi pay sahibinin yönetsel haklarından biridir?",
+            "secenekler": {
+              "A": "Genel kurula katılma ve oy kullanma hakkı",
+              "B": "Kupon faizi alma hakkı",
+              "C": "Vade sonunda anapara alma hakkı",
+              "D": "Kira geliri garantisi",
+              "E": "Teminat tamamlama çağrısı yapma hakkı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Genel kurula katılma, oy kullanma, bilgi alma ve inceleme hakları yönetsel haklar arasında yer alır."
           },
           {
-              "testId": 100303,
-              "testAdi": "Bölüm 2.2: Borçlanma Araçları Tebliği, Türler ve Yeşil Borçlanma Araçları",
-              "testTuru": "bolum",
-              "sorular": [
-                  {
-                      "id": 1,
-                      "soruMetni": "Borçlanma Araçları Tebliği genel olarak hangi konuyu düzenler?",
-                      "secenekler": {
-                          "A": "Borçlanma araçlarının ihraç ve satış esaslarını",
-                          "B": "Anonim ortaklıklarda oy hakkı sınırlamalarını",
-                          "C": "Yatırım fonlarının portföy dağılımını",
-                          "D": "Vadeli işlem piyasasında teminat çağrılarını",
-                          "E": "Vergi cezası hesaplamalarını"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Tebliğ, borçlanma araçlarının ihracı, satışı ve türlerine ilişkin sermaye piyasası esaslarını düzenler."
-                  },
-                  {
-                      "id": 2,
-                      "soruMetni": "Tahvil için aşağıdakilerden hangisi doğrudur?",
-                      "secenekler": {
-                          "A": "İhraççının borçlu, yatırımcının alacaklı olduğu borçlanma aracıdır.",
-                          "B": "Yatırımcıya her zaman yönetim kurulu üyeliği verir.",
-                          "C": "Ortaklık payı niteliğindedir.",
-                          "D": "Vadesi ve ödeme koşulu bulunamaz.",
-                          "E": "Sadece fiziki altın olarak ihraç edilir."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Tahvil, ihraççının borçlanmasını temsil eder ve yatırımcıya alacak hakkı sağlar."
-                  },
-                  {
-                      "id": 3,
-                      "soruMetni": "Finansman bonosu hangi amaçla daha çok ilişkilidir?",
-                      "secenekler": {
-                          "A": "Kısa vadeli borçlanma ihtiyacının sermaye piyasası yoluyla karşılanması",
-                          "B": "Pay sahibine imtiyazlı oy verilmesi",
-                          "C": "Yatırım fonu içtüzüğünün değiştirilmesi",
-                          "D": "Şirketin tasfiye edilmesi",
-                          "E": "Vadeli işlem sözleşmesi teminatı"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Finansman bonosu, kısa vadeli fon ihtiyacını karşılamaya yönelik borçlanma araçlarındandır."
-                  },
-                  {
-                      "id": 4,
-                      "soruMetni": "Paya dönüştürülebilir tahvilin ayırt edici özelliği nedir?",
-                      "secenekler": {
-                          "A": "Belirli koşullarla ihraççı ortaklık paylarına dönüştürülebilmesi",
-                          "B": "Hiçbir zaman geri ödenmemesi",
-                          "C": "Sadece kamu kurumlarınca çıkarılması",
-                          "D": "Otomatik yönetim kurulu üyeliği vermesi",
-                          "E": "Her zaman vadesiz olması"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Paya dönüştürülebilir tahvil, belirli koşullarda ihraççı paylarına dönüşme imkanı verir."
-                  },
-                  {
-                      "id": 5,
-                      "soruMetni": "Değiştirilebilir tahvilin temel özelliği nedir?",
-                      "secenekler": {
-                          "A": "Belirlenen başka bir ortaklık payıyla değiştirilebilmesi",
-                          "B": "Mutlaka devlet tahvili olması",
-                          "C": "Sermaye piyasası aracı sayılmaması",
-                          "D": "Her zaman bedelsiz pay vermesi",
-                          "E": "Sadece çalışanlara satılması"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Değiştirilebilir tahvil, ihraççı dışındaki bir ortaklığın payları ile değiştirilme hakkı içerebilir."
-                  },
-                  {
-                      "id": 6,
-                      "soruMetni": "Kıymetli maden bonoları hangi varlık türüyle ilişkilidir?",
-                      "secenekler": {
-                          "A": "Altın, gümüş gibi kıymetli madenlerle",
-                          "B": "Sadece gayrimenkullerle",
-                          "C": "Sadece tarım ürünleriyle",
-                          "D": "Yönetim kurulu kararlarıyla",
-                          "E": "Personel alacaklarıyla"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Kıymetli maden bonoları kıymetli maden finansmanıyla ilişkili borçlanma araçlarıdır."
-                  },
-                  {
-                      "id": 7,
-                      "soruMetni": "Borçlanma aracı sahipleri kurulu hangi ihtiyaca cevap verir?",
-                      "secenekler": {
-                          "A": "Borçlanma aracı sahiplerinin ortak menfaatlerde kolektif hareket edebilmesine",
-                          "B": "Pay sahiplerinin kar payını dağıtmasına",
-                          "C": "Yönetim kurulunu seçmesine",
-                          "D": "Borsa fiyatını sabitlemesine",
-                          "E": "Fon portföyünü yönetmesine"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Bu kurul yatırımcıların ortak haklarını korumaya yönelik kolektif karar mekanizmasıdır."
-                  },
-                  {
-                      "id": 8,
-                      "soruMetni": "Borçlanma aracı sahipleri temsilcisi hangi amaçla ilişkilidir?",
-                      "secenekler": {
-                          "A": "Yatırımcıların ortak hak ve menfaatlerinin izlenmesi ve temsil edilmesi",
-                          "B": "Ortaklığın tüm paylarının satın alınması",
-                          "C": "Pay fiyatının günlük belirlenmesi",
-                          "D": "Vergi tarhiyatının yapılması",
-                          "E": "Fon içtüzüğünün yazılması"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Temsilci, borçlanma aracı sahiplerinin ortak menfaatlerini izlemek için öngörülebilir."
-                  },
-                  {
-                      "id": 9,
-                      "soruMetni": "Yeşil borçlanma araçlarının temel özelliği nedir?",
-                      "secenekler": {
-                          "A": "Fonların çevresel fayda sağlayan yeşil projelerde kullanılmasının amaçlanması",
-                          "B": "Her zaman paya dönüşmesi",
-                          "C": "Sınırsız oy hakkı vermesi",
-                          "D": "Sadece kısa vadeli mevduat olması",
-                          "E": "Kamuyu aydınlatma gerektirmemesi"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Yeşil borçlanma araçları çevresel sürdürülebilirlik amaçlı projelerin finansmanıyla öne çıkar."
-                  },
-                  {
-                      "id": 10,
-                      "soruMetni": "Sürdürülebilir borçlanma araçları için hangisi doğrudur?",
-                      "secenekler": {
-                          "A": "Çevresel ve/veya sosyal hedeflere yönelik projelerin finansmanında kullanılabilir.",
-                          "B": "Sadece genel kurul davetiyesidir.",
-                          "C": "Borçlanma aracı niteliği taşımaz.",
-                          "D": "Her zaman oy hakkı verir.",
-                          "E": "Hiçbir açıklama gerektirmez."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Sürdürülebilir borçlanma araçları çevresel ve sosyal hedeflerle uyumlu projelerin finansmanına yönelik olabilir."
-                  },
-                  {
-                      "id": 11,
-                      "soruMetni": "Yeşil borçlanma aracı ihracında fon kullanım açıklaması neden önemlidir?",
-                      "secenekler": {
-                          "A": "Fonların gerçekten yeşil/sürdürülebilir projelere yönelip yönelmediğinin izlenebilmesi için",
-                          "B": "Pay sahiplerinin oy hakkını kaldırmak için",
-                          "C": "Tahvilin otomatik paya dönüşmesi için",
-                          "D": "Piyasa fiyatını sabitlemek için",
-                          "E": "Yatırımcıların alımını yasaklamak için"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Fon kullanımının açıklanması sürdürülebilirlik iddiasının izlenmesi açısından önemlidir."
-                  },
-                  {
-                      "id": 12,
-                      "soruMetni": "Dış değerlendirme görüşü yeşil borçlanma araçlarında ne işe yarar?",
-                      "secenekler": {
-                          "A": "İhraç çerçevesinin yeşil/sürdürülebilir finansman ilkeleriyle uyumunu değerlendirmek",
-                          "B": "Yatırımcıya kar garantisi vermek",
-                          "C": "İhraççının borçlarını üstlenmek",
-                          "D": "Payları borsadan çıkarmak",
-                          "E": "Vergi oranını belirlemek"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Dış değerlendirme, ihraç çerçevesinin sürdürülebilirlik standartlarıyla uyumuna ilişkin bağımsız görüş sağlar."
-                  },
-                  {
-                      "id": 13,
-                      "soruMetni": "Borçlanma araçlarında tertip kavramı neyle ilgilidir?",
-                      "secenekler": {
-                          "A": "Aynı ihraç koşullarına sahip araçların gruplandırılmasıyla",
-                          "B": "Pay sahiplerinin oy sayısıyla",
-                          "C": "Çalışan izin sırasıyla",
-                          "D": "Borsa emir tipleriyle",
-                          "E": "Vergi beyannamesiyle"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Tertip, benzer ihraç koşullarını taşıyan borçlanma araçlarının ayırt edilmesini sağlar."
-                  },
-                  {
-                      "id": 14,
-                      "soruMetni": "Borçlanma araçlarının halka arz edilmeksizin satışı hangisini kapsayabilir?",
-                      "secenekler": {
-                          "A": "Tahsisli satış veya nitelikli yatırımcıya satış",
-                          "B": "Zorunlu genel kurul satışı",
-                          "C": "Sadece bedelsiz pay dağıtımı",
-                          "D": "Ortaklık tasfiyesi",
-                          "E": "Vadeli işlem uzlaşması"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Borçlanma araçları halka arz edilmeksizin tahsisli veya nitelikli yatırımcılara satılabilir."
-                  },
-                  {
-                      "id": 15,
-                      "soruMetni": "Borçlanma araçları ihraç belgesi hangi işlevi görür?",
-                      "secenekler": {
-                          "A": "Halka arz edilmeyen ihraçlarda ihraç koşullarını ve temel bilgileri gösterir.",
-                          "B": "Yatırımcıya kar payı ve oy hakkı verir.",
-                          "C": "Şirketin vergi levhası yerine geçer.",
-                          "D": "Borsada işlem görmeyi yasaklar.",
-                          "E": "Pay devrini otomatik yapar."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "İhraç belgesi halka arz edilmeyen ihraçlarda temel ihraç bilgilerini içerir."
-                  },
-                  {
-                      "id": 16,
-                      "soruMetni": "Teminatlı borçlanma aracı ihracı genel olarak neyi anlatır?",
-                      "secenekler": {
-                          "A": "Yükümlülüklerin belirli teminatlarla desteklenmesini",
-                          "B": "Yatırımcıya sınırsız oy hakkı verilmesini",
-                          "C": "Payların bedelsiz dağıtılmasını",
-                          "D": "Halka arzın gizli yapılmasını",
-                          "E": "Vadenin ortadan kaldırılmasını"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Teminatlı ihraçlarda yatırımcı alacağı belirli teminat mekanizmalarıyla desteklenebilir."
-                  },
-                  {
-                      "id": 17,
-                      "soruMetni": "Derecelendirme notu yatırımcıya ne sağlar?",
-                      "secenekler": {
-                          "A": "İhraççının veya aracın kredi riskine ilişkin değerlendirme göstergesi",
-                          "B": "Kesin kazanç garantisi",
-                          "C": "Yönetim kuruluna atanma hakkı",
-                          "D": "Vergi borcundan muafiyet",
-                          "E": "Payların nominal değerini belirleme yetkisi"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Derecelendirme notu kredi riski hakkında görüş sağlar; riski tamamen ortadan kaldırmaz."
-                  },
-                  {
-                      "id": 18,
-                      "soruMetni": "Değişken faizli borçlanma aracı neyi ifade eder?",
-                      "secenekler": {
-                          "A": "Getirinin referans oran veya formüle göre dönemsel değişebilmesini",
-                          "B": "Getirinin hiçbir zaman ödenmemesini",
-                          "C": "Pay sahiplerine oy hakkı verilmesini",
-                          "D": "Sadece bedelsiz pay dağıtılmasını",
-                          "E": "Aracın vadeli işlem sözleşmesi olmasını"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Değişken faizli araçlarda kupon/getiri belirlenen referans oran veya formüle göre değişebilir."
-                  },
-                  {
-                      "id": 19,
-                      "soruMetni": "Sabit faizli borçlanma aracı için hangisi doğrudur?",
-                      "secenekler": {
-                          "A": "Getiri oranı ihraç koşullarında önceden belirlenir.",
-                          "B": "Getiri oranı her zaman pay fiyatına eşittir.",
-                          "C": "Yatırımcıya yönetim hakkı verir.",
-                          "D": "Vade sonunda hiçbir ödeme yapılmaz.",
-                          "E": "Sadece yeşil projeler için kullanılabilir."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Sabit faizli araçlarda kupon oranı ihraç koşullarında baştan belirlenir."
-                  },
-                  {
-                      "id": 20,
-                      "soruMetni": "İtfa planı neden önemlidir?",
-                      "secenekler": {
-                          "A": "Anapara ve getiri ödemelerinin zamanlamasını gösterir.",
-                          "B": "Genel kurul gündemini belirler.",
-                          "C": "Şirket logosunu değiştirir.",
-                          "D": "Borsada fiyatı sabitler.",
-                          "E": "Yatırımcıya vergi affı sağlar."
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "İtfa planı borçlanma aracının ödeme akışını ve vade yapısını anlamak için temel bilgidir."
-                  },
-                  {
-                      "id": 21,
-                      "soruMetni": "Borçlanma araçlarının borsada işlem görmesi yatırımcıya ne sağlayabilir?",
-                      "secenekler": {
-                          "A": "İkincil piyasada likidite ve fiyat oluşumu imkanı",
-                          "B": "Kesin kar garantisi",
-                          "C": "Yönetim kurulu üyeliği",
-                          "D": "Vergi borcu silinmesi",
-                          "E": "Pay sahipliği hakkı"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Borsada işlem görme ikincil piyasa likiditesini ve fiyat oluşumunu kolaylaştırabilir."
-                  },
-                  {
-                      "id": 22,
-                      "soruMetni": "Yeşil borçlanma araçlarında raporlama hangi ilkeyi destekler?",
-                      "secenekler": {
-                          "A": "Şeffaflık ve fon kullanımının izlenebilirliği",
-                          "B": "Gizlilik ve açıklamama",
-                          "C": "Pay fiyatı garantisi",
-                          "D": "Oy hakkı sınırsızlığı",
-                          "E": "Fiziki teslim zorunluluğu"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Raporlama, fonların taahhüt edilen proje ve hedeflere uygun kullanımını izlemeye yardımcı olur."
-                  },
-                  {
-                      "id": 23,
-                      "soruMetni": "Paya dönüştürülebilir tahvillerde dönüştürme oranı neyi gösterir?",
-                      "secenekler": {
-                          "A": "Tahvil karşılığında alınabilecek pay miktarı veya hesaplama esasını",
-                          "B": "Tahvilin vergi numarasını",
-                          "C": "Genel kurul toplantı oranını",
-                          "D": "Borsa işlem komisyonunu",
-                          "E": "Fon portföy sınırlamasını"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Dönüştürme oranı tahvilin hangi miktarda paya dönüşeceğini belirleyen temel unsurlardandır."
-                  },
-                  {
-                      "id": 24,
-                      "soruMetni": "Değiştirilebilir tahvillerde değiştirme hakkının kullanılması ne anlama gelir?",
-                      "secenekler": {
-                          "A": "Tahvilin belirlenen paylarla değiştirilmesi imkanını kullanmak",
-                          "B": "Tahvili vergiden muaf hale getirmek",
-                          "C": "Şirketi tasfiye etmek",
-                          "D": "Borsada işlem görmeyi durdurmak",
-                          "E": "Fon içtüzüğünü değiştirmek"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Yatırımcı, ihraç koşullarına göre tahvilini belirlenen paylarla değiştirebilir."
-                  },
-                  {
-                      "id": 25,
-                      "soruMetni": "Borçlanma Araçları Tebliği kapsamındaki türlerde hangi eşleştirme doğrudur?",
-                      "secenekler": {
-                          "A": "Tahvil - borçlanma; finansman bonosu - kısa vadeli finansman; yeşil borçlanma aracı - çevresel proje finansmanı",
-                          "B": "Tahvil - oy hakkı; finansman bonosu - kar payı; yeşil borçlanma aracı - fiziki altın teslimi",
-                          "C": "Tahvil - fon içtüzüğü; finansman bonosu - genel kurul; yeşil borçlanma aracı - vergi levhası",
-                          "D": "Tahvil - pay senedi; finansman bonosu - kira sözleşmesi; yeşil borçlanma aracı - personel bordrosu",
-                          "E": "Tahvil - vadesiz ortaklık; finansman bonosu - sınırsız oy; yeşil borçlanma aracı - temerrüt yasağı"
-                      },
-                      "dogruCevap": "A",
-                      "cozum": "Tahvil borçlanma aracıdır; finansman bonosu kısa vadeli finansman sağlar; yeşil borçlanma araçları çevresel projelerle ilişkilidir."
-                  }
-              ]
+            "id": 4,
+            "soruMetni": "Pay sahibinin sermaye artırımı sırasında yeni çıkarılan payları öncelikle alma hakkı aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Rüçhan hakkı",
+              "B": "İtfa hakkı",
+              "C": "Rehin hakkı",
+              "D": "Temerrüt hakkı",
+              "E": "Değiştirme hakkı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Rüçhan hakkı, mevcut pay sahibinin ortaklık oranını koruyabilmesi için yeni payları öncelikle alma hakkıdır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Pay sahibinin ortaklığın tasfiyesi halinde borçlar ödendikten sonra kalan değerden pay alma hakkı hangisidir?",
+            "secenekler": {
+              "A": "Tasfiye bakiyesine katılma hakkı",
+              "B": "Kupon hakkı",
+              "C": "Değişim teminatı hakkı",
+              "D": "İhraç limiti hakkı",
+              "E": "Kredi derecelendirme hakkı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tasfiye bakiyesine katılma hakkı pay sahibinin mali haklarından biridir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Nama yazılı paylar ile hamiline yazılı paylar arasındaki temel ayrım nedir?",
+            "secenekler": {
+              "A": "Hak sahibinin adının pay üzerinde veya kayıtlarda gösterilip gösterilmemesi",
+              "B": "Payın mutlaka vadesinin bulunması",
+              "C": "Payın faiz ödeme zorunluluğu",
+              "D": "Payın sadece kamu tarafından ihraç edilmesi",
+              "E": "Payın borçlanma aracı niteliği taşıması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Nama yazılı paylarda hak sahibi adı önem taşır; hamiline yazılı paylarda hak sahipliği hamil ve kayıt düzeniyle ilişkilidir."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Belirli paylara oy, kar payı veya yönetimde temsil gibi konularda üstün hak tanınması ne olarak adlandırılır?",
+            "secenekler": {
+              "A": "İmtiyaz",
+              "B": "İtfa",
+              "C": "Temerrüt",
+              "D": "İskonto",
+              "E": "Arbitraj"
+            },
+            "dogruCevap": "A",
+            "cozum": "İmtiyaz, bazı paylara diğer paylara göre üstün veya özel haklar tanınmasıdır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Oydan yoksun paylar için aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Kural olarak oy hakkı sağlamaz; buna karşılık mali haklar içerebilir.",
+              "B": "Her zaman tahvil niteliğindedir.",
+              "C": "Sahibine hiçbir hak sağlamaz.",
+              "D": "Sadece kamu borçlanma aracı olarak ihraç edilir.",
+              "E": "Vade sonunda anapara öder."
+            },
+            "dogruCevap": "A",
+            "cozum": "Oydan yoksun paylar ortaklık payı niteliğini korur; ancak kural olarak oy hakkı vermez."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Payların kaydileştirilmesi neyi ifade eder?",
+            "secenekler": {
+              "A": "Payların fiziki senet yerine elektronik kayıtlar üzerinden izlenmesini",
+              "B": "Payların tahvile dönüşmesini",
+              "C": "Payların vadesinin uzamasını",
+              "D": "Pay fiyatının sabitlenmesini",
+              "E": "Pay sahibinin hakkının sona ermesini"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kaydileştirme, sermaye piyasası araçlarına ilişkin hakların elektronik ortamda izlenmesidir."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Kaydileştirilmiş sermaye piyasası araçlarına ilişkin hakların hak sahibi bazında izlenmesinde görevli kuruluş hangisidir?",
+            "secenekler": {
+              "A": "Merkezi Kayıt Kuruluşu A.Ş.",
+              "B": "Borsa İstanbul A.Ş.",
+              "C": "Türkiye Cumhuriyet Merkez Bankası",
+              "D": "Türkiye Sermaye Piyasaları Birliği",
+              "E": "SPL"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kaydi araçlara ilişkin haklar MKK nezdinde hak sahibi bazında izlenir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Payın itibari değeri kavramı aşağıdakilerden hangisini ifade eder?",
+            "secenekler": {
+              "A": "Payın esas sermayeyi temsil eden nominal değerini",
+              "B": "Payın borsadaki anlık fiyatını",
+              "C": "Payın kupon faizini",
+              "D": "Payın vade sonu itfa tutarını",
+              "E": "Payın teminat çağrısını"
+            },
+            "dogruCevap": "A",
+            "cozum": "İtibari değer, payın esas sermayedeki nominal karşılığını ifade eder."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Pay sahibinin ortaklık borçlarından sorumluluğu genel olarak nasıl sınırlandırılır?",
+            "secenekler": {
+              "A": "Taahhüt ettiği sermaye payını ödeme borcu ile",
+              "B": "Şirketin tüm borçlarından sınırsız sorumlulukla",
+              "C": "Yönetim kurulunun tüm kararlarından kişisel sorumlulukla",
+              "D": "Kamu borçlarının tamamını üstlenmekle",
+              "E": "Borsa zararlarını ödemekle"
+            },
+            "dogruCevap": "A",
+            "cozum": "Anonim ortaklıkta pay sahibinin temel borcu taahhüt ettiği sermaye payını ödemektir."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Sırf borç ilkesi pay sahibi bakımından neyi anlatır?",
+            "secenekler": {
+              "A": "Pay sahibine esas sözleşmeyle kanunda öngörülmeyen ek borçlar yüklenememesini",
+              "B": "Pay sahibinin şirket borçlarından sınırsız sorumlu olmasını",
+              "C": "Pay sahibinin faiz ödeme yükümlülüğünü",
+              "D": "Pay sahibinin tahvil alacaklısı olmasını",
+              "E": "Pay sahibinin oy hakkını kaybetmesini"
+            },
+            "dogruCevap": "A",
+            "cozum": "Sırf borç ilkesi, pay sahibinin temel borcunun sermaye taahhüdü olduğunu ifade eder."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Pay sahibinin bilgi alma ve inceleme hakkı hangi işleve hizmet eder?",
+            "secenekler": {
+              "A": "Ortaklığın faaliyetleri ve finansal durumu hakkında denetim ve bilinçli karar alma imkanı sağlar.",
+              "B": "Pay fiyatını garanti eder.",
+              "C": "Tahvil faizini belirler.",
+              "D": "Fon portföyünü yönetir.",
+              "E": "Vade sonunda anapara öder."
+            },
+            "dogruCevap": "A",
+            "cozum": "Bilgi alma ve inceleme hakkı pay sahibinin ortaklık yönetimini izleyebilmesi için önemlidir."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Pay sahibinin genel kurul kararlarına karşı iptal davası açabilmesi hangi hakla daha yakından ilgilidir?",
+            "secenekler": {
+              "A": "Pay sahipliği haklarının korunması",
+              "B": "Kupon ödemesi",
+              "C": "İhraç limiti",
+              "D": "Teminat tamamlama",
+              "E": "Dış değerlendirme"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kanuna, esas sözleşmeye veya dürüstlük kuralına aykırı genel kurul kararlarına karşı dava açılabilir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Pay benzeri menkul kıymetler için aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sermayede temsil edilmesi zorunlu olmayan, sabit getiri taahhüdü barındırmayan ve pay sahipliği haklarından bazılarını veren kıymetlerdir.",
+              "B": "Her zaman tahvil niteliğindedir.",
+              "C": "Mutlaka sabit faiz öder.",
+              "D": "Sadece kamu tarafından ihraç edilir.",
+              "E": "Hiçbir ekonomik hak sağlamaz."
+            },
+            "dogruCevap": "A",
+            "cozum": "Kitaptaki tanıma göre pay benzeri menkul kıymetler pay sahipliği haklarından birini veya bir kısmını verebilir ancak tam pay niteliği taşımayabilir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Katılma intifa senetleri hangi başlık altında değerlendirilir?",
+            "secenekler": {
+              "A": "Pay benzeri menkul kıymetler",
+              "B": "Kamu borçlanma araçları",
+              "C": "Vadeli işlem sözleşmeleri",
+              "D": "Yatırım fonu içtüzüğü",
+              "E": "Finansman bonosu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Katılma intifa senetleri pay benzeri menkul kıymetler kapsamında ele alınır."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Pay sahipliği hakkı ile alacak hakkı arasındaki temel ayrım nedir?",
+            "secenekler": {
+              "A": "Pay sahipliği ortaklık ilişkisi, alacak hakkı borç ilişkisi doğurur.",
+              "B": "İkisi tamamen aynıdır.",
+              "C": "Alacak hakkı her zaman oy hakkı verir.",
+              "D": "Pay sahipliği vade sonunda anapara öder.",
+              "E": "Pay sahipliği sadece kamuya aittir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Pay, ortaklık hakkı; borçlanma aracı ise alacak hakkı verir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Payların sağladığı haklar genel olarak hangi iki ana grupta incelenir?",
+            "secenekler": {
+              "A": "Mali haklar ve yönetsel haklar",
+              "B": "Kısa vadeli ve uzun vadeli borçlar",
+              "C": "Spot ve vadeli işlemler",
+              "D": "İç borç ve dış borç",
+              "E": "Teminat ve marjin hakları"
+            },
+            "dogruCevap": "A",
+            "cozum": "Pay sahipliği hakları mali haklar ve yönetsel/idari haklar olarak sınıflandırılabilir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Bedelsiz pay alma hakkı hangi olayla ilişkilidir?",
+            "secenekler": {
+              "A": "İç kaynaklardan sermaye artırımı",
+              "B": "Tahvil kupon ödemesi",
+              "C": "Dış borçlanma",
+              "D": "Vadeli işlem uzlaşması",
+              "E": "Temerrüt faizi"
+            },
+            "dogruCevap": "A",
+            "cozum": "İç kaynakların sermayeye eklenmesiyle pay sahiplerine payları oranında bedelsiz pay verilebilir."
+          },
+          {
+            "id": 21,
+            "soruMetni": "Pay bölünmesi işleminde genel olarak ne değişir?",
+            "secenekler": {
+              "A": "Pay sayısı ve birim nominal değer değişir; toplam sermaye tutarı değişmez.",
+              "B": "Toplam sermaye zorunlu olarak iki katına çıkar.",
+              "C": "Ortaklık tasfiye edilir.",
+              "D": "Paylar tahvile dönüşür.",
+              "E": "Bütün pay sahipliği hakları sona erer."
+            },
+            "dogruCevap": "A",
+            "cozum": "Pay bölünmesinde toplam sermaye sabit kalırken pay adedi ve birim nominal değer değişir."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Pay sahibinin oy hakkı kural olarak hangi ölçüte bağlıdır?",
+            "secenekler": {
+              "A": "Sahip olunan payların itibari değeri veya pay oranı",
+              "B": "Yatırımcının yaşı",
+              "C": "Borsa işlem hacmi",
+              "D": "Tahvil kupon oranı",
+              "E": "Kredi derecelendirme notu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Oy hakkı kural olarak payın sağladığı sermaye katılımı ile ilişkilidir."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Pay sahipliği haklarından biri olan özel denetim talebi hangi amaca hizmet eder?",
+            "secenekler": {
+              "A": "Belirli olayların incelenmesi ve pay sahibinin bilgi ihtiyacının karşılanması",
+              "B": "Pay fiyatının yükseltilmesi",
+              "C": "Tahvilin erken itfası",
+              "D": "Kamu borcunun çevrilmesi",
+              "E": "Fon portföyünün değiştirilmesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Özel denetim, pay sahiplerinin belirli konularda daha ayrıntılı bilgi edinmesini sağlayan koruyucu mekanizmalardandır."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Payların sermaye piyasası aracı olarak kaydi sistemde izlenmesi, kıymetli evrak yaklaşımından hangi yönüyle ayrılır?",
+            "secenekler": {
+              "A": "Hakların fiziki senet yerine elektronik kayıtla takip edilmesi yönüyle",
+              "B": "Payların ortaklık hakkı vermemesi yönüyle",
+              "C": "Payların her zaman faiz ödemesi yönüyle",
+              "D": "Payların sadece kamu tarafından çıkarılması yönüyle",
+              "E": "Payların vadesiz olmaması yönüyle"
+            },
+            "dogruCevap": "A",
+            "cozum": "Sermaye piyasası araçları kaydi sistemde izlenir; bu nedenle fiziki senet merkezli klasik kıymetli evrak mantığından ayrılır."
+          },
+          {
+            "id": 25,
+            "soruMetni": "Bölüm 1.1 kapsamında sınavda beklenen ana odak aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Pay kavramı, pay türleri, pay sahipliği hakları ve pay benzeri menkul kıymetleri ayırt etmek",
+              "B": "DİBS ihale yöntemlerini hesaplamak",
+              "C": "Vadeli işlem teminatı hesaplamak",
+              "D": "Fon portföy sınırlamalarını ezberlemek",
+              "E": "Yeşil borçlanma raporlamasını analiz etmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kitabın 1.1 başlığı kavramsal çerçeveye, pay türlerine ve pay sahipliği haklarına odaklanır."
           }
-      ]
+        ]
+      },
+      {
+        "testId": 100304,
+        "testAdi": "Bölüm 1.2: Pay Tebliği, Halka Açılma ve Sermaye İşlemleri",
+        "testTuru": "bolum",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "VII-128.1 sayılı Pay Tebliği temel olarak hangi alanı düzenler?",
+            "secenekler": {
+              "A": "Pay ihracı, halka arz, halka açılma, sermaye işlemleri ve paylara ilişkin ortak hükümler",
+              "B": "Kamu borçlanma ihaleleri",
+              "C": "Yatırım fonu portföy sınırlamaları",
+              "D": "Vadeli işlem teminatları",
+              "E": "Vergi cezaları"
+            },
+            "dogruCevap": "A",
+            "cozum": "Pay Tebliği payların ihracı, halka arzı ve halka açık ortaklıkların pay işlemlerine ilişkin esasları düzenler."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Halka açık olmayan bir ortaklığın halka açık ortaklık statüsü kazanmasına ne ad verilir?",
+            "secenekler": {
+              "A": "Halka açılma",
+              "B": "İtfa",
+              "C": "Temerrüt",
+              "D": "Değiştirme",
+              "E": "Arbitraj"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kitaptaki örnek soruda da halka açık olmayan ortaklığın halka açık ortaklık statüsü kazanması “halka açılma” olarak tanımlanır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Payların halka arz edilebilmesi için yatırımcıya sunulan ve Kurulca onaylanan temel belge hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Fon içtüzüğü",
+              "C": "Genel kurul hazirun listesi",
+              "D": "Teminat tamamlama formu",
+              "E": "Vergi levhası"
+            },
+            "dogruCevap": "A",
+            "cozum": "Halka arzda yatırımcıların kararına esas bilgiler izahnamede açıklanır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Halka arzda mevcut ortakların sahip olduğu payların satılması hangi yöntemi ifade eder?",
+            "secenekler": {
+              "A": "Ortak satışı",
+              "B": "Bedelsiz sermaye artırımı",
+              "C": "Tahvil ihracı",
+              "D": "Fon katılma payı satışı",
+              "E": "Opsiyon primi tahsili"
+            },
+            "dogruCevap": "A",
+            "cozum": "Ortak satışı, mevcut ortaklara ait payların halka arz edilmesidir."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Sermaye artırımı yoluyla halka arzın ortaklık açısından temel sonucu nedir?",
+            "secenekler": {
+              "A": "Ortaklığa yeni kaynak girişi sağlaması",
+              "B": "Ortaklığı tasfiye etmesi",
+              "C": "Payları tahvile dönüştürmesi",
+              "D": "Yatırımcıların oy hakkını kaldırması",
+              "E": "Borsada işlem görmeyi yasaklaması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Yeni pay ihraç edilerek yapılan halka arzda satış geliri ortaklığa kaynak olarak girer."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Ortak satışı ile sermaye artırımı yöntemlerinin birlikte kullanılması için hangisi doğrudur?",
+            "secenekler": {
+              "A": "Mevzuata uygun koşullar sağlandığında aynı halka arzda birlikte uygulanabilir.",
+              "B": "Her durumda yasaktır.",
+              "C": "Sadece kamu borçlanmasında mümkündür.",
+              "D": "İzahname ihtiyacını ortadan kaldırır.",
+              "E": "Pay sahipliği hakkını sona erdirir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Halka açılmada mevcut pay satışı ve yeni pay ihracı birlikte kullanılabilir."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Tahsisli satış yöntemi neyi ifade eder?",
+            "secenekler": {
+              "A": "Payların halka arz edilmeksizin önceden belirlenmiş kişilere satılmasını",
+              "B": "Payların tüm yatırımcılara borsadan satılmasını",
+              "C": "Payların kamu kurumlarına bedelsiz verilmesini",
+              "D": "Payların vadeli işlem sözleşmesine bağlanmasını",
+              "E": "Payların kar payı olarak dağıtılmasını"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tahsisli satış, halka arz edilmeksizin belirli yatırımcılara yapılan satıştır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Nitelikli yatırımcıya satış yöntemi için hangisi doğrudur?",
+            "secenekler": {
+              "A": "Satış mevzuatta nitelikli yatırımcı olarak tanımlanan yatırımcılara yöneliktir.",
+              "B": "Sadece küçük yatırımcılara yapılır.",
+              "C": "Hiçbir açıklama yapılmaz.",
+              "D": "Pay ortaklık hakkı sağlamaz.",
+              "E": "Sadece kamu borçlanmasında kullanılır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Nitelikli yatırımcıya satış, belirli nitelikleri taşıyan yatırımcılara yönelik satış yöntemidir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Halka arz fiyatının belirlenmesinde fiyat tespit raporunun işlevi nedir?",
+            "secenekler": {
+              "A": "Fiyatın hangi varsayım, yöntem ve finansal verilere göre belirlendiğini açıklamak",
+              "B": "Pay fiyatının düşmeyeceğini garanti etmek",
+              "C": "Ortaklığın tüm sırlarını açıklamak",
+              "D": "Pay devrini yasaklamak",
+              "E": "Fiziki senet basmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Fiyat tespit raporu halka arz fiyatının dayanaklarını yatırımcıya açıklar."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Ek satışa konu payların ödünç alınmak suretiyle satışı hangi kavramla ifade edilir?",
+            "secenekler": {
+              "A": "Ödünç alımlı ek pay satışı",
+              "B": "Katılma intifa senedi",
+              "C": "Kayıtlı sermaye",
+              "D": "İhraççı",
+              "E": "Piyasa danışmanı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kitaptaki örnek soruda bu kavram “ödünç alımlı ek pay satışı” olarak ölçülür."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Ek satış hakkı hangi durumla daha çok ilişkilidir?",
+            "secenekler": {
+              "A": "Halka arzda beklenenden yüksek talep oluşması",
+              "B": "Ortaklığın tasfiye edilmesi",
+              "C": "Payların fiziki basılması",
+              "D": "Fon katılma payı itfası",
+              "E": "Borsada işlem yasağı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Ek satış hakkı, yüksek talep halinde ilave pay satışına imkan veren halka arz mekanizmasıdır."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Fiyat istikrarını sağlayıcı işlemlerin temel amacı nedir?",
+            "secenekler": {
+              "A": "Halka arz sonrası aşırı satış baskısını sınırlamak ve fiyat oluşumunu desteklemek",
+              "B": "Pay fiyatını süresiz garanti etmek",
+              "C": "Bütün payları zorunlu geri almak",
+              "D": "Zararları kamu bütçesinden ödemek",
+              "E": "Borsada işlem görmeyi yasaklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Fiyat istikrarı işlemleri halka arz sonrası piyasa dengesini desteklemek için öngörülebilir; garanti niteliğinde değildir."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Fiyat istikrarı işlemlerinde halka arz fiyatının üzerinde alım emri verilmemesi kuralının amacı nedir?",
+            "secenekler": {
+              "A": "İşlemin yapay fiyat yükseltme aracına dönüşmesini önlemek",
+              "B": "Payların borsada işlem görmesini engellemek",
+              "C": "Kar payı dağıtımını zorunlu kılmak",
+              "D": "Fon portföyünü değiştirmek",
+              "E": "Tahvil faizini düşürmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Fiyat istikrarı aşağı yönlü baskıyı sınırlamaya yöneliktir; fiyatı yapay biçimde yükseltmek için kullanılmaz."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Fiyat istikrarı işlemlerinin izahnamede açıklanmasının nedeni nedir?",
+            "secenekler": {
+              "A": "Yatırımcıların süre, fon kaynağı, aracı kurum ve işlem koşulları hakkında bilgilendirilmesi",
+              "B": "İşlemleri gizlemek",
+              "C": "Fiyat garantisi vermek",
+              "D": "Finansal raporlamayı kaldırmak",
+              "E": "Pay satışını yasaklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kamuyu aydınlatma gereği yatırımcı fiyat istikrarı işlemlerinin çerçevesini önceden bilmelidir."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Bedelli sermaye artırımı neyi ifade eder?",
+            "secenekler": {
+              "A": "Nakit veya nakit benzeri kaynak girişi karşılığında yeni pay ihraç edilmesini",
+              "B": "İç kaynakların sermayeye eklenmesini",
+              "C": "Şirket borçlarının silinmesini",
+              "D": "Yönetim süresinin uzatılmasını",
+              "E": "Borsada işlem görmenin sona ermesini"
+            },
+            "dogruCevap": "A",
+            "cozum": "Bedelli sermaye artırımı ortaklığa dış kaynak girişi sağlayan sermaye artırımıdır."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Bedelsiz sermaye artırımı için hangisi doğrudur?",
+            "secenekler": {
+              "A": "İç kaynakların sermayeye eklenmesiyle pay sahiplerine bedelsiz pay verilmesi söz konusudur.",
+              "B": "Her zaman yeni nakit girişi sağlar.",
+              "C": "Pay sahipliği sıfatını ortadan kaldırır.",
+              "D": "Sadece borçlanma aracıyla yapılır.",
+              "E": "Halka açık ortaklıklarda yapılamaz."
+            },
+            "dogruCevap": "A",
+            "cozum": "Bedelsiz artırımlarda iç kaynaklar sermayeye eklenir ve pay sahipleri payları oranında bedelsiz pay alır."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Halka açık ortaklıkların sermaye artırımı fonlarını nerede kullanacağını açıklayan belge hangisidir?",
+            "secenekler": {
+              "A": "Fonun kullanım yeri raporu",
+              "B": "Nüfus kayıt örneği",
+              "C": "Kira makbuzu",
+              "D": "Araç muayene formu",
+              "E": "Personel izin çizelgesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Fonun kullanım yeri raporu, sermaye artırımı veya halka arzdan sağlanacak fonların kullanım amacını açıklar."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Sermaye azaltımı hangi amaçla yapılabilir?",
+            "secenekler": {
+              "A": "Zararların sermaye ile dengelenmesi veya sermaye yapısının düzeltilmesi amacıyla",
+              "B": "Bilgi alma hakkını kaldırmak amacıyla",
+              "C": "İzahnameyi engellemek amacıyla",
+              "D": "Tüm payları iptal etmek amacıyla",
+              "E": "Ortaklığı derneğe çevirmek amacıyla"
+            },
+            "dogruCevap": "A",
+            "cozum": "Sermaye azaltımı bilanço zararlarının giderilmesi veya sermaye yapısının düzeltilmesi için kullanılabilir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Sermaye azaltımı ile eş anlı sermaye artırımı yapılmasının temel gerekçesi ne olabilir?",
+            "secenekler": {
+              "A": "Özkaynak yapısını düzeltirken ortaklığa yeni fon girişi sağlamak",
+              "B": "Tüm payları vadeli işlem sözleşmesine çevirmek",
+              "C": "Kamuyu aydınlatmayı kaldırmak",
+              "D": "Genel kurula katılımı yasaklamak",
+              "E": "Kaydi sistemi fiziki senede çevirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Azaltım ve artırım birlikte kullanılarak bilanço yapısı iyileştirilip kaynak girişi sağlanabilir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Kayıtlı sermaye sistemi ne sağlar?",
+            "secenekler": {
+              "A": "Yönetim kuruluna kayıtlı sermaye tavanı içinde sermaye artırımı yapabilme imkanı",
+              "B": "Sınırsız ve koşulsuz sermaye artırımı",
+              "C": "Tüm mali hakların kaldırılması",
+              "D": "Her sermaye artırımının mahkeme kararına bağlanması",
+              "E": "Sadece kamu şirketlerinde uygulama"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kayıtlı sermaye sisteminde yönetim kurulu belirlenen tavan içinde daha hızlı sermaye artırımı yapabilir."
+          },
+          {
+            "id": 21,
+            "soruMetni": "Kayıtlı sermaye tavanı neyi ifade eder?",
+            "secenekler": {
+              "A": "Yönetim kurulunun sermaye artırımı yapabileceği azami sermaye tutarını",
+              "B": "Ortaklığın piyasa değerini",
+              "C": "Payların günlük en yüksek fiyatını",
+              "D": "Alınabilecek en yüksek kar payını",
+              "E": "Borçlanma araçlarının vade sınırını"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kayıtlı sermaye tavanı yönetim kurulunun yetki alanındaki üst sınırı gösterir."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Çıkarılmış sermaye kavramı neyi anlatır?",
+            "secenekler": {
+              "A": "Kayıtlı sermaye sisteminde fiilen çıkarılmış ve ödenmiş sermayeyi",
+              "B": "Payların borsadaki son fiyatını",
+              "C": "Gelecek yıl satış hasılatını",
+              "D": "Tahvillerin kupon faizini",
+              "E": "Yatırım fonu portföy değerini"
+            },
+            "dogruCevap": "A",
+            "cozum": "Çıkarılmış sermaye fiilen ihraç edilmiş payların temsil ettiği sermaye tutarıdır."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Payların borsada işlem gören niteliğe dönüştürülmesi neyi ifade eder?",
+            "secenekler": {
+              "A": "Borsada işlem görmeyen nitelikteki payların mevzuat prosedürüyle borsada işlem görebilir hale getirilmesini",
+              "B": "Payların tahvile çevrilmesini",
+              "C": "Ortaklık borçlarının pay sahibine devrini",
+              "D": "Payların sadece fiziki saklanmasını",
+              "E": "Yatırımcının payını satamamasını"
+            },
+            "dogruCevap": "A",
+            "cozum": "Borsada işlem gören niteliğe dönüşüm payların borsada işlem görebilmesi için gereken süreçtir."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Girişim Sermayesi Pazarı düzenlemelerinin temel amacı nedir?",
+            "secenekler": {
+              "A": "Belirli büyüme şirketlerinin sermaye piyasasından fon sağlamasına imkan tanımak",
+              "B": "Tüm halka açık ortaklıkları borsadan çıkarmak",
+              "C": "Kar payı hakkını kaldırmak",
+              "D": "Sadece kamu borçlanmasını düzenlemek",
+              "E": "Vadeli işlem takasını yapmak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Girişim Sermayesi Pazarı büyüme potansiyeli taşıyan ortaklıkların sermaye piyasasına erişimini destekler."
+          },
+          {
+            "id": 25,
+            "soruMetni": "Bölüm 1.2 kapsamında sınavda beklenen ana odak hangisidir?",
+            "secenekler": {
+              "A": "Pay Tebliği, halka açılma, halka arz yöntemleri, sermaye işlemleri, fiyat istikrarı ve kamuyu aydınlatma ilişkisini bilmek",
+              "B": "Sadece payın ortaklık hakkı olduğunu bilmek",
+              "C": "DİBS ihale yöntemlerini hesaplamak",
+              "D": "Vadeli işlem teminatı hesaplamak",
+              "E": "Fon portföy sınırlamalarını ezberlemek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kitabın 1.2 başlığı Pay Tebliği ve halka arz/sermaye işlemleri gibi düzenleyici konulara odaklanır."
+          }
+        ]
+      },
+      {
+        "testId": 100302,
+        "testAdi": "Bölüm 2.1: Borçlanma Araçları - Kavramsal Çerçeve ve Genel Esaslar",
+        "testTuru": "bolum",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Borçlanma araçları ihraççı açısından temel olarak hangi ihtiyacı karşılar?",
+            "secenekler": {
+              "A": "Ortaklık hakkı vermeden fon sağlama ihtiyacını",
+              "B": "Yönetim kurulunu kaldırma ihtiyacını",
+              "C": "Pay sahiplerinin haklarını silme ihtiyacını",
+              "D": "Şirketi tasfiye etme ihtiyacını",
+              "E": "Borsada işlem görmeyi yasaklama ihtiyacını"
+            },
+            "dogruCevap": "A",
+            "cozum": "Borçlanma araçları ihraççıya, yatırımcıya ortaklık hakkı vermeden borçlanma yoluyla kaynak sağlama imkanı verir."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Borçlanma aracı yatırımcısı ihraççı karşısında hangi hukuki konumdadır?",
+            "secenekler": {
+              "A": "Borçlu",
+              "B": "Alacaklı",
+              "C": "Yönetim kurulu üyesi",
+              "D": "Kurucu ortak",
+              "E": "Genel kurul başkanı"
+            },
+            "dogruCevap": "B",
+            "cozum": "Borçlanma aracı sahibi, ihraççıya fon sağlayan ve ihraç koşullarına göre ödeme talep eden alacaklıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Pay ile borçlanma aracı arasındaki temel fark aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Pay ortaklık hakkı, borçlanma aracı alacak hakkı sağlar.",
+              "B": "Pay her zaman vadeli, borçlanma aracı her zaman vadesizdir.",
+              "C": "Borçlanma aracı mutlaka oy hakkı verir.",
+              "D": "Pay faiz öder, borçlanma aracı kar payı öder.",
+              "E": "İkisi arasında hukuki fark yoktur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Pay sahibine ortaklık hakları verir; borçlanma aracı ise ihraççıya karşı alacak hakkı doğurur."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Kıymetli evrak kavramı için aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Hak ile senet arasında sıkı bağ bulunan senetlerdir.",
+              "B": "Sadece e-posta ile gönderilen belgelerdir.",
+              "C": "Her zaman ortaklık payıdır.",
+              "D": "Sadece kamu kurumlarınca düzenlenir.",
+              "E": "Hiçbir malvarlığı hakkı içermez."
+            },
+            "dogruCevap": "A",
+            "cozum": "Kıymetli evrakta hak senede bağlıdır; hakkın devri ve ileri sürülmesi senet üzerindeki şekil kurallarıyla ilişkilidir."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Menkul kıymet kavramı bakımından aşağıdakilerden hangisi daha doğru bir ifadedir?",
+            "secenekler": {
+              "A": "Piyasada tedavül edebilen ve yatırım amacıyla ihraç edilebilen sermaye piyasası aracıdır.",
+              "B": "Sadece taşınmaz malları temsil eder.",
+              "C": "Mutlaka yönetim hakkı verir.",
+              "D": "Sadece kısa vadeli banka kredisidir.",
+              "E": "Her zaman fiziki senet basılması zorunludur."
+            },
+            "dogruCevap": "A",
+            "cozum": "Menkul kıymetler yatırım amacıyla ihraç edilen ve piyasada el değiştirebilen sermaye piyasası araçlarıdır."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Aşağıdakilerden hangisi borçlanma araçlarına örnek gösterilebilir?",
+            "secenekler": {
+              "A": "Tahvil",
+              "B": "Adi ortaklık sözleşmesi",
+              "C": "Kira kontratı",
+              "D": "Personel bordrosu",
+              "E": "Genel kurul tutanağı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tahvil, ihraççının borçlanmasını temsil eden klasik borçlanma araçlarından biridir."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Tahvil sahibinin ihraççıdan temel beklentisi aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Vade sonunda anapara ve varsa dönemsel getiri/faiz ödemesi almak",
+              "B": "Yönetim kuruluna doğrudan atanmak",
+              "C": "İhraççının tüm karına ortak olmak",
+              "D": "Tasfiye kararını tek başına vermek",
+              "E": "Payların nominal değerini belirlemek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tahvil sahibi ortak değil alacaklıdır; temel beklentisi ihraç koşullarına göre anapara ve getiri ödemesidir."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Borçlanma araçlarının halka arzında yatırımcıların bilgilendirilmesinde kullanılan temel belge hangisidir?",
+            "secenekler": {
+              "A": "İzahname",
+              "B": "Nüfus kayıt örneği",
+              "C": "Araç ruhsatı",
+              "D": "Personel izin formu",
+              "E": "Kira makbuzu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Halka arz edilen sermaye piyasası araçları için yatırımcıların kararına esas bilgiler izahnamede yer alır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Borçlanma araçlarının nitelikli yatırımcıya satışı için hangisi doğrudur?",
+            "secenekler": {
+              "A": "Satış mevzuatta nitelikli yatırımcı olarak tanımlanan yatırımcılara yöneliktir.",
+              "B": "Satış mutlaka tüm halka açık çağrı ile yapılır.",
+              "C": "Satış sadece çalışanlara bedelsiz yapılır.",
+              "D": "Satış borçlanma niteliğini ortadan kaldırır.",
+              "E": "Satışta ihraççı borçlu olmaz."
+            },
+            "dogruCevap": "A",
+            "cozum": "Nitelikli yatırımcıya satış, belirli nitelikteki yatırımcı kitlesine yönelik satış yöntemidir."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Borçlanma araçlarında vade kavramı neyi ifade eder?",
+            "secenekler": {
+              "A": "İhraççının borcunu geri ödeme tarihini veya dönemini",
+              "B": "Pay sahibinin oy kullanma süresini",
+              "C": "Şirket unvanının geçerlilik süresini",
+              "D": "Borsa işlem saatinin başlangıcını",
+              "E": "Yatırımcının vergi numarasını"
+            },
+            "dogruCevap": "A",
+            "cozum": "Vade, anapara ve/veya getiri ödemesinin hangi zamanda yapılacağını gösterir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Borçlanma aracında kupon ödemesi neyi ifade eder?",
+            "secenekler": {
+              "A": "Belirli dönemlerde yatırımcıya yapılan faiz/getiri ödemesini",
+              "B": "Pay sahibine verilen oy pusulasını",
+              "C": "Borsa üyelik belgesini",
+              "D": "Halka arz reklam afişini",
+              "E": "Şirket kuruluş sözleşmesini"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kupon ödemesi, ihraç koşullarına göre belirli dönemlerde yatırımcıya ödenen getiridir."
+          },
+          {
+            "id": 12,
+            "soruMetni": "İskontolu borçlanma aracı ihracı ne anlama gelir?",
+            "secenekler": {
+              "A": "Nominal değerin altında satılıp vade sonunda nominal değer üzerinden geri ödenmesi",
+              "B": "Nominal değerin üstünde satılıp hiç geri ödenmemesi",
+              "C": "Yatırımcıya oy hakkı verilmesi",
+              "D": "Payların bedelsiz dağıtılması",
+              "E": "Sadece kira sertifikası çıkarılması"
+            },
+            "dogruCevap": "A",
+            "cozum": "İskontolu ihraçta getiri, alış fiyatı ile vade sonu ödeme tutarı arasındaki farktan doğar."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Borçlanma araçlarının kayden ihracı neyi ifade eder?",
+            "secenekler": {
+              "A": "Araçların fiziki senet yerine elektronik kayıtlar üzerinden izlenmesini",
+              "B": "Araçların sadece sözlü beyanla satılmasını",
+              "C": "Araçların paya dönüşmesini",
+              "D": "Araçların vadesiz hale gelmesini",
+              "E": "Araçların kar payı hakkı vermesini"
+            },
+            "dogruCevap": "A",
+            "cozum": "Sermaye piyasası araçlarında kaydi sistem esastır; haklar elektronik kayıtlar üzerinden izlenir."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Borçlanma araçlarında ihraççı riski nedir?",
+            "secenekler": {
+              "A": "İhraççının anapara veya getiri ödemelerini zamanında yerine getirememe riski",
+              "B": "Yatırımcının genel kurula katılamama riski",
+              "C": "Payların oy hakkının artması riski",
+              "D": "Borsanın tatil olması riski",
+              "E": "Vergi levhasının kaybolması riski"
+            },
+            "dogruCevap": "A",
+            "cozum": "Borçlanma aracı yatırımcısı için temel risklerden biri ihraççının ödeme yükümlülüklerini yerine getirememesidir."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Piyasa faizleri yükseldiğinde sabit faizli borçlanma aracının piyasa fiyatı için genel beklenti nedir?",
+            "secenekler": {
+              "A": "Fiyatın düşmesi",
+              "B": "Fiyatın aynı kalması",
+              "C": "Fiyatın iki katına çıkması",
+              "D": "Fiyatın hukuken sıfırlanması",
+              "E": "Fiyatın vergi dairesince belirlenmesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Sabit faizli borçlanma araçlarında piyasa faizleri yükseldiğinde mevcut aracın fiyatı genellikle düşer."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Borçlanma araçlarında likidite riski aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Aracın istenilen zamanda makul fiyattan nakde çevrilememesi riski",
+              "B": "İhraççının ortak sayısının artması",
+              "C": "Pay sahiplerinin oy kullanması",
+              "D": "Genel kurulun ertelenmesi",
+              "E": "Şirket adresinin değişmesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Likidite riski, yatırımcının borçlanma aracını ihtiyaç duyduğu anda uygun fiyatla satamaması ihtimalidir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Borçlanma aracı sahiplerinin alacaklı olması hangi sonucu doğurur?",
+            "secenekler": {
+              "A": "İhraççıdan ihraç koşullarına uygun ödeme talep edebilirler.",
+              "B": "Şirketin günlük yönetim kararlarını alırlar.",
+              "C": "Genel kurulda imtiyazlı oy kullanırlar.",
+              "D": "Ortaklık karının tamamına sahip olurlar.",
+              "E": "Esas sözleşmeyi tek başına değiştirirler."
+            },
+            "dogruCevap": "A",
+            "cozum": "Borçlanma aracı sahibi yönetim hakkına değil, ihraç koşullarından doğan alacak hakkına sahiptir."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Borçlanma araçlarının paylardan ayrılan yönü aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Yatırımcıya ortaklık sıfatı kazandırmaması",
+              "B": "Her zaman oy hakkı vermesi",
+              "C": "Her zaman kar payı dağıtması",
+              "D": "Vadesiz ve geri ödemesiz olması",
+              "E": "Sadece fiziki teslimle devredilmesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Borçlanma araçları yatırımcıyı ortak değil alacaklı yapar."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Kurulun borçlanma aracı ihracında belge onayı ne anlama gelir?",
+            "secenekler": {
+              "A": "Belgenin mevzuata uygunluğunun incelenmesi",
+              "B": "Yatırımın kazanç sağlayacağının garanti edilmesi",
+              "C": "İhraççının tüm borçlarının üstlenilmesi",
+              "D": "Yatırımcı adına alım kararı verilmesi",
+              "E": "Piyasa fiyatının sabitlenmesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kurul onayı yatırım getirisi veya ihraççının ödeme gücü garantisi değildir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Borçlanma araçlarında anapara koruması nasıl değerlendirilmelidir?",
+            "secenekler": {
+              "A": "İhraç koşullarına ve ihraççının ödeme gücüne bağlıdır; risksiz kabul edilemez.",
+              "B": "Her zaman devlet garantisi anlamına gelir.",
+              "C": "Yatırımcıya ortaklık hakkı verir.",
+              "D": "Pay fiyatını artırır.",
+              "E": "Vade kavramını ortadan kaldırır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Borçlanma aracı alacak hakkı doğursa da geri ödeme ihraççının ödeme gücü ve ihraç koşullarına bağlıdır."
+          },
+          {
+            "id": 21,
+            "soruMetni": "Borçlanma aracı ihraç limitlerinin temel amacı nedir?",
+            "secenekler": {
+              "A": "İhraççının mali yapısıyla uyumlu borçlanma çerçevesi oluşturmak",
+              "B": "Bütün ihraçları sınırsız hale getirmek",
+              "C": "Pay sahiplerinin oy hakkını kaldırmak",
+              "D": "Yatırımcıların alım yapmasını engellemek",
+              "E": "Borçlanma aracını paya çevirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "İhraç limitleri, ihraççının mevzuat çerçevesinde yapabileceği borçlanma tutarını sınırlar."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Borçlanma araçlarında temerrüt kavramı neyle ilgilidir?",
+            "secenekler": {
+              "A": "İhraççının ödeme yükümlülüğünü zamanında yerine getirememesiyle",
+              "B": "Pay sahibinin genel kurula katılmasıyla",
+              "C": "Borsada işlem saatinin başlamasıyla",
+              "D": "Halka arz ilanının tasarımıyla",
+              "E": "Şirket logosunun değiştirilmesiyle"
+            },
+            "dogruCevap": "A",
+            "cozum": "Temerrüt, borçlunun vadesi gelen ödeme yükümlülüğünü zamanında yerine getirememesidir."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Borçlanma araçlarının yatırımcı açısından avantajlarından biri nedir?",
+            "secenekler": {
+              "A": "İhraç koşulları çerçevesinde öngörülebilir nakit akışı sağlayabilmesi",
+              "B": "Her zaman sınırsız oy hakkı vermesi",
+              "C": "Riski tamamen ortadan kaldırması",
+              "D": "Şirket yönetimini yatırımcıya devretmesi",
+              "E": "Her zaman vergiden muaf olması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kuponlu veya vadeli ödeme yapısı, öngörülebilir nakit akışı arayan yatırımcılar için önemlidir."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Borçlanma araçlarında erken itfa kavramı neyi ifade eder?",
+            "secenekler": {
+              "A": "Aracın vadesinden önce geri ödenebilmesini",
+              "B": "Aracın hiçbir zaman ödenmemesini",
+              "C": "Pay sahiplerine bedelsiz pay verilmesini",
+              "D": "Yatırımcıya oy hakkı tanınmasını",
+              "E": "Borsada işlem görmenin yasaklanmasını"
+            },
+            "dogruCevap": "A",
+            "cozum": "Erken itfa, ihraç koşullarında öngörülmüşse borçlanma aracının vadesinden önce geri ödenmesidir."
+          },
+          {
+            "id": 25,
+            "soruMetni": "Borçlanma araçlarının genel mantığında hangi eşleştirme doğrudur?",
+            "secenekler": {
+              "A": "Tahvil - alacak hakkı; vade - geri ödeme zamanı; kupon - dönemsel getiri",
+              "B": "Tahvil - ortaklık hakkı; vade - oy kullanma süresi; kupon - genel kurul daveti",
+              "C": "Tahvil - pay senedi; vade - şirket unvanı; kupon - vergi levhası",
+              "D": "Tahvil - kira sözleşmesi; vade - personel izni; kupon - araç ruhsatı",
+              "E": "Tahvil - yatırım fonu; vade - portföy sınırlaması; kupon - fon içtüzüğü"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tahvil alacak hakkı doğurur; vade ödeme zamanını, kupon dönemsel getiriyi ifade eder."
+          }
+        ]
+      },
+      {
+        "testId": 100303,
+        "testAdi": "Bölüm 2.2: Borçlanma Araçları Tebliği, Türler ve Yeşil Borçlanma Araçları",
+        "testTuru": "bolum",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Borçlanma Araçları Tebliği genel olarak hangi konuyu düzenler?",
+            "secenekler": {
+              "A": "Borçlanma araçlarının ihraç ve satış esaslarını",
+              "B": "Anonim ortaklıklarda oy hakkı sınırlamalarını",
+              "C": "Yatırım fonlarının portföy dağılımını",
+              "D": "Vadeli işlem piyasasında teminat çağrılarını",
+              "E": "Vergi cezası hesaplamalarını"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tebliğ, borçlanma araçlarının ihracı, satışı ve türlerine ilişkin sermaye piyasası esaslarını düzenler."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Tahvil için aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "İhraççının borçlu, yatırımcının alacaklı olduğu borçlanma aracıdır.",
+              "B": "Yatırımcıya her zaman yönetim kurulu üyeliği verir.",
+              "C": "Ortaklık payı niteliğindedir.",
+              "D": "Vadesi ve ödeme koşulu bulunamaz.",
+              "E": "Sadece fiziki altın olarak ihraç edilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Tahvil, ihraççının borçlanmasını temsil eder ve yatırımcıya alacak hakkı sağlar."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Finansman bonosu hangi amaçla daha çok ilişkilidir?",
+            "secenekler": {
+              "A": "Kısa vadeli borçlanma ihtiyacının sermaye piyasası yoluyla karşılanması",
+              "B": "Pay sahibine imtiyazlı oy verilmesi",
+              "C": "Yatırım fonu içtüzüğünün değiştirilmesi",
+              "D": "Şirketin tasfiye edilmesi",
+              "E": "Vadeli işlem sözleşmesi teminatı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Finansman bonosu, kısa vadeli fon ihtiyacını karşılamaya yönelik borçlanma araçlarındandır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Paya dönüştürülebilir tahvilin ayırt edici özelliği nedir?",
+            "secenekler": {
+              "A": "Belirli koşullarla ihraççı ortaklık paylarına dönüştürülebilmesi",
+              "B": "Hiçbir zaman geri ödenmemesi",
+              "C": "Sadece kamu kurumlarınca çıkarılması",
+              "D": "Otomatik yönetim kurulu üyeliği vermesi",
+              "E": "Her zaman vadesiz olması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Paya dönüştürülebilir tahvil, belirli koşullarda ihraççı paylarına dönüşme imkanı verir."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Değiştirilebilir tahvilin temel özelliği nedir?",
+            "secenekler": {
+              "A": "Belirlenen başka bir ortaklık payıyla değiştirilebilmesi",
+              "B": "Mutlaka devlet tahvili olması",
+              "C": "Sermaye piyasası aracı sayılmaması",
+              "D": "Her zaman bedelsiz pay vermesi",
+              "E": "Sadece çalışanlara satılması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Değiştirilebilir tahvil, ihraççı dışındaki bir ortaklığın payları ile değiştirilme hakkı içerebilir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Kıymetli maden bonoları hangi varlık türüyle ilişkilidir?",
+            "secenekler": {
+              "A": "Altın, gümüş gibi kıymetli madenlerle",
+              "B": "Sadece gayrimenkullerle",
+              "C": "Sadece tarım ürünleriyle",
+              "D": "Yönetim kurulu kararlarıyla",
+              "E": "Personel alacaklarıyla"
+            },
+            "dogruCevap": "A",
+            "cozum": "Kıymetli maden bonoları kıymetli maden finansmanıyla ilişkili borçlanma araçlarıdır."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Borçlanma aracı sahipleri kurulu hangi ihtiyaca cevap verir?",
+            "secenekler": {
+              "A": "Borçlanma aracı sahiplerinin ortak menfaatlerde kolektif hareket edebilmesine",
+              "B": "Pay sahiplerinin kar payını dağıtmasına",
+              "C": "Yönetim kurulunu seçmesine",
+              "D": "Borsa fiyatını sabitlemesine",
+              "E": "Fon portföyünü yönetmesine"
+            },
+            "dogruCevap": "A",
+            "cozum": "Bu kurul yatırımcıların ortak haklarını korumaya yönelik kolektif karar mekanizmasıdır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Borçlanma aracı sahipleri temsilcisi hangi amaçla ilişkilidir?",
+            "secenekler": {
+              "A": "Yatırımcıların ortak hak ve menfaatlerinin izlenmesi ve temsil edilmesi",
+              "B": "Ortaklığın tüm paylarının satın alınması",
+              "C": "Pay fiyatının günlük belirlenmesi",
+              "D": "Vergi tarhiyatının yapılması",
+              "E": "Fon içtüzüğünün yazılması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Temsilci, borçlanma aracı sahiplerinin ortak menfaatlerini izlemek için öngörülebilir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Yeşil borçlanma araçlarının temel özelliği nedir?",
+            "secenekler": {
+              "A": "Fonların çevresel fayda sağlayan yeşil projelerde kullanılmasının amaçlanması",
+              "B": "Her zaman paya dönüşmesi",
+              "C": "Sınırsız oy hakkı vermesi",
+              "D": "Sadece kısa vadeli mevduat olması",
+              "E": "Kamuyu aydınlatma gerektirmemesi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Yeşil borçlanma araçları çevresel sürdürülebilirlik amaçlı projelerin finansmanıyla öne çıkar."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Sürdürülebilir borçlanma araçları için hangisi doğrudur?",
+            "secenekler": {
+              "A": "Çevresel ve/veya sosyal hedeflere yönelik projelerin finansmanında kullanılabilir.",
+              "B": "Sadece genel kurul davetiyesidir.",
+              "C": "Borçlanma aracı niteliği taşımaz.",
+              "D": "Her zaman oy hakkı verir.",
+              "E": "Hiçbir açıklama gerektirmez."
+            },
+            "dogruCevap": "A",
+            "cozum": "Sürdürülebilir borçlanma araçları çevresel ve sosyal hedeflerle uyumlu projelerin finansmanına yönelik olabilir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Yeşil borçlanma aracı ihracında fon kullanım açıklaması neden önemlidir?",
+            "secenekler": {
+              "A": "Fonların gerçekten yeşil/sürdürülebilir projelere yönelip yönelmediğinin izlenebilmesi için",
+              "B": "Pay sahiplerinin oy hakkını kaldırmak için",
+              "C": "Tahvilin otomatik paya dönüşmesi için",
+              "D": "Piyasa fiyatını sabitlemek için",
+              "E": "Yatırımcıların alımını yasaklamak için"
+            },
+            "dogruCevap": "A",
+            "cozum": "Fon kullanımının açıklanması sürdürülebilirlik iddiasının izlenmesi açısından önemlidir."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Dış değerlendirme görüşü yeşil borçlanma araçlarında ne işe yarar?",
+            "secenekler": {
+              "A": "İhraç çerçevesinin yeşil/sürdürülebilir finansman ilkeleriyle uyumunu değerlendirmek",
+              "B": "Yatırımcıya kar garantisi vermek",
+              "C": "İhraççının borçlarını üstlenmek",
+              "D": "Payları borsadan çıkarmak",
+              "E": "Vergi oranını belirlemek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Dış değerlendirme, ihraç çerçevesinin sürdürülebilirlik standartlarıyla uyumuna ilişkin bağımsız görüş sağlar."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Borçlanma araçlarında tertip kavramı neyle ilgilidir?",
+            "secenekler": {
+              "A": "Aynı ihraç koşullarına sahip araçların gruplandırılmasıyla",
+              "B": "Pay sahiplerinin oy sayısıyla",
+              "C": "Çalışan izin sırasıyla",
+              "D": "Borsa emir tipleriyle",
+              "E": "Vergi beyannamesiyle"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tertip, benzer ihraç koşullarını taşıyan borçlanma araçlarının ayırt edilmesini sağlar."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Borçlanma araçlarının halka arz edilmeksizin satışı hangisini kapsayabilir?",
+            "secenekler": {
+              "A": "Tahsisli satış veya nitelikli yatırımcıya satış",
+              "B": "Zorunlu genel kurul satışı",
+              "C": "Sadece bedelsiz pay dağıtımı",
+              "D": "Ortaklık tasfiyesi",
+              "E": "Vadeli işlem uzlaşması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Borçlanma araçları halka arz edilmeksizin tahsisli veya nitelikli yatırımcılara satılabilir."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Borçlanma araçları ihraç belgesi hangi işlevi görür?",
+            "secenekler": {
+              "A": "Halka arz edilmeyen ihraçlarda ihraç koşullarını ve temel bilgileri gösterir.",
+              "B": "Yatırımcıya kar payı ve oy hakkı verir.",
+              "C": "Şirketin vergi levhası yerine geçer.",
+              "D": "Borsada işlem görmeyi yasaklar.",
+              "E": "Pay devrini otomatik yapar."
+            },
+            "dogruCevap": "A",
+            "cozum": "İhraç belgesi halka arz edilmeyen ihraçlarda temel ihraç bilgilerini içerir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Teminatlı borçlanma aracı ihracı genel olarak neyi anlatır?",
+            "secenekler": {
+              "A": "Yükümlülüklerin belirli teminatlarla desteklenmesini",
+              "B": "Yatırımcıya sınırsız oy hakkı verilmesini",
+              "C": "Payların bedelsiz dağıtılmasını",
+              "D": "Halka arzın gizli yapılmasını",
+              "E": "Vadenin ortadan kaldırılmasını"
+            },
+            "dogruCevap": "A",
+            "cozum": "Teminatlı ihraçlarda yatırımcı alacağı belirli teminat mekanizmalarıyla desteklenebilir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Derecelendirme notu yatırımcıya ne sağlar?",
+            "secenekler": {
+              "A": "İhraççının veya aracın kredi riskine ilişkin değerlendirme göstergesi",
+              "B": "Kesin kazanç garantisi",
+              "C": "Yönetim kuruluna atanma hakkı",
+              "D": "Vergi borcundan muafiyet",
+              "E": "Payların nominal değerini belirleme yetkisi"
+            },
+            "dogruCevap": "A",
+            "cozum": "Derecelendirme notu kredi riski hakkında görüş sağlar; riski tamamen ortadan kaldırmaz."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Değişken faizli borçlanma aracı neyi ifade eder?",
+            "secenekler": {
+              "A": "Getirinin referans oran veya formüle göre dönemsel değişebilmesini",
+              "B": "Getirinin hiçbir zaman ödenmemesini",
+              "C": "Pay sahiplerine oy hakkı verilmesini",
+              "D": "Sadece bedelsiz pay dağıtılmasını",
+              "E": "Aracın vadeli işlem sözleşmesi olmasını"
+            },
+            "dogruCevap": "A",
+            "cozum": "Değişken faizli araçlarda kupon/getiri belirlenen referans oran veya formüle göre değişebilir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Sabit faizli borçlanma aracı için hangisi doğrudur?",
+            "secenekler": {
+              "A": "Getiri oranı ihraç koşullarında önceden belirlenir.",
+              "B": "Getiri oranı her zaman pay fiyatına eşittir.",
+              "C": "Yatırımcıya yönetim hakkı verir.",
+              "D": "Vade sonunda hiçbir ödeme yapılmaz.",
+              "E": "Sadece yeşil projeler için kullanılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Sabit faizli araçlarda kupon oranı ihraç koşullarında baştan belirlenir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "İtfa planı neden önemlidir?",
+            "secenekler": {
+              "A": "Anapara ve getiri ödemelerinin zamanlamasını gösterir.",
+              "B": "Genel kurul gündemini belirler.",
+              "C": "Şirket logosunu değiştirir.",
+              "D": "Borsada fiyatı sabitler.",
+              "E": "Yatırımcıya vergi affı sağlar."
+            },
+            "dogruCevap": "A",
+            "cozum": "İtfa planı borçlanma aracının ödeme akışını ve vade yapısını anlamak için temel bilgidir."
+          },
+          {
+            "id": 21,
+            "soruMetni": "Borçlanma araçlarının borsada işlem görmesi yatırımcıya ne sağlayabilir?",
+            "secenekler": {
+              "A": "İkincil piyasada likidite ve fiyat oluşumu imkanı",
+              "B": "Kesin kar garantisi",
+              "C": "Yönetim kurulu üyeliği",
+              "D": "Vergi borcu silinmesi",
+              "E": "Pay sahipliği hakkı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Borsada işlem görme ikincil piyasa likiditesini ve fiyat oluşumunu kolaylaştırabilir."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Yeşil borçlanma araçlarında raporlama hangi ilkeyi destekler?",
+            "secenekler": {
+              "A": "Şeffaflık ve fon kullanımının izlenebilirliği",
+              "B": "Gizlilik ve açıklamama",
+              "C": "Pay fiyatı garantisi",
+              "D": "Oy hakkı sınırsızlığı",
+              "E": "Fiziki teslim zorunluluğu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Raporlama, fonların taahhüt edilen proje ve hedeflere uygun kullanımını izlemeye yardımcı olur."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Paya dönüştürülebilir tahvillerde dönüştürme oranı neyi gösterir?",
+            "secenekler": {
+              "A": "Tahvil karşılığında alınabilecek pay miktarı veya hesaplama esasını",
+              "B": "Tahvilin vergi numarasını",
+              "C": "Genel kurul toplantı oranını",
+              "D": "Borsa işlem komisyonunu",
+              "E": "Fon portföy sınırlamasını"
+            },
+            "dogruCevap": "A",
+            "cozum": "Dönüştürme oranı tahvilin hangi miktarda paya dönüşeceğini belirleyen temel unsurlardandır."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Değiştirilebilir tahvillerde değiştirme hakkının kullanılması ne anlama gelir?",
+            "secenekler": {
+              "A": "Tahvilin belirlenen paylarla değiştirilmesi imkanını kullanmak",
+              "B": "Tahvili vergiden muaf hale getirmek",
+              "C": "Şirketi tasfiye etmek",
+              "D": "Borsada işlem görmeyi durdurmak",
+              "E": "Fon içtüzüğünü değiştirmek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Yatırımcı, ihraç koşullarına göre tahvilini belirlenen paylarla değiştirebilir."
+          },
+          {
+            "id": 25,
+            "soruMetni": "Borçlanma Araçları Tebliği kapsamındaki türlerde hangi eşleştirme doğrudur?",
+            "secenekler": {
+              "A": "Tahvil - borçlanma; finansman bonosu - kısa vadeli finansman; yeşil borçlanma aracı - çevresel proje finansmanı",
+              "B": "Tahvil - oy hakkı; finansman bonosu - kar payı; yeşil borçlanma aracı - fiziki altın teslimi",
+              "C": "Tahvil - fon içtüzüğü; finansman bonosu - genel kurul; yeşil borçlanma aracı - vergi levhası",
+              "D": "Tahvil - pay senedi; finansman bonosu - kira sözleşmesi; yeşil borçlanma aracı - personel bordrosu",
+              "E": "Tahvil - vadesiz ortaklık; finansman bonosu - sınırsız oy; yeşil borçlanma aracı - temerrüt yasağı"
+            },
+            "dogruCevap": "A",
+            "cozum": "Tahvil borçlanma aracıdır; finansman bonosu kısa vadeli finansman sağlar; yeşil borçlanma araçları çevresel projelerle ilişkilidir."
+          }
+        ]
+      },
+      {
+        "testId": 100305,
+        "testAdi": "Bölüm 3.1: Yatırım Fonu Katılma Payları - Kavramsal Çerçeve",
+        "testTuru": "bolum",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Kolektif yatırım kuruluşlarının yatırım fonları bakımından temel işlevi nedir?",
+            "secenekler": {
+              "A": "Yatırımcı birikimlerini ortak portföyde toplayıp profesyonel yönetim altında değerlendirmek",
+              "B": "Fonun tek varlık veya tek ihraççı riskine aşırı bağımlı hale gelmesini önlemeye",
+              "C": "Kurucu, yönetici veya saklayıcının kendi borçlarıyla fon varlıklarının karışması riskine karşı",
+              "D": "Fon portföyündeki varlıkların değerinin artması veya azalması",
+              "E": "Fon varlıklarının saklanması ve mevzuata uygunluk kontrollerine katkı sağlaması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Yatırım fonu, çok sayıda yatırımcının birikimini ortak portföyde birleştirir ve profesyonel yönetimle değerlendirir."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Yatırım fonu katılma payı hangi hakkı temsil eder?",
+            "secenekler": {
+              "A": "Düşük tutarlarla çeşitlendirilmiş ve profesyonel yönetilen portföye erişebilmek",
+              "B": "Fon toplam değerinden pay alma ve fon portföyüne ekonomik olarak katılma hakkını",
+              "C": "Tüzel kişilikleri bulunmaz; malvarlığı esaslı bir yapı olarak kurulur",
+              "D": "Fon portföyündeki varlık değerinden fon borçlarının düşülmesiyle",
+              "E": "Fonun kurulmasından ve mevzuattaki temel yükümlülüklerden sorumlu kuruluştur"
+            },
+            "dogruCevap": "B",
+            "cozum": "Katılma payı, yatırımcının fon değerindeki ekonomik payını temsil eden sermaye piyasası aracıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Yatırım fonlarında profesyonel yönetim ilkesi neyi anlatır?",
+            "secenekler": {
+              "A": "Getiri garanti değildir; fon değeri portföydeki varlıkların performansına bağlıdır",
+              "B": "Yatırımcı fon stratejisini seçer ancak tekil varlık kararlarını doğrudan vermez",
+              "C": "Fon portföyünün uzman portföy yöneticileri tarafından yönetilmesini",
+              "D": "Fon toplam değerinin dolaşımdaki katılma payı sayısına bölünmesine",
+              "E": "Fon portföyünü fon stratejisi ve sınırlamalarına uygun yönetmek"
+            },
+            "dogruCevap": "C",
+            "cozum": "Fon yatırımcısı her varlığı tek tek seçmez; portföy uzman yönetim tarafından fon stratejisine uygun yönetilir."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Riskin dağıtılması ilkesi yatırım fonlarında hangi amaca hizmet eder?",
+            "secenekler": {
+              "A": "Kurucu, yönetici veya saklayıcının kendi borçlarıyla fon varlıklarının karışması riskine karşı",
+              "B": "Fon portföyündeki varlıkların değerinin artması veya azalması",
+              "C": "Fon varlıklarının saklanması ve mevzuata uygunluk kontrollerine katkı sağlaması",
+              "D": "Fonun tek varlık veya tek ihraççı riskine aşırı bağımlı hale gelmesini önlemeye",
+              "E": "Yatırım fonu malvarlığı yapısıdır; yatırım ortaklığı anonim ortaklık niteliğindedir"
+            },
+            "dogruCevap": "D",
+            "cozum": "Çeşitlendirme, fonun yoğunlaşma riskini azaltmak için temel kolektif yatırım ilkesidir."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Küçük tasarruf sahipleri için yatırım fonlarının başlıca avantajı nedir?",
+            "secenekler": {
+              "A": "Tüzel kişilikleri bulunmaz; malvarlığı esaslı bir yapı olarak kurulur",
+              "B": "Fon portföyündeki varlık değerinden fon borçlarının düşülmesiyle",
+              "C": "Fonun kurulmasından ve mevzuattaki temel yükümlülüklerden sorumlu kuruluştur",
+              "D": "Kurucu şirket ortağı olmaz, fon değeri üzerinde ekonomik hak sahibi olur",
+              "E": "Düşük tutarlarla çeşitlendirilmiş ve profesyonel yönetilen portföye erişebilmek"
+            },
+            "dogruCevap": "E",
+            "cozum": "Fonlar küçük birikimlerle geniş portföylere katılımı kolaylaştırır."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Yatırım fonlarında getiri konusunda doğru yaklaşım hangisidir?",
+            "secenekler": {
+              "A": "Getiri garanti değildir; fon değeri portföydeki varlıkların performansına bağlıdır",
+              "B": "Yatırımcı fon stratejisini seçer ancak tekil varlık kararlarını doğrudan vermez",
+              "C": "Fon toplam değerinin dolaşımdaki katılma payı sayısına bölünmesine",
+              "D": "Fon portföyünü fon stratejisi ve sınırlamalarına uygun yönetmek",
+              "E": "Yatırımcının tekil menkul kıymet seçiminde doğrudan kontrolünün sınırlı olması"
+            },
+            "dogruCevap": "A",
+            "cozum": "Fon yatırımcısı piyasa koşullarına bağlı olarak kar veya zarar edebilir."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Fon malvarlığının ayrı tutulması yatırımcıyı hangi riske karşı korur?",
+            "secenekler": {
+              "A": "Fon portföyündeki varlıkların değerinin artması veya azalması",
+              "B": "Kurucu, yönetici veya saklayıcının kendi borçlarıyla fon varlıklarının karışması riskine karşı",
+              "C": "Fon varlıklarının saklanması ve mevzuata uygunluk kontrollerine katkı sağlaması",
+              "D": "Yatırım fonu malvarlığı yapısıdır; yatırım ortaklığı anonim ortaklık niteliğindedir",
+              "E": "Fon fiyatı, riskleri, ücretleri ve portföy bilgilerinin düzenli açıklanmasıyla"
+            },
+            "dogruCevap": "B",
+            "cozum": "Fon varlıklarının ayrı izlenmesi yatırımcı korunmasının temel unsurlarındandır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Genel ilke olarak yatırım fonlarının hukuki yapısı için hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fon portföyündeki varlık değerinden fon borçlarının düşülmesiyle",
+              "B": "Fonun kurulmasından ve mevzuattaki temel yükümlülüklerden sorumlu kuruluştur",
+              "C": "Tüzel kişilikleri bulunmaz; malvarlığı esaslı bir yapı olarak kurulur",
+              "D": "Kurucu şirket ortağı olmaz, fon değeri üzerinde ekonomik hak sahibi olur",
+              "E": "Katılma payının temsil ettiği ekonomik hak ve fondan çıkış esasları çerçevesinde"
+            },
+            "dogruCevap": "C",
+            "cozum": "Yatırım fonu genel olarak tüzel kişiliği olmayan, fon malvarlığına dayanan bir yapıdır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Yatırım fonu yatırımcısının portföy üzerindeki kontrolü nasıl değerlendirilir?",
+            "secenekler": {
+              "A": "Fon toplam değerinin dolaşımdaki katılma payı sayısına bölünmesine",
+              "B": "Fon portföyünü fon stratejisi ve sınırlamalarına uygun yönetmek",
+              "C": "Yatırımcının tekil menkul kıymet seçiminde doğrudan kontrolünün sınırlı olması",
+              "D": "Yatırımcı fon stratejisini seçer ancak tekil varlık kararlarını doğrudan vermez",
+              "E": "Fon içtüzüğü, izahname ve yatırımcı bilgi formu gibi belgelerle"
+            },
+            "dogruCevap": "D",
+            "cozum": "Fonlarda yatırım kararları fon dokümanları çerçevesinde portföy yönetimi tarafından alınır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Katılma payı fiyatının değişmesinin temel nedeni nedir?",
+            "secenekler": {
+              "A": "Fon varlıklarının saklanması ve mevzuata uygunluk kontrollerine katkı sağlaması",
+              "B": "Yatırım fonu malvarlığı yapısıdır; yatırım ortaklığı anonim ortaklık niteliğindedir",
+              "C": "Fon fiyatı, riskleri, ücretleri ve portföy bilgilerinin düzenli açıklanmasıyla",
+              "D": "Fonun net getirisini ve katılma payı değerini etkilediği için",
+              "E": "Fon portföyündeki varlıkların değerinin artması veya azalması"
+            },
+            "dogruCevap": "E",
+            "cozum": "Fon birim pay fiyatı fon toplam değerindeki değişimlerden etkilenir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Fon toplam değeri genel olarak nasıl bulunur?",
+            "secenekler": {
+              "A": "Fon portföyündeki varlık değerinden fon borçlarının düşülmesiyle",
+              "B": "Fonun kurulmasından ve mevzuattaki temel yükümlülüklerden sorumlu kuruluştur",
+              "C": "Kurucu şirket ortağı olmaz, fon değeri üzerinde ekonomik hak sahibi olur",
+              "D": "Katılma payının temsil ettiği ekonomik hak ve fondan çıkış esasları çerçevesinde",
+              "E": "Katılma payı fiyatının doğru ve adil hesaplanması için"
+            },
+            "dogruCevap": "A",
+            "cozum": "Fon toplam değeri, varlıklar eksi borçlar yaklaşımıyla hesaplanır."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Birim katılma payı fiyatı hangi hesaplama mantığına dayanır?",
+            "secenekler": {
+              "A": "Fon portföyünü fon stratejisi ve sınırlamalarına uygun yönetmek",
+              "B": "Fon toplam değerinin dolaşımdaki katılma payı sayısına bölünmesine",
+              "C": "Yatırımcının tekil menkul kıymet seçiminde doğrudan kontrolünün sınırlı olması",
+              "D": "Fon içtüzüğü, izahname ve yatırımcı bilgi formu gibi belgelerle",
+              "E": "Yatırımcının risk, getiri, maliyet ve stratejiyi bilinçli değerlendirmesini sağlamak"
+            },
+            "dogruCevap": "B",
+            "cozum": "Birim fiyat, fon toplam değerinin tedavüldeki pay sayısına bölünmesiyle bulunur."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Portföy saklayıcısının yatırım fonu sistemindeki temel rolü nedir?",
+            "secenekler": {
+              "A": "Yatırım fonu malvarlığı yapısıdır; yatırım ortaklığı anonim ortaklık niteliğindedir",
+              "B": "Fon fiyatı, riskleri, ücretleri ve portföy bilgilerinin düzenli açıklanmasıyla",
+              "C": "Fon varlıklarının saklanması ve mevzuata uygunluk kontrollerine katkı sağlaması",
+              "D": "Fonun net getirisini ve katılma payı değerini etkilediği için",
+              "E": "Ayrı malvarlığı, profesyonel yönetim, riskin dağıtılması ve şeffaf bilgilendirme"
+            },
+            "dogruCevap": "C",
+            "cozum": "Saklayıcı, varlıkların korunması ve belirli kontrol görevleriyle sistemde güven unsuru oluşturur."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Yatırım fonunda kurucu hangi konumdadır?",
+            "secenekler": {
+              "A": "Kurucu şirket ortağı olmaz, fon değeri üzerinde ekonomik hak sahibi olur",
+              "B": "Katılma payının temsil ettiği ekonomik hak ve fondan çıkış esasları çerçevesinde",
+              "C": "Katılma payı fiyatının doğru ve adil hesaplanması için",
+              "D": "Fonun kurulmasından ve mevzuattaki temel yükümlülüklerden sorumlu kuruluştur",
+              "E": "Yatırımcı birikimlerini ortak portföyde toplayıp profesyonel yönetim altında değerlendirmek"
+            },
+            "dogruCevap": "D",
+            "cozum": "Kurucu fonun kuruluş ve işleyiş sorumluluklarında merkezi taraftır."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Portföy yöneticisinin görevi aşağıdakilerden hangisidir?",
+            "secenekler": {
+              "A": "Yatırımcının tekil menkul kıymet seçiminde doğrudan kontrolünün sınırlı olması",
+              "B": "Fon içtüzüğü, izahname ve yatırımcı bilgi formu gibi belgelerle",
+              "C": "Yatırımcının risk, getiri, maliyet ve stratejiyi bilinçli değerlendirmesini sağlamak",
+              "D": "Fon toplam değerinden pay alma ve fon portföyüne ekonomik olarak katılma hakkını",
+              "E": "Fon portföyünü fon stratejisi ve sınırlamalarına uygun yönetmek"
+            },
+            "dogruCevap": "E",
+            "cozum": "Portföy yöneticisi, izahname ve içtüzükteki esaslara bağlı olarak yatırım kararlarını uygular."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Yatırım fonu ile yatırım ortaklığı arasındaki temel farklardan biri nedir?",
+            "secenekler": {
+              "A": "Yatırım fonu malvarlığı yapısıdır; yatırım ortaklığı anonim ortaklık niteliğindedir",
+              "B": "Fon fiyatı, riskleri, ücretleri ve portföy bilgilerinin düzenli açıklanmasıyla",
+              "C": "Fonun net getirisini ve katılma payı değerini etkilediği için",
+              "D": "Ayrı malvarlığı, profesyonel yönetim, riskin dağıtılması ve şeffaf bilgilendirme",
+              "E": "Fon portföyünün uzman portföy yöneticileri tarafından yönetilmesini"
+            },
+            "dogruCevap": "A",
+            "cozum": "Yatırım ortaklığı şirket yapısındayken yatırım fonu genel olarak malvarlığı esasına dayanır."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Katılma payı sahibi kurucu şirket bakımından hangi sıfata sahip olur?",
+            "secenekler": {
+              "A": "Katılma payının temsil ettiği ekonomik hak ve fondan çıkış esasları çerçevesinde",
+              "B": "Kurucu şirket ortağı olmaz, fon değeri üzerinde ekonomik hak sahibi olur",
+              "C": "Katılma payı fiyatının doğru ve adil hesaplanması için",
+              "D": "Yatırımcı birikimlerini ortak portföyde toplayıp profesyonel yönetim altında değerlendirmek",
+              "E": "Fonun tek varlık veya tek ihraççı riskine aşırı bağımlı hale gelmesini önlemeye"
+            },
+            "dogruCevap": "B",
+            "cozum": "Katılma payı kurucu ortaklığı değil, fon malvarlığından pay alma hakkını temsil eder."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Yatırım fonunun dezavantajları arasında hangisi sayılabilir?",
+            "secenekler": {
+              "A": "Fon içtüzüğü, izahname ve yatırımcı bilgi formu gibi belgelerle",
+              "B": "Yatırımcının risk, getiri, maliyet ve stratejiyi bilinçli değerlendirmesini sağlamak",
+              "C": "Yatırımcının tekil menkul kıymet seçiminde doğrudan kontrolünün sınırlı olması",
+              "D": "Fon toplam değerinden pay alma ve fon portföyüne ekonomik olarak katılma hakkını",
+              "E": "Düşük tutarlarla çeşitlendirilmiş ve profesyonel yönetilen portföye erişebilmek"
+            },
+            "dogruCevap": "C",
+            "cozum": "Fon yatırımcısı strateji seçer; portföy bileşenlerinin seçimi yönetime aittir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Yatırım fonlarında şeffaflık ilkesi hangi uygulamalarla sağlanır?",
+            "secenekler": {
+              "A": "Fonun net getirisini ve katılma payı değerini etkilediği için",
+              "B": "Ayrı malvarlığı, profesyonel yönetim, riskin dağıtılması ve şeffaf bilgilendirme",
+              "C": "Fon portföyünün uzman portföy yöneticileri tarafından yönetilmesini",
+              "D": "Fon fiyatı, riskleri, ücretleri ve portföy bilgilerinin düzenli açıklanmasıyla",
+              "E": "Getiri garanti değildir; fon değeri portföydeki varlıkların performansına bağlıdır"
+            },
+            "dogruCevap": "D",
+            "cozum": "Yatırımcı doğru karar verebilmek için fon hakkında güncel ve anlaşılır bilgiye ihtiyaç duyar."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Katılma payı sahibinin fon malvarlığı üzerindeki hakkı nasıl kullanılır?",
+            "secenekler": {
+              "A": "Katılma payı fiyatının doğru ve adil hesaplanması için",
+              "B": "Yatırımcı birikimlerini ortak portföyde toplayıp profesyonel yönetim altında değerlendirmek",
+              "C": "Fonun tek varlık veya tek ihraççı riskine aşırı bağımlı hale gelmesini önlemeye",
+              "D": "Kurucu, yönetici veya saklayıcının kendi borçlarıyla fon varlıklarının karışması riskine karşı",
+              "E": "Katılma payının temsil ettiği ekonomik hak ve fondan çıkış esasları çerçevesinde"
+            },
+            "dogruCevap": "E",
+            "cozum": "Yatırımcı fon varlıklarını doğrudan talep etmez; hakkını katılma payı üzerinden kullanır."
+          },
+          {
+            "id": 21,
+            "soruMetni": "Fonun yatırım amacı ve stratejisi yatırımcıya öncelikle nasıl duyurulur?",
+            "secenekler": {
+              "A": "Fon içtüzüğü, izahname ve yatırımcı bilgi formu gibi belgelerle",
+              "B": "Yatırımcının risk, getiri, maliyet ve stratejiyi bilinçli değerlendirmesini sağlamak",
+              "C": "Fon toplam değerinden pay alma ve fon portföyüne ekonomik olarak katılma hakkını",
+              "D": "Düşük tutarlarla çeşitlendirilmiş ve profesyonel yönetilen portföye erişebilmek",
+              "E": "Tüzel kişilikleri bulunmaz; malvarlığı esaslı bir yapı olarak kurulur"
+            },
+            "dogruCevap": "A",
+            "cozum": "Fon dokümanları yatırımcıya fonun stratejisini, riskini ve işleyişini açıklar."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Fon giderleri yatırımcı açısından neden önemlidir?",
+            "secenekler": {
+              "A": "Ayrı malvarlığı, profesyonel yönetim, riskin dağıtılması ve şeffaf bilgilendirme",
+              "B": "Fonun net getirisini ve katılma payı değerini etkilediği için",
+              "C": "Fon portföyünün uzman portföy yöneticileri tarafından yönetilmesini",
+              "D": "Getiri garanti değildir; fon değeri portföydeki varlıkların performansına bağlıdır",
+              "E": "Yatırımcı fon stratejisini seçer ancak tekil varlık kararlarını doğrudan vermez"
+            },
+            "dogruCevap": "B",
+            "cozum": "Yönetim ücreti ve diğer giderler fon toplam değerinden karşılandığından yatırımcı sonucunu etkiler."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Fon portföyündeki varlıkların doğru değerlenmesi neden gereklidir?",
+            "secenekler": {
+              "A": "Yatırımcı birikimlerini ortak portföyde toplayıp profesyonel yönetim altında değerlendirmek",
+              "B": "Fonun tek varlık veya tek ihraççı riskine aşırı bağımlı hale gelmesini önlemeye",
+              "C": "Katılma payı fiyatının doğru ve adil hesaplanması için",
+              "D": "Kurucu, yönetici veya saklayıcının kendi borçlarıyla fon varlıklarının karışması riskine karşı",
+              "E": "Fon portföyündeki varlıkların değerinin artması veya azalması"
+            },
+            "dogruCevap": "C",
+            "cozum": "Hatalı değerleme pay fiyatını bozarak yatırımcılar arasında adaletsizlik yaratabilir."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Kamuyu aydınlatma düzenlemelerinin yatırım fonlarındaki temel amacı nedir?",
+            "secenekler": {
+              "A": "Fon toplam değerinden pay alma ve fon portföyüne ekonomik olarak katılma hakkını",
+              "B": "Düşük tutarlarla çeşitlendirilmiş ve profesyonel yönetilen portföye erişebilmek",
+              "C": "Tüzel kişilikleri bulunmaz; malvarlığı esaslı bir yapı olarak kurulur",
+              "D": "Yatırımcının risk, getiri, maliyet ve stratejiyi bilinçli değerlendirmesini sağlamak",
+              "E": "Fon portföyündeki varlık değerinden fon borçlarının düşülmesiyle"
+            },
+            "dogruCevap": "D",
+            "cozum": "Bilgilendirme, yatırımcı kararının açık ve karşılaştırılabilir bilgiye dayanmasını sağlar."
+          },
+          {
+            "id": 25,
+            "soruMetni": "Yatırım fonlarının temel ilkeleri birlikte düşünüldüğünde hangisi öne çıkar?",
+            "secenekler": {
+              "A": "Fon portföyünün uzman portföy yöneticileri tarafından yönetilmesini",
+              "B": "Getiri garanti değildir; fon değeri portföydeki varlıkların performansına bağlıdır",
+              "C": "Yatırımcı fon stratejisini seçer ancak tekil varlık kararlarını doğrudan vermez",
+              "D": "Fon toplam değerinin dolaşımdaki katılma payı sayısına bölünmesine",
+              "E": "Ayrı malvarlığı, profesyonel yönetim, riskin dağıtılması ve şeffaf bilgilendirme"
+            },
+            "dogruCevap": "E",
+            "cozum": "Bu dört unsur yatırım fonu yapısının yatırımcı koruma ve etkin yönetim mantığını oluşturur."
+          }
+        ]
+      },
+      {
+        "testId": 100306,
+        "testAdi": "Bölüm 3.2: Fon Malvarlığı, Şemsiye Fon ve Katılma Payları",
+        "testTuru": "bolum",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Şemsiye fon yapısı neyi ifade eder?",
+            "secenekler": {
+              "A": "Fonun temel özelliklerini kısa, anlaşılır ve karşılaştırılabilir biçimde sunmak",
+              "B": "Aynı içtüzük çatısı altında farklı fonların kurulabildiği üst yapıyı",
+              "C": "Fonun risklerini, stratejisini, maliyetlerini ve işleyişini açıklamak",
+              "D": "Her fon kendi portföyüne ve yatırım stratejisine sahip olabilir",
+              "E": "Portföy saklayıcısı"
+            },
+            "dogruCevap": "B",
+            "cozum": "Şemsiye fon, farklı alt fonların tek çatı altında organize edilmesine imkan verir."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Fon içtüzüğünün temel işlevi nedir?",
+            "secenekler": {
+              "A": "Fon varlıklarının kurucu, yönetici ve saklayıcının malvarlığından ayrı izlenmesini",
+              "B": "Fon içtüzüğü, izahname ve ilgili fon dokümanlarında",
+              "C": "Fonun kuruluş, yönetim, saklama ve işleyiş esaslarını belirlemek",
+              "D": "Fonun yatırım alanı ve risk profilini anlamaya yardımcı olmasıdır",
+              "E": "Fon maliyetlerini ve yatırımcının net getirisini etkilediği için"
+            },
+            "dogruCevap": "C",
+            "cozum": "İçtüzük fonun temel kurallarını ve tarafların hak-yükümlülük çerçevesini gösterir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "İzahname yatırımcı için neden kritik bir belgedir?",
+            "secenekler": {
+              "A": "Yalnızca fon hesabına ve fon dokümanlarında belirlenen amaçlara uygun işlemler için",
+              "B": "Fonun türü ve yatırım stratejisi hakkında yatırımcıyı yanıltmama ilkesine",
+              "C": "Fon dokümanlarında yer alan alım-satım ve fiyatlama esaslarına",
+              "D": "Fonun stratejisini, risklerini, ücretlerini ve alım-satım esaslarını açıklaması nedeniyle",
+              "E": "Mevzuatta öngörülen onay, bildirim ve kamuyu aydınlatma süreçleri"
+            },
+            "dogruCevap": "D",
+            "cozum": "İzahname fonu değerlendirmek için gerekli ana bilgileri içerir."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Yatırımcı bilgi formunun ana amacı nedir?",
+            "secenekler": {
+              "A": "Fonun risklerini, stratejisini, maliyetlerini ve işleyişini açıklamak",
+              "B": "Her fon kendi portföyüne ve yatırım stratejisine sahip olabilir",
+              "C": "Portföy saklayıcısı",
+              "D": "Pay sahipliği bilgilerinin elektronik merkezi kayıt sistemi üzerinden takip edilmesi",
+              "E": "Fonun temel özelliklerini kısa, anlaşılır ve karşılaştırılabilir biçimde sunmak"
+            },
+            "dogruCevap": "E",
+            "cozum": "Yatırımcı bilgi formu fonun risk-getiri profili ve maliyetleri gibi bilgileri özetler."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Fon malvarlığına ilişkin ayrılık ilkesi neyi gerektirir?",
+            "secenekler": {
+              "A": "Fon varlıklarının kurucu, yönetici ve saklayıcının malvarlığından ayrı izlenmesini",
+              "B": "Fon içtüzüğü, izahname ve ilgili fon dokümanlarında",
+              "C": "Fonun yatırım alanı ve risk profilini anlamaya yardımcı olmasıdır",
+              "D": "Fon maliyetlerini ve yatırımcının net getirisini etkilediği için",
+              "E": "Yatırımcıya açıklanan strateji ve sınırlamalara bağlılık ilkesini"
+            },
+            "dogruCevap": "A",
+            "cozum": "Fon malvarlığı ayrı tutulur; böylece tarafların kendi borçları fon varlıklarına karışmaz."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Fon malvarlığı hangi amaçlarla kullanılabilir?",
+            "secenekler": {
+              "A": "Fonun türü ve yatırım stratejisi hakkında yatırımcıyı yanıltmama ilkesine",
+              "B": "Yalnızca fon hesabına ve fon dokümanlarında belirlenen amaçlara uygun işlemler için",
+              "C": "Fon dokümanlarında yer alan alım-satım ve fiyatlama esaslarına",
+              "D": "Mevzuatta öngörülen onay, bildirim ve kamuyu aydınlatma süreçleri",
+              "E": "Giderin fonla ilgili olması ve fon dokümanlarında izin verilen nitelikte bulunması"
+            },
+            "dogruCevap": "B",
+            "cozum": "Fon varlıkları fon amacı dışında kullanılamaz."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Katılma payı ihracında yatırımcıya sunulan belgelerin ortak amacı nedir?",
+            "secenekler": {
+              "A": "Her fon kendi portföyüne ve yatırım stratejisine sahip olabilir",
+              "B": "Portföy saklayıcısı",
+              "C": "Fonun risklerini, stratejisini, maliyetlerini ve işleyişini açıklamak",
+              "D": "Pay sahipliği bilgilerinin elektronik merkezi kayıt sistemi üzerinden takip edilmesi",
+              "E": "Riskler, geçmiş performans, ücretler ve yatırım stratejisi hakkında açık bilgi"
+            },
+            "dogruCevap": "C",
+            "cozum": "Bilgilendirme belgeleri yatırımcının fonu bilinçli seçmesini sağlar."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Katılma payı alım-satım esasları nerede düzenlenir?",
+            "secenekler": {
+              "A": "Fonun yatırım alanı ve risk profilini anlamaya yardımcı olmasıdır",
+              "B": "Fon maliyetlerini ve yatırımcının net getirisini etkilediği için",
+              "C": "Yatırımcıya açıklanan strateji ve sınırlamalara bağlılık ilkesini",
+              "D": "Fon içtüzüğü, izahname ve ilgili fon dokümanlarında",
+              "E": "Evet, fon portföyü yetkili portföy yönetim şirketi tarafından yönetilebilir"
+            },
+            "dogruCevap": "D",
+            "cozum": "Alım-satım zamanı, fiyatlama ve ödeme kuralları fon belgelerinde belirtilir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Fon unvanı belirlenirken hangi ilkeye uyulmalıdır?",
+            "secenekler": {
+              "A": "Fon dokümanlarında yer alan alım-satım ve fiyatlama esaslarına",
+              "B": "Mevzuatta öngörülen onay, bildirim ve kamuyu aydınlatma süreçleri",
+              "C": "Giderin fonla ilgili olması ve fon dokümanlarında izin verilen nitelikte bulunması",
+              "D": "Şemsiye fon çatısı altındaki fonların kuruluş ve işleyiş çerçevesini belirlediği için",
+              "E": "Fonun türü ve yatırım stratejisi hakkında yatırımcıyı yanıltmama ilkesine"
+            },
+            "dogruCevap": "E",
+            "cozum": "Fon unvanı portföy ve stratejiyle uyumlu olmalıdır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Şemsiye fon altındaki fonlar bakımından hangisi doğrudur?",
+            "secenekler": {
+              "A": "Her fon kendi portföyüne ve yatırım stratejisine sahip olabilir",
+              "B": "Portföy saklayıcısı",
+              "C": "Pay sahipliği bilgilerinin elektronik merkezi kayıt sistemi üzerinden takip edilmesi",
+              "D": "Riskler, geçmiş performans, ücretler ve yatırım stratejisi hakkında açık bilgi",
+              "E": "Katılma payı fiyatının hatalı hesaplanması riskini"
+            },
+            "dogruCevap": "A",
+            "cozum": "Şemsiye yapı aynı çatı içinde farklı stratejili fonlara imkan tanır."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Fon türünün yatırımcı için önemi nedir?",
+            "secenekler": {
+              "A": "Fon maliyetlerini ve yatırımcının net getirisini etkilediği için",
+              "B": "Fonun yatırım alanı ve risk profilini anlamaya yardımcı olmasıdır",
+              "C": "Yatırımcıya açıklanan strateji ve sınırlamalara bağlılık ilkesini",
+              "D": "Evet, fon portföyü yetkili portföy yönetim şirketi tarafından yönetilebilir",
+              "E": "Fon türü, yatırım stratejisi, risk düzeyi, ücretler ve alım-satım esasları"
+            },
+            "dogruCevap": "B",
+            "cozum": "Fon türü portföyün ağırlıklı varlık sınıfı ve risk niteliği hakkında sinyal verir."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Katılma payı bedelinin ödenmesi hangi kurallara bağlıdır?",
+            "secenekler": {
+              "A": "Mevzuatta öngörülen onay, bildirim ve kamuyu aydınlatma süreçleri",
+              "B": "Giderin fonla ilgili olması ve fon dokümanlarında izin verilen nitelikte bulunması",
+              "C": "Fon dokümanlarında yer alan alım-satım ve fiyatlama esaslarına",
+              "D": "Şemsiye fon çatısı altındaki fonların kuruluş ve işleyiş çerçevesini belirlediği için",
+              "E": "Yatırımcının fonu seçerken dayandığı risk ve getiri beklentisini değiştirebileceği için"
+            },
+            "dogruCevap": "C",
+            "cozum": "Pay geri satımı ve ödeme süreci fon belgelerinde belirlenen esaslara göre işler."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Fon varlıklarının saklanmasında temel yetkili taraf hangisidir?",
+            "secenekler": {
+              "A": "Pay sahipliği bilgilerinin elektronik merkezi kayıt sistemi üzerinden takip edilmesi",
+              "B": "Riskler, geçmiş performans, ücretler ve yatırım stratejisi hakkında açık bilgi",
+              "C": "Katılma payı fiyatının hatalı hesaplanması riskini",
+              "D": "Portföy saklayıcısı",
+              "E": "Fiyatlama, muhasebe, kayıt ve raporlama işlemlerinin düzenli yürütülmesi"
+            },
+            "dogruCevap": "D",
+            "cozum": "Fon varlıkları yetkili portföy saklayıcısı nezdinde saklanır ve izlenir."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Fon yönetim ücreti yatırımcıya neden açıklanmalıdır?",
+            "secenekler": {
+              "A": "Yatırımcıya açıklanan strateji ve sınırlamalara bağlılık ilkesini",
+              "B": "Evet, fon portföyü yetkili portföy yönetim şirketi tarafından yönetilebilir",
+              "C": "Fon türü, yatırım stratejisi, risk düzeyi, ücretler ve alım-satım esasları",
+              "D": "Aynı içtüzük çatısı altında farklı fonların kurulabildiği üst yapıyı",
+              "E": "Fon maliyetlerini ve yatırımcının net getirisini etkilediği için"
+            },
+            "dogruCevap": "E",
+            "cozum": "Ücretler fon performansının yatırımcıya yansıyan net sonucunu değiştirir."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Fon izahnamesindeki önemli değişikliklerde hangi süreç önemlidir?",
+            "secenekler": {
+              "A": "Mevzuatta öngörülen onay, bildirim ve kamuyu aydınlatma süreçleri",
+              "B": "Giderin fonla ilgili olması ve fon dokümanlarında izin verilen nitelikte bulunması",
+              "C": "Şemsiye fon çatısı altındaki fonların kuruluş ve işleyiş çerçevesini belirlediği için",
+              "D": "Yatırımcının fonu seçerken dayandığı risk ve getiri beklentisini değiştirebileceği için",
+              "E": "Fonun kuruluş, yönetim, saklama ve işleyiş esaslarını belirlemek"
+            },
+            "dogruCevap": "A",
+            "cozum": "Önemli doküman değişiklikleri yatırımcı kararını etkileyebileceğinden usule uygun duyurulmalıdır."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Katılma paylarının kayden izlenmesi ne anlama gelir?",
+            "secenekler": {
+              "A": "Riskler, geçmiş performans, ücretler ve yatırım stratejisi hakkında açık bilgi",
+              "B": "Pay sahipliği bilgilerinin elektronik merkezi kayıt sistemi üzerinden takip edilmesi",
+              "C": "Katılma payı fiyatının hatalı hesaplanması riskini",
+              "D": "Fiyatlama, muhasebe, kayıt ve raporlama işlemlerinin düzenli yürütülmesi",
+              "E": "Fonun stratejisini, risklerini, ücretlerini ve alım-satım esaslarını açıklaması nedeniyle"
+            },
+            "dogruCevap": "B",
+            "cozum": "Kaydi sistemde fiziki senet yerine elektronik kayıt esastır."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Fon portföyünün izahnameye aykırı yönetilmesi hangi ilkeyi ihlal eder?",
+            "secenekler": {
+              "A": "Evet, fon portföyü yetkili portföy yönetim şirketi tarafından yönetilebilir",
+              "B": "Fon türü, yatırım stratejisi, risk düzeyi, ücretler ve alım-satım esasları",
+              "C": "Yatırımcıya açıklanan strateji ve sınırlamalara bağlılık ilkesini",
+              "D": "Aynı içtüzük çatısı altında farklı fonların kurulabildiği üst yapıyı",
+              "E": "Fonun temel özelliklerini kısa, anlaşılır ve karşılaştırılabilir biçimde sunmak"
+            },
+            "dogruCevap": "C",
+            "cozum": "Fon yönetimi açıklanan strateji ve sınırlamalara uygun olmalıdır."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Fon malvarlığından yapılacak giderlerde temel ölçüt nedir?",
+            "secenekler": {
+              "A": "Şemsiye fon çatısı altındaki fonların kuruluş ve işleyiş çerçevesini belirlediği için",
+              "B": "Yatırımcının fonu seçerken dayandığı risk ve getiri beklentisini değiştirebileceği için",
+              "C": "Fonun kuruluş, yönetim, saklama ve işleyiş esaslarını belirlemek",
+              "D": "Giderin fonla ilgili olması ve fon dokümanlarında izin verilen nitelikte bulunması",
+              "E": "Fon varlıklarının kurucu, yönetici ve saklayıcının malvarlığından ayrı izlenmesini"
+            },
+            "dogruCevap": "D",
+            "cozum": "Fon varlığı yalnızca fon hesabına yapılabilecek giderler için kullanılabilir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Katılma payı sahiplerine yapılan bilgilendirmede hangi bilgi seti önemlidir?",
+            "secenekler": {
+              "A": "Katılma payı fiyatının hatalı hesaplanması riskini",
+              "B": "Fiyatlama, muhasebe, kayıt ve raporlama işlemlerinin düzenli yürütülmesi",
+              "C": "Fonun stratejisini, risklerini, ücretlerini ve alım-satım esaslarını açıklaması nedeniyle",
+              "D": "Yalnızca fon hesabına ve fon dokümanlarında belirlenen amaçlara uygun işlemler için",
+              "E": "Riskler, geçmiş performans, ücretler ve yatırım stratejisi hakkında açık bilgi"
+            },
+            "dogruCevap": "E",
+            "cozum": "Dengeli bilgilendirme yalnızca getiri ihtimalini değil risk ve maliyetleri de kapsar."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Fonun kurucusu ile portföy yöneticisi farklı olabilir mi?",
+            "secenekler": {
+              "A": "Evet, fon portföyü yetkili portföy yönetim şirketi tarafından yönetilebilir",
+              "B": "Fon türü, yatırım stratejisi, risk düzeyi, ücretler ve alım-satım esasları",
+              "C": "Aynı içtüzük çatısı altında farklı fonların kurulabildiği üst yapıyı",
+              "D": "Fonun temel özelliklerini kısa, anlaşılır ve karşılaştırılabilir biçimde sunmak",
+              "E": "Fonun risklerini, stratejisini, maliyetlerini ve işleyişini açıklamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Mevzuata uygun yetkilendirmeyle kurucu ve portföy yöneticisi farklı kuruluşlar olabilir."
+          },
+          {
+            "id": 21,
+            "soruMetni": "Şemsiye fon içtüzüğü neden önemlidir?",
+            "secenekler": {
+              "A": "Yatırımcının fonu seçerken dayandığı risk ve getiri beklentisini değiştirebileceği için",
+              "B": "Şemsiye fon çatısı altındaki fonların kuruluş ve işleyiş çerçevesini belirlediği için",
+              "C": "Fonun kuruluş, yönetim, saklama ve işleyiş esaslarını belirlemek",
+              "D": "Fon varlıklarının kurucu, yönetici ve saklayıcının malvarlığından ayrı izlenmesini",
+              "E": "Fon içtüzüğü, izahname ve ilgili fon dokümanlarında"
+            },
+            "dogruCevap": "B",
+            "cozum": "Şemsiye fon içtüzüğü çatı fonun ana hukuki ve operasyonel çerçevesini oluşturur."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Değerleme esaslarına uyulmaması öncelikle hangi riski doğurur?",
+            "secenekler": {
+              "A": "Fiyatlama, muhasebe, kayıt ve raporlama işlemlerinin düzenli yürütülmesi",
+              "B": "Fonun stratejisini, risklerini, ücretlerini ve alım-satım esaslarını açıklaması nedeniyle",
+              "C": "Katılma payı fiyatının hatalı hesaplanması riskini",
+              "D": "Yalnızca fon hesabına ve fon dokümanlarında belirlenen amaçlara uygun işlemler için",
+              "E": "Fonun türü ve yatırım stratejisi hakkında yatırımcıyı yanıltmama ilkesine"
+            },
+            "dogruCevap": "C",
+            "cozum": "Birim pay fiyatı fon değerine bağlı olduğundan değerleme hataları doğrudan fiyatı etkiler."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Fon alırken yatırımcının öncelikle hangi unsurları incelemesi gerekir?",
+            "secenekler": {
+              "A": "Aynı içtüzük çatısı altında farklı fonların kurulabildiği üst yapıyı",
+              "B": "Fonun temel özelliklerini kısa, anlaşılır ve karşılaştırılabilir biçimde sunmak",
+              "C": "Fonun risklerini, stratejisini, maliyetlerini ve işleyişini açıklamak",
+              "D": "Fon türü, yatırım stratejisi, risk düzeyi, ücretler ve alım-satım esasları",
+              "E": "Her fon kendi portföyüne ve yatırım stratejisine sahip olabilir"
+            },
+            "dogruCevap": "D",
+            "cozum": "Fon seçimi risk, strateji, maliyet ve likidite bilgileri birlikte değerlendirilerek yapılmalıdır."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Yatırım stratejisinin değiştirilmesi neden hassas bir konudur?",
+            "secenekler": {
+              "A": "Fonun kuruluş, yönetim, saklama ve işleyiş esaslarını belirlemek",
+              "B": "Fon varlıklarının kurucu, yönetici ve saklayıcının malvarlığından ayrı izlenmesini",
+              "C": "Fon içtüzüğü, izahname ve ilgili fon dokümanlarında",
+              "D": "Fonun yatırım alanı ve risk profilini anlamaya yardımcı olmasıdır",
+              "E": "Yatırımcının fonu seçerken dayandığı risk ve getiri beklentisini değiştirebileceği için"
+            },
+            "dogruCevap": "E",
+            "cozum": "Strateji değişikliği yatırımcı beklentisini etkiler; bu yüzden bilgilendirme ve usul önemlidir."
+          },
+          {
+            "id": 25,
+            "soruMetni": "Fon operasyon süreçlerinin temel amacı nedir?",
+            "secenekler": {
+              "A": "Fiyatlama, muhasebe, kayıt ve raporlama işlemlerinin düzenli yürütülmesi",
+              "B": "Fonun stratejisini, risklerini, ücretlerini ve alım-satım esaslarını açıklaması nedeniyle",
+              "C": "Yalnızca fon hesabına ve fon dokümanlarında belirlenen amaçlara uygun işlemler için",
+              "D": "Fonun türü ve yatırım stratejisi hakkında yatırımcıyı yanıltmama ilkesine",
+              "E": "Fon dokümanlarında yer alan alım-satım ve fiyatlama esaslarına"
+            },
+            "dogruCevap": "A",
+            "cozum": "Fon hizmet ve operasyon süreçleri fonun günlük işleyişinin doğru sürdürülmesine hizmet eder."
+          }
+        ]
+      },
+      {
+        "testId": 100307,
+        "testAdi": "Bölüm 3.3: Portföy Sınırlamaları, Fon Türleri ve Sona Erme",
+        "testTuru": "bolum",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Yatırım fonlarında portföy sınırlamalarının temel amacı nedir?",
+            "secenekler": {
+              "A": "Ağırlıklı olarak tahvil, bono ve benzeri borçlanma araçlarına yatırım yapmak",
+              "B": "Daha esnek yatırım stratejilerine ve özel risk profiline sahip fonlar olmaları",
+              "C": "Yoğunlaşma riskini azaltmak ve fonun ilan edilen türüne uygun yönetilmesini sağlamak",
+              "D": "Tek bir ihraççıya aşırı bağımlılığı ve tekil ihraççı riskini sınırlamak için",
+              "E": "Kaldıraç, karşı taraf riski ve stratejiye uygunluk nedeniyle"
+            },
+            "dogruCevap": "C",
+            "cozum": "Portföy sınırlamaları yatırımcı korunması ve riskin dağıtılması için kullanılır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Bir fonun belirli bir tür unvanını kullanabilmesi için hangi koşul aranır?",
+            "secenekler": {
+              "A": "Portföyün ağırlıklı olarak ortaklık paylarından oluşması",
+              "B": "Garanti taahhüdü ile koruma hedefinin hukuki ve ekonomik niteliğinin farklı olması",
+              "C": "Likidite ve güvenilir fiyat oluşumu açısından",
+              "D": "Portföy yapısı ve stratejisinin o fon türünün esaslarıyla uyumlu olması",
+              "E": "Fon yararı, risk yönetimi ve mevzuata uygunluk gözetilmelidir"
+            },
+            "dogruCevap": "D",
+            "cozum": "Fon unvanı fonun gerçek yatırım alanı ve stratejisiyle uyumlu olmalıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Para piyasası fonlarının genel karakteri nedir?",
+            "secenekler": {
+              "A": "Portföyünün ağırlıklı kısmını diğer fonların katılma paylarına yatıran fonu",
+              "B": "Faizsiz finans ilkelerine uygun varlık ve işlemlere yatırım yapılması",
+              "C": "Fon türü, yatırım stratejisi ve mevzuattaki portföy sınırlamaları çerçevesinde",
+              "D": "Mevzuatta öngörülen süre ve esaslar içinde uyum yeniden sağlanmalıdır",
+              "E": "Kısa vadeli ve yüksek likiditeli para ve sermaye piyasası araçlarına yatırım yapmak"
+            },
+            "dogruCevap": "E",
+            "cozum": "Para piyasası fonları düşük vade ve yüksek likidite yaklaşımıyla tanımlanır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Borçlanma araçları fonu hangi portföy yapısıyla uyumludur?",
+            "secenekler": {
+              "A": "Ağırlıklı olarak tahvil, bono ve benzeri borçlanma araçlarına yatırım yapmak",
+              "B": "Daha esnek yatırım stratejilerine ve özel risk profiline sahip fonlar olmaları",
+              "C": "Tek bir ihraççıya aşırı bağımlılığı ve tekil ihraççı riskini sınırlamak için",
+              "D": "Kaldıraç, karşı taraf riski ve stratejiye uygunluk nedeniyle",
+              "E": "Katılma payları belirli kişi veya gruplara tahsisli satılan fonu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Bu fon türünün ana yatırım evreni borçlanma araçlarıdır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Hisse senedi fonu için hangi portföy yaklaşımı beklenir?",
+            "secenekler": {
+              "A": "Garanti taahhüdü ile koruma hedefinin hukuki ve ekonomik niteliğinin farklı olması",
+              "B": "Portföyün ağırlıklı olarak ortaklık paylarından oluşması",
+              "C": "Likidite ve güvenilir fiyat oluşumu açısından",
+              "D": "Fon yararı, risk yönetimi ve mevzuata uygunluk gözetilmelidir",
+              "E": "Fon portföyünün tasfiye edilerek katılma payı sahiplerine hakları oranında ödeme yapılması"
+            },
+            "dogruCevap": "B",
+            "cozum": "Hisse senedi fonları pay piyasası araçlarına yoğunlaşır."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Fon sepeti fonu neyi ifade eder?",
+            "secenekler": {
+              "A": "Faizsiz finans ilkelerine uygun varlık ve işlemlere yatırım yapılması",
+              "B": "Fon türü, yatırım stratejisi ve mevzuattaki portföy sınırlamaları çerçevesinde",
+              "C": "Portföyünün ağırlıklı kısmını diğer fonların katılma paylarına yatıran fonu",
+              "D": "Mevzuatta öngörülen süre ve esaslar içinde uyum yeniden sağlanmalıdır",
+              "E": "Fon yönetim veya kuruculuk yapısının izin ve bildirim süreçleriyle başka yetkili kuruluşa geçmesini"
+            },
+            "dogruCevap": "C",
+            "cozum": "Fon sepeti fonları farklı fonlar üzerinden çeşitlendirme sağlar."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Serbest fonların genel niteliği nedir?",
+            "secenekler": {
+              "A": "Tek bir ihraççıya aşırı bağımlılığı ve tekil ihraççı riskini sınırlamak için",
+              "B": "Kaldıraç, karşı taraf riski ve stratejiye uygunluk nedeniyle",
+              "C": "Katılma payları belirli kişi veya gruplara tahsisli satılan fonu",
+              "D": "Daha esnek yatırım stratejilerine ve özel risk profiline sahip fonlar olmaları",
+              "E": "Risk, getiri ve portföy yapısı beklentilerini değiştirebileceği için"
+            },
+            "dogruCevap": "D",
+            "cozum": "Serbest fonlar standart fonlara göre daha esnek stratejiler uygulayabilir."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Garantili fon ile koruma amaçlı fon ayrımında hangi nokta önemlidir?",
+            "secenekler": {
+              "A": "Likidite ve güvenilir fiyat oluşumu açısından",
+              "B": "Fon yararı, risk yönetimi ve mevzuata uygunluk gözetilmelidir",
+              "C": "Fon portföyünün tasfiye edilerek katılma payı sahiplerine hakları oranında ödeme yapılması",
+              "D": "Birleşme koşullarının açık duyurulması ve katılma payı sahiplerinin haklarının korunması",
+              "E": "Garanti taahhüdü ile koruma hedefinin hukuki ve ekonomik niteliğinin farklı olması"
+            },
+            "dogruCevap": "E",
+            "cozum": "Garanti ve koruma ifadeleri yatırımcıya sağlanan korumanın niteliği bakımından aynı değildir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Katılım fonları hangi yatırım yaklaşımıyla tanımlanır?",
+            "secenekler": {
+              "A": "Faizsiz finans ilkelerine uygun varlık ve işlemlere yatırım yapılması",
+              "B": "Fon türü, yatırım stratejisi ve mevzuattaki portföy sınırlamaları çerçevesinde",
+              "C": "Mevzuatta öngörülen süre ve esaslar içinde uyum yeniden sağlanmalıdır",
+              "D": "Fon yönetim veya kuruculuk yapısının izin ve bildirim süreçleriyle başka yetkili kuruluşa geçmesini",
+              "E": "Fon varlığından yapılabilecek giderlerin kontrol edilmesini ve maliyetlerin izlenmesini"
+            },
+            "dogruCevap": "A",
+            "cozum": "Katılım fonları yatırım evrenini faizsiz finans ilkelerine göre belirler."
+          },
+          {
+            "id": 10,
+            "soruMetni": "İhraççı bazında yoğunlaşma sınırları neden getirilir?",
+            "secenekler": {
+              "A": "Kaldıraç, karşı taraf riski ve stratejiye uygunluk nedeniyle",
+              "B": "Tek bir ihraççıya aşırı bağımlılığı ve tekil ihraççı riskini sınırlamak için",
+              "C": "Katılma payları belirli kişi veya gruplara tahsisli satılan fonu",
+              "D": "Risk, getiri ve portföy yapısı beklentilerini değiştirebileceği için",
+              "E": "Fon yararı, risk sınırları, teminat yeterliliği ve mevzuata uygunluk bakımından"
+            },
+            "dogruCevap": "B",
+            "cozum": "Bu sınırlar fonun bir ihraççıya aşırı maruz kalmasını önlemeyi amaçlar."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Fon portföyüne alınan varlıkların borsada işlem görmesi neden önemlidir?",
+            "secenekler": {
+              "A": "Fon yararı, risk yönetimi ve mevzuata uygunluk gözetilmelidir",
+              "B": "Fon portföyünün tasfiye edilerek katılma payı sahiplerine hakları oranında ödeme yapılması",
+              "C": "Likidite ve güvenilir fiyat oluşumu açısından",
+              "D": "Birleşme koşullarının açık duyurulması ve katılma payı sahiplerinin haklarının korunması",
+              "E": "Farklı kurucuların fonlarına erişim ve karşılaştırma imkanı"
+            },
+            "dogruCevap": "C",
+            "cozum": "Borsada işlem gören varlıklarda şeffaf fiyat ve likidite daha kolay izlenir."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Repo ve ters repo işlemleri hangi çerçevede yapılmalıdır?",
+            "secenekler": {
+              "A": "Mevzuatta öngörülen süre ve esaslar içinde uyum yeniden sağlanmalıdır",
+              "B": "Fon yönetim veya kuruculuk yapısının izin ve bildirim süreçleriyle başka yetkili kuruluşa geçmesini",
+              "C": "Fon varlığından yapılabilecek giderlerin kontrol edilmesini ve maliyetlerin izlenmesini",
+              "D": "Fon türü, yatırım stratejisi ve mevzuattaki portföy sınırlamaları çerçevesinde",
+              "E": "Her fon türünün farklı varlık, vade, risk ve strateji özellikleri taşıması"
+            },
+            "dogruCevap": "D",
+            "cozum": "Bu işlemler fonun stratejisine ve ilgili sınırlamalara uygun olmalıdır."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Türev araç kullanımı fonlarda neden özel dikkat gerektirir?",
+            "secenekler": {
+              "A": "Katılma payları belirli kişi veya gruplara tahsisli satılan fonu",
+              "B": "Risk, getiri ve portföy yapısı beklentilerini değiştirebileceği için",
+              "C": "Fon yararı, risk sınırları, teminat yeterliliği ve mevzuata uygunluk bakımından",
+              "D": "Mevzuata uyum, kamuyu aydınlatma ve katılma payı sahiplerinin haklarının korunması",
+              "E": "Kaldıraç, karşı taraf riski ve stratejiye uygunluk nedeniyle"
+            },
+            "dogruCevap": "E",
+            "cozum": "Türev araçlar fonun risk düzeyini artırabileceği için dikkatle yönetilmelidir."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Ödünç menkul kıymet işlemlerinde temel yaklaşım ne olmalıdır?",
+            "secenekler": {
+              "A": "Fon yararı, risk yönetimi ve mevzuata uygunluk gözetilmelidir",
+              "B": "Fon portföyünün tasfiye edilerek katılma payı sahiplerine hakları oranında ödeme yapılması",
+              "C": "Birleşme koşullarının açık duyurulması ve katılma payı sahiplerinin haklarının korunması",
+              "D": "Farklı kurucuların fonlarına erişim ve karşılaştırma imkanı",
+              "E": "Yoğunlaşma riskini azaltmak ve fonun ilan edilen türüne uygun yönetilmesini sağlamak"
+            },
+            "dogruCevap": "A",
+            "cozum": "Ödünç işlemleri sınırsız değil, fon yararı ve risk kontrolleriyle yürütülür."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Portföy oranlarında geçici aşım oluşursa ne yapılmalıdır?",
+            "secenekler": {
+              "A": "Fon yönetim veya kuruculuk yapısının izin ve bildirim süreçleriyle başka yetkili kuruluşa geçmesini",
+              "B": "Mevzuatta öngörülen süre ve esaslar içinde uyum yeniden sağlanmalıdır",
+              "C": "Fon varlığından yapılabilecek giderlerin kontrol edilmesini ve maliyetlerin izlenmesini",
+              "D": "Her fon türünün farklı varlık, vade, risk ve strateji özellikleri taşıması",
+              "E": "Portföy yapısı ve stratejisinin o fon türünün esaslarıyla uyumlu olması"
+            },
+            "dogruCevap": "B",
+            "cozum": "Piyasa hareketleriyle oluşan uyumsuzluklar mevzuatın verdiği çerçevede giderilir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Tahsisli fon neyi ifade eder?",
+            "secenekler": {
+              "A": "Risk, getiri ve portföy yapısı beklentilerini değiştirebileceği için",
+              "B": "Fon yararı, risk sınırları, teminat yeterliliği ve mevzuata uygunluk bakımından",
+              "C": "Katılma payları belirli kişi veya gruplara tahsisli satılan fonu",
+              "D": "Mevzuata uyum, kamuyu aydınlatma ve katılma payı sahiplerinin haklarının korunması",
+              "E": "Kısa vadeli ve yüksek likiditeli para ve sermaye piyasası araçlarına yatırım yapmak"
+            },
+            "dogruCevap": "C",
+            "cozum": "Tahsisli fonlarda satış belirli yatırımcı kitlesine yöneliktir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Fonun sona ermesi halinde temel işlem nedir?",
+            "secenekler": {
+              "A": "Birleşme koşullarının açık duyurulması ve katılma payı sahiplerinin haklarının korunması",
+              "B": "Farklı kurucuların fonlarına erişim ve karşılaştırma imkanı",
+              "C": "Yoğunlaşma riskini azaltmak ve fonun ilan edilen türüne uygun yönetilmesini sağlamak",
+              "D": "Fon portföyünün tasfiye edilerek katılma payı sahiplerine hakları oranında ödeme yapılması",
+              "E": "Ağırlıklı olarak tahvil, bono ve benzeri borçlanma araçlarına yatırım yapmak"
+            },
+            "dogruCevap": "D",
+            "cozum": "Tasfiye sonunda yatırımcıların fon değerindeki hakları oranında ödeme yapılır."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Fonun devri kavramı neyi anlatır?",
+            "secenekler": {
+              "A": "Fon varlığından yapılabilecek giderlerin kontrol edilmesini ve maliyetlerin izlenmesini",
+              "B": "Her fon türünün farklı varlık, vade, risk ve strateji özellikleri taşıması",
+              "C": "Portföy yapısı ve stratejisinin o fon türünün esaslarıyla uyumlu olması",
+              "D": "Portföyün ağırlıklı olarak ortaklık paylarından oluşması",
+              "E": "Fon yönetim veya kuruculuk yapısının izin ve bildirim süreçleriyle başka yetkili kuruluşa geçmesini"
+            },
+            "dogruCevap": "E",
+            "cozum": "Fon devri mevzuata uygun izin ve bilgilendirme süreci gerektiren yapısal işlemdir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Fon türünün değiştirilmesi yatırımcı için neden önemlidir?",
+            "secenekler": {
+              "A": "Risk, getiri ve portföy yapısı beklentilerini değiştirebileceği için",
+              "B": "Fon yararı, risk sınırları, teminat yeterliliği ve mevzuata uygunluk bakımından",
+              "C": "Mevzuata uyum, kamuyu aydınlatma ve katılma payı sahiplerinin haklarının korunması",
+              "D": "Kısa vadeli ve yüksek likiditeli para ve sermaye piyasası araçlarına yatırım yapmak",
+              "E": "Portföyünün ağırlıklı kısmını diğer fonların katılma paylarına yatıran fonu"
+            },
+            "dogruCevap": "A",
+            "cozum": "Fon türü değişikliği yatırımcının aldığı riskin niteliğini değiştirebilir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Fon birleşmelerinde yatırımcıyı koruyan temel ilke nedir?",
+            "secenekler": {
+              "A": "Farklı kurucuların fonlarına erişim ve karşılaştırma imkanı",
+              "B": "Birleşme koşullarının açık duyurulması ve katılma payı sahiplerinin haklarının korunması",
+              "C": "Yoğunlaşma riskini azaltmak ve fonun ilan edilen türüne uygun yönetilmesini sağlamak",
+              "D": "Ağırlıklı olarak tahvil, bono ve benzeri borçlanma araçlarına yatırım yapmak",
+              "E": "Daha esnek yatırım stratejilerine ve özel risk profiline sahip fonlar olmaları"
+            },
+            "dogruCevap": "B",
+            "cozum": "Birleşmelerde şeffaflık ve yatırımcı haklarının korunması esastır."
+          },
+          {
+            "id": 21,
+            "soruMetni": "Fon gider oranı sınırlamaları neyi korumayı amaçlar?",
+            "secenekler": {
+              "A": "Her fon türünün farklı varlık, vade, risk ve strateji özellikleri taşıması",
+              "B": "Portföy yapısı ve stratejisinin o fon türünün esaslarıyla uyumlu olması",
+              "C": "Fon varlığından yapılabilecek giderlerin kontrol edilmesini ve maliyetlerin izlenmesini",
+              "D": "Portföyün ağırlıklı olarak ortaklık paylarından oluşması",
+              "E": "Garanti taahhüdü ile koruma hedefinin hukuki ve ekonomik niteliğinin farklı olması"
+            },
+            "dogruCevap": "C",
+            "cozum": "Gider sınırları yatırımcının getirisini aşındırabilecek maliyetleri kontrol altında tutar."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Kredi kullanımı, teminat ve ödünç işlemleri hangi bakımdan izlenmelidir?",
+            "secenekler": {
+              "A": "Mevzuata uyum, kamuyu aydınlatma ve katılma payı sahiplerinin haklarının korunması",
+              "B": "Kısa vadeli ve yüksek likiditeli para ve sermaye piyasası araçlarına yatırım yapmak",
+              "C": "Portföyünün ağırlıklı kısmını diğer fonların katılma paylarına yatıran fonu",
+              "D": "Fon yararı, risk sınırları, teminat yeterliliği ve mevzuata uygunluk bakımından",
+              "E": "Faizsiz finans ilkelerine uygun varlık ve işlemlere yatırım yapılması"
+            },
+            "dogruCevap": "D",
+            "cozum": "Bu işlemler fon riskini etkileyebileceğinden sıkı takip edilir."
+          },
+          {
+            "id": 23,
+            "soruMetni": "TEFAS gibi fon dağıtım platformları yatırımcıya ne sağlar?",
+            "secenekler": {
+              "A": "Yoğunlaşma riskini azaltmak ve fonun ilan edilen türüne uygun yönetilmesini sağlamak",
+              "B": "Ağırlıklı olarak tahvil, bono ve benzeri borçlanma araçlarına yatırım yapmak",
+              "C": "Daha esnek yatırım stratejilerine ve özel risk profiline sahip fonlar olmaları",
+              "D": "Tek bir ihraççıya aşırı bağımlılığı ve tekil ihraççı riskini sınırlamak için",
+              "E": "Farklı kurucuların fonlarına erişim ve karşılaştırma imkanı"
+            },
+            "dogruCevap": "E",
+            "cozum": "Dağıtım platformları yatırımcının fonları görmesini, karşılaştırmasını ve işlem yapmasını kolaylaştırır."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Fon türlerine özel esasların bulunmasının nedeni nedir?",
+            "secenekler": {
+              "A": "Her fon türünün farklı varlık, vade, risk ve strateji özellikleri taşıması",
+              "B": "Portföy yapısı ve stratejisinin o fon türünün esaslarıyla uyumlu olması",
+              "C": "Portföyün ağırlıklı olarak ortaklık paylarından oluşması",
+              "D": "Garanti taahhüdü ile koruma hedefinin hukuki ve ekonomik niteliğinin farklı olması",
+              "E": "Likidite ve güvenilir fiyat oluşumu açısından"
+            },
+            "dogruCevap": "A",
+            "cozum": "Farklı fon türleri farklı risk profillerine sahip olduğundan özel esaslarla düzenlenir."
+          },
+          {
+            "id": 25,
+            "soruMetni": "Fonun sona ermesi, devri, dönüşümü ve birleşmesinde ortak hassasiyet nedir?",
+            "secenekler": {
+              "A": "Kısa vadeli ve yüksek likiditeli para ve sermaye piyasası araçlarına yatırım yapmak",
+              "B": "Mevzuata uyum, kamuyu aydınlatma ve katılma payı sahiplerinin haklarının korunması",
+              "C": "Portföyünün ağırlıklı kısmını diğer fonların katılma paylarına yatıran fonu",
+              "D": "Faizsiz finans ilkelerine uygun varlık ve işlemlere yatırım yapılması",
+              "E": "Fon türü, yatırım stratejisi ve mevzuattaki portföy sınırlamaları çerçevesinde"
+            },
+            "dogruCevap": "B",
+            "cozum": "Yapısal işlemlerde yatırımcı hakları ve şeffaflık temel koruma eksenidir."
+          }
+        ]
+      }
+    ]
   },
   {
     "code": "1004",
@@ -9454,7 +10426,3 @@ const splVeritabani = [
     ]
   }
 ];
-
-if (typeof window !== 'undefined') {
-  window.splVeritabani = splVeritabani;
-}
