@@ -6252,7 +6252,7 @@ const splVeritabani = [
       "duzey3",
       "turev"
     ],
-    "aciklama": "Sermaye Piyasası Araçları 1 (1003) - Kitap başlıklarıyla uyumlu 7 bölüm testi: Paylar (50), Borçlanma Araçları (50), Yatırım Fonu Katılma Payları (75). Toplam 175 özgün soru.",
+    "aciklama": "Sermaye Piyasası Araçları 1 (1003) - Kitap başlıklarıyla uyumlu 7 bölüm testi ve çıkmış sorulara benzer 5 ek çalışma testi. Paylar (75), Borçlanma Araçları (75), Yatırım Fonu Katılma Payları (100), Türev Araçlar (25), Kamu Borçlanma Araçları (25). Toplam 300 özgün soru.",
     "testler": [
       {
         "testId": 100301,
@@ -8575,6 +8575,1666 @@ const splVeritabani = [
             },
             "dogruCevap": "B",
             "cozum": "Yapısal işlemlerde yatırımcı hakları ve şeffaflık temel koruma eksenidir."
+          }
+        ]
+      },
+      {
+        "testId": 100308,
+        "testAdi": "Çıkmışa Benzer 1: Paylar ve Halka Arz",
+        "testTuru": "bolum",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Pay benzeri menkul kıymet tanımı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka arz edilmeksizin yapılan sermaye artırımı, halka arz ve izahname onayı mantığından ayrılır.",
+              "B": "Sermayede temsil edilmesi zorunlu olmayan, sabit getiri taahhüdü içermeyen ve pay sahipliği haklarından birini veya birkaçını verebilen menkul kıymetlerdir.",
+              "C": "Esas sermaye sisteminde bedelli sermaye artırımında satılamayan paylar için satın alma taahhüdü aranır.",
+              "D": "Kayıtlı sermaye sistemi yönetim kuruluna tavan içinde sermaye artırımı esnekliği sağlar.",
+              "E": "Belirli pay sahipleri, borsada işlem görme başlangıcından itibaren belirli süre halka arz fiyatının altında satış yapamaz."
+            },
+            "dogruCevap": "B",
+            "cozum": "Pay benzeri menkul kıymetler, paya bağlı bazı hakları verebilir; ancak sabit getiri taahhüdü taşımaz."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Pay Tebliği kapsamında Kurula başvuru gerektiren işlemler konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Esas sermaye sisteminde bedelli sermaye artırımında satılamayan paylar için satın alma taahhüdü aranır.",
+              "B": "Kayıtlı sermaye sistemi yönetim kuruluna tavan içinde sermaye artırımı esnekliği sağlar.",
+              "C": "Belirli pay sahipleri, borsada işlem görme başlangıcından itibaren belirli süre halka arz fiyatının altında satış yapamaz.",
+              "D": "Pay benzeri menkul kıymet ihracı, halka açık ortaklık sermaye işlemleri ve halka arz süreçleri Kurul başvuru ve onay süreçlerine tabidir.",
+              "E": "Talebin satışa sunulan pay miktarından fazla olması halinde önceden duyurulan ek payların dağıtıma dahil edilmesidir."
+            },
+            "dogruCevap": "D",
+            "cozum": "PDFlerde sık gelen kalıp, hangi işlemde Kurula başvuru gerekip gerekmediğini ayırt etmektir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Halka açık olmayan ortaklıkta halka arz edilmeksizin sermaye artırımı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka arz edilmeksizin yapılan sermaye artırımı, halka arz ve izahname onayı mantığından ayrılır.",
+              "B": "Kayıtlı sermaye sistemi yönetim kuruluna tavan içinde sermaye artırımı esnekliği sağlar.",
+              "C": "Belirli pay sahipleri, borsada işlem görme başlangıcından itibaren belirli süre halka arz fiyatının altında satış yapamaz.",
+              "D": "Talebin satışa sunulan pay miktarından fazla olması halinde önceden duyurulan ek payların dağıtıma dahil edilmesidir.",
+              "E": "Halka arz sonrası fiyat ve süre koşulları gerçekleştiğinde satılmak üzere izahnamede belirtilen paylardır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Çıkmışa benzer sorularda halka arz edilmeksizin satış ile halka arz süreci özellikle karşılaştırılır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Esas sermaye sisteminde satılamayan pay taahhüdü konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Belirli pay sahipleri, borsada işlem görme başlangıcından itibaren belirli süre halka arz fiyatının altında satış yapamaz.",
+              "B": "Talebin satışa sunulan pay miktarından fazla olması halinde önceden duyurulan ek payların dağıtıma dahil edilmesidir.",
+              "C": "Esas sermaye sisteminde bedelli sermaye artırımında satılamayan paylar için satın alma taahhüdü aranır.",
+              "D": "Halka arz sonrası fiyat ve süre koşulları gerçekleştiğinde satılmak üzere izahnamede belirtilen paylardır.",
+              "E": "Halka arz fiyatı ve bu fiyatın hesaplanmasında kullanılan yöntemleri açıklayan yetkili kuruluş raporudur."
+            },
+            "dogruCevap": "C",
+            "cozum": "Esas sermaye sisteminde artırılan sermayenin karşılıksız kalmaması için taahhüt mekanizması önemlidir."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Kayıtlı sermaye sistemi ile esas sermaye sistemi ayrımı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Talebin satışa sunulan pay miktarından fazla olması halinde önceden duyurulan ek payların dağıtıma dahil edilmesidir.",
+              "B": "Halka arz sonrası fiyat ve süre koşulları gerçekleştiğinde satılmak üzere izahnamede belirtilen paylardır.",
+              "C": "Halka arz fiyatı ve bu fiyatın hesaplanmasında kullanılan yöntemleri açıklayan yetkili kuruluş raporudur.",
+              "D": "Halka arz fiyatı gerçekleştikten sonra fiyatın performansını ve dayanaklarını değerlendiren rapor niteliğindedir.",
+              "E": "Kayıtlı sermaye sistemi yönetim kuruluna tavan içinde sermaye artırımı esnekliği sağlar."
+            },
+            "dogruCevap": "E",
+            "cozum": "Sınav kalıbı çoğu kez kayıtlı sermaye ile esas sermaye sistemini karşılaştırır."
+          },
+          {
+            "id": 6,
+            "soruMetni": "İlk halka arz sonrası satış yasağı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka arz sonrası fiyat ve süre koşulları gerçekleştiğinde satılmak üzere izahnamede belirtilen paylardır.",
+              "B": "Belirli pay sahipleri, borsada işlem görme başlangıcından itibaren belirli süre halka arz fiyatının altında satış yapamaz.",
+              "C": "Halka arz fiyatı ve bu fiyatın hesaplanmasında kullanılan yöntemleri açıklayan yetkili kuruluş raporudur.",
+              "D": "Halka arz fiyatı gerçekleştikten sonra fiyatın performansını ve dayanaklarını değerlendiren rapor niteliğindedir.",
+              "E": "Halka arz sonrası belirli süre ve sınırlar içinde fiyat dalgalanmalarını azaltmaya yönelik alım işlemleridir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Pay Tebliği halka açılma sonrası satış kısıtlamasını yatırımcı korunması için düzenler."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Ek pay satışı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka arz fiyatı ve bu fiyatın hesaplanmasında kullanılan yöntemleri açıklayan yetkili kuruluş raporudur.",
+              "B": "Halka arz fiyatı gerçekleştikten sonra fiyatın performansını ve dayanaklarını değerlendiren rapor niteliğindedir.",
+              "C": "Halka arz sonrası belirli süre ve sınırlar içinde fiyat dalgalanmalarını azaltmaya yönelik alım işlemleridir.",
+              "D": "Talebin satışa sunulan pay miktarından fazla olması halinde önceden duyurulan ek payların dağıtıma dahil edilmesidir.",
+              "E": "Fiyat istikrarı işlemlerinde halka arz fiyatının üzerinde alım emri verilmesi kural olarak uygun değildir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Ek pay satışı talep fazlasının karşılanması için kullanılan halka arz mekanizmasıdır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Satışa hazır bekletilen paylar konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka arz sonrası fiyat ve süre koşulları gerçekleştiğinde satılmak üzere izahnamede belirtilen paylardır.",
+              "B": "Halka arz fiyatı gerçekleştikten sonra fiyatın performansını ve dayanaklarını değerlendiren rapor niteliğindedir.",
+              "C": "Halka arz sonrası belirli süre ve sınırlar içinde fiyat dalgalanmalarını azaltmaya yönelik alım işlemleridir.",
+              "D": "Fiyat istikrarı işlemlerinde halka arz fiyatının üzerinde alım emri verilmesi kural olarak uygun değildir.",
+              "E": "Fiyat istikrarını sağlayıcı işlemler halka arzdan sonra sınırlı bir süre için yapılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "PDFlerde satışa hazır bekletilen payların satış koşulları sıkça yoklanır."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Fiyat tespit raporu konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka arz sonrası belirli süre ve sınırlar içinde fiyat dalgalanmalarını azaltmaya yönelik alım işlemleridir.",
+              "B": "Fiyat istikrarı işlemlerinde halka arz fiyatının üzerinde alım emri verilmesi kural olarak uygun değildir.",
+              "C": "Halka arz fiyatı ve bu fiyatın hesaplanmasında kullanılan yöntemleri açıklayan yetkili kuruluş raporudur.",
+              "D": "Fiyat istikrarını sağlayıcı işlemler halka arzdan sonra sınırlı bir süre için yapılabilir.",
+              "E": "Ortaklığın yeni pay ihraç ederek halka arz geliri elde ettiği halka açılma yöntemidir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Fiyat tespit raporu halka arz fiyatının gerekçesini yatırımcıya açıklar."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Değerlendirme raporu konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fiyat istikrarı işlemlerinde halka arz fiyatının üzerinde alım emri verilmesi kural olarak uygun değildir.",
+              "B": "Fiyat istikrarını sağlayıcı işlemler halka arzdan sonra sınırlı bir süre için yapılabilir.",
+              "C": "Ortaklığın yeni pay ihraç ederek halka arz geliri elde ettiği halka açılma yöntemidir.",
+              "D": "Mevcut ortakların sahip oldukları payları halka arz ederek satış yapmasıdır.",
+              "E": "Halka arz fiyatı gerçekleştikten sonra fiyatın performansını ve dayanaklarını değerlendiren rapor niteliğindedir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Fiyat tespit ve değerlendirme raporu kavramları sınavda karıştırılabilir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Fiyat istikrarını sağlayıcı işlemler konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fiyat istikrarını sağlayıcı işlemler halka arzdan sonra sınırlı bir süre için yapılabilir.",
+              "B": "Halka arz sonrası belirli süre ve sınırlar içinde fiyat dalgalanmalarını azaltmaya yönelik alım işlemleridir.",
+              "C": "Ortaklığın yeni pay ihraç ederek halka arz geliri elde ettiği halka açılma yöntemidir.",
+              "D": "Mevcut ortakların sahip oldukları payları halka arz ederek satış yapmasıdır.",
+              "E": "Halka arz amaçlı sermaye artırımında mevcut ortakların yeni pay alma hakları kısmen veya tamamen kısıtlanabilir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Fiyat istikrarı halka arz sonrası piyasa fiyatının desteklenmesi amacıyla düzenlenir."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Fiyat istikrarında fiyat sınırı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Ortaklığın yeni pay ihraç ederek halka arz geliri elde ettiği halka açılma yöntemidir.",
+              "B": "Mevcut ortakların sahip oldukları payları halka arz ederek satış yapmasıdır.",
+              "C": "Halka arz amaçlı sermaye artırımında mevcut ortakların yeni pay alma hakları kısmen veya tamamen kısıtlanabilir.",
+              "D": "Fiyat istikrarı işlemlerinde halka arz fiyatının üzerinde alım emri verilmesi kural olarak uygun değildir.",
+              "E": "Bilanço açığının kapatılması gibi amaçlarla pay sayısı veya sermaye tutarı azaltılabilir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Çıkmışa benzer sorularda yanlış ifade genellikle halka arz fiyatının üzerindeki alım emridir."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Fiyat istikrarında süre konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fiyat istikrarını sağlayıcı işlemler halka arzdan sonra sınırlı bir süre için yapılabilir.",
+              "B": "Mevcut ortakların sahip oldukları payları halka arz ederek satış yapmasıdır.",
+              "C": "Halka arz amaçlı sermaye artırımında mevcut ortakların yeni pay alma hakları kısmen veya tamamen kısıtlanabilir.",
+              "D": "Bilanço açığının kapatılması gibi amaçlarla pay sayısı veya sermaye tutarı azaltılabilir.",
+              "E": "Fon çıkışı gerektirmeyen azaltımlar pay sayısının azaltılması gibi yöntemlerle yapılabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Bu konu sınavda süre ve oran bilgisiyle birlikte sorulabilir."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Sermaye artırımı yoluyla halka arz konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka arz amaçlı sermaye artırımında mevcut ortakların yeni pay alma hakları kısmen veya tamamen kısıtlanabilir.",
+              "B": "Bilanço açığının kapatılması gibi amaçlarla pay sayısı veya sermaye tutarı azaltılabilir.",
+              "C": "Ortaklığın yeni pay ihraç ederek halka arz geliri elde ettiği halka açılma yöntemidir.",
+              "D": "Fon çıkışı gerektirmeyen azaltımlar pay sayısının azaltılması gibi yöntemlerle yapılabilir.",
+              "E": "Azaltım ile artırımdan sonraki sermaye tutarı arasında mevzuata uygun planlama yapılır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Sermaye artırımı mevcut pay satışı yönteminden ayrılır."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Ortak satışı yoluyla halka arz konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Bilanço açığının kapatılması gibi amaçlarla pay sayısı veya sermaye tutarı azaltılabilir.",
+              "B": "Fon çıkışı gerektirmeyen azaltımlar pay sayısının azaltılması gibi yöntemlerle yapılabilir.",
+              "C": "Azaltım ile artırımdan sonraki sermaye tutarı arasında mevzuata uygun planlama yapılır.",
+              "D": "Sahip olduğu sermaye piyasası araçlarını halka arz etmek üzere başvuran gerçek veya tüzel kişidir.",
+              "E": "Mevcut ortakların sahip oldukları payları halka arz ederek satış yapmasıdır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Ortak satışı yönteminde ihraççıya yeni sermaye girişi olmaz."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Yeni pay alma haklarının kısıtlanması konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fon çıkışı gerektirmeyen azaltımlar pay sayısının azaltılması gibi yöntemlerle yapılabilir.",
+              "B": "Halka arz amaçlı sermaye artırımında mevcut ortakların yeni pay alma hakları kısmen veya tamamen kısıtlanabilir.",
+              "C": "Azaltım ile artırımdan sonraki sermaye tutarı arasında mevzuata uygun planlama yapılır.",
+              "D": "Sahip olduğu sermaye piyasası araçlarını halka arz etmek üzere başvuran gerçek veya tüzel kişidir.",
+              "E": "Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp satışa sunulmasıdır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Halka arzla yeni yatırımcı alınabilmesi için yeni pay alma hakkının kısıtlanması gündeme gelebilir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Sermaye azaltımı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Azaltım ile artırımdan sonraki sermaye tutarı arasında mevzuata uygun planlama yapılır.",
+              "B": "Sahip olduğu sermaye piyasası araçlarını halka arz etmek üzere başvuran gerçek veya tüzel kişidir.",
+              "C": "Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp satışa sunulmasıdır.",
+              "D": "Bilanço açığının kapatılması gibi amaçlarla pay sayısı veya sermaye tutarı azaltılabilir.",
+              "E": "Sermaye piyasası araçlarının satın alınması için halka her türlü yoldan çağrıda bulunulmasıdır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Payları nominal değerin altında işlem gören ortaklıklarda sermaye azaltımı soruları sık görülür."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Fon çıkışı gerektirmeyen sermaye azaltımı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fon çıkışı gerektirmeyen azaltımlar pay sayısının azaltılması gibi yöntemlerle yapılabilir.",
+              "B": "Sahip olduğu sermaye piyasası araçlarını halka arz etmek üzere başvuran gerçek veya tüzel kişidir.",
+              "C": "Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp satışa sunulmasıdır.",
+              "D": "Sermaye piyasası araçlarının satın alınması için halka her türlü yoldan çağrıda bulunulmasıdır.",
+              "E": "Payları halka arz edilen veya halka açık sayılan ortaklık statüsüne geçilmesidir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Sınavda sermaye azaltımında nakit çıkışı olup olmadığı ayırt ettirilir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Eş zamanlı sermaye azaltımı ve artırımı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp satışa sunulmasıdır.",
+              "B": "Sermaye piyasası araçlarının satın alınması için halka her türlü yoldan çağrıda bulunulmasıdır.",
+              "C": "Azaltım ile artırımdan sonraki sermaye tutarı arasında mevzuata uygun planlama yapılır.",
+              "D": "Payları halka arz edilen veya halka açık sayılan ortaklık statüsüne geçilmesidir.",
+              "E": "Halka arzda satılamayan paylara ilişkin yetkili kuruluşun üstlenim sorumluluğunu ifade eder."
+            },
+            "dogruCevap": "C",
+            "cozum": "Bu yapı bilanço düzeltmesi ve yeni kaynak sağlama işlemlerinde birlikte kullanılabilir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Halka arz eden kavramı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sermaye piyasası araçlarının satın alınması için halka her türlü yoldan çağrıda bulunulmasıdır.",
+              "B": "Payları halka arz edilen veya halka açık sayılan ortaklık statüsüne geçilmesidir.",
+              "C": "Halka arzda satılamayan paylara ilişkin yetkili kuruluşun üstlenim sorumluluğunu ifade eder.",
+              "D": "Halka arz edilen payların borsada işlem görebilmesi için ilgili borsa ve Kurul süreçlerinin tamamlanması gerekir.",
+              "E": "Sahip olduğu sermaye piyasası araçlarını halka arz etmek üzere başvuran gerçek veya tüzel kişidir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Halka arz eden, ihraççıdan farklı bir kavram olarak sorulabilir."
+          },
+          {
+            "id": 21,
+            "soruMetni": "İhraç kavramı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Payları halka arz edilen veya halka açık sayılan ortaklık statüsüne geçilmesidir.",
+              "B": "Sermaye piyasası araçlarının ihraççılar tarafından çıkarılıp satışa sunulmasıdır.",
+              "C": "Halka arzda satılamayan paylara ilişkin yetkili kuruluşun üstlenim sorumluluğunu ifade eder.",
+              "D": "Halka arz edilen payların borsada işlem görebilmesi için ilgili borsa ve Kurul süreçlerinin tamamlanması gerekir.",
+              "E": "Sermayede temsil edilmesi zorunlu olmayan, sabit getiri taahhüdü içermeyen ve pay sahipliği haklarından birini veya birkaçını verebilen menkul kıymetlerdir."
+            },
+            "dogruCevap": "B",
+            "cozum": "İhraç ve halka arz kavramları sınavlarda tanım sorusu şeklinde gelir."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Halka arz kavramı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka arzda satılamayan paylara ilişkin yetkili kuruluşun üstlenim sorumluluğunu ifade eder.",
+              "B": "Halka arz edilen payların borsada işlem görebilmesi için ilgili borsa ve Kurul süreçlerinin tamamlanması gerekir.",
+              "C": "Sermayede temsil edilmesi zorunlu olmayan, sabit getiri taahhüdü içermeyen ve pay sahipliği haklarından birini veya birkaçını verebilen menkul kıymetlerdir.",
+              "D": "Sermaye piyasası araçlarının satın alınması için halka her türlü yoldan çağrıda bulunulmasıdır.",
+              "E": "Pay benzeri menkul kıymet ihracı, halka açık ortaklık sermaye işlemleri ve halka arz süreçleri Kurul başvuru ve onay süreçlerine tabidir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Halka arz geniş bir çağrı ve satış sürecini ifade eder."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Halka açılma konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Payları halka arz edilen veya halka açık sayılan ortaklık statüsüne geçilmesidir.",
+              "B": "Halka arz edilen payların borsada işlem görebilmesi için ilgili borsa ve Kurul süreçlerinin tamamlanması gerekir.",
+              "C": "Sermayede temsil edilmesi zorunlu olmayan, sabit getiri taahhüdü içermeyen ve pay sahipliği haklarından birini veya birkaçını verebilen menkul kıymetlerdir.",
+              "D": "Pay benzeri menkul kıymet ihracı, halka açık ortaklık sermaye işlemleri ve halka arz süreçleri Kurul başvuru ve onay süreçlerine tabidir.",
+              "E": "Halka arz edilmeksizin yapılan sermaye artırımı, halka arz ve izahname onayı mantığından ayrılır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Halka açılma, halka arz sürecinin ortaklık statüsüne yansıyan sonucudur."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Aracılık yüklenimi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sermayede temsil edilmesi zorunlu olmayan, sabit getiri taahhüdü içermeyen ve pay sahipliği haklarından birini veya birkaçını verebilen menkul kıymetlerdir.",
+              "B": "Pay benzeri menkul kıymet ihracı, halka açık ortaklık sermaye işlemleri ve halka arz süreçleri Kurul başvuru ve onay süreçlerine tabidir.",
+              "C": "Halka arzda satılamayan paylara ilişkin yetkili kuruluşun üstlenim sorumluluğunu ifade eder.",
+              "D": "Halka arz edilmeksizin yapılan sermaye artırımı, halka arz ve izahname onayı mantığından ayrılır.",
+              "E": "Esas sermaye sisteminde bedelli sermaye artırımında satılamayan paylar için satın alma taahhüdü aranır."
+            },
+            "dogruCevap": "C",
+            "cozum": "PDFlerde piyasa değeri üzerinden aracılık yüklenimi hesaplama kalıbı öne çıkıyor."
+          },
+          {
+            "id": 25,
+            "soruMetni": "Payların borsada işlem görmesi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sermayede temsil edilmesi zorunlu olmayan, sabit getiri taahhüdü içermeyen ve pay sahipliği haklarından birini veya birkaçını verebilen menkul kıymetlerdir.",
+              "B": "Pay benzeri menkul kıymet ihracı, halka açık ortaklık sermaye işlemleri ve halka arz süreçleri Kurul başvuru ve onay süreçlerine tabidir.",
+              "C": "Halka arz edilmeksizin yapılan sermaye artırımı, halka arz ve izahname onayı mantığından ayrılır.",
+              "D": "Esas sermaye sisteminde bedelli sermaye artırımında satılamayan paylar için satın alma taahhüdü aranır.",
+              "E": "Halka arz edilen payların borsada işlem görebilmesi için ilgili borsa ve Kurul süreçlerinin tamamlanması gerekir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Payların halka arzı ile borsada işlem görmesi bağlantılı fakat ayrı süreçlerdir."
+          }
+        ]
+      },
+      {
+        "testId": 100309,
+        "testAdi": "Çıkmışa Benzer 2: Borçlanma Araçları",
+        "testTuru": "bolum",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Borçlanma araçları ihraç yetkisinin devri konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Vadesi kısa olan ve ihraççının borçlu sıfatıyla düzenleyip sattığı borçlanma aracıdır.",
+              "B": "Genel kurul, borçlanma aracı ihraç yetkisini belirli süreyle yönetim kuruluna devredebilir.",
+              "C": "İhraççı dışındaki başka ortaklıklara ait paylarla değiştirme hakkı veren borçlanma aracıdır.",
+              "D": "Sahibine ihraççının paylarına dönüşme hakkı veren borçlanma aracıdır.",
+              "E": "Değiştirilebilir tahvil sahibine verilecek paylar için esas alınan fiyattır."
+            },
+            "dogruCevap": "B",
+            "cozum": "PDFlerde TTK kaynaklı yetki devri süresi borçlanma araçları açısından sık yoklanır."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Tahvil tanımı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "İhraççı dışındaki başka ortaklıklara ait paylarla değiştirme hakkı veren borçlanma aracıdır.",
+              "B": "Sahibine ihraççının paylarına dönüşme hakkı veren borçlanma aracıdır.",
+              "C": "Değiştirilebilir tahvil sahibine verilecek paylar için esas alınan fiyattır.",
+              "D": "İhraççının borçlu sıfatıyla sattığı ve vade sonunda nominal değerin geri ödenmesini taahhüt ettiği borçlanma aracıdır.",
+              "E": "Paya dönüştürülebilir tahvilin paya dönüşümünde esas alınan fiyattır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Tahvil temel borçlanma aracı olarak nominal değer ve vade mantığıyla tanımlanır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Finansman bonosu tanımı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Vadesi kısa olan ve ihraççının borçlu sıfatıyla düzenleyip sattığı borçlanma aracıdır.",
+              "B": "Sahibine ihraççının paylarına dönüşme hakkı veren borçlanma aracıdır.",
+              "C": "Değiştirilebilir tahvil sahibine verilecek paylar için esas alınan fiyattır.",
+              "D": "Paya dönüştürülebilir tahvilin paya dönüşümünde esas alınan fiyattır.",
+              "E": "Pay benzeri menkul kıymet borçlanma aracı değil, paya bağlı haklar sağlayabilen ayrı bir sermaye piyasası aracıdır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Finansman bonosu kısa vadeli borçlanma aracı olarak sınavda tanım şeklinde gelir."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Değiştirilebilir tahvil konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Değiştirilebilir tahvil sahibine verilecek paylar için esas alınan fiyattır.",
+              "B": "Paya dönüştürülebilir tahvilin paya dönüşümünde esas alınan fiyattır.",
+              "C": "İhraççı dışındaki başka ortaklıklara ait paylarla değiştirme hakkı veren borçlanma aracıdır.",
+              "D": "Pay benzeri menkul kıymet borçlanma aracı değil, paya bağlı haklar sağlayabilen ayrı bir sermaye piyasası aracıdır.",
+              "E": "Kıymetli maden fiyatlarına veya kıymetli maden üretimiyle ilişkili ihraççılara bağlanan borçlanma aracı niteliğindedir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Değiştirilebilir tahvilde dönüşüm ihraççı payına değil başka ortaklık payına yöneliktir."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Paya dönüştürülebilir tahvil konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Paya dönüştürülebilir tahvilin paya dönüşümünde esas alınan fiyattır.",
+              "B": "Pay benzeri menkul kıymet borçlanma aracı değil, paya bağlı haklar sağlayabilen ayrı bir sermaye piyasası aracıdır.",
+              "C": "Kıymetli maden fiyatlarına veya kıymetli maden üretimiyle ilişkili ihraççılara bağlanan borçlanma aracı niteliğindedir.",
+              "D": "İhraççı esas sözleşmesinde veya özel mevzuatında hüküm varsa tahvillere kardan pay verilebilir.",
+              "E": "Sahibine ihraççının paylarına dönüşme hakkı veren borçlanma aracıdır."
+            },
+            "dogruCevap": "E",
+            "cozum": "PDT, borçlanma aracı niteliğini paya dönüşüm hakkıyla birleştirir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Değiştirme fiyatı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Pay benzeri menkul kıymet borçlanma aracı değil, paya bağlı haklar sağlayabilen ayrı bir sermaye piyasası aracıdır.",
+              "B": "Değiştirilebilir tahvil sahibine verilecek paylar için esas alınan fiyattır.",
+              "C": "Kıymetli maden fiyatlarına veya kıymetli maden üretimiyle ilişkili ihraççılara bağlanan borçlanma aracı niteliğindedir.",
+              "D": "İhraççı esas sözleşmesinde veya özel mevzuatında hüküm varsa tahvillere kardan pay verilebilir.",
+              "E": "Tahvilde kar payı ödemesi, faiz ve kar payı koşullarının ihraç belgesinde düzenlenmesine bağlıdır."
+            },
+            "dogruCevap": "B",
+            "cozum": "PDFlerde DET sahibine verilecek paylar için esas alınacak fiyat sorulur."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Dönüşüm fiyatı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Kıymetli maden fiyatlarına veya kıymetli maden üretimiyle ilişkili ihraççılara bağlanan borçlanma aracı niteliğindedir.",
+              "B": "İhraççı esas sözleşmesinde veya özel mevzuatında hüküm varsa tahvillere kardan pay verilebilir.",
+              "C": "Tahvilde kar payı ödemesi, faiz ve kar payı koşullarının ihraç belgesinde düzenlenmesine bağlıdır.",
+              "D": "Paya dönüştürülebilir tahvilin paya dönüşümünde esas alınan fiyattır.",
+              "E": "İhraç limiti özkaynak ve mevzuatta belirlenen katsayılar dikkate alınarak hesaplanır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Dönüşüm fiyatı PDT için, değiştirme fiyatı DET için kullanılmalıdır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Borçlanma aracı olmayan seçenek konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Pay benzeri menkul kıymet borçlanma aracı değil, paya bağlı haklar sağlayabilen ayrı bir sermaye piyasası aracıdır.",
+              "B": "İhraççı esas sözleşmesinde veya özel mevzuatında hüküm varsa tahvillere kardan pay verilebilir.",
+              "C": "Tahvilde kar payı ödemesi, faiz ve kar payı koşullarının ihraç belgesinde düzenlenmesine bağlıdır.",
+              "D": "İhraç limiti özkaynak ve mevzuatta belirlenen katsayılar dikkate alınarak hesaplanır.",
+              "E": "Halka açık ortaklıklarda ihraç limiti özkaynak üzerinden daha geniş katsayılarla belirlenebilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Çıkmışa benzer sorularda borçlanma araçları arasında olmayan unsur pay benzeri menkul kıymettir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Kıymetli maden bonosu konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Tahvilde kar payı ödemesi, faiz ve kar payı koşullarının ihraç belgesinde düzenlenmesine bağlıdır.",
+              "B": "İhraç limiti özkaynak ve mevzuatta belirlenen katsayılar dikkate alınarak hesaplanır.",
+              "C": "Kıymetli maden fiyatlarına veya kıymetli maden üretimiyle ilişkili ihraççılara bağlanan borçlanma aracı niteliğindedir.",
+              "D": "Halka açık ortaklıklarda ihraç limiti özkaynak üzerinden daha geniş katsayılarla belirlenebilir.",
+              "E": "Halka açık olmayan ortaklıklarda borçlanma aracı ihraç limiti özkaynakla sınırlı ve daha dar çerçevededir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Kıymetli maden bonoları borçlanma araçları tebliği kapsamında özel başlık olarak yer alır."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Kar paylı tahvil konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "İhraç limiti özkaynak ve mevzuatta belirlenen katsayılar dikkate alınarak hesaplanır.",
+              "B": "Halka açık ortaklıklarda ihraç limiti özkaynak üzerinden daha geniş katsayılarla belirlenebilir.",
+              "C": "Halka açık olmayan ortaklıklarda borçlanma aracı ihraç limiti özkaynakla sınırlı ve daha dar çerçevededir.",
+              "D": "Borçlanma aracı limitinde başvuru tarihine göre ilgili finansal tablolar esas alınır.",
+              "E": "İhraççı esas sözleşmesinde veya özel mevzuatında hüküm varsa tahvillere kardan pay verilebilir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Tahvillere kardan pay verilmesi için hukuki dayanak ve eşit işlem ilkesi önemlidir."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Kar payı ile faiz ilişkisi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka açık ortaklıklarda ihraç limiti özkaynak üzerinden daha geniş katsayılarla belirlenebilir.",
+              "B": "Tahvilde kar payı ödemesi, faiz ve kar payı koşullarının ihraç belgesinde düzenlenmesine bağlıdır.",
+              "C": "Halka açık olmayan ortaklıklarda borçlanma aracı ihraç limiti özkaynakla sınırlı ve daha dar çerçevededir.",
+              "D": "Borçlanma aracı limitinde başvuru tarihine göre ilgili finansal tablolar esas alınır.",
+              "E": "Halka arz edilecek araçlarda izahname, halka arz edilmeksizin satışlarda ihraç belgesi süreci öne çıkar."
+            },
+            "dogruCevap": "B",
+            "cozum": "PDFlerde tahvillere kar payı verilmesinde hangi ödemenin yapılacağı ifadelerle soruluyor."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Borçlanma aracı ihraç limiti konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka açık olmayan ortaklıklarda borçlanma aracı ihraç limiti özkaynakla sınırlı ve daha dar çerçevededir.",
+              "B": "Borçlanma aracı limitinde başvuru tarihine göre ilgili finansal tablolar esas alınır.",
+              "C": "Halka arz edilecek araçlarda izahname, halka arz edilmeksizin satışlarda ihraç belgesi süreci öne çıkar.",
+              "D": "İhraç limiti özkaynak ve mevzuatta belirlenen katsayılar dikkate alınarak hesaplanır.",
+              "E": "Halka arz edilecek borçlanma araçlarının borsada işlem görmesi için başvuru yapılması gerekir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Sınav kalıbında halka açık ve halka açık olmayan ortaklıkların limitleri karşılaştırılır."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Halka açık ortaklık ihraç limiti konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka açık ortaklıklarda ihraç limiti özkaynak üzerinden daha geniş katsayılarla belirlenebilir.",
+              "B": "Borçlanma aracı limitinde başvuru tarihine göre ilgili finansal tablolar esas alınır.",
+              "C": "Halka arz edilecek araçlarda izahname, halka arz edilmeksizin satışlarda ihraç belgesi süreci öne çıkar.",
+              "D": "Halka arz edilecek borçlanma araçlarının borsada işlem görmesi için başvuru yapılması gerekir.",
+              "E": "Borçlanma aracı sahiplerinin haklarını topluca kullanmasına ilişkin kurulu ifade eder."
+            },
+            "dogruCevap": "A",
+            "cozum": "Borçlanma aracı ihraç limiti soruları genellikle özkaynak üzerinden hesaplatılır."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Halka açık olmayan ortaklık ihraç limiti konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka arz edilecek araçlarda izahname, halka arz edilmeksizin satışlarda ihraç belgesi süreci öne çıkar.",
+              "B": "Halka arz edilecek borçlanma araçlarının borsada işlem görmesi için başvuru yapılması gerekir.",
+              "C": "Halka açık olmayan ortaklıklarda borçlanma aracı ihraç limiti özkaynakla sınırlı ve daha dar çerçevededir.",
+              "D": "Borçlanma aracı sahiplerinin haklarını topluca kullanmasına ilişkin kurulu ifade eder.",
+              "E": "Aynı ihraççının aynı tür ve koşullardaki borçlanma araçları tertip bazında izlenebilir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Sınavda halka açık olmayan ortaklıkların limit hesabı ayrı sorulabilir."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Limit hesabında kullanılacak finansal tablo konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Halka arz edilecek borçlanma araçlarının borsada işlem görmesi için başvuru yapılması gerekir.",
+              "B": "Borçlanma aracı sahiplerinin haklarını topluca kullanmasına ilişkin kurulu ifade eder.",
+              "C": "Aynı ihraççının aynı tür ve koşullardaki borçlanma araçları tertip bazında izlenebilir.",
+              "D": "Borçlanma aracı sahiplerinin haklarını izlemek üzere temsilci atanması mümkündür.",
+              "E": "Borçlanma aracı limitinde başvuru tarihine göre ilgili finansal tablolar esas alınır."
+            },
+            "dogruCevap": "E",
+            "cozum": "PDFlerde belirli başvuru tarihine göre hangi finansal tablonun kullanılacağı soruluyor."
+          },
+          {
+            "id": 16,
+            "soruMetni": "İzahname ve ihraç belgesi ayrımı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Borçlanma aracı sahiplerinin haklarını topluca kullanmasına ilişkin kurulu ifade eder.",
+              "B": "Halka arz edilecek araçlarda izahname, halka arz edilmeksizin satışlarda ihraç belgesi süreci öne çıkar.",
+              "C": "Aynı ihraççının aynı tür ve koşullardaki borçlanma araçları tertip bazında izlenebilir.",
+              "D": "Borçlanma aracı sahiplerinin haklarını izlemek üzere temsilci atanması mümkündür.",
+              "E": "Belirli varlık veya güvencelerle desteklenen borçlanma aracı yapısıdır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Borçlanma aracı ihracında satış yöntemine göre belge türü değişebilir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Borsada işlem görme şartı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Aynı ihraççının aynı tür ve koşullardaki borçlanma araçları tertip bazında izlenebilir.",
+              "B": "Borçlanma aracı sahiplerinin haklarını izlemek üzere temsilci atanması mümkündür.",
+              "C": "Belirli varlık veya güvencelerle desteklenen borçlanma aracı yapısıdır.",
+              "D": "Halka arz edilecek borçlanma araçlarının borsada işlem görmesi için başvuru yapılması gerekir.",
+              "E": "Geliri çevresel sürdürülebilirlik hedefleriyle uyumlu projelerde kullanılan borçlanma aracıdır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Halka arz edilen borçlanma araçlarında borsa işlem görme süreci önemlidir."
+          },
+          {
+            "id": 18,
+            "soruMetni": "BASK tanımı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Borçlanma aracı sahiplerinin haklarını topluca kullanmasına ilişkin kurulu ifade eder.",
+              "B": "Borçlanma aracı sahiplerinin haklarını izlemek üzere temsilci atanması mümkündür.",
+              "C": "Belirli varlık veya güvencelerle desteklenen borçlanma aracı yapısıdır.",
+              "D": "Geliri çevresel sürdürülebilirlik hedefleriyle uyumlu projelerde kullanılan borçlanma aracıdır.",
+              "E": "Çevresel veya sosyal sürdürülebilirlik hedefleriyle ilişkilendirilen borçlanma aracıdır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Borçlanma Aracı Sahipleri Kurulu, borçlanma aracı sahiplerinin kolektif karar mekanizmasıdır."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Tertip kavramı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Belirli varlık veya güvencelerle desteklenen borçlanma aracı yapısıdır.",
+              "B": "Geliri çevresel sürdürülebilirlik hedefleriyle uyumlu projelerde kullanılan borçlanma aracıdır.",
+              "C": "Aynı ihraççının aynı tür ve koşullardaki borçlanma araçları tertip bazında izlenebilir.",
+              "D": "Çevresel veya sosyal sürdürülebilirlik hedefleriyle ilişkilendirilen borçlanma aracıdır.",
+              "E": "Borçlanma aracının türüne göre asgari veya azami vade şartları değişebilir."
+            },
+            "dogruCevap": "C",
+            "cozum": "BASK soruları genellikle tertip ve sahiplerin karar nisaplarına bağlanır."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Yatırımcı temsilcisi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Geliri çevresel sürdürülebilirlik hedefleriyle uyumlu projelerde kullanılan borçlanma aracıdır.",
+              "B": "Çevresel veya sosyal sürdürülebilirlik hedefleriyle ilişkilendirilen borçlanma aracıdır.",
+              "C": "Borçlanma aracının türüne göre asgari veya azami vade şartları değişebilir.",
+              "D": "Borçlanma aracını düzenleyip satan ve geri ödeme yükümlülüğü altında bulunan taraftır.",
+              "E": "Borçlanma aracı sahiplerinin haklarını izlemek üzere temsilci atanması mümkündür."
+            },
+            "dogruCevap": "E",
+            "cozum": "Temsilci mekanizması ihraççı ile yatırımcılar arasındaki kolektif takibi kolaylaştırır."
+          },
+          {
+            "id": 21,
+            "soruMetni": "Teminatlı borçlanma aracı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Çevresel veya sosyal sürdürülebilirlik hedefleriyle ilişkilendirilen borçlanma aracıdır.",
+              "B": "Belirli varlık veya güvencelerle desteklenen borçlanma aracı yapısıdır.",
+              "C": "Borçlanma aracının türüne göre asgari veya azami vade şartları değişebilir.",
+              "D": "Borçlanma aracını düzenleyip satan ve geri ödeme yükümlülüğü altında bulunan taraftır.",
+              "E": "Genel kurul, borçlanma aracı ihraç yetkisini belirli süreyle yönetim kuruluna devredebilir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Teminat, yatırımcı riskini azaltmaya yönelik ek güvence sağlayabilir."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Yeşil borçlanma aracı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Borçlanma aracının türüne göre asgari veya azami vade şartları değişebilir.",
+              "B": "Borçlanma aracını düzenleyip satan ve geri ödeme yükümlülüğü altında bulunan taraftır.",
+              "C": "Genel kurul, borçlanma aracı ihraç yetkisini belirli süreyle yönetim kuruluna devredebilir.",
+              "D": "Geliri çevresel sürdürülebilirlik hedefleriyle uyumlu projelerde kullanılan borçlanma aracıdır.",
+              "E": "İhraççının borçlu sıfatıyla sattığı ve vade sonunda nominal değerin geri ödenmesini taahhüt ettiği borçlanma aracıdır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Yeşil borçlanma araçları fon kullanım amacı ve raporlama yönüyle ayrışır."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Sürdürülebilir borçlanma aracı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Çevresel veya sosyal sürdürülebilirlik hedefleriyle ilişkilendirilen borçlanma aracıdır.",
+              "B": "Borçlanma aracını düzenleyip satan ve geri ödeme yükümlülüğü altında bulunan taraftır.",
+              "C": "Genel kurul, borçlanma aracı ihraç yetkisini belirli süreyle yönetim kuruluna devredebilir.",
+              "D": "İhraççının borçlu sıfatıyla sattığı ve vade sonunda nominal değerin geri ödenmesini taahhüt ettiği borçlanma aracıdır.",
+              "E": "Vadesi kısa olan ve ihraççının borçlu sıfatıyla düzenleyip sattığı borçlanma aracıdır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Sürdürülebilirlik temalı ihraçlarda çerçeve belge ve raporlama önemlidir."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Borçlanma aracında vade konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Genel kurul, borçlanma aracı ihraç yetkisini belirli süreyle yönetim kuruluna devredebilir.",
+              "B": "İhraççının borçlu sıfatıyla sattığı ve vade sonunda nominal değerin geri ödenmesini taahhüt ettiği borçlanma aracıdır.",
+              "C": "Borçlanma aracının türüne göre asgari veya azami vade şartları değişebilir.",
+              "D": "Vadesi kısa olan ve ihraççının borçlu sıfatıyla düzenleyip sattığı borçlanma aracıdır.",
+              "E": "İhraççı dışındaki başka ortaklıklara ait paylarla değiştirme hakkı veren borçlanma aracıdır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Finansman bonosu, tahvil, DET ve PDT türlerinde vade kuralları farklılaşır."
+          },
+          {
+            "id": 25,
+            "soruMetni": "İhraççı sıfatı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Genel kurul, borçlanma aracı ihraç yetkisini belirli süreyle yönetim kuruluna devredebilir.",
+              "B": "İhraççının borçlu sıfatıyla sattığı ve vade sonunda nominal değerin geri ödenmesini taahhüt ettiği borçlanma aracıdır.",
+              "C": "Vadesi kısa olan ve ihraççının borçlu sıfatıyla düzenleyip sattığı borçlanma aracıdır.",
+              "D": "İhraççı dışındaki başka ortaklıklara ait paylarla değiştirme hakkı veren borçlanma aracıdır.",
+              "E": "Borçlanma aracını düzenleyip satan ve geri ödeme yükümlülüğü altında bulunan taraftır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Borçlanma aracı ilişkisinde ihraççı borçlu konumdadır."
+          }
+        ]
+      },
+      {
+        "testId": 100310,
+        "testAdi": "Çıkmışa Benzer 3: Yatırım Fonları",
+        "testTuru": "bolum",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Şemsiye fon tanımı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Portföyünün ağırlıklı kısmı diğer fonların ve borsa yatırım fonlarının katılma paylarından oluşan fonları kapsar.",
+              "B": "Katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsayan üst fon yapısıdır.",
+              "C": "Kısa vadeli para ve sermaye piyasası araçlarına yatırım yapan fonları kapsar.",
+              "D": "Portföyü ağırlıklı olarak borçlanma araçlarından oluşan fonları kapsar.",
+              "E": "Portföyü ağırlıklı olarak ortaklık paylarından oluşan fonları kapsar."
+            },
+            "dogruCevap": "B",
+            "cozum": "PDFlerde şemsiye fon tanımı doğrudan soruluyor."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Serbest şemsiye fon konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Kısa vadeli para ve sermaye piyasası araçlarına yatırım yapan fonları kapsar.",
+              "B": "Portföyü ağırlıklı olarak borçlanma araçlarından oluşan fonları kapsar.",
+              "C": "Portföyü ağırlıklı olarak ortaklık paylarından oluşan fonları kapsar.",
+              "D": "Katılma payları sadece nitelikli yatırımcılara satılmak üzere kurulan fonları kapsar.",
+              "E": "Portföy dağılımı belirli bir varlık türüne bağlı kalmadan değişebilen fonları kapsar."
+            },
+            "dogruCevap": "D",
+            "cozum": "Serbest şemsiye fon, nitelikli yatırımcı vurgusuyla ayırt edilir."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Fon sepeti şemsiye fonu konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Portföyünün ağırlıklı kısmı diğer fonların ve borsa yatırım fonlarının katılma paylarından oluşan fonları kapsar.",
+              "B": "Portföyü ağırlıklı olarak borçlanma araçlarından oluşan fonları kapsar.",
+              "C": "Portföyü ağırlıklı olarak ortaklık paylarından oluşan fonları kapsar.",
+              "D": "Portföy dağılımı belirli bir varlık türüne bağlı kalmadan değişebilen fonları kapsar.",
+              "E": "Unvanında yabancı ifadesi bulunan fonların portföyünde yabancı para ve sermaye piyasası araçları ağırlıklı olmalıdır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Fon sepeti fonlarında ana yatırım konusu başka fonların katılma paylarıdır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Para piyasası şemsiye fonu konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Portföyü ağırlıklı olarak ortaklık paylarından oluşan fonları kapsar.",
+              "B": "Portföy dağılımı belirli bir varlık türüne bağlı kalmadan değişebilen fonları kapsar.",
+              "C": "Kısa vadeli para ve sermaye piyasası araçlarına yatırım yapan fonları kapsar.",
+              "D": "Unvanında yabancı ifadesi bulunan fonların portföyünde yabancı para ve sermaye piyasası araçları ağırlıklı olmalıdır.",
+              "E": "Yatırım fonu katılma paylarının itibari değeri bulunmaz."
+            },
+            "dogruCevap": "C",
+            "cozum": "Para piyasası fonlarında vade ve likidite ana belirleyicidir."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Borçlanma araçları şemsiye fonu konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Portföy dağılımı belirli bir varlık türüne bağlı kalmadan değişebilen fonları kapsar.",
+              "B": "Unvanında yabancı ifadesi bulunan fonların portföyünde yabancı para ve sermaye piyasası araçları ağırlıklı olmalıdır.",
+              "C": "Yatırım fonu katılma paylarının itibari değeri bulunmaz.",
+              "D": "Fon birim pay değeri fon türüne ve dokümanlarına göre düzenli olarak hesaplanır ve ilan edilir.",
+              "E": "Portföyü ağırlıklı olarak borçlanma araçlarından oluşan fonları kapsar."
+            },
+            "dogruCevap": "E",
+            "cozum": "Fon türü, portföyün ağırlıklı varlık sınıfına göre belirlenir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Hisse senedi şemsiye fonu konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Unvanında yabancı ifadesi bulunan fonların portföyünde yabancı para ve sermaye piyasası araçları ağırlıklı olmalıdır.",
+              "B": "Portföyü ağırlıklı olarak ortaklık paylarından oluşan fonları kapsar.",
+              "C": "Yatırım fonu katılma paylarının itibari değeri bulunmaz.",
+              "D": "Fon birim pay değeri fon türüne ve dokümanlarına göre düzenli olarak hesaplanır ve ilan edilir.",
+              "E": "Varlıklardan borçların düşülmesi ve sonucun pay sayısına bölünmesi birim pay değerini verir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Hisse senedi fonları pay piyasası riskine yoğunlaşır."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Değişken şemsiye fon konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Yatırım fonu katılma paylarının itibari değeri bulunmaz.",
+              "B": "Fon birim pay değeri fon türüne ve dokümanlarına göre düzenli olarak hesaplanır ve ilan edilir.",
+              "C": "Varlıklardan borçların düşülmesi ve sonucun pay sayısına bölünmesi birim pay değerini verir.",
+              "D": "Portföy dağılımı belirli bir varlık türüne bağlı kalmadan değişebilen fonları kapsar.",
+              "E": "Fon toplam değerinin belirli oranından fazla yatırım yapılan ihraççıların toplamı ayrıca sınırlanır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Değişken fonlarda yatırım stratejisi daha esnek portföy dağılımı sağlar."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Yabancı unvanlı fon konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Unvanında yabancı ifadesi bulunan fonların portföyünde yabancı para ve sermaye piyasası araçları ağırlıklı olmalıdır.",
+              "B": "Fon birim pay değeri fon türüne ve dokümanlarına göre düzenli olarak hesaplanır ve ilan edilir.",
+              "C": "Varlıklardan borçların düşülmesi ve sonucun pay sayısına bölünmesi birim pay değerini verir.",
+              "D": "Fon toplam değerinin belirli oranından fazla yatırım yapılan ihraççıların toplamı ayrıca sınırlanır.",
+              "E": "Aynı ihraççıya aşırı yatırım yapılması portföy sınırlamalarıyla engellenir."
+            },
+            "dogruCevap": "A",
+            "cozum": "PDFlerde yabancı unvanı için portföy ağırlığı şartı soruluyor."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Fon katılma payının itibari değeri konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Varlıklardan borçların düşülmesi ve sonucun pay sayısına bölünmesi birim pay değerini verir.",
+              "B": "Fon toplam değerinin belirli oranından fazla yatırım yapılan ihraççıların toplamı ayrıca sınırlanır.",
+              "C": "Yatırım fonu katılma paylarının itibari değeri bulunmaz.",
+              "D": "Aynı ihraççıya aşırı yatırım yapılması portföy sınırlamalarıyla engellenir.",
+              "E": "Borsa yatırım fonu payları fon portföy sınırlamalarında özel şekilde dikkate alınır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Katılma payı değeri fon toplam değerine göre hesaplanır; nominal değer mantığı yoktur."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Fon birim pay değerinin ilanı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fon toplam değerinin belirli oranından fazla yatırım yapılan ihraççıların toplamı ayrıca sınırlanır.",
+              "B": "Aynı ihraççıya aşırı yatırım yapılması portföy sınırlamalarıyla engellenir.",
+              "C": "Borsa yatırım fonu payları fon portföy sınırlamalarında özel şekilde dikkate alınır.",
+              "D": "Fon portföyünde yatırım ortaklığı payları belirli oran sınırlamalarına tabidir.",
+              "E": "Fon birim pay değeri fon türüne ve dokümanlarına göre düzenli olarak hesaplanır ve ilan edilir."
+            },
+            "dogruCevap": "E",
+            "cozum": "PDFlerde günlük değer hesaplama ve ilan sıklığı doğru-yanlış kalıbıyla geliyor."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Fon toplam değeri hesabı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Aynı ihraççıya aşırı yatırım yapılması portföy sınırlamalarıyla engellenir.",
+              "B": "Varlıklardan borçların düşülmesi ve sonucun pay sayısına bölünmesi birim pay değerini verir.",
+              "C": "Borsa yatırım fonu payları fon portföy sınırlamalarında özel şekilde dikkate alınır.",
+              "D": "Fon portföyünde yatırım ortaklığı payları belirli oran sınırlamalarına tabidir.",
+              "E": "Endeks fonlarında fon birim pay değeri ile izlenen endeks arasında yüksek korelasyon hedeflenir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Fon toplam değeri ve birim pay değeri hesaplama mantığı birlikte sorulur."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Fon portföy sınırlamalarında yüzde 5 eşiği konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Borsa yatırım fonu payları fon portföy sınırlamalarında özel şekilde dikkate alınır.",
+              "B": "Fon portföyünde yatırım ortaklığı payları belirli oran sınırlamalarına tabidir.",
+              "C": "Endeks fonlarında fon birim pay değeri ile izlenen endeks arasında yüksek korelasyon hedeflenir.",
+              "D": "Fon toplam değerinin belirli oranından fazla yatırım yapılan ihraççıların toplamı ayrıca sınırlanır.",
+              "E": "Fonun kuruluş ve işleyiş esaslarını belirleyen temel dokümandır."
+            },
+            "dogruCevap": "D",
+            "cozum": "PDFlerde yüzde 5 eşiği ve toplam yüzde 40 sınırı konu olarak öne çıkıyor."
+          },
+          {
+            "id": 13,
+            "soruMetni": "İhraççı yoğunlaşma sınırı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Aynı ihraççıya aşırı yatırım yapılması portföy sınırlamalarıyla engellenir.",
+              "B": "Fon portföyünde yatırım ortaklığı payları belirli oran sınırlamalarına tabidir.",
+              "C": "Endeks fonlarında fon birim pay değeri ile izlenen endeks arasında yüksek korelasyon hedeflenir.",
+              "D": "Fonun kuruluş ve işleyiş esaslarını belirleyen temel dokümandır.",
+              "E": "Fonun yatırım stratejisi, riskleri, giderleri ve alım-satım esaslarını açıklayan belgedir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Portföy sınırlamaları fon yatırımcısını tekil ihraççı riskinden korur."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Borsa yatırım fonu katılma payları konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Endeks fonlarında fon birim pay değeri ile izlenen endeks arasında yüksek korelasyon hedeflenir.",
+              "B": "Fonun kuruluş ve işleyiş esaslarını belirleyen temel dokümandır.",
+              "C": "Borsa yatırım fonu payları fon portföy sınırlamalarında özel şekilde dikkate alınır.",
+              "D": "Fonun yatırım stratejisi, riskleri, giderleri ve alım-satım esaslarını açıklayan belgedir.",
+              "E": "Fonun temel özelliklerini kısa ve karşılaştırılabilir biçimde sunar."
+            },
+            "dogruCevap": "C",
+            "cozum": "PDFlerde fon ile borsa yatırım fonu katılma paylarının toplam sınırı soruluyor."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Menkul kıymet yatırım ortaklığı payları konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fonun kuruluş ve işleyiş esaslarını belirleyen temel dokümandır.",
+              "B": "Fonun yatırım stratejisi, riskleri, giderleri ve alım-satım esaslarını açıklayan belgedir.",
+              "C": "Fonun temel özelliklerini kısa ve karşılaştırılabilir biçimde sunar.",
+              "D": "Fon malvarlığı kurucu ve yöneticinin malvarlığından ayrı izlenir.",
+              "E": "Fon portföyünde yatırım ortaklığı payları belirli oran sınırlamalarına tabidir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Fon portföyüne alınacak varlıklar ve ihraççı sınırları sınavda birlikte gelir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Baz alınan endeks korelasyonu konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fonun yatırım stratejisi, riskleri, giderleri ve alım-satım esaslarını açıklayan belgedir.",
+              "B": "Endeks fonlarında fon birim pay değeri ile izlenen endeks arasında yüksek korelasyon hedeflenir.",
+              "C": "Fonun temel özelliklerini kısa ve karşılaştırılabilir biçimde sunar.",
+              "D": "Fon malvarlığı kurucu ve yöneticinin malvarlığından ayrı izlenir.",
+              "E": "Fon varlıklarının saklanması ve kontrol süreçlerinde görev alan yetkili kuruluştur."
+            },
+            "dogruCevap": "B",
+            "cozum": "Endeks fonu ve borsa yatırım fonu sorularında korelasyon kavramı öne çıkar."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Fon içtüzüğü konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fonun temel özelliklerini kısa ve karşılaştırılabilir biçimde sunar.",
+              "B": "Fon malvarlığı kurucu ve yöneticinin malvarlığından ayrı izlenir.",
+              "C": "Fon varlıklarının saklanması ve kontrol süreçlerinde görev alan yetkili kuruluştur.",
+              "D": "Fonun kuruluş ve işleyiş esaslarını belirleyen temel dokümandır.",
+              "E": "Bazı fon türlerinde katılma payları yalnızca nitelikli yatırımcılara satılabilir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Şemsiye fon ve alt fon yapısında içtüzük ana düzenleyici belgedir."
+          },
+          {
+            "id": 18,
+            "soruMetni": "İzahname konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fonun yatırım stratejisi, riskleri, giderleri ve alım-satım esaslarını açıklayan belgedir.",
+              "B": "Fon malvarlığı kurucu ve yöneticinin malvarlığından ayrı izlenir.",
+              "C": "Fon varlıklarının saklanması ve kontrol süreçlerinde görev alan yetkili kuruluştur.",
+              "D": "Bazı fon türlerinde katılma payları yalnızca nitelikli yatırımcılara satılabilir.",
+              "E": "Fon giderleri fon toplam değerini ve yatırımcının net getirisini etkiler."
+            },
+            "dogruCevap": "A",
+            "cozum": "İzahname yatırımcıya fon hakkında karar vermesi için bilgi sağlar."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Yatırımcı bilgi formu konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fon varlıklarının saklanması ve kontrol süreçlerinde görev alan yetkili kuruluştur.",
+              "B": "Bazı fon türlerinde katılma payları yalnızca nitelikli yatırımcılara satılabilir.",
+              "C": "Fonun temel özelliklerini kısa ve karşılaştırılabilir biçimde sunar.",
+              "D": "Fon giderleri fon toplam değerini ve yatırımcının net getirisini etkiler.",
+              "E": "Fon tasfiye edilirse portföy nakde çevrilir ve hak sahiplerine payları oranında ödeme yapılır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Yatırımcı bilgi formu sınavda izahnameyle karıştırılabilir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Fon malvarlığının ayrılığı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Bazı fon türlerinde katılma payları yalnızca nitelikli yatırımcılara satılabilir.",
+              "B": "Fon giderleri fon toplam değerini ve yatırımcının net getirisini etkiler.",
+              "C": "Fon tasfiye edilirse portföy nakde çevrilir ve hak sahiplerine payları oranında ödeme yapılır.",
+              "D": "Fon yapısal değişikliklerinde kamuyu aydınlatma ve katılma payı sahiplerinin hakları gözetilir.",
+              "E": "Fon malvarlığı kurucu ve yöneticinin malvarlığından ayrı izlenir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Fon yatırımcısının korunması için malvarlığı ayrılığı temel ilkedir."
+          },
+          {
+            "id": 21,
+            "soruMetni": "Portföy saklayıcısı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fon giderleri fon toplam değerini ve yatırımcının net getirisini etkiler.",
+              "B": "Fon varlıklarının saklanması ve kontrol süreçlerinde görev alan yetkili kuruluştur.",
+              "C": "Fon tasfiye edilirse portföy nakde çevrilir ve hak sahiplerine payları oranında ödeme yapılır.",
+              "D": "Fon yapısal değişikliklerinde kamuyu aydınlatma ve katılma payı sahiplerinin hakları gözetilir.",
+              "E": "Katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsayan üst fon yapısıdır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Saklayıcı fon varlıklarının korunması ve izlenmesinde kritik taraftır."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Nitelikli yatırımcıya satış konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fon tasfiye edilirse portföy nakde çevrilir ve hak sahiplerine payları oranında ödeme yapılır.",
+              "B": "Fon yapısal değişikliklerinde kamuyu aydınlatma ve katılma payı sahiplerinin hakları gözetilir.",
+              "C": "Katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsayan üst fon yapısıdır.",
+              "D": "Bazı fon türlerinde katılma payları yalnızca nitelikli yatırımcılara satılabilir.",
+              "E": "Katılma payları sadece nitelikli yatırımcılara satılmak üzere kurulan fonları kapsar."
+            },
+            "dogruCevap": "D",
+            "cozum": "Serbest fonlar bu ayrımın en tipik örneğidir."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Fon giderleri konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Fon giderleri fon toplam değerini ve yatırımcının net getirisini etkiler.",
+              "B": "Fon yapısal değişikliklerinde kamuyu aydınlatma ve katılma payı sahiplerinin hakları gözetilir.",
+              "C": "Katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsayan üst fon yapısıdır.",
+              "D": "Katılma payları sadece nitelikli yatırımcılara satılmak üzere kurulan fonları kapsar.",
+              "E": "Portföyünün ağırlıklı kısmı diğer fonların ve borsa yatırım fonlarının katılma paylarından oluşan fonları kapsar."
+            },
+            "dogruCevap": "A",
+            "cozum": "Gider oranı ve yönetim ücreti yatırımcı kararında önemlidir."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Fonun sona ermesi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsayan üst fon yapısıdır.",
+              "B": "Katılma payları sadece nitelikli yatırımcılara satılmak üzere kurulan fonları kapsar.",
+              "C": "Fon tasfiye edilirse portföy nakde çevrilir ve hak sahiplerine payları oranında ödeme yapılır.",
+              "D": "Portföyünün ağırlıklı kısmı diğer fonların ve borsa yatırım fonlarının katılma paylarından oluşan fonları kapsar.",
+              "E": "Kısa vadeli para ve sermaye piyasası araçlarına yatırım yapan fonları kapsar."
+            },
+            "dogruCevap": "C",
+            "cozum": "Fonun sona ermesi, devir ve birleşme süreçleri yatırımcı hakları korunarak yürütülür."
+          },
+          {
+            "id": 25,
+            "soruMetni": "Fon birleşmesi ve dönüşümü konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Katılma payları tek bir içtüzük kapsamında ihraç edilen tüm fonları kapsayan üst fon yapısıdır.",
+              "B": "Katılma payları sadece nitelikli yatırımcılara satılmak üzere kurulan fonları kapsar.",
+              "C": "Portföyünün ağırlıklı kısmı diğer fonların ve borsa yatırım fonlarının katılma paylarından oluşan fonları kapsar.",
+              "D": "Kısa vadeli para ve sermaye piyasası araçlarına yatırım yapan fonları kapsar.",
+              "E": "Fon yapısal değişikliklerinde kamuyu aydınlatma ve katılma payı sahiplerinin hakları gözetilir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Yapısal fon işlemleri yatırımcı beklentisini etkileyebileceği için usule bağlıdır."
+          }
+        ]
+      },
+      {
+        "testId": 100311,
+        "testAdi": "Çıkmışa Benzer 4: Türev Araçlar",
+        "testTuru": "bolum",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Türev araç kapsamı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sahibine dayanak varlığı alma veya satma hakkı veren sermaye piyasası aracıdır.",
+              "B": "Forward, futures, opsiyon ve swap sözleşmeleri temel türev araç örnekleridir.",
+              "C": "Tarafların gelecekte belirli bir tarihte belirli fiyattan işlem yapmayı taahhüt ettiği tezgahüstü sözleşmedir.",
+              "D": "Organize piyasada işlem gören, standartlaştırılmış vadeli işlem sözleşmesidir.",
+              "E": "Alıcıya belirli prim karşılığında alma veya satma hakkı veren, yükümlülüğü satıcıya yükleyen sözleşmedir."
+            },
+            "dogruCevap": "B",
+            "cozum": "PDFlerde türev araç olmayan unsur ayırt ettiriliyor."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Türev araç olmayan varlık konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Tarafların gelecekte belirli bir tarihte belirli fiyattan işlem yapmayı taahhüt ettiği tezgahüstü sözleşmedir.",
+              "B": "Organize piyasada işlem gören, standartlaştırılmış vadeli işlem sözleşmesidir.",
+              "C": "Alıcıya belirli prim karşılığında alma veya satma hakkı veren, yükümlülüğü satıcıya yükleyen sözleşmedir.",
+              "D": "Eurobond borçlanma aracı niteliğinde olup klasik türev araç değildir.",
+              "E": "Opsiyon kullanıldığında dayanak varlık için ödenecek alım veya satım fiyatıdır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Çıkmışa benzer sorularda Eurobond türev araçlar arasına konularak çeldirici yapılır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Varant konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sahibine dayanak varlığı alma veya satma hakkı veren sermaye piyasası aracıdır.",
+              "B": "Organize piyasada işlem gören, standartlaştırılmış vadeli işlem sözleşmesidir.",
+              "C": "Alıcıya belirli prim karşılığında alma veya satma hakkı veren, yükümlülüğü satıcıya yükleyen sözleşmedir.",
+              "D": "Opsiyon kullanıldığında dayanak varlık için ödenecek alım veya satım fiyatıdır.",
+              "E": "Opsiyon hakkını elde etmek için alıcı tarafından satıcıya ödenen bedeldir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Varant türev benzeri yapısıyla opsiyon mantığına yakın sorulur."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Forward sözleşme konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Alıcıya belirli prim karşılığında alma veya satma hakkı veren, yükümlülüğü satıcıya yükleyen sözleşmedir.",
+              "B": "Opsiyon kullanıldığında dayanak varlık için ödenecek alım veya satım fiyatıdır.",
+              "C": "Tarafların gelecekte belirli bir tarihte belirli fiyattan işlem yapmayı taahhüt ettiği tezgahüstü sözleşmedir.",
+              "D": "Opsiyon hakkını elde etmek için alıcı tarafından satıcıya ödenen bedeldir.",
+              "E": "Sahibine dayanak varlığı belirli fiyattan alma hakkı verir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Forward sözleşmeler organize borsadan çok tezgahüstü yapı ile ilişkilidir."
+          },
+          {
+            "id": 5,
+            "soruMetni": "Futures sözleşme konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Opsiyon kullanıldığında dayanak varlık için ödenecek alım veya satım fiyatıdır.",
+              "B": "Opsiyon hakkını elde etmek için alıcı tarafından satıcıya ödenen bedeldir.",
+              "C": "Sahibine dayanak varlığı belirli fiyattan alma hakkı verir.",
+              "D": "Sahibine dayanak varlığı belirli fiyattan satma hakkı verir.",
+              "E": "Organize piyasada işlem gören, standartlaştırılmış vadeli işlem sözleşmesidir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Futures sözleşmelerde standartlık ve organize piyasa vurgusu önemlidir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "Opsiyon sözleşmesi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Opsiyon hakkını elde etmek için alıcı tarafından satıcıya ödenen bedeldir.",
+              "B": "Alıcıya belirli prim karşılığında alma veya satma hakkı veren, yükümlülüğü satıcıya yükleyen sözleşmedir.",
+              "C": "Sahibine dayanak varlığı belirli fiyattan alma hakkı verir.",
+              "D": "Sahibine dayanak varlığı belirli fiyattan satma hakkı verir.",
+              "E": "Spot fiyat kullanım fiyatının üzerindeyse alım opsiyonu karda kabul edilir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Opsiyonda alıcının hakkı, satıcının yükümlülüğü vardır."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Kullanım fiyatı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Sahibine dayanak varlığı belirli fiyattan alma hakkı verir.",
+              "B": "Sahibine dayanak varlığı belirli fiyattan satma hakkı verir.",
+              "C": "Spot fiyat kullanım fiyatının üzerindeyse alım opsiyonu karda kabul edilir.",
+              "D": "Opsiyon kullanıldığında dayanak varlık için ödenecek alım veya satım fiyatıdır.",
+              "E": "Spot fiyat kullanım fiyatının altındaysa satım opsiyonu karda kabul edilir."
+            },
+            "dogruCevap": "D",
+            "cozum": "PDFlerde kullanım fiyatı tanımı doğrudan soruluyor."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Opsiyon primi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Opsiyon hakkını elde etmek için alıcı tarafından satıcıya ödenen bedeldir.",
+              "B": "Sahibine dayanak varlığı belirli fiyattan satma hakkı verir.",
+              "C": "Spot fiyat kullanım fiyatının üzerindeyse alım opsiyonu karda kabul edilir.",
+              "D": "Spot fiyat kullanım fiyatının altındaysa satım opsiyonu karda kabul edilir.",
+              "E": "Spot fiyat kullanım fiyatının altındaysa alım opsiyonu zararda kabul edilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Prim, opsiyon alıcısının maksimum başlangıç maliyetidir."
+          },
+          {
+            "id": 9,
+            "soruMetni": "Alım opsiyonu konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Spot fiyat kullanım fiyatının üzerindeyse alım opsiyonu karda kabul edilir.",
+              "B": "Spot fiyat kullanım fiyatının altındaysa satım opsiyonu karda kabul edilir.",
+              "C": "Sahibine dayanak varlığı belirli fiyattan alma hakkı verir.",
+              "D": "Spot fiyat kullanım fiyatının altındaysa alım opsiyonu zararda kabul edilir.",
+              "E": "Spot fiyat kullanım fiyatının üzerindeyse satım opsiyonu zararda kabul edilir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Call opsiyon alma hakkı sağlar."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Satım opsiyonu konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Spot fiyat kullanım fiyatının altındaysa satım opsiyonu karda kabul edilir.",
+              "B": "Spot fiyat kullanım fiyatının altındaysa alım opsiyonu zararda kabul edilir.",
+              "C": "Spot fiyat kullanım fiyatının üzerindeyse satım opsiyonu zararda kabul edilir.",
+              "D": "Vadeli işlem ve opsiyon piyasasında gün sonu kar-zarar ve teminat güncellemesinde esas alınan fiyattır.",
+              "E": "Sahibine dayanak varlığı belirli fiyattan satma hakkı verir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Put opsiyon satma hakkı sağlar."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Alım opsiyonunda karda olma konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Spot fiyat kullanım fiyatının altındaysa alım opsiyonu zararda kabul edilir.",
+              "B": "Spot fiyat kullanım fiyatının üzerindeyse alım opsiyonu karda kabul edilir.",
+              "C": "Spot fiyat kullanım fiyatının üzerindeyse satım opsiyonu zararda kabul edilir.",
+              "D": "Vadeli işlem ve opsiyon piyasasında gün sonu kar-zarar ve teminat güncellemesinde esas alınan fiyattır.",
+              "E": "Vadeli işlem pozisyonu açılırken yatırılması gereken teminattır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Alım opsiyonunda dayanak fiyatı kullanım fiyatını aşarsa hak ekonomik değer kazanır."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Satım opsiyonunda karda olma konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Spot fiyat kullanım fiyatının üzerindeyse satım opsiyonu zararda kabul edilir.",
+              "B": "Vadeli işlem ve opsiyon piyasasında gün sonu kar-zarar ve teminat güncellemesinde esas alınan fiyattır.",
+              "C": "Vadeli işlem pozisyonu açılırken yatırılması gereken teminattır.",
+              "D": "Spot fiyat kullanım fiyatının altındaysa satım opsiyonu karda kabul edilir.",
+              "E": "Pozisyonun devamı için korunması gereken asgari teminat seviyesidir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Satım opsiyonunda dayanak fiyat düştükçe satma hakkı değer kazanır."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Alım opsiyonunda zararda olma konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Spot fiyat kullanım fiyatının altındaysa alım opsiyonu zararda kabul edilir.",
+              "B": "Vadeli işlem ve opsiyon piyasasında gün sonu kar-zarar ve teminat güncellemesinde esas alınan fiyattır.",
+              "C": "Vadeli işlem pozisyonu açılırken yatırılması gereken teminattır.",
+              "D": "Pozisyonun devamı için korunması gereken asgari teminat seviyesidir.",
+              "E": "Vadeli işlem sözleşmelerinde gün sonunda kar ve zararların hesaba yansıtılmasıdır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Alım hakkı piyasa fiyatı daha düşükken ekonomik değer taşımaz."
+          },
+          {
+            "id": 14,
+            "soruMetni": "Satım opsiyonunda zararda olma konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Vadeli işlem pozisyonu açılırken yatırılması gereken teminattır.",
+              "B": "Pozisyonun devamı için korunması gereken asgari teminat seviyesidir.",
+              "C": "Spot fiyat kullanım fiyatının üzerindeyse satım opsiyonu zararda kabul edilir.",
+              "D": "Vadeli işlem sözleşmelerinde gün sonunda kar ve zararların hesaba yansıtılmasıdır.",
+              "E": "Tarafların faiz veya para birimi gibi nakit akımlarını belirli kurallarla değiştirdiği sözleşmedir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Daha yüksek piyasa fiyatı varken düşük kullanım fiyatından satma hakkı ekonomik değildir."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Uzlaşma fiyatı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Pozisyonun devamı için korunması gereken asgari teminat seviyesidir.",
+              "B": "Vadeli işlem sözleşmelerinde gün sonunda kar ve zararların hesaba yansıtılmasıdır.",
+              "C": "Tarafların faiz veya para birimi gibi nakit akımlarını belirli kurallarla değiştirdiği sözleşmedir.",
+              "D": "İki farklı para biriminin belirli kurallar ve vadeler içinde değiş tokuş edilmesini içerir.",
+              "E": "Vadeli işlem ve opsiyon piyasasında gün sonu kar-zarar ve teminat güncellemesinde esas alınan fiyattır."
+            },
+            "dogruCevap": "E",
+            "cozum": "PDFlerde VİOP günlük değerleme fiyatı olarak uzlaşma fiyatı sorulur."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Başlangıç teminatı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Vadeli işlem sözleşmelerinde gün sonunda kar ve zararların hesaba yansıtılmasıdır.",
+              "B": "Vadeli işlem pozisyonu açılırken yatırılması gereken teminattır.",
+              "C": "Tarafların faiz veya para birimi gibi nakit akımlarını belirli kurallarla değiştirdiği sözleşmedir.",
+              "D": "İki farklı para biriminin belirli kurallar ve vadeler içinde değiş tokuş edilmesini içerir.",
+              "E": "Tarafların faiz ödeme yükümlülüklerini belirli koşullarla değiştirmesidir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Teminat sistemi vadeli işlem piyasasında karşı taraf riskini yönetir."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Sürdürme teminatı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Tarafların faiz veya para birimi gibi nakit akımlarını belirli kurallarla değiştirdiği sözleşmedir.",
+              "B": "İki farklı para biriminin belirli kurallar ve vadeler içinde değiş tokuş edilmesini içerir.",
+              "C": "Tarafların faiz ödeme yükümlülüklerini belirli koşullarla değiştirmesidir.",
+              "D": "Pozisyonun devamı için korunması gereken asgari teminat seviyesidir.",
+              "E": "Standart olmayan sözleşmelerin taraflar arasında organize borsa dışında yapılabildiği piyasadır."
+            },
+            "dogruCevap": "D",
+            "cozum": "Teminat seviyesi düşerse tamamlama çağrısı gündeme gelir."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Günlük uzlaşma konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Vadeli işlem sözleşmelerinde gün sonunda kar ve zararların hesaba yansıtılmasıdır.",
+              "B": "İki farklı para biriminin belirli kurallar ve vadeler içinde değiş tokuş edilmesini içerir.",
+              "C": "Tarafların faiz ödeme yükümlülüklerini belirli koşullarla değiştirmesidir.",
+              "D": "Standart olmayan sözleşmelerin taraflar arasında organize borsa dışında yapılabildiği piyasadır.",
+              "E": "Standart sözleşmelerin borsa kuralları ve takas sistemi altında işlem gördüğü piyasadır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Futures piyasasında günlük kar-zarar mutabakatı temel mekanizmadır."
+          },
+          {
+            "id": 19,
+            "soruMetni": "Swap sözleşmesi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Tarafların faiz ödeme yükümlülüklerini belirli koşullarla değiştirmesidir.",
+              "B": "Standart olmayan sözleşmelerin taraflar arasında organize borsa dışında yapılabildiği piyasadır.",
+              "C": "Tarafların faiz veya para birimi gibi nakit akımlarını belirli kurallarla değiştirdiği sözleşmedir.",
+              "D": "Standart sözleşmelerin borsa kuralları ve takas sistemi altında işlem gördüğü piyasadır.",
+              "E": "Düşük teminatla daha büyük pozisyon alınması kar ve zarar ihtimalini büyütür."
+            },
+            "dogruCevap": "C",
+            "cozum": "Swap soruları faiz swapı ve döviz swapı ayrımıyla gelir."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Döviz swapı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Standart olmayan sözleşmelerin taraflar arasında organize borsa dışında yapılabildiği piyasadır.",
+              "B": "Standart sözleşmelerin borsa kuralları ve takas sistemi altında işlem gördüğü piyasadır.",
+              "C": "Düşük teminatla daha büyük pozisyon alınması kar ve zarar ihtimalini büyütür.",
+              "D": "Türev araçlar fiyat, kur veya faiz riskini azaltmak amacıyla kullanılabilir.",
+              "E": "İki farklı para biriminin belirli kurallar ve vadeler içinde değiş tokuş edilmesini içerir."
+            },
+            "dogruCevap": "E",
+            "cozum": "PDFlerde anapara ve faiz ödemelerini içeren iki para birimli değişim kalıbı soruluyor."
+          },
+          {
+            "id": 21,
+            "soruMetni": "Faiz swapı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Standart sözleşmelerin borsa kuralları ve takas sistemi altında işlem gördüğü piyasadır.",
+              "B": "Tarafların faiz ödeme yükümlülüklerini belirli koşullarla değiştirmesidir.",
+              "C": "Düşük teminatla daha büyük pozisyon alınması kar ve zarar ihtimalini büyütür.",
+              "D": "Türev araçlar fiyat, kur veya faiz riskini azaltmak amacıyla kullanılabilir.",
+              "E": "Forward, futures, opsiyon ve swap sözleşmeleri temel türev araç örnekleridir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Faiz swapı para birimi değişiminden çok faiz nakit akışlarına odaklanır."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Tezgahüstü piyasa konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Düşük teminatla daha büyük pozisyon alınması kar ve zarar ihtimalini büyütür.",
+              "B": "Türev araçlar fiyat, kur veya faiz riskini azaltmak amacıyla kullanılabilir.",
+              "C": "Forward, futures, opsiyon ve swap sözleşmeleri temel türev araç örnekleridir.",
+              "D": "Standart olmayan sözleşmelerin taraflar arasında organize borsa dışında yapılabildiği piyasadır.",
+              "E": "Eurobond borçlanma aracı niteliğinde olup klasik türev araç değildir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Forward ve swap sözleşmeleri çoğunlukla tezgahüstü piyasa ile ilişkilendirilir."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Organize piyasa konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Standart sözleşmelerin borsa kuralları ve takas sistemi altında işlem gördüğü piyasadır.",
+              "B": "Türev araçlar fiyat, kur veya faiz riskini azaltmak amacıyla kullanılabilir.",
+              "C": "Forward, futures, opsiyon ve swap sözleşmeleri temel türev araç örnekleridir.",
+              "D": "Eurobond borçlanma aracı niteliğinde olup klasik türev araç değildir.",
+              "E": "Sahibine dayanak varlığı alma veya satma hakkı veren sermaye piyasası aracıdır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Futures ve borsa opsiyonları organize piyasa mantığıyla yürür."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Kaldıraç etkisi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Forward, futures, opsiyon ve swap sözleşmeleri temel türev araç örnekleridir.",
+              "B": "Eurobond borçlanma aracı niteliğinde olup klasik türev araç değildir.",
+              "C": "Düşük teminatla daha büyük pozisyon alınması kar ve zarar ihtimalini büyütür.",
+              "D": "Sahibine dayanak varlığı alma veya satma hakkı veren sermaye piyasası aracıdır.",
+              "E": "Tarafların gelecekte belirli bir tarihte belirli fiyattan işlem yapmayı taahhüt ettiği tezgahüstü sözleşmedir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Türev araçlarda kaldıraç hem fırsat hem risk yaratır."
+          },
+          {
+            "id": 25,
+            "soruMetni": "Riskten korunma konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Forward, futures, opsiyon ve swap sözleşmeleri temel türev araç örnekleridir.",
+              "B": "Eurobond borçlanma aracı niteliğinde olup klasik türev araç değildir.",
+              "C": "Sahibine dayanak varlığı alma veya satma hakkı veren sermaye piyasası aracıdır.",
+              "D": "Tarafların gelecekte belirli bir tarihte belirli fiyattan işlem yapmayı taahhüt ettiği tezgahüstü sözleşmedir.",
+              "E": "Türev araçlar fiyat, kur veya faiz riskini azaltmak amacıyla kullanılabilir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Hedging türev piyasaların temel kullanım amaçlarından biridir."
+          }
+        ]
+      },
+      {
+        "testId": 100312,
+        "testAdi": "Çıkmışa Benzer 5: Kamu Borçlanma Araçları",
+        "testTuru": "bolum",
+        "sorular": [
+          {
+            "id": 1,
+            "soruMetni": "Kamu borçlanmasının temel nedeni konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Vadesi bir yıl veya daha uzun olan devlet iç borçlanma senedidir.",
+              "B": "Kamu harcamalarının finansmanı ve maliye politikası amaçları kamu borçlanmasının başlıca gerekçeleridir.",
+              "C": "Vadesi bir yıldan kısa olan devlet iç borçlanma senedidir.",
+              "D": "Hazine borçlanma senetlerinin rekabetçi tekliflerle satılabildiği ihraç yöntemidir.",
+              "E": "Önceden belirlenen koşullarla yatırımcılara sürekli veya dönemsel satış yapılabilen ihraç yöntemidir."
+            },
+            "dogruCevap": "B",
+            "cozum": "PDFlerde kamu borçlanmasının gerekçeleri kavramsal olarak soruluyor."
+          },
+          {
+            "id": 2,
+            "soruMetni": "Devlet iç borçlanma senedi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Vadesi bir yıldan kısa olan devlet iç borçlanma senedidir.",
+              "B": "Hazine borçlanma senetlerinin rekabetçi tekliflerle satılabildiği ihraç yöntemidir.",
+              "C": "Önceden belirlenen koşullarla yatırımcılara sürekli veya dönemsel satış yapılabilen ihraç yöntemidir.",
+              "D": "Hazine tarafından yurt içinde ihraç edilen borçlanma senetlerini ifade eder.",
+              "E": "Belirli yatırımcı veya kurumlara doğrudan satış yapılmasını ifade eder."
+            },
+            "dogruCevap": "D",
+            "cozum": "DİBS kamu borçlanma araçlarının temel başlığıdır."
+          },
+          {
+            "id": 3,
+            "soruMetni": "Devlet tahvili konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Vadesi bir yıl veya daha uzun olan devlet iç borçlanma senedidir.",
+              "B": "Hazine borçlanma senetlerinin rekabetçi tekliflerle satılabildiği ihraç yöntemidir.",
+              "C": "Önceden belirlenen koşullarla yatırımcılara sürekli veya dönemsel satış yapılabilen ihraç yöntemidir.",
+              "D": "Belirli yatırımcı veya kurumlara doğrudan satış yapılmasını ifade eder.",
+              "E": "Devlet iç borçlanma senetlerinin halka satışa sunulmasıdır."
+            },
+            "dogruCevap": "A",
+            "cozum": "Tahvil-bono ayrımı vadeye dayanır."
+          },
+          {
+            "id": 4,
+            "soruMetni": "Hazine bonosu konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Önceden belirlenen koşullarla yatırımcılara sürekli veya dönemsel satış yapılabilen ihraç yöntemidir.",
+              "B": "Belirli yatırımcı veya kurumlara doğrudan satış yapılmasını ifade eder.",
+              "C": "Vadesi bir yıldan kısa olan devlet iç borçlanma senedidir.",
+              "D": "Devlet iç borçlanma senetlerinin halka satışa sunulmasıdır.",
+              "E": "Senetlerin nominal değerinin altında satılıp vade sonunda nominal değerle ödenmesi esasına dayanır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Hazine bonosu kısa vadeli kamu borçlanma aracıdır."
+          },
+          {
+            "id": 5,
+            "soruMetni": "İhale yöntemiyle ihraç konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Belirli yatırımcı veya kurumlara doğrudan satış yapılmasını ifade eder.",
+              "B": "Devlet iç borçlanma senetlerinin halka satışa sunulmasıdır.",
+              "C": "Senetlerin nominal değerinin altında satılıp vade sonunda nominal değerle ödenmesi esasına dayanır.",
+              "D": "Belirli dönemlerde kupon faizi ödeyen borçlanma senedidir.",
+              "E": "Hazine borçlanma senetlerinin rekabetçi tekliflerle satılabildiği ihraç yöntemidir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Devlet borçlanma senetlerinde ihale yöntemi temel ihraç yöntemlerinden biridir."
+          },
+          {
+            "id": 6,
+            "soruMetni": "TAP yöntemiyle ihraç konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Devlet iç borçlanma senetlerinin halka satışa sunulmasıdır.",
+              "B": "Önceden belirlenen koşullarla yatırımcılara sürekli veya dönemsel satış yapılabilen ihraç yöntemidir.",
+              "C": "Senetlerin nominal değerinin altında satılıp vade sonunda nominal değerle ödenmesi esasına dayanır.",
+              "D": "Belirli dönemlerde kupon faizi ödeyen borçlanma senedidir.",
+              "E": "Dönemsel faiz ödemesi yapmadan iskontolu satılan senettir."
+            },
+            "dogruCevap": "B",
+            "cozum": "TAP yöntemi kamu borçlanma araçlarında satış yöntemi olarak sorulur."
+          },
+          {
+            "id": 7,
+            "soruMetni": "Doğrudan satış yöntemi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Senetlerin nominal değerinin altında satılıp vade sonunda nominal değerle ödenmesi esasına dayanır.",
+              "B": "Belirli dönemlerde kupon faizi ödeyen borçlanma senedidir.",
+              "C": "Dönemsel faiz ödemesi yapmadan iskontolu satılan senettir.",
+              "D": "Belirli yatırımcı veya kurumlara doğrudan satış yapılmasını ifade eder.",
+              "E": "Kupon oranı ihraçta belirlenen ve vade boyunca değişmeyen borçlanma senedidir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Doğrudan satış yöntemi ihale dışı ihraç yollarındandır."
+          },
+          {
+            "id": 8,
+            "soruMetni": "Halka arz yöntemi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Devlet iç borçlanma senetlerinin halka satışa sunulmasıdır.",
+              "B": "Belirli dönemlerde kupon faizi ödeyen borçlanma senedidir.",
+              "C": "Dönemsel faiz ödemesi yapmadan iskontolu satılan senettir.",
+              "D": "Kupon oranı ihraçta belirlenen ve vade boyunca değişmeyen borçlanma senedidir.",
+              "E": "Kupon ödemesi belirli gösterge veya endekse bağlı olarak değişebilen senettir."
+            },
+            "dogruCevap": "A",
+            "cozum": "PDFlerde halka arz yöntemi tanım şeklinde kamu borçlanma başlığında geçiyor."
+          },
+          {
+            "id": 9,
+            "soruMetni": "İskonto yöntemi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Dönemsel faiz ödemesi yapmadan iskontolu satılan senettir.",
+              "B": "Kupon oranı ihraçta belirlenen ve vade boyunca değişmeyen borçlanma senedidir.",
+              "C": "Senetlerin nominal değerinin altında satılıp vade sonunda nominal değerle ödenmesi esasına dayanır.",
+              "D": "Kupon ödemesi belirli gösterge veya endekse bağlı olarak değişebilen senettir.",
+              "E": "Anapara veya kupon ödemesi enflasyon göstergesine bağlı olarak güncellenen senettir."
+            },
+            "dogruCevap": "C",
+            "cozum": "İskontolu ihraçta getiri alış fiyatı ile nominal ödeme arasındaki farktan doğar."
+          },
+          {
+            "id": 10,
+            "soruMetni": "Kuponlu senet konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Kupon oranı ihraçta belirlenen ve vade boyunca değişmeyen borçlanma senedidir.",
+              "B": "Kupon ödemesi belirli gösterge veya endekse bağlı olarak değişebilen senettir.",
+              "C": "Anapara veya kupon ödemesi enflasyon göstergesine bağlı olarak güncellenen senettir.",
+              "D": "Hazine veya ihraççıların uluslararası piyasalarda yabancı para cinsinden ihraç ettiği uzun vadeli borçlanma aracıdır.",
+              "E": "Belirli dönemlerde kupon faizi ödeyen borçlanma senedidir."
+            },
+            "dogruCevap": "E",
+            "cozum": "Kuponlu tahvillerde düzenli faiz ödemesi vardır."
+          },
+          {
+            "id": 11,
+            "soruMetni": "Kuponsuz senet konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Kupon ödemesi belirli gösterge veya endekse bağlı olarak değişebilen senettir.",
+              "B": "Dönemsel faiz ödemesi yapmadan iskontolu satılan senettir.",
+              "C": "Anapara veya kupon ödemesi enflasyon göstergesine bağlı olarak güncellenen senettir.",
+              "D": "Hazine veya ihraççıların uluslararası piyasalarda yabancı para cinsinden ihraç ettiği uzun vadeli borçlanma aracıdır.",
+              "E": "Varlık kiralama şirketleri aracılığıyla ihraç edilen ve faizsiz finans ilkelerine uygun yapılandırılan sermaye piyasası aracıdır."
+            },
+            "dogruCevap": "B",
+            "cozum": "Kuponsuz senette getiri iskontodan oluşur."
+          },
+          {
+            "id": 12,
+            "soruMetni": "Sabit kuponlu DİBS konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Anapara veya kupon ödemesi enflasyon göstergesine bağlı olarak güncellenen senettir.",
+              "B": "Hazine veya ihraççıların uluslararası piyasalarda yabancı para cinsinden ihraç ettiği uzun vadeli borçlanma aracıdır.",
+              "C": "Varlık kiralama şirketleri aracılığıyla ihraç edilen ve faizsiz finans ilkelerine uygun yapılandırılan sermaye piyasası aracıdır.",
+              "D": "Kupon oranı ihraçta belirlenen ve vade boyunca değişmeyen borçlanma senedidir.",
+              "E": "Kira sertifikaları Borsa İstanbul borçlanma araçları piyasasında işlem görebilir."
+            },
+            "dogruCevap": "D",
+            "cozum": "Sabit kuponlu senette yatırımcı kupon oranını baştan bilir."
+          },
+          {
+            "id": 13,
+            "soruMetni": "Değişken kuponlu DİBS konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Kupon ödemesi belirli gösterge veya endekse bağlı olarak değişebilen senettir.",
+              "B": "Hazine veya ihraççıların uluslararası piyasalarda yabancı para cinsinden ihraç ettiği uzun vadeli borçlanma aracıdır.",
+              "C": "Varlık kiralama şirketleri aracılığıyla ihraç edilen ve faizsiz finans ilkelerine uygun yapılandırılan sermaye piyasası aracıdır.",
+              "D": "Kira sertifikaları Borsa İstanbul borçlanma araçları piyasasında işlem görebilir.",
+              "E": "Kamu borçlanma araçları ve kira sertifikaları için piyasa fiyatları düzenli olarak duyurulabilir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Değişken kupon faiz riskinin paylaşımını farklılaştırır."
+          },
+          {
+            "id": 14,
+            "soruMetni": "TÜFEye endeksli senet konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Varlık kiralama şirketleri aracılığıyla ihraç edilen ve faizsiz finans ilkelerine uygun yapılandırılan sermaye piyasası aracıdır.",
+              "B": "Kira sertifikaları Borsa İstanbul borçlanma araçları piyasasında işlem görebilir.",
+              "C": "Anapara veya kupon ödemesi enflasyon göstergesine bağlı olarak güncellenen senettir.",
+              "D": "Kamu borçlanma araçları ve kira sertifikaları için piyasa fiyatları düzenli olarak duyurulabilir.",
+              "E": "İhraç edilmiş kamu borçlanma araçlarının yatırımcılar arasında alınıp satıldığı piyasadır."
+            },
+            "dogruCevap": "C",
+            "cozum": "Enflasyona endeksli senetler satın alma gücü riskine karşı yapılandırılır."
+          },
+          {
+            "id": 15,
+            "soruMetni": "Eurobond konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Kira sertifikaları Borsa İstanbul borçlanma araçları piyasasında işlem görebilir.",
+              "B": "Kamu borçlanma araçları ve kira sertifikaları için piyasa fiyatları düzenli olarak duyurulabilir.",
+              "C": "İhraç edilmiş kamu borçlanma araçlarının yatırımcılar arasında alınıp satıldığı piyasadır.",
+              "D": "Borçlanma aracının ihraççı tarafından ilk kez yatırımcılara satıldığı piyasadır.",
+              "E": "Hazine veya ihraççıların uluslararası piyasalarda yabancı para cinsinden ihraç ettiği uzun vadeli borçlanma aracıdır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Eurobond kamu borçlanma başlığında dış borçlanma örneği olarak sorulabilir."
+          },
+          {
+            "id": 16,
+            "soruMetni": "Kira sertifikası konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Kamu borçlanma araçları ve kira sertifikaları için piyasa fiyatları düzenli olarak duyurulabilir.",
+              "B": "Varlık kiralama şirketleri aracılığıyla ihraç edilen ve faizsiz finans ilkelerine uygun yapılandırılan sermaye piyasası aracıdır.",
+              "C": "İhraç edilmiş kamu borçlanma araçlarının yatırımcılar arasında alınıp satıldığı piyasadır.",
+              "D": "Borçlanma aracının ihraççı tarafından ilk kez yatırımcılara satıldığı piyasadır.",
+              "E": "Borçlanma senedinin vade sonunda ödenmesi esas alınan anapara değeridir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Kira sertifikaları kamu finansmanında da kullanılabilen sukuk benzeri araçlardır."
+          },
+          {
+            "id": 17,
+            "soruMetni": "Kira sertifikalarının borsada işlemi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "İhraç edilmiş kamu borçlanma araçlarının yatırımcılar arasında alınıp satıldığı piyasadır.",
+              "B": "Borçlanma aracının ihraççı tarafından ilk kez yatırımcılara satıldığı piyasadır.",
+              "C": "Borçlanma senedinin vade sonunda ödenmesi esas alınan anapara değeridir.",
+              "D": "Kira sertifikaları Borsa İstanbul borçlanma araçları piyasasında işlem görebilir.",
+              "E": "İşlemiş faizi içermeyen tahvil fiyatını ifade eder."
+            },
+            "dogruCevap": "D",
+            "cozum": "PDFlerde kira sertifikalarının işlem gördüğü piyasa ve fiyat yayını soruluyor."
+          },
+          {
+            "id": 18,
+            "soruMetni": "Günlük fiyat ilanı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Kamu borçlanma araçları ve kira sertifikaları için piyasa fiyatları düzenli olarak duyurulabilir.",
+              "B": "Borçlanma aracının ihraççı tarafından ilk kez yatırımcılara satıldığı piyasadır.",
+              "C": "Borçlanma senedinin vade sonunda ödenmesi esas alınan anapara değeridir.",
+              "D": "İşlemiş faizi içermeyen tahvil fiyatını ifade eder.",
+              "E": "Temiz fiyata işlemiş faizin eklenmesiyle bulunan toplam fiyatı ifade eder."
+            },
+            "dogruCevap": "A",
+            "cozum": "Fiyatların ilanı ikincil piyasa şeffaflığı açısından önemlidir."
+          },
+          {
+            "id": 19,
+            "soruMetni": "İkincil piyasa konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Borçlanma senedinin vade sonunda ödenmesi esas alınan anapara değeridir.",
+              "B": "İşlemiş faizi içermeyen tahvil fiyatını ifade eder.",
+              "C": "İhraç edilmiş kamu borçlanma araçlarının yatırımcılar arasında alınıp satıldığı piyasadır.",
+              "D": "Temiz fiyata işlemiş faizin eklenmesiyle bulunan toplam fiyatı ifade eder.",
+              "E": "Borçlanma senedinin fiyatı, vadesi ve nakit akımlarına göre yatırımcıya sağlayacağı getiriyi ifade eder."
+            },
+            "dogruCevap": "C",
+            "cozum": "İkincil piyasa likidite ve fiyat oluşumu sağlar."
+          },
+          {
+            "id": 20,
+            "soruMetni": "Birincil piyasa konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "İşlemiş faizi içermeyen tahvil fiyatını ifade eder.",
+              "B": "Temiz fiyata işlemiş faizin eklenmesiyle bulunan toplam fiyatı ifade eder.",
+              "C": "Borçlanma senedinin fiyatı, vadesi ve nakit akımlarına göre yatırımcıya sağlayacağı getiriyi ifade eder.",
+              "D": "Borçlanmanın maliyet, vade, risk ve piyasa koşulları gözetilerek planlanmasıdır.",
+              "E": "Borçlanma aracının ihraççı tarafından ilk kez yatırımcılara satıldığı piyasadır."
+            },
+            "dogruCevap": "E",
+            "cozum": "İhale, halka arz ve doğrudan satış birincil piyasa ihraç yöntemleridir."
+          },
+          {
+            "id": 21,
+            "soruMetni": "Nominal değer konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Temiz fiyata işlemiş faizin eklenmesiyle bulunan toplam fiyatı ifade eder.",
+              "B": "Borçlanma senedinin vade sonunda ödenmesi esas alınan anapara değeridir.",
+              "C": "Borçlanma senedinin fiyatı, vadesi ve nakit akımlarına göre yatırımcıya sağlayacağı getiriyi ifade eder.",
+              "D": "Borçlanmanın maliyet, vade, risk ve piyasa koşulları gözetilerek planlanmasıdır.",
+              "E": "Kamu harcamalarının finansmanı ve maliye politikası amaçları kamu borçlanmasının başlıca gerekçeleridir."
+            },
+            "dogruCevap": "B",
+            "cozum": "Nominal değer kamu borçlanma araçlarında ödeme ve fiyatlama için temel kavramdır."
+          },
+          {
+            "id": 22,
+            "soruMetni": "Temiz fiyat konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Borçlanma senedinin fiyatı, vadesi ve nakit akımlarına göre yatırımcıya sağlayacağı getiriyi ifade eder.",
+              "B": "Borçlanmanın maliyet, vade, risk ve piyasa koşulları gözetilerek planlanmasıdır.",
+              "C": "Kamu harcamalarının finansmanı ve maliye politikası amaçları kamu borçlanmasının başlıca gerekçeleridir.",
+              "D": "İşlemiş faizi içermeyen tahvil fiyatını ifade eder.",
+              "E": "Hazine tarafından yurt içinde ihraç edilen borçlanma senetlerini ifade eder."
+            },
+            "dogruCevap": "D",
+            "cozum": "Temiz fiyat ve kirli fiyat ayrımı tahvil fiyatlamasında önemlidir."
+          },
+          {
+            "id": 23,
+            "soruMetni": "Kirli fiyat konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Temiz fiyata işlemiş faizin eklenmesiyle bulunan toplam fiyatı ifade eder.",
+              "B": "Borçlanmanın maliyet, vade, risk ve piyasa koşulları gözetilerek planlanmasıdır.",
+              "C": "Kamu harcamalarının finansmanı ve maliye politikası amaçları kamu borçlanmasının başlıca gerekçeleridir.",
+              "D": "Hazine tarafından yurt içinde ihraç edilen borçlanma senetlerini ifade eder.",
+              "E": "Vadesi bir yıl veya daha uzun olan devlet iç borçlanma senedidir."
+            },
+            "dogruCevap": "A",
+            "cozum": "Tahvil alım satımında ödenecek toplam bedel kirli fiyatla ilişkilidir."
+          },
+          {
+            "id": 24,
+            "soruMetni": "Getiri oranı konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Kamu harcamalarının finansmanı ve maliye politikası amaçları kamu borçlanmasının başlıca gerekçeleridir.",
+              "B": "Hazine tarafından yurt içinde ihraç edilen borçlanma senetlerini ifade eder.",
+              "C": "Borçlanma senedinin fiyatı, vadesi ve nakit akımlarına göre yatırımcıya sağlayacağı getiriyi ifade eder.",
+              "D": "Vadesi bir yıl veya daha uzun olan devlet iç borçlanma senedidir.",
+              "E": "Vadesi bir yıldan kısa olan devlet iç borçlanma senedidir."
+            },
+            "dogruCevap": "C",
+            "cozum": "Tahvil fiyatı ile getiri ters yönlü hareket eder."
+          },
+          {
+            "id": 25,
+            "soruMetni": "Kamu borç yönetimi konusunda aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+              "A": "Kamu harcamalarının finansmanı ve maliye politikası amaçları kamu borçlanmasının başlıca gerekçeleridir.",
+              "B": "Hazine tarafından yurt içinde ihraç edilen borçlanma senetlerini ifade eder.",
+              "C": "Vadesi bir yıl veya daha uzun olan devlet iç borçlanma senedidir.",
+              "D": "Vadesi bir yıldan kısa olan devlet iç borçlanma senedidir.",
+              "E": "Borçlanmanın maliyet, vade, risk ve piyasa koşulları gözetilerek planlanmasıdır."
+            },
+            "dogruCevap": "E",
+            "cozum": "Kamu borç yönetimi yalnız finansman değil risk yönetimi fonksiyonudur."
           }
         ]
       }
